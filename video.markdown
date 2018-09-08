@@ -15,9 +15,10 @@ In questa pagina sono elencati i video dell'atomo del male:
 ## L'Obelisco della Discordia
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fckyPNej5LU?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fzJWA024YnQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
     
 ## A tutto gas!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fzJWA024YnQ?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fckyPNej5LU?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
