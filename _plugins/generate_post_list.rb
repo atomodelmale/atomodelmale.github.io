@@ -7,5 +7,5 @@ Jekyll::Hooks.register :site, :pre_render do |site, payload|
       list="#{list},\"#{post.url}\""
     end
   end
-  site.config[ "postsList" ] = list
+  File.open( "#{site.source}/_includes/postsList.html", 'w' ){ |file| file.write( list ) }
 end

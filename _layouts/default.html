@@ -211,7 +211,7 @@
 <script src="{{ site.baseurl }}/assets/js/hyphenator.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  var postsURL = [ {{ site.postsList }} ];
+  var postsURL = [ {% include postsList.html %} ];
   var randomIndexUsed = [];
   var randomIndex;
   var postURL;
