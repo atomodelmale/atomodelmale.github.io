@@ -1,0 +1,65 @@
+---
+author: thesave
+comments: true
+date: 2011-02-27 10:38:09+00:00
+layout: post
+link: http://www.atomodelmale.it/2011/02/27/dead-space-2/
+slug: dead-space-2
+title: Dead Space 2
+wordpress_id: 9088
+image: uploads/2011/02/dead_space2-e1298802894493.jpg
+categories:
+- Videogiochi
+tags:
+- RPG
+- Sparatutto
+- Spazio
+---
+
+**Necromorfi, a galloni**
+
+![]({{ site.baseurl }}/uploads/2011/02/DeadSpace2Tease.jpg)
+
+Devo confessarlo, non sono mai stato un amante del genere **horror**.
+
+Film, libri, videogames, ho sempre considerato il genere una **sotto-categoria un po' trash** che punta su **sangue**, **fifa** e **budella** per impressionare lo spettatore/lettore/giocatore e dargli quello sprizzo di adrenalina che cerca.
+
+Ecco cos'era il primo Dead Space, un **survival horror** ambientato nel futuro con protagonista il malcapitato ingegnere minerario **Isaac Clarke** che, cercando di salvare la pellaccia, scopre l'esistenza di una razza aliena -- i **necromorfi** -- capace di infettare i cadaveri dell'equipaggio per dar vita ad aberranti creature pronte ad ucciderlo nei modi più atroci.
+
+Durante il suo peregrinare tra la nave **Ishimura** ed il pianeta **Aegis VII**, scopre la losca trama ordita dalla chiesa di **Unitology**, una setta religiosa devota ad un dio ancestrale ed ipertecnologico, il cui artefatto, chiamato "**Il  Marchio**", è causa della comparsa dei terribili alieni.
+
+Il ruolo di Clarke sarà quello dell'eroe involontario. Tra mille pericoli e peripezie dovrà assicurarsi di distruggere il nefasto simulacro per scongiurare l'imminente, quanto prossima, fine dell'universo.
+
+**Dead Space 2**
+
+![]({{ site.baseurl }}/uploads/2011/02/dead-space-2-logo.jpg)
+
+Il primo Dead Space, in tutta la sua ruvidezza, era un videogame pensato espressamente per giocatori **avvezzi alla tensione**, tanto che per una fetta consistente del pubblico era difficile sopportare più di un'ora di gioco a causa della tensione accumulata.
+
+**Impressionante**, non c'è che dire.
+
+Consci dei punti di forza e delle pecche del primo capitolo, i programmatori della **Visceral Games** -- un nome, un programma -- hanno raddrizzato il tiro di una saga che, al contrario, poteva infilarsi in un "cul de sac" orrorifico dal dubbio successo.
+
+Nel secondo capitolo ritroviamo il povero Clarke, rinchiuso nell'ospedale psichiatrico della stazione spaziale Titan, ossessionato dalle **continue visioni** degli orrori sperimentati tre anni prima.
+
+![]({{ site.baseurl }}/uploads/2011/02/dead_space2.jpg)
+
+Per il tapino non ci sarà riposo, un **nuovo** -- ed inspiegabile? -- attacco dei necromorfi semina morte e distruzione sulla base. Clarke scopre che il **Marchio**, che era andato distrutto nel primo capitolo, **è stato ricostruito** dal governo sulla base dei sui ricordi.
+
+La storia si ripete: sarà nuovamente compito di Clarke trovare il modo di scongiurare per l'ennesima volta la minaccia aliena, portando a casa la sacrosanta pellaccia.
+
+Come? Grazie ad un corredo di **armi ed armature**, rivisto e corretto, che spaziano dalla classica **RIG** -- l'armatura dal particolare elmo luminescente -- alle sue declinazioni aggressive o difensive, passando ad armi più o meno convenzionali come **pistole al plasma, spara arpioni e chincaglierie varie**. A queste si affianca un sistema "simil-RPG" dove, grazie ad esperienza e "nodi energetici", sarà possibile **aumentare le statistiche e le qualità dell'armamentario** di Isaac, rendendogli la carneficina aliena un po' più semplice.
+
+**Punti a questo giunto (energetico)...**
+
+![]({{ site.baseurl }}/uploads/2011/02/dead-space-2-artwork-3.jpg)
+
+Come scritto in precedenza, mi sono avvicinato a questo gioco con relativa diffidenza, memore della personale avversione per il genere.
+
+Al contrario **il cocktail shakerato dai Visceral Games è una perfetta miscela di horror ed azione,** in cui gli elementi angoscianti del primo capitolo sono solo un ricordo, per lasciare a **pochi ma mirati colpi di scena** il compito di accalappiare l'attenzione del giocatore e mantenere viva la tensione.
+
+Il resto viene completato da una **trama ossessionata quanto interessante**, un ricercato **stile cinematografico** che pervade inquadrature e movimenti di camera ed una **grafica finemente lavorata** che caratterizza espressioni facciali e movenze umane ed affini.
+
+Lungi dall'essere un titolo epocale, Dead Space 2 rimane ad ogni modo **uno dei migliori titoli** provati in questo **primo 2011** avaro di nuove uscite.
+
+E voi cosa aspettate ad inserire il DVD nel lettore ed immergervi nel cruento e terribile mondo di Isaac Clarke?

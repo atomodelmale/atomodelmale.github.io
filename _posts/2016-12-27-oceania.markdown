@@ -1,0 +1,41 @@
+---
+author: thesave
+comments: true
+date: 2016-12-27 19:00:14+00:00
+layout: post
+link: http://www.atomodelmale.it/2016/12/27/oceania/
+slug: oceania
+title: Oceania
+wordpress_id: 17504
+image: uploads/2016/12/oceania_000.jpg
+categories:
+- Animazione
+- Avventura
+- Fantasy
+tags:
+- Disney
+---
+
+Ingredienti per Oceania: prendete quanto basta de La Sirenetta, Hercules e Lilo & Stitch e girate il tutto nell'Oceano Pacifico per 107 minuti.
+
+## Si chiama Moana, si dice Vaiana, si scrive Oceania
+
+Piccolo trivia sulla storia del titolo di questo nuovo (56esimo) film Disney. Nato in America come "Moana" --- dal nome della protagonista ---, una volta approdato sulle coste europee (Spagna, Francia, Italia, ...) ha trovato problemi di marchi registrati, cambiando il nome di protagonista e film in "Vaiana". In Italia, dove "Moana" ricorda ancora a tanti la famosa attrice di pellicole... diversamente Disney, si sono fatti i doppi salti mortali per ovviare a qualsiasi accostamento, finendo per adottare il nome "Vaiana" per la protagonista ma intitolando il film "Oceania". Trivia a parte. Che succede in questo Oceania?
+
+Tutto inizia con Vaiana, la figlia del capo villaggio di una sperduta quanto lussureggiante isoletta del Pacifico. Come Il Re Leone insegna, Vaiana dovrà presto trovare posto nel cerchio della vita come capo del proprio villaggio. Peccato che (ancora da Il Re Leone) la giovIne scalpiti per avventurarsi al di là della barriera corallina che circonda l'isola, a dispetto degli ordini del padre. C'era da aspettarselo, l'isola e l'oceano intorno ad essa cominciano una lenta ma inesorabile distruzione, minacciando l'esistenza del villaggio di Vaiana.
+
+![]({{ site.baseurl }}/uploads/2016/12/oceania_001.jpg)
+
+Che fare? Semplice, seguire le istruzioni della nonna di Vaiana (menomale che ci sono nonne!): superare la barriera corallina, navigare il mare aperto, trovare il semidio chiamato Maui che ha rubato e successivamente perso  il "cuore" della dea Te Fiti, prenderlo per un orecchio e obbligarlo a restituire il maltolto alla legittima proprietaria. Semplice, dice la vegliarda, ma tra il dire e il fare c'è di mezzo il ... oceano, un'orda di pirati presa pari pari da [Mad Max: Fury Road](/2015/05/31/mad-max-fury-road/), la versione pimp-my-shell di un [Sebastian](https://it.wikipedia.org/wiki/Personaggi_de_La_sirenetta_(Disney)#Sebastian) troppo cresciuto e tanto tanto altro.
+
+![]({{ site.baseurl }}/uploads/2016/12/oceania_002.jpg)
+
+## Just an ordinary demi-guy
+
+Ad accompagnare Vaiana nella propria avventura, il già citato Maui, il semi-dio Hawaiano a metà tra Hercules, per le imprese, e il Genio di Aladdin, per comicità e fenomenali-poteri-cosmici™ e interprete di "[Tranquilla](https://www.youtube.com/watch?v=IZRa2z-i-4s)", una delle canzoni più orecchiabili di tutta la pellicola, da noi cantata dal bravo Fabrizio Vidale mentre l'originale [You're Welcome](https://www.youtube.com/watch?v=79DijItQXMM), insieme al resto del doppiaggio, ha la voce dell'attore ex-wrestler Dwane --- The Rock --- Johnson.
+
+![]({{ site.baseurl }}/uploads/2016/12/oceania_003.jpg)
+
+Il film, benché segua la classica costruzione delle storia di principesse disneyane di cui [Frozen](https://it.wikipedia.org/wiki/Frozen_-_Il_regno_di_ghiaccio) è uno degli esempi più recenti, non perde occasione per prendersi in giro --- uno su tutti lo scambio di battute tra Maui e Vaiana sulle principesse-figlie-di-capi-villaggio --- e per scrollarsi di dosso i tanti cliché sulle pellicole del genere. Se a questo aggiungete un'animazione ed una fotografia incredibilmente dettagliate e --- c'era quasi da aspettarselo --- la migliore acqua mai vista in un film di animazione 3D, avete un altro classico Disney che non mancherà di appassionare i bimbi di tutte le generazioni.
+
+Aloha!

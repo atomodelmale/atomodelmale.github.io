@@ -1,0 +1,48 @@
+---
+author: thesave
+comments: true
+date: 2009-11-30 18:59:15+00:00
+layout: post
+link: http://www.atomodelmale.it/2009/11/30/chuck/
+slug: chuck
+title: Chuck
+wordpress_id: 6095
+image: uploads/2009/11/Cast.JPG
+categories:
+- Serie e Programmi TV
+tags:
+- CIA
+- Nerd
+- Spia
+---
+
+**The Nerd Herd**
+
+![Poster]({{ site.baseurl }}/uploads/2009/11/Poster.jpg)
+
+Si torna a parlare di un mix che ultimamente sta avendo sempre più successo: quello delle **serie televisive** e dei **nerd**. Questa volta siamo in compagnia di **Chuck**, protagonista della omonima serie televisiva, attualmente alla sua seconda stagione.
+
+La storia è tanto semplice quanto accattivante: **Chuck Bartowski**-- Zacahary Levi -- è un ragazzo che, vero **nerd dei computer**, lavora per 12$ l'ora alla **Nerd Herd**, il servizio di assistenza computer del **Buy More** -- parodia della famosa catena di negozi d'elettronica statunitense Best Buy -- assieme al suo migliore amico, lo scansafatiche Morgan.
+
+I due avrebbero continuato la loro vita da spensierati ventenni tra lavoricchi, videogiochi e pizze, se -- guarda caso proprio il giorno del suo compleanno -- Chuck non avesse ricevuto una **strana e-mail** da **Bryce Larkin**, ex suo miglior amico nonché compagno di camera ai tempi dell'università. Aprendo la posta inviatagli Chuck viene investito da un'infinità di immagini che si fissano nella mente del poveretto, facendolo cadere a terra svenuto.
+
+![chuck e sarah]({{ site.baseurl }}/uploads/2009/11/chuck-e-sarah.jpg)
+
+Il giorno dopo il povero Chuck non ricorda nulla fino agli attimi precedenti l'apertura della lettera, ma in realtà dentro la sua mente è stato scaricato il database **dell'Intersect**, un super-computer neuronale contenente **tutte le informazioni top-secret del governo americano**. Bryce -- che si scopre essere una spia corrotta -- ha distrutto la macchina ed ha rubato le informazioni, ma braccato dalla sicurezza ed in fin di vita invia in un gesto disperato tutti i dati a Chuck.
+
+In cerca delle scottanti informazioni fuoriuscite, CIA e NSA si mettono sulle tracce di Chuck spedendo due agenti speciali: il maggiore **John Casey** -- Adam Baldwin -- e la spia **Sarah Walker** -- Yvonne Strahovski. I tentativi di recuperare le informazioni conservate nella mente del povero ragazzo sono vani, ma scoprono che Chuck ha la capacità -- inconscia -- di richiamare le informazioni subliminali contenute nella propria psiche semplicemente sentendo parole-chiave o vedendo simboli e persone.
+
+**Chuch vs The World**
+
+![Cast]({{ site.baseurl }}/uploads/2009/11/Cast.jpg)
+
+Da quel momento in poi Chuck diventa un'archivio d'informazioni vivente, vera e propria risorsa nazionale per l'intelligence americana. John e Sarah diventano i suoi -- non più di tanto -- discreti protettori, ritrovandosi coinvolti nelle missioni più ardue e pericolose.
+
+A complicare ulteriormente la faccenda, oltre a lavoro, missioni e pericolo si aggiunge il quarto ingrediente: **l'amore**. Il buon Chuck, tutt'altro che insensibile alla bellezza femminile,**s'innamora della bella Sarah**, che al contrario difficilmente ricambia i sentimenti del nerd per non mescolare vita privata e lavoro.
+
+Quella che trovate qui sopra non è altro che metà della **puntata pilota** della serie Chuck, ma in ogni episodio **non è solo l'azione a farla da padrone: sentimenti**, **gag** e **pillole di saggezza** trovano spazio in una serie dal ritmo frizzante, come le azzeccatissime sigle di inizio e chiusura di ogni episodio.
+
+Possedendo tutti gli elementi degni delle **spy-story** classiche ma con un protagonista più sfortunato -- e per questo più simpatico -- del solito, Chuck è diventata una delle serie più viste negli USA (circa 8 milioni di spettatori a serie), oltre ad essersi aggiudicata il premio "**Best New TV Series**" e la nomina al "**Best New TV Comedy Series**" al People's Choice Awards 2008.
+
+In Italia, la serie è stata trasmessa in prima visione assoluta a partire dal 22 giugno 2008 su Steel di Premium Gallery. La seconda stagione della serie verrà trasmessa in prima visione assoluta a partire dal 4 ottobre 2009, sempre su Steel.
+

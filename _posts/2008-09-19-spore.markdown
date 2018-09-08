@@ -1,0 +1,128 @@
+---
+author: thesave
+comments: true
+date: 2008-09-19 15:37:16+00:00
+layout: post
+link: http://www.atomodelmale.it/2008/09/19/spore/
+slug: spore
+title: Spore
+wordpress_id: 1226
+image: uploads/2008/10/spore.png
+categories:
+- Blog
+tags:
+- Cellula
+- Civilization
+- Civiltà
+- Creatura
+- DNA
+- Galassia
+- Panspermia
+- Pianeti
+- SimCity
+- Spazio
+- The Sims
+- Tribù
+- Via Lattea
+- Vita
+- Will Right
+---
+
+Dopo l'exploit di **[Bioshock](/2007/10/13/andiamo-mister-bolla/)** di 11 mesi fa torno a parlare di un videogioco: il suo papà è **Will Wright**, lo stesso della serie **Sims** e **SimCity;** diamo un caldo benvenuto a
+
+![]({{ site.baseurl }}/uploads/2008/10/wright.png)
+
+**Total Simulation**
+
+Non so quanto sia vasta la vostra cultura videoludica, ma personalmente ho sentito parlare di Sim-Qualcosa da quando avevo 6-7 anni: SimAnt, SimEarth, SimFarm, SimCopter - quanto tempo passato a giocare alla demo - per non parlare dei sempreverdi SimCity e The Sims.
+
+Will Wright e la **Maxis**(software house fondata da quest'ultimo) hanno fatto di un concetto - quello della **SIM** ulazione - il proprio cavallo di battaglia e l'ultimo nato, Spore, ne è la **summa maxima**.
+
+**5 in 1 non fa male a nessuno**
+
+Il concetto alla base di Spore è semplicissimo, ma tutt'altro che scontato: al dio/demiurgo/giocatore viene assegnato **il compito di seguire ogni passo evolutivo di una creaturina, su di un pianeta della galassia**; l'utente infatti amministrerà l'evoluzione della propria bestiolina dalla fase cellulare a quella di creatura terrestre fino a diventare essere senziente, civilizzato ed infine conquistatore dello spazio.
+
+Ecco perché "5 in 1", quello che si presenta come un simulatore totale, in realtà è composto da 5 sezioni, denominate fantasiosamente:
+
+	
+  * **Fase Cellulare**
+
+	
+  * **Fase Creatura**
+
+	
+  * **Fase Tribù**
+
+	
+  * **Fase Civiltà**
+
+	
+  * **Fase Spaziale**
+
+che cercherò di riassumere in meno righe possibili. Andiamo con ordine ed iniziamo dalla...
+
+**Fase Cellulare**
+
+![]({{ site.baseurl }}/uploads/2008/10/cellula.png)
+
+Il gioco ha inizio quando **l'utente sceglie un pianeta della Via Lattea**, innescando una nota quanto incontrovertibile catena di eventi: un asteroide si dirige verso il pianeta prescelto, impatta e da un momento all'altro negli oceani del pianetino sembra di essere a Riccione il sabato sera - **potere della [panspermia](http://it.wikipedia.org/wiki/Panspermia)**
+
+Assistiamo così alla nascita della vita - cellulare - in tutta la sua bellezza. In questo tripudio di vita procariota, il giocatore viene chiamato a guidare uno di questi neo-organismi attraverso la **strenua lotta per la sopravvivenza** nel brodo primordiale, dove si mangia per non essere mangiati, ma in uno stile che ricorda tanto **PacMan**.
+
+Durante questa fase la nostra cellula più mangia più **punti DNA** conquista, oltre a collezionare nuove parti da aggiungere al proprio aspetto (aculei, flagelli e quant'altro) fino a sviluppare un cervellino microscopico.
+
+L'acqua quindi diventa troppo stretta per lei e ci viene caldamente consigliato di appiccicarle qualche arto, in vista dell'imminente sbarco sulla terraferma.
+
+**Fase Creatura**
+
+![]({{ site.baseurl }}/uploads/2008/10/creatura.png)
+
+Lasciato l'insidioso mare che le ha dato i natali, la nostra creaturina si ritrova in un posto ancora più pericoloso: la terra. In questa fase (finalmente a 3 dimensioni) dobbiamo guidare un esemplare - che lungo andare diventerà un branco - durante la propria evoluzione **fino a diventare un essere senziente**.
+
+Ovviamente, come per la fase precedente, il mondo non è vuoto, anzi, brulica di vita e ben presto cominceremo a intessere una fitta - si fa per dire -**rete di alleanze/guerre** con le altre specie che popolano il mondo. Anche in questa fase per ogni alleanza/uccisione conquisteremo altri segmenti di DNA e collezioneremo nuove parti che ci permetteranno di aggiungere mani, zampe, naso, zanne, artigli e chi più ne ha più ne metta alle appendici della creaturina.
+
+Poco a poco il cervello della nostra creatura crescerà, permettendole di spostarsi in branco per accrescere la propria forza diplomatica/oppressiva, **finchè il nostro animalino non avrà sviluppato un cervellone XXL**, passando agevolmente alla...
+
+**Fase Tribù**
+
+![]({{ site.baseurl }}/uploads/2008/10/tribu.png)
+
+Dopo un passato da animale selvaggio, la nostra creatura diventa **un essere senziente a tutti gli effetti** e perciò si riunisce in gruppi sempre più numerosi per formare le prime tribù.
+
+Ormai avrete sicuramente capito che lo scopo di ogni fase è far interagire la creatura del giocatore con altri animaletti, perciò anche in questa fase non pensiate di essere gli unici ad avere un mega-cervellone.
+
+Aspettatevi di dover interagire con tribù di altre specie, finché, stringendo alleanze o sterminando cavernicoli, **la nostra sarà l'unica specie intelligente presente sul pianeta**, dandoci la possibilità di salire ancora un grandino nella scala evolutiva ed arrivare alla...
+
+**Fase Civiltà**
+
+![]({{ site.baseurl }}/uploads/2008/10/civilta.png)
+
+Credo proprio che abbiate capito quale sia il leit motif di questo gioco, quindi per questa fase non mi dilungherò troppo in spiegazioni: vi basti sapere che come nei migliori [**Civilization**](http://it.wikipedia.org/wiki/Civilization), verremo chiamati a **gestire le relazioni tra fazioni diverse della nostra specie**, convertendo, comprando o conquistando le città altrui.
+
+Una volta che avremo unificato il mondo sotto la nostra bandiera ci potremo spingere oltre, verso la...
+
+**Fase Spaziale**
+
+![]({{ site.baseurl }}/uploads/2008/10/spazio.png)
+
+Stanchi ed annoiati della loro terra d'origine, le nostre creature si lanciano **verso l'esplorazione dello spazio** e delle eventuali (ci sono, ci sono) civiltà aliene.
+
+A capo di un astronave guidata dalle nostre creature dovremo affrontare **missioni diplomatiche, guerre, scoperte, ricerche archeologiche, biologiche,**[**terraformazioni**](http://it.wikipedia.org/wiki/Terraformazione)**e salvataggi bio-ecologici**. Va detto che come nella fase creatura, anche qui progredendo potremo guidare una flotta di ben 4 astronavi (aliene) oltre alla nostra.
+
+Qui il fine ultimo, se proprio vogliamo trovarlo, è arrivare al centro della galassia - ce ne vorrà, ve lo assicuro - per **ascendere a un piano superiore dell'esistenza (ma anche no) oltre a conquistare il Bastone della Vita! Provaci ancora Save**
+
+![]({{ site.baseurl }}/uploads/2008/10/spoof.gif)
+
+Devo essere sincero, la prima cosa che ho detto giocando a Spore è stata: "**Che figata**".
+
+Senz'ombra di dubbio il gioco ha un fascino incredibile: poter far sviluppare una creatura in ogni fase della propria evoluzione è un'esperienza unica, **soprattutto grazie all'ottimo editor delle creature** che permette di creare qualsiasi specie che ci venga in mente (DNA permettendo), così come con abbastanza SporeCrediti potremo costruire qualsiasi edificio, mezzo o astronave che desidereremo.
+
+**La fase spaziale poi è quella di gran lunga più vasta ed elaborata**, il giocatore ha a disposizione una vera e propria **Via Lattea-bonsai** da esplorare - personalmente ne avrò visitato un 2-3%, dato che ho preferito usare **i buchi neri** sparsi qua e là per accorciare il percorso verso il centro della galassia.
+
+In totale sono a disposizione **più di 50.000 sistemi solari** - tra cui è possibile trovare il Sole e la Terra :P ![]({{ site.baseurl }}/uploads/2008/10/lumacone.png)- **dotati di 3/4 pianeti colonizzabili** o **abitatida** altrettante **specie aliene**, sparsi per la galassia.
+
+Rigiocato Spore presenta però tutti i propri limiti: **una volta portato a compimento il progresso della prima creatura, la voglia di provare una nuova specie è tantissima**, tant'è la varietà di combinazioni che si possono ottenere.
+
+Il problema sorge proprio a questo punto, il gioco rimane comunque composto dalle 5 fasi descritte sopra ed **i micro-cambiamenti che l'utente può gestire non le influenzano in maniera macroscopica**; da cellula si passa ad animale terrestre, senziente, civilizzato e spaziale **in modi differenti ma tutto sommato equivalenti**, cosa che mi ha fatto storcere il naso appena arrivato alla fase civiltà della seconda specie.
+
+Spore rimane comunque **uno di quei blockbuster da provare**, al pari di SimCity o The Sims, di cui è il discendente diretto. Scordatevi obiettivi da raggiungere o storie da ultimare e pensate solamente al piacere del gioco fatto per essere giocato - cosa che sicuramente non mancherà di appassionare i già sfegatati fan dei titoli di casa Maxis.

@@ -1,0 +1,87 @@
+---
+author: thesave
+comments: true
+date: 2011-11-19 15:43:54+00:00
+layout: post
+link: http://www.atomodelmale.it/2011/11/19/rage/
+slug: rage
+title: RAGE
+wordpress_id: 10847
+image: uploads/2011/11/rage.jpg
+categories:
+- Videogiochi
+tags:
+- FPS
+- Futuro
+- RPG
+- Sparatutto
+---
+
+Siete voi, soli, che vagate in un mondo stile "terra di confine", combattendo contro bande di mutanti e tribù post-futuristiche.
+
+No, non è _Borderlands_.
+
+Uscite dal vostro rifugio dopo quasi un secolo dalla catastrofe globale e dovete rimettere a posto le cose.
+
+No, non è _Fallout_.
+
+**RAGE**
+
+![]({{ site.baseurl }}/uploads/2011/11/rage.jpg)
+
+**Un asteroide** -- Apophis -- impatta sulla terra, devastando globo e società.
+
+Noi -- l'innominato protagonista --  facciamo parte di una ristretta cerchia di persone che, per preservare la salvezza dell'umanità, viene **richiusa dentro delle "arche"** iper-tecnologiche collocate nel sottosuolo -- sai che novità! --, rimanendo in una sorta di "**sonno preservatore**".
+
+**Dopo un secolo** dal cataclisma ci svegliamo -- la fiera delle ovvietà -- e scopriamo che tutti i nostri **compagni di viaggio sono morti** a causa del malfunzionamento dei "nanotriti", piccole nano-macchine iniettategli nel sangue per preservarli, ma che, a ben vedere, hanno favorito solo il nostro eroe.
+
+Ancora storditi dal torpore centenario, facciamo i primi passi nelle **Wasteland** -- nome originalissimo, usato nel 99,99% dei giochi di questo tipo --, venendo a conoscenza di ciò che è accaduto nel frattempo.
+
+**Terra 2135**
+
+Credevate forse di essere gli unici sopravvissuti? E invece no!
+
+Durante la nostra non-coscienza **la Terra si è ripempita** di:
+
+	
+  * una razza di **mutanti** schifosi e cattivi che imperversano per le Wasteland;
+
+	
+  * una **milizia armata** che vuole imporre le proprie regole al resto del mondo, chiamata "**The Autority**";
+
+	
+  * una **resistenza** di umani che vuole far saltare i loschi piani di dominio mondiale dell'Authority (alla quale, peraltro, sarete affiliati coattamente);
+
+	
+  * pochi e desolati **insediamenti umani**, nati attorno a luoghi che la catastrofe ha risparimiato (metropolitane, piccole cittadine, ecc);
+
+	
+  * **tribù** eterogenee distinte da una peculiare caratteristica (banditi motorizzati, tecnologi post-apocalittici, spiritisti dell'ultim'ora, ecc.).
+
+All'interno di questo ambiente, il protagonista sarà **trascinato** -- è il verbo giusto -- **da una missione all'altra**, distruggendo, ammazzando e riportando a casa la pellaccia per una trentina di volte.
+
+Il tutto **intervallando lo spara-spara** col **spara-guida**, gradito espediente fornito dalle gare automobilistiche che si svolgono negli insediamenti più grandi.
+
+**Scherzi a parte (faccio il serio)**
+
+![]({{ site.baseurl }}/uploads/2011/11/rage_1.jpg)
+
+Fin dall'annuncio della collaborazione tra due mostri sacri dell'industria videoludica come **Bethesda** e **id Software**, RAGE ha goduto -- o risentito -- di un **hype esageratamente alto**.
+
+Del resto è normale aspettarsi un prodotto eccezionale dalla collaborazione di **due software house che hanno contribuito a far evolvere due generi** che, ad oggi, stanno sempre più andando a braccetto: **RPG** e **FPS**.
+
+Da un certo punto di vista RAGE assolve il proprio compito, presentando un **comparto grafico** -- con qualche sbavatura di troppo -- **e sonoro di tutto rispetto**, insieme ad una **giocabilità** sempre alta, garantita da un **gameplay dinamico e variegato**.
+
+Per farla breve,**il gioco prende e parecchio**, soprattutto nelle fasi iniziali di esplorazione del "nuovo mondo", **toccando i propri picchi nell'FPS più puro**, in particolare nelle missioni principali. Menzione d'onore per l'ottimo lavoro sull'**animazione di corpo e viso dei PNG** e per le **scelte artistiche sull'ambiente post-apocalittico** creato.
+
+![]({{ site.baseurl }}/uploads/2011/11/rage_mayor.jpg)
+
+Anche **la trama** -- che come avrete capito non presenta novità sostanziali -- **attira l'interesse del giocatore**, intervallando alle decine di missioni secondarie, quelle principali che ne dipanano l'ordito, seguendo l'inesorabile sequenza dettata dagli sviluppatori.
+
+L'idea di permettere **l'esplorazione** dell'ambiente esterno **tramite veicoli** -- personalizzabili -- poteva essere una **carte vincente**, al contrario la maggior parte delle volte l'uso dei mezzi è **ridotto a mero "legante"** tra le varie "mappe" di gioco, degradando una buona idea ad un semplice intermezzo.
+
+Non vi dico la delusione del sottoscritto che, proprio quando credeva che il gioco prendesse il via, è stato salutato dal filmato finale e relativi titoli di coda. Che delusione, soprattutto considerando che il gioco "pesa" la bellezza di 3 DVD!
+
+Pur rimanendo un titolo **tripla A** sviluppato da due software house di tutto rispetto, RAGE **non assurge all'olimpo dei videogiochi**, perdendosi nella foresta dei titoli che negli ultimi anni hanno popolato lo scaffale degli FPS (per niente RPG) post-apocalittici. Un gioco **onesto e coinvolgente** ma di cui, purtroppo,**non se ne sentiva la mancanza**.
+
+Peccato.

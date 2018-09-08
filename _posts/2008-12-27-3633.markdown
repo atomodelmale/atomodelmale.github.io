@@ -1,0 +1,82 @@
+---
+author: Radio Rebelde
+comments: true
+date: 2008-12-27 12:09:53+00:00
+layout: post
+link: http://www.atomodelmale.it/2008/12/27/3633/
+slug: '3633'
+title: La tassazione degli immobili in Italia
+wordpress_id: 3633
+image: uploads/2008/12/mutui_cresce_tasso_fisso.jpg
+categories:
+- Economia
+- Italia
+tags:
+- Calderoli
+- Casa
+- Federalismo Fiscale
+- ICI
+- Immobili
+- Service Tax
+- Tassazione
+---
+
+Il quadro normativo che ha ad oggetto la tassazione degli immobili è molto complesso, anche a causa delle agevolazioni scoordinate e incoerenti che ogni anno le varie leggi finanziarie concedono, cercando di favorire questo o quell' elettorato, senza mai affrontare il problema alla radice con un disegno complessivo della materia, anche per il timore di perdite di gettito.
+
+In base a dati riportati dal Sole 24 ore riferiti al 2007, la t **assazione degli immobili in Italia è sì tra le più elevate d'Europa** ma considerando le sole tasse locali sugli immobili, che rappresentano ovunque la principale fonte di entrata degli enti locali, possiamo notare come l'imposizione sul patrimonio sia relativamente bassa se confrontata con gli altri paesi. Ad esempio la _Council tax_ del Regno Unito pesa quasi il doppio rispetto all'Ici; in Francia la combinazione della_ Taxe Fonciere_ (che comprende anche l'imposta per la raccolta dei rifiuti) e la _Taxe d'habitation_ risulta più elevata della combinazione Ici-Tarsu; in Germania la _Grundsteuer B_ (imposta comunale), pur più bassa delle imposte francesi e inglesi, è anch'essa superiore all'Ici.
+
+Situazione diametralmente opposta è invece quella che riguarda l'imposizione sui redditi da locazione. In Italia, per un canone lordo di 18 mila euro annui, essa ammonta mediamente a circa il 30%; la percentuale di imposizione sullo stesso canone in Germania è pari al 16%, in Francia al 7%, in Gran Bretagna è nulla, grazie al sistema di detrazioni.
+
+Le principali imposte che attualmente hanno ad oggetto gli immobili sono:
+
+**1) REDDITI IMPONIBILI**
+Concorrono alla determinazione del reddito imponibile dell'IRPEF anche i redditi da fabbricati. Non rientrano in questa categoria i redditi derivati da costruzioni rurali utilizzate nell'ambito di attività agricole, né quelli attribuibili a fabbricati utilizzati nell'esercizio di imprese commerciali.
+Ci si riferisce quindi:
+-	Redditi figurativi di fabbricati destinati all'abitazione del proprietario o tenuti a disposizione
+-	Redditi effettivi dei fabbricati ( abitazioni, residenze estive, negozi, opifici …) locati a terzi.
+Se il fabbricato è destinato ad abitazione del proprietario o dei familiari, il reddito imponibile è rappresentato dalla rendita catastale pari alla tariffa, opportunamente rivalutata, che rappresenta il reddito medio ordinario dell'unità immobiliare previsto dal Catasto immobiliare urbano.
+Il reddito dell'unità immobiliare destinata ad abitazione principale del contribuente è però deducibile dal reddito complessivo, alla cui definizione tuttavia concorre. Ciò comporta l'esclusione di tale reddito figurativo dall'imponibile dell'Irpef.
+Ragioni di equità orizzontale imporrebbero che a fronte dell'esenzione dall'imposizione della rendita catastale della casa di proprietà adibita ad abitazione principale, a chi vive in locazione, fosse concessa la possibilità di dedurre dal proprio imponibile l'intero canone di locazione. Nel nostro sistema tributario questa coerenza è realizzata solo in modo parziale attraverso detrazioni differenziate a seconda della tipologia contrattuale.
+Per le unità immobiliari non locate, diverse dall'abitazione principale e tenute a disposizione , l'imponibile è pari alla rendita catastale aumentata di un terzo.
+Per le  unità immobiliari locate, il reddito imponibile è costituito dal reddito effettivo, vale a dire di locazione, ridotto del 15% per tenere conto delle spese di manutenzione e dei costi di gestione dell'immobile.
+In generale le spese di manutenzione ordinaria e straordinaria sono attualmente detraibili dall'imposta lorda nella misura del 36%, con un massimo di 48.000 €, nell'arco temporale di un decennio; sono inoltre detraibili per il 55% del loro ammontare le spese sostenute per interventi di risparmio energetico ( caldaie, doppi vetri, pannelli solari). Inoltre, gli interessi passivi per mutui garantiti su immobili contratti per l'acquisto dell'abitazione principale del contribuente o dei suoi familiari sono detraibili per il 19% del loro ammontare con un limite di 4.000 €.
+
+**2)	ICI ( Imposta Comunale sugli immobili**)![ici1]({{ site.baseurl }}/uploads/2008/12/ici1.jpg)
+In vigore dal 1993, ha come obiettivo una più estesa autonomia tributaria dei Comuni, consentendo un collegamento, seppure lato,  tra benefici apportati dai servizi locali e costi per fruitori degli stessi.
+- **Presupposto:** possesso di fabbricati, aree fabbricabili e terreni agricoli siti nel territorio dello Stato destinati a qualsiasi uso. Sono quindi compresi anche quelli strumentali o alla cui produzione e scambio è diretta l'attività dell'impresa.
+- **Soggetti passivi:** proprietari o i titolari di altro diritto reale ( usufrutto, uso, abitazione)
+- **Base Imponibile:** il valore degli immobili
+- Valore dei fabbricati = prodotto delle rendite catastali ( rivalutate del 5%) e appositi          moltiplicatori diversificati per gruppi catastali (pari a 100 per la maggior parte delle unità immobiliari).
+- Valore delle Aree fabbricabili = è quello di mercato al 1 gennaio di ciascun periodo di imposta
+- Valore dei terreni agricoli = è il risultato del prodotto tra il reddito dominicale ( rivalutato del 25%) e un moltiplicatore pari a 75.
+**- L'aliquota:** è determinata dal Comune, ciascun anno per l'anno successivo, e deve essere compresa tra il 4 e il 7
+**- E' indeducibile dall'imponibile IRES e IRPEF.**
+
+Dall'imposta dovuta per l'immobile adibito ad abitazione principale del soggetto passivo è ammessa una detrazione fino a 103,29 euro. Con la finanziaria 2008 è ammessa un'ulteriore detrazione pari al 1,33 ‰ dell'imponibile adibito ad abitazione principale, comunque non superiore a 200 euro.
+Infine con la legge del 24 luglio del 2008 che converte in legge il decreto-legge 27 maggio 2008 n.96 recante disposizioni urgenti per salvaguardare il potere di acquisto delle famiglie a decorrere dall'anno 2008 e' stata esclusa dall'imposta comunale sugli immobili l'unita' immobiliare adibita ad abitazione principale del soggetto passivo ad eccezione di quelle di categoria catastale A1, A8 e A9.
+
+**3)	IMPOSTE  INDIRETTE**
+
+Gli iimobili sono attualmente soggetti a molteplici imposte indirette:
+**_•	Iva**
+La cessione di edifici costruiti o ristrutturati da meno di 4 anni da un imprenditore nell'ambito dell'esercizio della propria attività provoca l'addebito dell'Iva all'acquirente. L'Iva viene incassata dal cedente e poi versata all'erario, previa detrazione dell'Iva che il cedente ha pagato sui propri acquisti.
+**•	Imposta di registro**
+Ogni cessione di immobili cui non si applichi l'Iva determina l'applicazione dell'imposta di registro, con le aliquote del 3, 4, 7, 8 e 15%, sulla base imponibile rappresentata dal valore del trasferimento; nel caso di abitazioni comprate da persone fisiche la base imponibile è data dal valore catastale dell'immobile.
+**•	Imposte ipotecarie e catastali_**
+Ogni qualvolta si applica l'imposta di registro, si applicano pure le imposte ipotecaria (2%) e catastale (1%). L'imponibile è identico a quello determinato ai fini dell'imposta di registro.
+_•**Imposte sulle successioni e donazioni** _
+Il valore catastale dei beni immobili di proprietà del defunto concorre a formare l'imponibile cui applicare le aliquote d'imposta (4, 6 o 8% a seconda del più o meno intenso legame di parentela tra defunto ed eredi). Va ricordato che la successione tra stretti familiari beneficia di notevoli franchigie.
+**_•	Tarsu e Tia_**
+Tributi comunali applicati per remunerare il servizio di raccolta rifiuti e di pulizia delle strade.
+La Tarsu è parametrata ai metri quadrati delle unità immobiliari, la Tia considera anche il numero degli occupanti.
+
+Negli ultimi mesi numerose sono state le proposte di riforma riguardanti la tassazione degli immobili col fine di garantire un finanziamento autonomo agli enti locali.  In particolare un punto di svolta sembrava si fosse raggiunto con la cosiddetta **"Bozza Calderoli**"  nella quale  all'art.10 si parlava  di _"razionalizzazione l'imposizione fiscale immobiliare, compresa quella sui trasferimenti della proprietà e di altri diritti reali, al fine di riconoscere una adeguata autonomia impositiva ai Comuni e alle Città metropolitane"._
+Si è iniziato così a discutere di una **"nuova imposta di Tassazione degli Immobili"** con l'obiettivo di creare una nuova imposta il cui gettito vada a beneficio dei Comuni, in sostituzione di tutte o quasi tutte le tasse e le imposte che, direttamente o indirettamente,  gravano sugli immobili.
+Si è parlato anche di introdurre una **"service tax"** cioè di introdurre una tassazione che rappresenti il "corrispettivo" dei servizi che gli immobili ricevono dal territorio in cui essi sono ubicati: questa Imposta sui servizi comunali sarebbe da pagare, ad esempio, in una data zona del territorio comunale, in base all'entità dei servizi di trasporto pubblico, alla presenza di parcheggi, alla qualità del servizio di raccolta rifiuti, all'esistenza di impianti sportivi, asili o istituti di istruzione eccetera.
+
+![ici]({{ site.baseurl }}/uploads/2008/12/ici.png)
+
+Tuttavia nel Disegno di legge delega sul federalismo per l'attuazione  dell'art .119 della Costituzione approvato dal Consiglio dei Ministri lo scorso 3 ottobre 2008  non c'è alcun riferimento né ad una "service tax" né ad una nuova tassazione sugli immobili. Si è quindi persa una buona occasione per mettere ordine ad una materia assai complessa e disordinata, qual è quella della tassazione degli immobili, frutto di continui compromessi ed interventi occasionali.
+Anche dal confronto internazionale emerge come la tassazione dei beni immobili rappresenti la principale fonte di entrata per gli enti locali poiché, a differenza delle imposte sui redditi e sui consumi,  è facile stabilire la competenza di tale tributi.
+La casa è poi beneficiaria di una quota importante della spesa locale: spese per viabilità, trasporti, illuminazione eccetera; un imposta sui patrimoni immobiliari si presenta quindi in regola con il principio tributario del beneficio e garantisce una certa progressività attraverso detrazioni alla base che fanno sì che il pagamento cresca più che proporzionalmente con il valore.
+Ritengo quindi che una imposizione che gravi sul valore patrimoniale dell'immobile sia la miglior strada da intraprendere per garantire adeguata autonomia agli enti locali.

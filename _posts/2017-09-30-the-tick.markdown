@@ -1,0 +1,28 @@
+---
+author: thesave
+comments: true
+date: 2017-09-30 07:59:42+00:00
+layout: post
+link: http://www.atomodelmale.it/2017/09/30/the-tick/
+slug: the-tick
+title: The Tick
+wordpress_id: 18550
+image: uploads/2017/09/The-Tick-000.jpg
+categories:
+- Azione
+- Fantascienza
+---
+
+Quella di The Tick è una storia di sopravvivenza. Creato nel lontano 1986 come parodia fumettistica delle testate supereroistiche del tempo, il nerboruto protagonista degli albi, tuta blu elettrico e antennine semoventi incluse, è prima passato al piccolo schermo tramite una serie di cartoni, a metà degli anni '90, per poi essere trasportato in una serie con attori in carne ed ossa nei primi 2000. Per arrivare a quest'anno, in cui Amazon ha presentato una prima stagione di 6 episodi che ripercorrono (e riscrivono) la storia della Pulce. Quindi, com'è questa serie? Un diamante grezzo, coi suoi spigoli non lavorati e magari una patina superficiale (di finta pezzenteria). Ma oh, è pur sempre un diamante.
+
+![]({{ site.baseurl }}/uploads/2017/09/The-Tick-004.jpg)
+
+## The Tick
+
+Benché il titolo corrisponda all'omonimo eroe superforte e quasi invincibile (interpretato da un ottimo Peter Serafinowicz, paradossalmente credibile e strampalato nel ruolo del gigante blu), la serie è incentrata sulla vita di  Arthur (Griffin Newman), un commercialista depresso e traumatizzato a cui il cattivo della serie, The Terror (Jackie Earle Haley, si quello di Rorschach di [Watchmen](/2009/03/29/watchmen/)), ha portato via affetti e felicità. Suo malgrado, Arthur sarà coinvolto nelle pazze avventure della Pulce, incontrando tutta una serie di bizzarri supereroi e supercattivi (con super-disturbi).
+
+![]({{ site.baseurl }}/uploads/2017/09/The-Tick-001.jpg)
+
+Se da una parte le gag e gli exploit da (finti) supereroi tengono banco ad ogni episodio, ogni puntata scopre un pezzetto in più della storia di Arthur, nervosamente impegnato a mantenere una vita "normale" ma continuamente inseguito dai propri incubi e assalito dalla voglia di vendicarsi dei soprusi di The Terror.
+
+Portare a casa un buon risultato con una serie come The Tick non era per nulla scontato, ma ad Amazon hanno capito da un po' come fare le cose per bene (vedansi gli ottimi [Mozart in the Jungle](/2015/01/26/mozart-in-the-jungle/) e [The Man in the High Castle](/2015/01/27/the-man-in-the-high-castle/)); ma la serie, pur con (o grazie alle?) proprie stranezze e a un certo livello di auto-riferimento (che potrebbe non piacere a tutti), ha ricevuto il plauso di pubblico e critica, portando Amazon ad approvarne, per direttissima, una seconda stagione. Come on, chums!

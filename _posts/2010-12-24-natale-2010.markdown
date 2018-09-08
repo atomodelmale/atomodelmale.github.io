@@ -1,0 +1,58 @@
+---
+author: Il Gorgonauta
+comments: true
+date: 2010-12-24 15:07:08+00:00
+layout: post
+link: http://www.atomodelmale.it/2010/12/24/natale-2010/
+slug: natale-2010
+title: Natale 2010.
+wordpress_id: 8600
+image: uploads/2010/12/2010-12-24-natale-2010.jpg
+categories:
+- Blog
+tags:
+- '2010'
+- Natale
+---
+
+In occasione delle feste gli auguri della redazione dell'Atomo del Male.
+
+![]({{ site.baseurl }}/uploads/2010/12/image.png)
+
+**Il Gorgonauta**
+
+A tutti gli amici e i visitatori più o meno occasionali dell'Atomo del Male Buon Natale e Buone Feste!
+
+![]({{ site.baseurl }}/uploads/2010/12/thesave.png)
+
+**TheSave**
+
+Un altro anno è passato, un altro Natale si avvicina ed inevitabilmente è tempo di tirare le somme, di **guardarsi indietro**, cercando di scorgere **le tracce che abbiamo lasciato** lungo il cammino... forse anche **per capire in che direzione stiamo andando**, per il nostro futuro.
+
+Natale, Natale, Natale, che senso ha adesso la parola "Natale" quando l'unica spinta forsennata è quella di un groviglio di macchine e persone indaffarate a fare regali, a muoversi in circolo per donare e ricevere -- **donare PER ricevere** --, spinti più dai jingle televisivi che dalla fede o dalla passione o semplicemente dalla voglia di mettere per un attimo da parte i propri problemi -- grandi e piccoli --  e VIVERE, piuttosto che di sopravvivere.
+
+Questo è invece il natale della lunga coda della crisi, del governo in crisi, dell'informazione in crisi, della fiducia della gente dei rapporti -- di lavoro, di coppia, di amicizia, ... --, tutti in crisi.
+
+Stiamo raschiando il fondo, gente.
+
+Diamo un **colpo di reni**, vediamo di risalire.
+
+**Buone Feste.**
+
+![]({{ site.baseurl }}/uploads/2010/12/radiorebelde.jpeg)
+
+**Radio Rebelde _Che bello il Natale! Che palle il Natale!_ E' Bello il Natale** perchè seppure è uno dei periodi più freddi dell'anno nell'aria, nelle case si sente quel calore che ti scalda il cuore.
+
+**E' Bello il Natale** perché è l'unica festa che prova a resistere al consumismo.
+
+**E' Bello il Natale** perché il Natale è uno dei pochi valori che ci rimangono.
+
+**Che palle il Natale** quando vedi la gente che si lamenta perché non ha soldi e poi prenota la settimana Bianca a Cortina.
+
+**Che palle il Natale** quando la vigilia di Natale ti dicono che dall'anno prossimo dovrai cercarti un nuovo lavoro.
+
+**Che palle il Natale** quando l'ipocrisia è l'invitato d'onore ai Cenoni.
+
+**Grazie Natale** perché riesci ogni anno a ricordarci quant'è bella la vita ma quanto il Mondo non sia degno di questo dono.
+
+![]({{ site.baseurl }}/uploads/2010/12/BuonNatale2010.png)

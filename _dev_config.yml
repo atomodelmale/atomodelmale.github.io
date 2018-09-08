@@ -1,0 +1,55 @@
+# Site
+name: "Atomo del Male"
+# description: "Il Blog dell'Atomo del Male"
+baseurl: "/"
+logo: 'uploads/2013/08/atomodelmale.png'
+favicon: '/favicon.ico'
+google_analytics: 'UA-6475945-1'
+disqus: 'atomodelmale'
+development: true
+
+# Authors
+authors:
+  thesave:
+    name: thesave
+    display_name: thesave
+    gravatar: 8f4037225e8812e81916121f7e01a606
+  Radio Rebelde:
+    name: Radio Rebelde
+    display_name: Radio Rebelde
+    gravatar: e3f12fd13b8b54fce29e98bf1f9c4f53
+  Il Gorgonauta:
+    name: Il Gorgonauta
+    display_name: Il Gorgonauta
+    gravatar: 48c5aca0ad09d17a8c27a92b761c1815
+  wildboar:
+    name: wildboar
+    display_name: wildboar
+    gravatar: 3921f87c9f6b05846d54bd70e94ecac2
+
+permalink: /:year/:month/:day/:title:output_ext
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    # - categories
+    - year
+    - month
+  layout: archive
+  permalinks:
+    # category: '/category/:name/'
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+# highlighter: rouge

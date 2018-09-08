@@ -1,0 +1,37 @@
+---
+author: thesave
+comments: true
+date: 2015-08-19 20:06:52+00:00
+layout: post
+link: http://www.atomodelmale.it/2015/08/19/ant-man/
+slug: ant-man
+title: Ant-Man
+wordpress_id: 15939
+image: uploads/2015/08/ant-man001.jpg
+categories:
+- Azione
+- Fantascienza
+---
+
+<blockquote>"L'estate sta finendo
+e un anno se ne va
+**sto diventando grande**
+lo sai che non mi va."</blockquote>
+
+I Righeira la sapevano lunga. Avevano previsto con un anticipo di 30 anni l'uscita di Ant-Man. Altro che Festivalbar!
+
+## Ant-Man
+
+![ant-man000]({{ site.baseurl }}/uploads/2015/08/ant-man000.jpg)
+
+La Marvel sa bene che in estate non può appesantire le già boccheggianti testoline dei suoi aficionados con qualche mattone stile Avengers. Per questo ha fatto un bel pacchettino, ci ha infilato dentro la tuta di Ant-Man -- chapeau --, _Michael Douglas_ e Paul Rudd e ha confezionato il tutto con la stessa carta da regalo usata per [Guardiani della Galassia](/2014/10/26/i-guardiani-della-galassia/). Il risultato va oltre le mie più rosee aspettative.
+
+In Ant-Man la storia fumettistica e quella cinematografica vanno a braccetto. Douglas è Hank Pym, lo scopritore dell'omonima particella che alimenta i poteri della fenomenale tuta di Ant-Man. Ormai vecchio, Pym scopre che il suo ex-pupillo è sul procinto di replicare i propri risultati ed è disposto a venderli al miglior offerente. Per salvare baracca e burattini --- e già che ci siamo, il Mondo -- Pym recluta l'abile topo d'appartamento Scott Lang (Rudd) per prendere il proprio posto all'interno della tuta e mettere a segno un piano degno di Danny Ocean.
+
+![ant-man001]({{ site.baseurl }}/uploads/2015/08/ant-man001.jpg)
+
+Va detto che Ant-Man non è l'eroe più semplice su cui fare un film... decente. Pur essendo uno dei membri fondatori degli Avengers (nella realtà fumettistica), rimane un omarino in tuta che si restringe alle dimensioni di una formica. E ci parla pure! Fortunatamente, sconfiggendo pronostici e cabale, alla Marvel si è scelto di seguire la via già battuta da Guardiani della Galassia. ![ant-man002]({{ site.baseurl }}/uploads/2015/08/ant-man002.jpg)
+
+Ant-Man riesce a costruire una propria epicità -- soprattutto grazie a nonno Michael -- ma non perde occasione per strizzare l'occhio allo spettatore. I Marvel-fan gongoleranno da inizio a fine pellicola per la quantità di citazioni e _rivelazioni_ di cui il film è disseminato. Per tutti gli altri, le quasi 2 ore di proiezione passeranno in un lampo tra le gag, l'azione à la Colpo Grosso (o Ocean's Eleven che di si voglia) e le altre gag -- Trenino Thomas, aiutaci tu!
+
+E ora [Fase Tre](https://it.wikipedia.org/wiki/Marvel_Cinematic_Universe#Film)!

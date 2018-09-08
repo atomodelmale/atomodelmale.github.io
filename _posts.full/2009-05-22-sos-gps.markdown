@@ -1,0 +1,31 @@
+---
+author: Il Gorgonauta
+comments: true
+date: 2009-05-22 11:21:31+00:00
+layout: post
+link: http://www.atomodelmale.it/2009/05/22/sos-gps/
+slug: sos-gps
+title: SOS Gps.
+wordpress_id: 4782
+categories:
+- Tech &amp; Hacks
+- Terra
+tags:
+- Elettronica
+- Gps
+- Satelliti
+- Usa
+---
+
+![gps](http://www.atomodelmale.it/wp-content/uploads/2009/05/gps-300x300.jpg)Navigatori satellitari, cellulari e altri apparecchi elettronici che fanno uso della tecnologia **Gps **(Global Positioning System) a rischio. Entro un anno imprecisi, fuori uso, in tilt. Questo l'allarme lanciato dal **Government Accountability Offic**e (Gao), un organismo federale di controllo sui conti pubblici USA, in un rapporto consegnato al congresso.
+
+Il Gao ha criticato l'Aeronautica americana per una cattiva gestione del sistema e per i ritardi negli investimenti, vitali per assicurare la prosecuzione della tecnologia. Il Gps infatti è nato grazie al Pentagono e per scopi militari. Solo successivamente (nel 1991) stato aperto a scopi civili (gratuitamente) ma la sua gestione è comunque rimasta in mano all'aviazione militare statunitense ed è di proprietà degli Stati Uniti.
+
+Se non verranno lanciati nuovi satelliti (attualmente ve ne sono 28 attivi , più 3 di scorta, per un totale di 31), si legge nel rapporto, quelli attuali, già a rischio per mal funzionamenti e problemi dopo anni di servizio, potrebbero non essere sufficienti per garantire il "sistema di posizionamento globale", sopratutto dal punto di vista della qualità e della precisione del servizio reso a quanti lo utilizzano.
+
+<!-- more -->
+
+
+A giovarsi di questo possibile abbassamento della qualità i concorrenti russi, cinesi ed europei del sistema Gps americano, rispettivamente i sistemi Glonass (sempre in mano ai militari), Compass e Galileo (quest'ultimo pronto solo dal 2013 ).
+
+Mentre i russi stanno incrementando il numero di satelliti in orbita (sono previsti 11 nuovi lanci nei prossimi 3 anni) e il sistema europeo aspetta il suo momento, gli Usa appaiono in ritardo ed indecisi, anche a causa dei maggiori costi incontrati per lanciare nello spazio i  necessari sostituti e per l'ordinaria gestione. Ma all'orizzonte qualcuno potrebbe decidere di non rimanere a guardare con le mani in tasca..

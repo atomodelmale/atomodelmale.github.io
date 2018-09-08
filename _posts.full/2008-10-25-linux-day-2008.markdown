@@ -1,0 +1,32 @@
+---
+author: Il Gorgonauta
+comments: true
+date: 2008-10-25 13:26:31+00:00
+layout: post
+link: http://www.atomodelmale.it/2008/10/25/linux-day-2008/
+slug: linux-day-2008
+title: Linux Day 2008.
+wordpress_id: 2959
+categories:
+- Blog
+- Imola e Dintorni
+- Informatica
+- Italia
+tags:
+- '2008'
+- Day
+- Faenza
+- Linux
+- Operativo
+- Sistema
+---
+
+Ultimo sabato di ottobre e come tradizione vuole oramai da 8 anni è **Linux Day**, la festa tutta italiana del sistema operativo libero e free, liberamente utilizzabile e modificabile da suoi utenti, organizzata dall'_Italian Linux Society_ (ILS) e dai vari _Linux User Group_ (LUG) sparsi sul territorio nazionale.![](http://www.atomodelmale.it/wp-content/uploads/2008/10/linux-logo.jpg)
+
+Mentre l'iniziativa si propone di promuovere e diffondere la conoscenza di Linux, del software libero e della libera condivisione di informazioni, tutti nei vari luoghi della manifestazione (se ne contano almeno 122, 6 in più rispetto ai 118 dell'anno scorso) potranno liberamente e gratuitamente sia provare le varie versioni di questo sistema operativo, direttamente con un computer portatile e una chiavetta USB, sia  richiedere un cd con una certa versione di Linux dentro, per poterla poi testare nel proprio pc fisso.
+
+Iniziative informarli, spontanee e libere che probabilmente si propongono anche di superare il luogo comune della difficoltà di utilizzo di Linux, nonché di dimostrare la sua praticità e il valore del software libero. Ogni città avrà la sua manifestazione o iniziativa, da convegni a dibattiti, da percorsi tematici a postazioni internet. E in alcune località, come ad esempio a Milano, si andrà avanti sino a domenica.
+
+Anche[ ImoLug ](http://www.imolug.org/)(immagino acronimo di Imola Linux User Group) aderisce al _Linux Day_ e propone a Granarolo Faentino una serie eventi in grado di occupare tutta la giornata. Il tutto sarà riproposto a Imola l'8 novembre.
+
+Il Gorgonauta.

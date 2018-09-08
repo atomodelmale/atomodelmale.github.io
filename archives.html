@@ -1,0 +1,17 @@
+---
+layout: default
+title: Archives
+---
+
+<h1>Archivi</h1>
+
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
+{% for yearPosts in postsByYear %}
+  {% assign postsByYearMonth = yearPosts.items | group_by_exp:"item", "item.date | date: '%m'"  %}
+  <h3><a href="{{ site.baseurl }}/archive/{{ yearPosts.name }}">{{ yearPosts.name }}</a></h3>
+    <ul>
+      {% for month in postsByYearMonth %}
+        <li><a href="{{ site.baseurl }}/archive/{{ yearPosts.name }}/{{month.name | downcase }}">{{ month.name | italianMonths }}: {{ month.size }} posts</a></li>
+      {% endfor %}
+    </ul>
+{% endfor %}

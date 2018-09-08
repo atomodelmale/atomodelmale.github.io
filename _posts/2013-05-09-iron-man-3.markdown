@@ -1,0 +1,43 @@
+---
+author: thesave
+comments: true
+date: 2013-05-09 17:15:43+00:00
+layout: post
+link: http://www.atomodelmale.it/2013/05/09/iron-man-3/
+slug: iron-man-3
+title: Iron Man 3
+wordpress_id: 13214
+image: uploads/2013/05/ironman32.jpg
+categories:
+- Azione
+tags:
+- Gwyneth Paltrow
+- Iron Man
+- Robert Downey Jr.
+---
+
+## New York ha cambiato tutto
+
+[![ironman32]({{ site.baseurl }}/uploads/2013/05/ironman32.jpg)
+
+Nel primo film](/2010/05/04/iron-man-2/) l'abbiamo visto nascere e amato per la sua sagacia, glassata dalle rockeggianti note di AC/DC e Black Sabbath. Nel secondo ci ha intrattenuto, con una punta di malcelata superbia. Poi New York e gli [Avengers](/2012/05/01/the-avengers/).
+
+Nella pellicola che chiude la (prima?) trilogia del nostro Uomo di Latta preferito, ritroviamo l'imperscrutabile Tony Stark afflitto da qualche disturbo post-traumatico -- tanto che il solo nome della Grande Mela basta per scombussolargli il sistema nervoso. Alieni, divinità norrene e bombe atomiche hanno scosso l'animo del playboy miliardario. Gli manca il sonno, si stacca dalla realtà e vive nell'ossessione per la propria armatura, trovando modi via via più _invasivi_ per averla sempre con sé. La sempreverde Pepper Popps s'inRazza e, ciò non bastasse, fanno capolino _Extremis_ e il _Mandarino_. Una bella gatta da pelare.
+
+## Mark 12 ... ehm
+
+Favreau passa il testimone a Shane Black (Arma Letale, Last Action Hero) che, dal canto suo, mette tanta carne sul fuoco di questo Iron Man 3. C'è il tipico dilemma dell'eroe mascherato "_chi sono io, chi è Iron Man?_", la sopraccitata crisi post-traumatica, c'è il Mandarino, nemesi storica dell'Iron Man fumettistico, c'è Extremis, serie tra le più apprezzate con protagonista l'Uomo di Latta e ci sono perfino il presidente degli Stati Uniti, Iron Patriot (alias War Machine) e un sidekick di 10 anni. _nuff_?
+
+![ironman3]({{ site.baseurl }}/uploads/2013/05/ironman3.jpg)
+
+L'armatura di Iron Man sta a Tony Stark come Stark sta a Downey Jr. L'attore indossa il ruolo come un guanto e porta sulle sue spalle il peso del sovradosato copione. Bellissima come sempre, l'elegante Paltrow/Pepper Potts (sapete quanto Stan Lee ami [allitterare i nomi](http://www.youtube.com/watch?v=tq2z2JqkDZg)) si scrolla di dosso il ruolo della _donzella in difficoltà_ e interpreta un'intraprendente Potsy che non ci pensa due volte a menar le mani.
+
+![ironman31]({{ site.baseurl }}/uploads/2013/05/ironman31.jpg)
+
+Prove attoriali a parte, il film intrattiene, ma -- anzi MA -- manca di sinergia. Considerati a sé stanti, il Mandarino ed Extremis avrebbero potuto essere due ottimi Iron Man 3 e Iron Man 4. Inversi, la loro mescita ha prodotto meno della somma delle parti. Il tempo dedicato ad approfondire il rapporto tra Tony e le proprie nemesi è molto limitato, ulteriormente eroso dalla presenza di tante altre "distrazioni" quali sidekick da introdurre e presidenti da salvare.
+
+Per capirci, la pellicola è godevolissma e fa meglio di quanto visto in Iron Man 2, ma al contempo è ad anni luce dal glorioso capostipite, così come dal citato The Avengers. Finalmente la serie Iron Man capitalizza il proprio fattore umano. Le indistruttibili armature di Tony Stark diventano -- letteralmente -- gusci vuoti da smembrare ed utilizzare a seconda dell'occasione, armi usa-e-getta che acquistano valore -- bellico e non -- solamente quando utilizzate dai protagonisti.
+
+Salutiamo Iron Man con un "ciao" perché, lo sappiamo,
+
+<blockquote>Tony Stark tornerà.</blockquote>

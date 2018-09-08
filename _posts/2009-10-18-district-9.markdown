@@ -1,0 +1,39 @@
+---
+author: Il Gorgonauta
+comments: true
+date: 2009-10-18 20:56:29+00:00
+layout: post
+link: http://www.atomodelmale.it/2009/10/18/district-9/
+slug: district-9
+title: District 9.
+wordpress_id: 5801
+image: uploads/2009/10/district9-astronave.jpg
+categories:
+- Azione
+- Cinema
+- Fantascienza
+tags:
+- Alieni
+---
+
+1982. Una gigantesca **astronave** aliena si posa sopra la città sudafricana di **Johannesburg**. Dopo alcuni mesi di attesa e paura gli umani si avventurano al suo interno, scoprendo una gigantesca colonia di esseri alieni, denutriti e malridotti. Gli stessi vengono poi trasferiti  e curati in un campo profughi, chiamato **Distretto 9**.
+
+![district9 astronave]({{ site.baseurl }}/uploads/2009/10/district9-astronave.jpg)
+
+Data l'impossibilità di far ripartire l'astronave gli **alieni** sono così costretti a rimanere sulla terra, nel distretto 9 (una sorta di prigione- bidonville dove regna sporcizia e disordine), a vivere in misere baracche e a cibarsi di cibo per gatto, di cui incredibilmente vanno pazzi. Il campo e i rapporti degli extraterrestri con gli umani sono gestiti da una potente multinazionale chiamata Multi-National United (MNU).
+
+Dopo almeno 20 anni di segregazione la situazione sembra ormai prossima al collasso. La popolazione locale infatti non tollera più i nuovi venuti, a causa del loro aspetto, della loro sporcizia e delle loro periodiche scorribande e rivolte al di fuori del distretto 9 che provocano danni e disordini. Il governo decide così di avviare una gigantesca operazione di trasferimento della razza aliena in un nuovo campo profughi lontano dalla città...
+
+District 9 parte proprio da qui, lasciando che siano interviste e riprese video a spiegare come una gigantesca astronave sia potuta finire sui cieli di **Johannesburg**. La scelta della località non è certo casuale, qui infatti si è consumato ![district9]({{ site.baseurl }}/uploads/2009/10/district9.jpg)
+
+l'**apartheid** ed ora sembra proprio che il passato torni a ripetersi. La città infatti è tappezzata di cartelle ed insegne che proibiscono ai "gamberoni" (così vengono chiamati gli alieni dagli umani, a causa della loro somiglianza all'omonimo animale terrestre) di entrare in certi negozi o viaggiare sui mezzi pubblici.
+
+Gli alieni in quanto "diversi" sono quindi odiati e disprezzati e il loro comportamento insensato non facilita certe le cose. All'apparenza sono una razza stupida e priva di interesse, dato che si limitano a bivaccare nell'enorme campo profughi senza una minima forma di organizzazione sociale ed economica. E dove c'è anarchia c'è criminalità e violenza. Ma come spesso accade, coloro che riteniamo diversi da noi sono in realtà molto più simili di quanto mai si possa credere.
+
+Nella pellicola così assistiamo ad un processo di umanizzazione dei gamberoni e ad un processo di imbruttimento morale degli esseri umani, pronti solo a perseguire i propri interessi. Insomma il diverso non è certo malvagio per natura e basterebbe solo la ricerca di un minimo di dialogo e comprensione per migliorare le cose.
+
+District 9 grazie ad alcuni limitati spunti comici (come i possibili rapporti sessuali tra specie umana e aliena) e horror, un largo uso di immagini riprese da videocamere amatoriali e professionali, un **ritmo** man mano sempre più serrato e coinvolgente e una narrazione sempre più intensa e movimentata ( l'azione è parte integrante della pellicola) è in grado, in conclusione, di colpire ed emozionare il suo spettatore.
+
+Ma anche confonderlo.
+
+Chi è l'alieno ? Ma chi, sopratutto, l'umano?

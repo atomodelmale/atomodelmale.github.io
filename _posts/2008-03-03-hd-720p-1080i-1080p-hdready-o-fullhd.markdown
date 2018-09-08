@@ -1,0 +1,115 @@
+---
+author: thesave
+comments: true
+date: 2008-03-03 15:10:45+00:00
+layout: post
+link: http://www.atomodelmale.it/2008/03/03/hd-720p-1080i-1080p-hdready-o-fullhd/
+slug: hd-720p-1080i-1080p-hdready-o-fullhd
+title: HD, 720p, 1080i, 1080p, HDReady o FullHD?!
+wordpress_id: 949
+image: uploads/2008/03/tv-hd.jpg
+categories:
+- Cinema
+- Informazione
+- Tech &amp; Hacks
+- Televisione
+tags:
+- Blu-ray
+- Definition
+- DVD
+- Full HD
+- HD
+- HDMI
+- HDReady
+- LCD
+- Pal
+- Plasma
+- Sky
+- VHS
+---
+
+_Confusi dalla miriade di sigle della giungla tecnologica?!_
+
+_Incerti se comprare l'ultimo televisore HDReady piuttosto che il costoso fratellone Full-HD?!_
+
+_Non sapete di cosa cavolo stia parlando ed i numeri del titolo non vi dicono nulla perché non si possono nemmeno giocare al lotto?!_
+
+_Ottimo! Allora questo è l'articolo che fa per voi!_
+
+**Nonno Catodico**
+
+![]({{ site.baseurl }}/uploads/2008/10/tv.png)
+
+Se negli ultimi 3-4 anni non avete vissuto in ascetica solitudine e vi siete fatti un giretto al MediaWorld sotto casa, avrete sicuramente notato la progressiva estinzione dei televisori a tubo catodico, soppiantati dalle "relativamente nuove" **tecnologie LCD e Plasma**.
+
+Ebbene si, il vecchio e pesante **CRT**(Alias Cathode Ray Tube), caro compagno di lunghi pomeriggi passati a guardare "Holly e Benji" e "Lady Oscar", **con all'attivo più di 50 anni di onorato servizio**, sta lentamente andando in pensione.
+
+Niente paura, i suoi eredi non vedono l'ora di proiettarci davanti agli occhi i **nuovi e mirabolanti spettacoli dell'alta definizione**!
+
+**NTSC & PAL**
+
+Non vi spiegherò cosa significano questi acronimi (perché non lo so nemmeno io :P) ma vi posso dire che avete a che fare con il formato PAL tutte le volte che accendete la televisione, sia che vi guardiate una VHS, un DVD o RAI1.
+
+L'importante per noi è sapere che le sigle NTSC e PAL hanno esteso il loro significato fino ad indicare gli apparecchi che supportano i formati **480i** e **576i**.
+
+_Nella tabella sottostante sono disegnati in rosa e giallo le dimensioni dei formati NTSC e PAL rispetto ai ben più generosi HDReady e Full-HD di cui parleremo dopo. _
+
+![]({{ site.baseurl }}/uploads/2008/10/risoluzioni.png)
+
+La tecnologia a tubo catodico, per chi non lo sapesse, si basa sull'**emissione di raggi catodici** su una **superficie sensibile suddivisa in linee parallele** (lo schermo del televisore) che, opportunamente stimolata, permette di visualizzare le immagini trasmesse all'apparecchio. Ovviamente i raggi che colpiscono questa superficie non sono "sparati" a caso: ad intervalli regolari (di 25 secondi) vengono direzionati su linee alterne dello schermo, prima tutte le pari ed in seguito le dispari, in modo da formare ad ogni nuovo giro (detto **refresh**) l'immagine successiva.
+
+Questo modo di "disegnare" l'immagine sullo schermo (che oltretutto permette un risparmio di banda di trasmissione non indifferente) viene detto **interlacciamento** ed è per questo che i due formati si chiamano 480-**i** e 576-**i**: come avrete capito, i numeri corrispondono alle righe dello schermo del televisore.
+
+**Haig Definiscion**
+
+In realtà, benché abbia parlato di 480 e 576 linee per PAL e NTSC, la maggior parte degli schermi televisivi moderni è dotata di **625 linee** di cui solo 576 vengono utilizzate per le immagini trasmesse, le restanti 49 vengono usate per altri servizi, come ad esempio il **televideo**.
+
+Anche il **DVD**, formato digitale per eccellenza, ha una risoluzione di 720x**576 pixel interlacciati**.
+
+Il vero salto di qualità è stato introdotto negli ultimi 2 anni con la messa in commercio di apparecchi televisivi al plasma ed LCD che riescono a gestire l'aggiornamento di **immagini progressive**, cioè intere e sequenziali, **di maggiore qualità**.
+
+Per capire meglio guardatevi l'immagine sotto, fornita gentilmente da ** _[wikipedia](http://en.wikipedia.com)_ _![]({{ site.baseurl }}/uploads/2008/03/Interlacingani2.gif)
+_**
+
+_L'effetto d'interlacciamento è stato un po' forzato rispetto a quello che vediamo dai nostri televisori, ma se avete voglia di fare un esperimento provate a registrare con una telecamera un televisore a tubo catodico..._
+
+Ora, passare da 576 linee interlacciate a 576 linee progressive permette una stabilità maggiore dell'immagine, ma ciò che è realmente necessario per aumentare la definizione delle immagini è il **numero di linee** utilizzate dallo schermo, è per questo che si parla di HD solo con schermi da **720 linee** in su.
+
+**E tu sei Ready o Full?!**
+
+Il mercato dei televisori odierno è veramente una giungla di sigle e siglette che il più delle volte vengono utilizzate per "trarre in inganno" il malcapitato compratore di turno.
+
+Vediamo di capire la differenza tra **HDReady** e **Full-HD** e le loro caratteristiche salienti.
+
+![]({{ site.baseurl }}/uploads/2008/10/hdready.png)
+
+Rientrano nella **famiglia allargata degli HDReady** sia gli schermi dotati di **720 linee** con **aggiornamento progressivo**(**720p**) dell'immagine sia quelli a **1080 linee** ma con **aggiornamento interlacciato** (**1080i**).
+
+In questo caso l'immagine del formato è di 1280x **720 pixel** e viene definita HDReady proprio perché, benché costituisca un passo avanti nella resa dell'immagine, **non è una vera e propria rivoluzione rispetto al formato PAL** (in fondo ha solo 144 linee di definizione in più) ed ha una risoluzione inferiore perfino dei normali schermi da computer, che arrivano tranquillamente a risoluzioni molto maggiori.
+
+![]({{ site.baseurl }}/uploads/2008/10/fullhd.png)
+
+Al contrario un **Full-HD** è uno schermo che possiede la bellezza di **1080 linee di definizione** e un **aggiornamento progressivo dell'immagine** (**1080p**).
+
+L'immagine del formato è quindi 1920×**1080 pixel** ed è questa la **vera rivoluzione dei formati televisivi**. Ovviamente schermi di questo tipo hanno un costo molto più elevato rispetto agli HDReady, ma rappresentano il non-plus-ultra in fatto definizione dell'immagine.
+**Il futuro di ieri**
+
+Fermi! Non precipitatevi a comprare il primo schermo Full-HD che trovate!
+
+Non bisogna essere troppo impazienti di sperimentare la nuova frontiera della qualità video, visto che già più di un consumatore è rimasto "**spiacevolmente sorpreso**" dell'acquisto fatto: Perché? Ora ve lo spiego.
+
+Come detto sopra, **le sigle Full-HD e HDReady indicano quei televisori dotati di un numero di linee tale da poterli considerare "ad alta definizione"**; purtroppo è stato riscontrato che, oltre a questi schermi, vengono "etichettati" tramite queste sigle anche televisori di grandi dimensioni che al contrario possiedono una risoluzione minore e che quindi non possono essere sfruttati per riprodurre filmati in alta definizione!
+
+Quindi al momento dell'acquisto è sempre meglio leggere le specifiche dell'apparecchio che si sta per pagare, uomo avvisato...
+
+![]({{ site.baseurl }}/uploads/2008/10/hdmi.png)
+
+Secondo, ma non meno importante: **non sperate di poter vedere decentemente DVD, canali televisivi e VHS**: il loro formato originale è il PAL a 576 linee, un televisore HD, dovendo "stiracchiare" l'immagine trasmessa per arrivare a 720 o addirittura 1080 linee **riproduce un'immagine di qualità inferiore** perfino a quella del televisore a tubo catodico (per cui questo formato era stato inventato).
+
+Ergo, per godere delle prelibatezze dell'High Definition, **il segnale digitale deve essere mandato allo schermo tramite l'interfaccia **HDMI**, ben diversa dalla SCART a cui ci hanno abituato DVD, PlayStation e VHS.
+
+![]({{ site.baseurl }}/uploads/2008/10/blueray.png)
+
+Al momento attuale gli unici apparecchi che permettono l'uscita del segnale su una porta HDMI sono i nuovissimi **lettori [Blu-ray](/2008/02/20/blu-ray-batte-hd-dvd/)** (vincitori della battaglia dei formati HD) e i **decoder per programmi satellitari HD**(come quello offerto da **Sky**).
+
+Bene, ora che sapete qualcosina in più su formati televisivi ed alta definizione, state attenti agli acquisti avventati e preparatevi alla avvento della nuova **[Ultra-High Definition](http://it.wikipedia.org/wiki/Ultra_Alta_Definizione)** :P

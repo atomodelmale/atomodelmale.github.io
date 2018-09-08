@@ -1,0 +1,39 @@
+---
+author: thesave
+comments: true
+date: 2016-10-31 19:00:14+00:00
+layout: post
+link: http://www.atomodelmale.it/2016/10/31/luke-cage/
+slug: luke-cage
+title: Luke Cage
+wordpress_id: 17309
+image: uploads/2016/10/luke.cage000.jpg
+categories:
+- Serie e Programmi TV
+tags:
+- Marvel
+- Netflix
+---
+
+"Sei un eroe? Dov'è la tua arma?"
+"Sono IO l'arma."
+
+## Luke Cage
+
+Dopo le "diavolerie" di [Matt Murdock](/2015/04/30/daredevil/) e le scazzottate di [Jessica Jones](/2015/11/30/jessica-jones/) tocca a Luke Cage tenere alto il nome (e la qualità) delle serie Marvel su Netflix.
+
+Anche se lo si era già visto brevemente --- con annesse superforza e pelle a prova di proiettile --- in Jessica Jones, poco o nulla si era carpito della sua personalità. Schivo e dall'inRazzatura facile, Luke in più di un'occasione ha chiarito che quella del supereroe non è una carriera che intende intraprendere. Ma ovviamente si sbaglia.
+
+La serie che porta il nome di Cage si apre con Harlem e un richiamo al [Principe Cerca Moglie](https://it.wikipedia.org/wiki/Il_principe_cerca_moglie)  (anche se quello era ambientato nel Queens), col negozio da barbiere e le discussioni su sport, film e musica tra gli avventori. Cage sbarca il lunario con due lavori. Di giorno fa da fattorino per il barbiere Pop, mentre la sera lavora come sguattero nel locale del gangster locale Cottonmouth. Una vita misera? Si, l'importante per Luke è conservare un basso profilo, passare inosservato e crogiolarsi nel proprio dolore (il motivo lo si era intravisto nella prima stagione di Jessica Jones, ma sarà raccontato in dettaglio nelle puntate della serie).
+
+![]({{ site.baseurl }}/uploads/2016/10/luke.cage002.jpg)
+
+Per sua fortuna, al fianco di Cage ci saranno due donne d'eccezione: la detective Misty Knight --- gli X-fan di vecchia data la ricorderanno al fianco di una rossa speciale --- e l'amorevole Claire Temple, già vista in quel di Hell's Kitchen rammendare le ferite di Devil.
+
+Se è vero che da una parte la star dello show è il nerboruto Luke Cage (con tutte le citazioni e i cammeo Marvel di rito, scena del costume originale in primis), dall'altra c'è il co-protagonista della serie: il quartiere di Harlem, dove storia, passione, musica, sangue e malavita mettono in scena ogni giorno un irrinunciabile balletto di vita e morte. Emblematica è la scena in cui il protagonista fa jogging in un parco e si trova una pistola puntata alla nuca da un ragazzino del quartiere in cerca di un colpo facile. Negli occhi di Luke tutta la delusione e la rabbia del ghetto, di generazioni cresciute senza padri --- uccisi o in prigione a vita --- per cui premere un grilletto è più facile che leggere un libro. È questo che da la forza a Cage per reagire e dichiarare guerra al marcio che brulica per le strade del proprio quartiere.
+
+![]({{ site.baseurl }}/uploads/2016/10/luke.cage006.jpg)
+
+Ormai si è capito che a Netflix piace puntare alto e che, anche se attraverso la lente dei supereroi, la produzione non ha paura di toccare tematiche "calde" come lo sono l'abuso sulle donne (come visto in Jessica Jones) o, in questa serie, i recenti episodi di violenza in USA da parte della polizia contro la comunità afroamericana.
+
+Come è ormai tradizione, "Chapeau!" a Netflix, aspettando il (previsto) ritorno di Luke Cage nella serie cross-over The Defenders e magari nel prossimo Iron Fist (entrambe su Netflix).

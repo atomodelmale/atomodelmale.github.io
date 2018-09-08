@@ -1,0 +1,60 @@
+---
+author: thesave
+comments: true
+date: 2009-03-29 15:51:26+00:00
+layout: post
+link: http://www.atomodelmale.it/2009/03/29/watchmen/
+slug: watchmen
+title: Watchmen
+wordpress_id: 4386
+image: uploads/2009/03/watchmen_20ad.jpg
+categories:
+- Azione
+- Cinema
+- Drammatico
+- Fantascienza
+tags:
+- Alan Moore
+- Zack Snyder
+---
+
+**Quis custodiet ipsos custodes?**
+
+![watchmen_20ad]({{ site.baseurl }}/uploads/2009/03/watchmen_20ad.jpg)
+
+Già 2000 anni fa il buon Giovenale aveva capito come girava il mondo o come minimo aveva intuito che nessun sistema è perfetto e qualsiasi struttura gerarchica o sociale ha sempre un grossa pecca, quale?
+
+Quis custodiet ipsos custodes?
+
+Cioè: "Chi custodisce i custodi?" o meglio: "**Chi protegge i protettori?**", ovviamente il concetto si potrebbe estendere ulteriormente dicendo "Chi controlla i controllori", cioè chi controlla chi, chi sceglie chi controllare e chi deve controllarlo.
+
+Come dicevo prima, Giovenale aveva centrato il bersaglio, sollevando dubbi su virtù e correttezza delle istituzioni pubbliche del tempo. Dalla citazione del poeta latino, **Alan Moore** - genio indiscusso del fumetto romanzato e già autore di From Hell, La leggenda degli uomini straordinari, Constantine e V per Vendetta, crea un fumetto che intitola "**WATCHMEN**" e che sarà considerato una delle pietre miliari della storia del fumetto.
+
+**Who watches the watchmen?**
+
+Attingendo a piene mani dall'opera di Moore, il regista **Zack Snyder** ne ha girato una trasposizione per molti versi aderente al fumetto, dando vita agli eroi di carta ed inchiostro che popolano **l'universo alternativo degli Watchmen**.
+
+Ottobre 1985. Un uomo precipita dall'alto di un palazzo di New York è uno degli ultimi eroi rimasti dopo il decreto Keene, **il Comico**, un membro della vecchia guardia degli Watchmen, come venivano chiamati dalla gente comune.
+La morte di Blake da il la ad una stridente sinfonia che vede protagonisti il governo americano (sotto il pressante giogo della terza presidenza di Nixon), gli ultimi Watchmen rimasti ed il destino dell'umanità, minacciata dallo scoppio della **guerra termonucleare tra Russia e Stati Uniti**.
+
+![watchmen-nuclear]({{ site.baseurl }}/uploads/2009/03/watchmen-nuclear.jpg)
+
+Nell'indifferenza generale l'unico ad occuparsi del caso, l'unico a non turarsi il naso davanti al nauseante fetore della marcescente società americana è il misantropo **Rorschach**, un altro Watchmen in cerca di riscatto dopo che il decreto Keene ha stabilito l'illegalità degli eroi mascherati.
+
+![dottor-manhattan]({{ site.baseurl }}/uploads/2009/03/dottor-manhattan.jpg)
+
+Intanto i rapporti tra Russia e Stati Uniti si fanno sempre più difficili, calmierati dalla presenza del **dottor Manhattan** (fisico divenuto semi-dio a causa di un esperimento andato male) ingaggiato da Nixon per vincere la guerra in Vietnam e tutt'ora assicurazione vivente alla rappresaglia nucleare sovietica.
+
+Assieme ad **Ozymandias**, l'uomo più intelligente del mondo, il dottor Manhattan sta cercando una soluzione ai problemi energetici del pianeta che, secondo Ozymandias, neutralizzeranno tutti i conflitti politici del pianeta.
+
+Sullo sfondo di queste vicende s'intrecciano le vite di **Rorschach**, **Spettro di Seta** e **Gufo Notturno**, persone normali ma dotate di disciplina e volontà che fino all'approvazione del decreto Keene si erano impegnate nella difesa dei deboli e che dal giorno alla notte sono diventati da predatori a prede.
+
+![Watchmen]({{ site.baseurl }}/uploads/2009/03/2009_watchmen_018.jpg)
+
+Il film (ed il fumetto) non segue quindi la moda dei "supereroi con superproblemi" marvelliana, ma scava a fondo nella psiche degli eroi mascherati **, giustizieri senza giustizia che come tutte le persone di questa terra amano, odiano, provano gelosia e paura**. Perfino un semi-dio come il dottor Manhattan soffre di forti problemi di personalità e di un comprensibile delirio di onnipotenza.
+
+Ovviamente **la trama** - made in Moore - **è allo stesso tempo energica e convulsa**, capace di attrarre uno spettatore che fino alla fine non riuscirà a ritrovare la strada di casa. Il tocco di Snyder (già autore di 300) è riconoscibile in ogni fotogramma: **stupri, assassinii e smembramenti di ogni tipo vengono riprodotti con** la solita - e in un certo modo apprezzata - **dovizia iper-realistica**, messa in risalto dai colori freddi e saturi che tanto piacciono al regista.
+
+Tirando le somme posso dirvi che senz'altro consiglio vivamente di vedere il film a chi se lo fosse perso: onesta trasposizione di un monolite della storia del fumetto - vincitore per altro del premio Hugo per la letteratura. Il Watchmen di Snyder non sarà certo un film per tutti i palati, ma non mancherà di lasciarvi quell'amaro in bocca che fa riflettere.
+
+Buona visione.

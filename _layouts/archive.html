@@ -1,0 +1,25 @@
+---
+layout: default
+title: Archivi
+---
+
+<!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+<div class="section-title">
+  {% if page.type == "month" %}
+    <h2>Post di <span>{{ page.date | date: "%m" | italianMonths }} {{  page.date | date: "%Y" }}</span></h2>
+  {% else %}
+    <h2>Post del <span>{{ page.date | date: "%Y" }}</span></h2>
+  {% endif %}
+</div>
+<div class="row listrecent">
+
+{% for post in page.posts %}
+
+    {% include postbox.html %}
+
+{% endfor %}
+
+</div>
+</section>

@@ -1,0 +1,54 @@
+---
+author: thesave
+comments: true
+date: 2011-06-29 08:38:29+00:00
+layout: post
+link: http://www.atomodelmale.it/2011/06/29/google-e-1/
+slug: google-e-1
+title: Google+ e +1
+wordpress_id: 9855
+categories:
+- Facebook
+- Motori di Ricerca
+- Social Network
+tags:
+- Facebook
+- Google
+- Social Network
+---
+
+Google ci riprova, dopo l'"epic fail" di Google Wave ed il mezzo fiasco di Google Buzz, the Big G si rimette in carreggiata in versione minimal, ricominciando da +1.
+
+**Plas Uan!**
+
+![](http://www.atomodelmale.it/wp-content/uploads/2011/06/plus-1-image.png)Al di là delle reti sociali, dei network di amicizie e di tutto l'ambaradan di analisi delle reti sociali, la rete ha evidenziato una **regola universale**: trova il modo di **fare quello che gli utenti vogliono col minimo sforzo** possibile e sarai il re del mercato.
+
+E' un principio base dell'evoluzione e è vero tanto nella vita reale quanto in quella del cyberspazio.
+
+Da quando la rete è diventata "social", la massa informe di utenti che ogni giorno migrano da una parte all'altra di questo immenso oceano fatto di link, si è spostata secondo la regola esposta sopra e **declinabile in mille salse** dal "_voglio cercare questa cosa: vado su Google che c'è solo la barra di ricerca e trovo subito quel che cerco_", al  "_voglio mandare un link ai miei amici? Vado su Facebook e "posto" il link sul mio stato, così tutti lo vedono_" e via di questo passo.
+
+Consci della regola e degli insuccessi precedenti, Google torna all'attacco del Social Network, insidiando il suo marchio di fabbrica: l**'I Like** ("mi piace", in versione italiota).
+
+![](http://www.atomodelmale.it/wp-content/uploads/2011/06/googleplus_logo.png)
+
+Tramite un bottone "**+1**" a fianco dei link risultanti da una ricerca, l'utente potrà esprimere il gradimento per quel link: tale gradimento andrà a sommarsi a quello di tanti altri utenti sia in forma anonima -- tot. utenti hanno preferito questo link -- **sia direttamente sui** nostri **contatti Gmail e Gtalk**, diventando, di fatto, uguale al "mi piace" di Facebook.
+
+**Google+**
+
+Oltre al servizio "+1" , Big G ha affermato di volersi dedicare agli aspetti social della ricerca in maniera più specifica, dedicandosi ad un progetto ad hoc chiamato "**Google+**".
+
+Stando alle dichiarazioni dell'azienda di Mountain View, il progetto Google+ assumerà l'aspetto di un vero e proprio** social network**, in diretta concorrenza con quella "rete nella rete" che Facebook è diventato.
+
+![](http://www.atomodelmale.it/wp-content/uploads/2011/06/circles-300x185.png)Come già visto su FacciaLibro, anche Google+ darà la possibilità di **aggiornare il proprio stato e postare immagini e video**, permettendo inoltre di  selezionare gruppi di amicizie con i quali condividerli: sotto questo aspetto Google ha imparato la lezione di FB e Twitter, inventando i "**Circle**" -- che sia una citazione del "Circle of Trust" di De Niro in Ti Presento i Miei? -- **di amicizie**. Queste "cerchie" non sono altro che gruppi di persone che conosciamo più o meno bene e che possono essere considerate all'interno delle "cerchie di conoscenza" coi quali vogliamo condividere informazioni generiche piuttosto che personali, come ad esempio i nostri familiari o migliori amici.
+
+Nulla di nuovo rispetto ai "**gruppi" **già implementati da Facebook, ma mentre il "libro delle facce" aggiunge tutti gli utenti nello stesso immenso gruppo di amicizie per poi lasciare che l'utente definisca tali gruppi, Google+ applica l'approccio inverso, definendo dei circoli di utenti ai quali siamo legati e che possiamo gestire in maniera più esplicita.
+
+![](http://www.atomodelmale.it/wp-content/uploads/2011/06/hangouts-300x112.png)
+
+A fianco dei Circles, la novità assoluta del social network di Google è **Hangout**: oltre la semplice funzione di "chat", Hangout permette di **contattare contemporaneamente più persone sia tramite testo che tramite audio e perfino video**. Al fianco di Hangout troviamo **Huddle**, il sistema di **messaggistica istantanea** esteso anche alle applicazioni **mobile **e **desktop**.
+
+**Quando?**
+
+Per il momento possiamo solo notare un "+1" che fa capolino a fianco dei link delle ricerche di Google, ma Big G ha affermato che il suo social network è attualmente in fase di testing interna e che a breve sarà possibile iscriversi a Google+ tramite invito, per poi diventare libero per tutto il pubblico.
+
+Se Google+ riuscirà a scrollarsi di dosso il retaggio di Google Wave e Buzz lo scopriremo solo nel prossimo futuro, nel mentre potremmo chiederci "riuscirà Google a **smuovere le pigre abitudini di una cosa come 750 milioni di intorpiditi utenti** di Facebook?" all'evoluzione l'ardua sentenza!

@@ -1,0 +1,39 @@
+---
+author: thesave
+comments: true
+date: 2016-01-26 17:12:05+00:00
+layout: post
+link: http://www.atomodelmale.it/2016/01/26/mr-robot/
+slug: mr-robot
+title: Mr. Robot
+wordpress_id: 16416
+image: uploads/2016/01/Mr.Robot000.jpg
+categories:
+- Informatica
+- Serie e Programmi TV
+tags:
+- hacker
+- Informatico
+---
+
+Tecnico, paranoico e intrippante.
+Domo Arigato, Mr. Roboto!
+
+## Mr. Robot
+
+Mr. Robot si presenta con un biglietto da visita di un quarto d'ora che imposta il tono di tutta la serie.
+
+![]({{ site.baseurl }}/uploads/2016/01/Mr.Robot002.jpg)
+
+S'inizia, con una persona per bene, un self-made man che piace tanto ai WhatsAmericani che poi, grazie a Elliot, si scopre essere invischiato in un traffico di materiale pedo-pornografico. 
+Ed eccolo il protagonista, Elliot (Rami Malek, ebbene si, il faraone di Una Notte al Museo), occhi a palla, pallido, abbigliamento da black block, parlata biascicata, esperto di sicurezza informatica di giorno, cavaliere oscuro dell'hacking di notte, misantropo 24/7. Elliot è sul baratro di una forte depressione e con un passato fatto di allucinazioni e visite psichiatriche. Il mondo visto tramite i suoi occhi (e la sua narrazione) è cupo e freddo. Un fitto reticolo che imbriglia le persone, circondandole in un bozzolo di vane necessità e false sicurezze. Un ordito tessuto da quel 1% fatto da multinazionali e industriali che controlla e comanda il restante 99%. Una tecnocrazia che minaccia tutti e che può essere distrutta solo dall'interno.
+
+I metodi del protagonista sono poco ortodossi. Pur di "proteggere" le persone che ama, non esita a forzare le loro password, ad entrare nei loro conti bancari e a leggere i loro messaggi. Ed è proprio questa mescola tra ossessione (chi ha detto stalking?) ed eroismo che fa del protagonista di Mr. Robot un perfetto (anti)eroe.
+
+Dato che non esiste eroe senza un nemico, ecco la e-corp, ribattezzata all'uopo "evil corp" (organizzazione malvagia), una delle più grandi aziende mondiali che, ironia della sorte, firma un contratto con la compagnia di sicurezza informatica per cui lavora Elliot.
+
+![]({{ site.baseurl }}/uploads/2016/01/Mr.Robot001.jpg)
+
+Da lì all'arrivo di Christian Slater il passo è breve --- prezzemolo di millemila serie TV a tema hackeroso. Quando Elliot sventa un attacco informatico alla e-corp, scopre che dietro all'attacco c'è un gruppo di hacker chiamato FSociety e capeggiato da Slater che, colpo di scena, tenterà Elliot col frutto proibito: distruggere la e-corp dall'interno.
+
+La serie, andata in onda negli USA nella seconda metà del 2015 e vincitrice di 3 Golden Globes, arriverà in Italia a Marzo 2016.

@@ -1,0 +1,31 @@
+---
+author: Il Gorgonauta
+comments: true
+date: 2009-12-25 11:07:39+00:00
+layout: post
+link: http://www.atomodelmale.it/2009/12/25/natale-2009-2/
+slug: natale-2009-2
+title: Natale 2009.
+wordpress_id: 6295
+image: uploads/2009/12/2009-12-25-natale-2009-2.jpg
+categories:
+- Festività
+tags:
+- Natale
+---
+
+**Natale 2009**, il blog coglie l'occasione delle feste di Natale per ringraziare ed augurare buone feste a tutti i suoi lettori.
+
+E' difficile ogni anno trovare nuove parole per augurare al prossimo il Natale, senza rischiare di cadere nella retorica,  nel superfluo o nella ripetizione di concetti o auguri triti e ritriti. E ancora più difficile è ritrovarsi nel periodo natalizio con lo spirito giusto.
+
+Perchè concetti come rispetto, comprensione e considerazione degli altri, bontà talvolta appaiono concetti privi di ogni significato e senso, rovinati e distrutti dall'infinita piccolezza dell'intero genere umano. Che senso ha sognare, sperare se i nostri sogni verranno annullati entro breve tempo da chi ci circonda? Alla luce di tutto questo come provare a parlare di pace e fratellanza quando al giorno d'oggi il prossimo non è che solo un nemico o non si considera affatto?
+
+Mi è capitato in questi giorni di osservare numerosi auguri di Buon Natale (vecchi e passati) ma non ho potuto fare a meno di notare la loro ipocrisia : persone che parlano di valori (quali, forse se stessi?), di spirito natalizio da conservare per tutto il resto dell'anno, di amore. Concetti che sembrano svanire il primo dell'anno.
+
+Appare sensato parlare di umano affetto per il prossimo quando il prossimo é, al massimo, 1 (se 2, si tratta già di un gran risultato) individuo? Osservo e vedo (in generale, chi è senza peccato scagli la prima pietra) odio, esclusione, incomunicabilità, egoismo, futilità e mi chiedo con grande amarezza in quale direzione il genere umano si stia mai spingendo. Forse troppo indaffarato a comunicare con gli altri a distanza  (o a non farlo affatto)  si è ormai abituato a interporre con l'altro una barriera protettiva. E sperare che tutte queste parole servano a qualcosa è a dir poco assurdo.
+
+Ho potuto osservare personalmente con grande tristezza e amarezza eventi dai quali non è potuta derivare che una profonda delusione, una totale sfiducia e perciò quest'anno non posso che tenere un basso profilo. Credo tuttavia anche che quanto avvenuto non possa abbattere la mia volontà di resistere, combattere e credere nel futuro, sopratutto e principalmente per quanti saranno i prossimi cittadini e abitanti di questa pianeta, lasciandogli in eredità il miglior mondo possibile.
+
+Nel frattempo, e semplicemente, **Buon Natale**.
+
+[![]({{ site.baseurl }}/uploads/2009/12/buonnatale.jpg)]({{ site.baseurl }}/uploads/2009/12/buonnatale.jpg)

@@ -1,0 +1,45 @@
+---
+author: thesave
+comments: true
+date: 2011-03-28 22:16:58+00:00
+layout: post
+link: http://www.atomodelmale.it/2011/03/29/rango/
+slug: rango
+title: Rango
+wordpress_id: 9310
+image: uploads/2011/03/Rango_Banner.jpg
+categories:
+- Animazione
+---
+
+Deserto del Mojave, un eroe senza nome.
+
+**Polvere, cactus e pistole**
+
+![]({{ site.baseurl }}/uploads/2011/03/Rango_locandina.jpg)
+
+Non si tratta di un film apocrifo di Sergio Leone, ma dell'ultima fatica del inaspettato duo **Verbinski**-IL&M (alias **Industrial Light and Magic**).
+
+Per la cronaca, il primo -- che di nome fa Gore -- è il **registra** della trilogia di **Pirati dei Caraibi**, la seconda è la -- pluridecorata -- compagnia di effetti speciali fondata da **George  Lucas**, per la prima volta impegnata in un film d'animazione.
+
+Se la **location** del film ricalca ambienti ed atmosfere tipiche delle pellicole di **Leone** a Ford, i personaggi sembrano presi dalla migliore tradizione Disney, a cominciare dal protagonista, **Rango**, un allampanato **camaleonte** un po' **schizofrenico** e col **pallino  per la recitazione**.
+
+La sua avventura comincia in un terrario su una macchina che attraversa il **Mojave**(California). Rango si chiede **quale sia la propria avventura** e soprattutto **quale ruolo** deve interpretare.
+
+![]({{ site.baseurl }}/uploads/2011/03/Rango_Banner.jpg)
+
+Un provvidenziale scossone fa sobbalzare il terrario, che impatta sul riarso asfalto, andando in mille pezzi.
+
+Da questo momento inizia una pazza **avventura a metà tra il reale e l'onirico** -- firma d'autore di Verbinski -- che porterà il povero ed assetato camaleonte alla cittadina di **Dust** -- letteralmente: "polvere" --, diventandone lo **sceriffo**.
+
+Contro qualsiasi pronostico, Rango dovrà guidare un'eterogenea squadra di soccorso per **salvare dalla siccità incombente** sui cittadini, trovando così la propria strada.
+
+**Capitan Jack Rango**
+
+![]({{ site.baseurl }}/uploads/2011/03/rango_prima-immagine.jpg)
+
+Alla sua prima prova d'animazione, Verbinski va sul sicuro, ritornando a lavorare con una cara vecchia conoscenza: benché sia rivestito da squame multicolori, Rango lascia trasparire la **strampalata** e dirompente **personalità** di **Johnny** -- Captain Sparrow -- **Depp**, che ne doppia la versione originale, portando al personaggio tutto il **non-sense, l'antieroismo e l'eccentricità dell'amato pirata**.
+
+Il resto lo fanno le magnifiche ambientazioni, la coinvolgente -- e mai scontata -- colonna sonora, insieme ad un buon assortimento di personaggi di contorno a metà tra la **macchietta cartonata** e il **vissuto caratterista**.
+
+Concludendo, un'ottima prova d'autore sia da parte di Verbinski che per la IL&M nel confezionare **un film d'animazione che piacerà a tutta la famiglia**, dai bambini affamati di eroi alla Toy Story, ai più grandi che non potranno non amare i continui riferimenti -- **Clint in primis**-- ai grandi classici western.

@@ -1,0 +1,35 @@
+---
+author: thesave
+comments: true
+date: 2013-10-21 16:45:21+00:00
+layout: post
+link: http://www.atomodelmale.it/2013/10/21/gravity/
+slug: gravity
+title: Gravity
+wordpress_id: 13906
+image: uploads/2013/10/garvity001.jpg
+categories:
+- Fantascienza
+tags:
+- George Clooney
+- Sandra Bullock
+- Spazio
+---
+
+Piccolo grande film Gravity, nonché fratello minore dell'osannato I Figli dell'uomo di Alfonso Cuaron che per l'occasione firma la pellicola insieme al figlio Jonas.
+
+Dopo il travagliato percorso che l'ha portato a trovare un distributore, finalmente Gravity è arrivato nelle sale, ricevendo il plauso di pubblico e critica, giustificando -- perfino -- l'aggiunta al biglietto per la visione in 3D. Si perché se Cameron con [Avatar](/tag/avatar/) ha riportato in auge la terza dimensione, è Cuaron che, dopo tanto tempo, l'ha finalmente glorificata in tutta la sua magnificenza. Ma andiamo con ordine.
+
+![gravity003]({{ site.baseurl }}/uploads/2013/10/gravity003.jpg)
+
+La dottoressa Ryan Stone e il capitano di missione Matt Kowalski -- rispettivamente Sandra Bullock e George Clooney -- si trovano nello spazio per una missione "di routine". La Stone deve installare un nuovo sistema di rilevamento sull'Hubble. Una passeggiatina nello spazio, s'avvitano un paio di bulloni e il gioco è fatto. E invece no. Mentre a noi spettatori brilluccicano ancora gli occhi per le estasianti riprese della Terra vista dallo spazio, succede l'inaspettato. I detriti di un satellite russo esploso stanno orbitando a migliaia di chilometri orari verso i Nostri che, c'era da aspettarselo, vengono colpiti in pieno. Shuttle distrutto, equipaggio ridotto ai due protagonisti citati sopra e null'altro che l'assordante silenzio della spazio. Si perché, al contrario dei millemila film fantasciementifici a cui ci ha abituato Hollywood, nello spazio non c'è aria quindi niente PICIUuu PICIUuu dei laser e BAM BAM delle esplosioni ma solo il gracchiare delle altalenanti comunicazioni radio e l'ovattato suono che gli astronauti possono sentire come vibrazione sulle loro tute.
+
+Ai due superstiti non rimane che intraprendere la propria "odissea nello spazio", tentando disperatamente di raggiungere la Stazione Spaziale Internazionale fluttuando nel pericoloso vuoto.
+
+## Gravity, gravitas et de gravitatione
+
+![gravity002]({{ site.baseurl }}/uploads/2013/10/gravity002.jpg)
+
+Dicevo nel cappello introduttivo: "piccolo grande film". Piccolo per tanti motivi, per i suoi appena 90' di lunghezza, per avere uno dei cast più minimali degli ultimi anni e perché, nell'immensità del cosmo, racconta la storia di minuscoli uomini che, malgrado tutto, non rinunciano a lottare per sopravvivere e tornare sull'amata Terra. Un piccolo grande film o un grande piccolo film, fate voi. Intanto nel tempo di una partita di calcio, Cuaron meraviglia il proprio pubblico, proponendo uno spettacolo visivo che solo Avatar e Titanic hanno saputo eguagliare, impiegando con saggezza il meglio degli effetti visivi per sbalordire lo spettatore ed immedesimarlo nei/nella protagonisti/a. La fotografia è spettacolare e mai come in questo caso le dimensioni -- dello schermo -- contano per goderselo a pieno. In più metteteci una storia che vi terrà incollati alla sedia da inizio a fine film, registrando la (probabilmente) miglior prestazione attoriale della Bullock.
+
+Quindi, se non lo avete ancora fatto, andate al cinema col miglior schermo 3D di zona -- meglio se IMAX --, inforcate gli occhialetti e godetevi la stupefacente meraviglia di Gravity. Lezioni di fisica spicciola incluse.
