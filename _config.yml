@@ -1,7 +1,6 @@
 # Site
 name: "Atomo del Male"
 # description: "Il Blog dell'Atomo del Male"
-baseurl: "/"
 logo: 'uploads/2013/08/atomodelmale.png'
 favicon: '/favicon.ico'
 google_analytics: 'UA-6475945-1'
