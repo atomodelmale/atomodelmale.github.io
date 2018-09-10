@@ -17,7 +17,7 @@ tags:
 
 [caption id="attachment_13230" align="alignleft" width="224"]![San Gimignano, scorcio da piazza della Cisterna]({{ site.baseurl }}/uploads/2013/05/San-Gimignano-1.jpg) San Gimignano, scorcio da piazza della Cisterna[/caption]
 
-Lasciateci alle spalle [Siena](/2013/04/25/idee-per-una-vacanza-4-giorni-in-provincia-di-siena-parte-ii/) e l'Abbazia di San Galgano, è ora di concentrarsi sulle ultime tappe del nostro viaggio: **San Gimignano** e **Monteriggioni**, in Val d'Elsa. Per chi ne avrà tempo e voglia, non potrà mancare una breve visita a Colle di Val d'Elsa.
+Lasciateci alle spalle [Siena](/2013/04/25/idee-per-una-vacanza-4-giorni-in-provincia-di-siena-parte-ii.html) e l'Abbazia di San Galgano, è ora di concentrarsi sulle ultime tappe del nostro viaggio: **San Gimignano** e **Monteriggioni**, in Val d'Elsa. Per chi ne avrà tempo e voglia, non potrà mancare una breve visita a Colle di Val d'Elsa.
 
 Si comincia con **San Gimignano**, raggiungibile facilmente da Colle di Val d'Elsa o Poggibonsi. La cittadina, famosa per le sue torri (delle 72 medievali, oggi ne restano 16), è stato dichiarata dall'Unesco patrimonio dell'umanità. Da vedere, il Palazzo comunale, la Pinacoteca, la Torre Grossa e la Collegiata di Santa Maria Assunta (il Duomo). Da segnalare anche piazza della Cisterna, Porta San Giovanni e la Rocca di Montestaffoli. L'intera città è comunque piena di spunti suggestivi e luoghi d'interesse.
 

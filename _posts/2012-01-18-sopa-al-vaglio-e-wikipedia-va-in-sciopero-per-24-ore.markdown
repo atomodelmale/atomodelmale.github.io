@@ -23,7 +23,7 @@ Perché? Semplicemente perché, come per tutte le leggi anti-pirateria, l'oggett
 
 Secondo molti tecnici di settore, PIPA e SOPA sarebbero **del tutto inefficaci per contrastare la vera pirateria** -- chi commercia materiale coperto da copyright -- e al contrario rappresentano una **seria minaccia alla libera circolazione di idee e conoscenza**.
 
-Che sia la solita dimostrazione che, al contrario di quanto dovrebbe accadere, **non sono i tecnici a fare le leggi ma politici** che del problema che trattano sanno poco o niente e eventualmente risentono delle pressioni delle major produttrici?  (abbiamo avuto recentemente un [esempio analogo](/2011/06/30/agcom-nuova-legge-bavaglio-sul-diritto-dautore/) anche nel Bel Paese)
+Che sia la solita dimostrazione che, al contrario di quanto dovrebbe accadere, **non sono i tecnici a fare le leggi ma politici** che del problema che trattano sanno poco o niente e eventualmente risentono delle pressioni delle major produttrici?  (abbiamo avuto recentemente un [esempio analogo](/2011/06/30/agcom-nuova-legge-bavaglio-sul-diritto-dautore.html) anche nel Bel Paese)
 
 **Pirati, per imposizione**
 

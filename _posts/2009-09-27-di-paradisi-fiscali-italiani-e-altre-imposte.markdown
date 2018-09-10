@@ -21,7 +21,7 @@ tags:
 - Scudo
 ---
 
-Già lo scorso mese scrissi **[un articolo](/2009/08/26/controlli-fiscali-sullemilia-romagna/)** riguardo ai sempre più**capillari controlli fiscali** in Emilia-Romagna che stanno "mietendo" vittime tra gli evasori locali, su scala nazionale la fruttuosa **collaborazione tra gli organi statali e territoriali** ha inaugurato una stagione di controlli che è culminata nella recente approvazione dello scudo fiscale da parte di Camera e Senato.
+Già lo scorso mese scrissi **[un articolo](/2009/08/26/controlli-fiscali-sullemilia-romagna.html)** riguardo ai sempre più**capillari controlli fiscali** in Emilia-Romagna che stanno "mietendo" vittime tra gli evasori locali, su scala nazionale la fruttuosa **collaborazione tra gli organi statali e territoriali** ha inaugurato una stagione di controlli che è culminata nella recente approvazione dello scudo fiscale da parte di Camera e Senato.
 
 **Si scrive "scudo", si legge "condono"**
 

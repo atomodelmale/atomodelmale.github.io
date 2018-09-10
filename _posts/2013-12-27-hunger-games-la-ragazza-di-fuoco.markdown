@@ -22,7 +22,7 @@ categories:
 
 ## La ghiandaia nella cupola che scotta (e fulmina!)
 
-Il secondo capitolo del franchise di Hunger Games ci presenta una Jennifer Lawrence agguerrita e fragile. Il "triangolo no" c'è grazie ai due pretendenti -- quella faccia di tolla di Peeta e quel superfigo di Gale, nonché fratello di [Thor](/2011/05/03/thor/) (no, non Loki). Fortuna vuole che la pellicola non indugi particolarmente sui piccoli problemi di cuore della protagonista, presentando al contrario quel bastardone del presidente ed il suo piano malefico per distruggere -- pubblicamente e fisicamente -- Katniss.
+Il secondo capitolo del franchise di Hunger Games ci presenta una Jennifer Lawrence agguerrita e fragile. Il "triangolo no" c'è grazie ai due pretendenti -- quella faccia di tolla di Peeta e quel superfigo di Gale, nonché fratello di [Thor](/2011/05/03/thor.html) (no, non Loki). Fortuna vuole che la pellicola non indugi particolarmente sui piccoli problemi di cuore della protagonista, presentando al contrario quel bastardone del presidente ed il suo piano malefico per distruggere -- pubblicamente e fisicamente -- Katniss.
 
 ![Catching Fire3]({{ site.baseurl }}/uploads/2013/12/Catching-Fire3.jpg)
 

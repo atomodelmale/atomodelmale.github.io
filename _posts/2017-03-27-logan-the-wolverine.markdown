@@ -22,7 +22,7 @@ Il Canto <del>del Cigno</del> di Wolverine. Lacrime e, finalmente, sangue!
 
 ## Logan
 
-In matematica, un punto fisso di una funzione è un elemento mappato in sé stesso. Da 17 anni a questa parte Wolverine/Hugh Jackman è stato il punto fisso dell'universo cinematografico degli X-Men. Nel carnet dell'artigliato canadese si contano i film della [prima trilogia degli X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/), passando ai due (e con questo Logan, tre) spin-off [Le Origini](/2009/05/23/x-men-le-origini-wolverine/) e [The Wolverine --- L'immortale](/2013/08/25/wolverine-limmortale/), arrivando fino ai più recenti [First Class](/2014/05/31/x-men-giorni-di-un-futuro-passato/), [Giorni di un Futuro Passato](/2014/05/31/x-men-giorni-di-un-futuro-passato/) e [Apocalypse](/2016/05/27/x-men-apocalypse/).
+In matematica, un punto fisso di una funzione è un elemento mappato in sé stesso. Da 17 anni a questa parte Wolverine/Hugh Jackman è stato il punto fisso dell'universo cinematografico degli X-Men. Nel carnet dell'artigliato canadese si contano i film della [prima trilogia degli X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html), passando ai due (e con questo Logan, tre) spin-off [Le Origini](/2009/05/23/x-men-le-origini-wolverine.html) e [The Wolverine --- L'immortale](/2013/08/25/wolverine-limmortale.html), arrivando fino ai più recenti [First Class](/2014/05/31/x-men-giorni-di-un-futuro-passato.html), [Giorni di un Futuro Passato](/2014/05/31/x-men-giorni-di-un-futuro-passato.html) e [Apocalypse](/2016/05/27/x-men-apocalypse.html).
 
 ![]({{ site.baseurl }}/uploads/2017/03/logan-003.jpg)
 

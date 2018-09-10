@@ -24,9 +24,9 @@ Civil War, botte a volontà ma di grande qualità.
 
 ## Civil War
 
-Terzo capitolo per il [Primo Vendicatore](/2011/07/31/capitan-america-il-primo-vendicatore/) dopo il (grande) successo del precedente [Winter Soldier](/2014/03/30/captain-america-the-winter-soldier/).
+Terzo capitolo per il [Primo Vendicatore](/2011/07/31/capitan-america-il-primo-vendicatore.html) dopo il (grande) successo del precedente [Winter Soldier](/2014/03/30/captain-america-the-winter-soldier.html).
 
-Mettiamo subito le carte in tavola. Questo Civil War ha --- nel bene o nel male --- poco o nulla a che spartire coll'omonimo [crossover fumettistico](https://it.wikipedia.org/wiki/Civil_War_(fumetto)). È un film della serie Captain America, quindi è lui il protagonista (così come Superman lo era nel recente [Batman vs Superman](/2016/03/31/batman-v-superman/)). E infine, ci ho messo la bellezza di 3 giorni per trovare un "perché" che ne giustificasse la trama.
+Mettiamo subito le carte in tavola. Questo Civil War ha --- nel bene o nel male --- poco o nulla a che spartire coll'omonimo [crossover fumettistico](https://it.wikipedia.org/wiki/Civil_War_(fumetto)). È un film della serie Captain America, quindi è lui il protagonista (così come Superman lo era nel recente [Batman vs Superman](/2016/03/31/batman-v-superman.html)). E infine, ci ho messo la bellezza di 3 giorni per trovare un "perché" che ne giustificasse la trama.
 
 ![]({{ site.baseurl }}/uploads/2016/05/civil_war001.jpg)
 

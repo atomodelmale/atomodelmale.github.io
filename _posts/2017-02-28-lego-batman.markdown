@@ -22,9 +22,9 @@ Iron-Man Puzza!
 
 Dopo il successo di "LEGO Movie" la Warner torna a portare sullo schermo i mattoncini danesi animati con un film incentrato su uno dei [Master Builders](http://lego.wikia.com/wiki/Master_Builders_(The_LEGO_Movie)) visti nel primo film: BATMAAAN!
 
-Com'è questo Batman rispetto alle millemilamiglia di interpretazioni, tra cui [questa](/2012/09/29/the-dark-knight-rises-il-cavaliere-oscuro-il-ritorno/), [questa](/2016/08/25/batman-the-telltale-series/) e [questa](/2016/03/31/batman-v-superman/)?
+Com'è questo Batman rispetto alle millemilamiglia di interpretazioni, tra cui [questa](/2012/09/29/the-dark-knight-rises-il-cavaliere-oscuro-il-ritorno.html), [questa](/2016/08/25/batman-the-telltale-series.html) e [questa](/2016/03/31/batman-v-superman.html)?
 
-Semplice, è la prima pellicola, seconda solo alla mitica serie TV anni '60 sul Pipistrello interpretata da Adam West, che si prende la briga di presentare un super-eroe autoironico, attributo finora riservato ad un eroe fuori di testa (e di successo) come [Deadpool](/2016/02/29/deadpool/) (ma con un target tutt'altro che fanciullesco).
+Semplice, è la prima pellicola, seconda solo alla mitica serie TV anni '60 sul Pipistrello interpretata da Adam West, che si prende la briga di presentare un super-eroe autoironico, attributo finora riservato ad un eroe fuori di testa (e di successo) come [Deadpool](/2016/02/29/deadpool.html) (ma con un target tutt'altro che fanciullesco).
 
 Benché il film presenti un Batman tenebroso à la Nolan, in fondo in fondo (mica troppo) il cavaliere oscuro (e il proprio alter ego Bruce Wayne) è tutt'al più un bamboccione con un ego smisurato, tanti soldi e una vita vuota riempita solo da aragoste e nuotate coi delfini. Per fortuna a movimentare la vita di Batman ci penseranno la nemesi Jocker (qui in versione "Disperato Bisogno di <del>Amore</del> Odio") e gli alleati Robin, Alfred e la figlia del commissario Gordon, Barbara (doppiata da Geppi Cucciari, ottima comica ma come figlia del commissario --- Ajò! --- Gordon sta come i cavoli a merenda).
 

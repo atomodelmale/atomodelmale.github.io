@@ -20,7 +20,7 @@ tags:
 
 Il terzo week end per chi non ne vuole sapere di macchine ribelli ecco una divertente commedia in arrivo dagli States, **La ragazza del mio migliore amico_**,con Dustin intento a riconquistare Alexis(Kate Hudson), la donna dei suoi sogni, dopo la fine della loro relazione. Per raggiungere il suo obiettivo si servirà del suo migliore amico Tank, il quale però si ritroverà a dover scegliere tra i 2.
 
-L'ultimo venerdì del mese ecco **Crossing Over**, una pellicola dedicata al tema dell'immigrazione in terra americana e **_ Transformers - La vendetta del caduto_**, il seguito del fortunato [film](/2007/07/04/transformers/) uscito nelle sale cinematografiche lo scorso 2007.
+L'ultimo venerdì del mese ecco **Crossing Over**, una pellicola dedicata al tema dell'immigrazione in terra americana e **_ Transformers - La vendetta del caduto_**, il seguito del fortunato [film](/2007/07/04/transformers.html) uscito nelle sale cinematografiche lo scorso 2007.
 
 ![Layout 1]({{ site.baseurl }}/uploads/2009/06/transformers-la-vendetta-del-caduto.jpg)
 

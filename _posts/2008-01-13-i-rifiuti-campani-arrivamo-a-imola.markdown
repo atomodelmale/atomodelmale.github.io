@@ -17,7 +17,7 @@ tags:
 - Rifiuti
 ---
 
-In questi giorni l'emergenza rifiuti in Campania, come si sa, è al centro del dibattito nazionale ed è sulla bocca di tutti. Anche il nostro [blog ](/2008/01/06/campania-riemergenza-rifiuti/)ne ha parlato. Tra le misure per superare la situazione è stato deciso che parte dei rifiuti campani saranno smaltiti in altre regioni. L'Emilia Romagna ha detto di essere disponibile e ha ottenuto 5,000 tonnellate di immondizia, 3,000 delle quali saranno smaltite a Imola, nell'impianto di via Pediano.
+In questi giorni l'emergenza rifiuti in Campania, come si sa, è al centro del dibattito nazionale ed è sulla bocca di tutti. Anche il nostro [blog ](/2008/01/06/campania-riemergenza-rifiuti.html)ne ha parlato. Tra le misure per superare la situazione è stato deciso che parte dei rifiuti campani saranno smaltiti in altre regioni. L'Emilia Romagna ha detto di essere disponibile e ha ottenuto 5,000 tonnellate di immondizia, 3,000 delle quali saranno smaltite a Imola, nell'impianto di via Pediano.
 
 La notizia però non è stata accolta con molte favore da alcuni cittadini imolesi che hanno dato vita ad una raccolta firme per protestare contro la decisione mentre scritte offensive contro il sindaco sono comparse sul portone del municipio. Si preannunciano anche blocchi davanti alla discarica e altre misure per impedire che i rifiuti arrivino a destinazione.
 

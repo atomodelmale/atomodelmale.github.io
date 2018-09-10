@@ -30,7 +30,7 @@ Recentemente aggiornato con una nuova e sciccossima interfaccia. Wunderlist, dis
 
 ![Google_Tasks]({{ site.baseurl }}/uploads/2013/05/Google_Tasks.png)
 
-Google Tasks non avrà tutte le opzioni di Wunderlist, ma ha dalla sua una forte integrazione --stupirebbe il contrario-- con gMail, Google Calendar e --il morituro-- [iGoogle](/2012/07/31/le-alternative-a-igoogle-netvibes-e-protopage/). Google Task permette di "convertire" i messaggi di gMail in task (anche in liste di task), si integra col calendar per notifiche e ricorrenze.
+Google Tasks non avrà tutte le opzioni di Wunderlist, ma ha dalla sua una forte integrazione --stupirebbe il contrario-- con gMail, Google Calendar e --il morituro-- [iGoogle](/2012/07/31/le-alternative-a-igoogle-netvibes-e-protopage.html). Google Task permette di "convertire" i messaggi di gMail in task (anche in liste di task), si integra col calendar per notifiche e ricorrenze.
 
 Non esiste un app per mobile ufficiale per Google Tasks, anche se ne esistono molte di terze parti sui vari store di applicazioni.
 

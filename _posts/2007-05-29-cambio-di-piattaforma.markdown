@@ -15,7 +15,7 @@ tags:
 - Wordpress
 ---
 
-A gennaio di quest'anno postavo **[il primo articolo](/2007/01/11/x-agosto/)** del blog, un blog che sta crescendo sopratutto grazie alla gente che ci fa visita tutti i giorni.
+A gennaio di quest'anno postavo **[il primo articolo](/2007/01/11/x-agosto.html)** del blog, un blog che sta crescendo sopratutto grazie alla gente che ci fa visita tutti i giorni.
 
 Beh, dopo 5 mesi da autore (nonché amministratore del blog) mi sono ritrovato a tirare le somme su quello che è successo, su come sta procedendo questa "avventura" e su come procederà ed è per questo che ho scelto (non senza pensarci su due o tre volte) di passare dalla piattaforma offerta da blogger (che fin ora ci ha ospitati e ci ha permesso di crescere) ad una un po' più ampia ed adatta ad un blog come quello che sta diventando l'Atomo del Male...
 

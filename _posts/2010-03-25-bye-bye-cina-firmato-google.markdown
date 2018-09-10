@@ -20,7 +20,7 @@ tags:
 ---
 
 
-Le relazioni tra **Google** e la **Cina** non sono state mai buone ma i **[recenti attacchi](/2010/01/13/la-cina-scopre-il-dalai-lama-grazie-a-google/)** da parti di hacker cinesi ad alcuni indirizzi di posta gmail hanno segnato un punto di svolta, almeno nei rapporti reciproci e nelle strategie di Mountain View. Che prima ha cercato di raggiungere un accordo con il Governo cinese per ridimensionare, se non cancellare, i **filtri** imposti da Pechino al proprio motore di ricerca e poi ha deciso di ridurre, se non eliminare del tutto, la propria attività nel paese asiatico.
+Le relazioni tra **Google** e la **Cina** non sono state mai buone ma i **[recenti attacchi](/2010/01/13/la-cina-scopre-il-dalai-lama-grazie-a-google.html)** da parti di hacker cinesi ad alcuni indirizzi di posta gmail hanno segnato un punto di svolta, almeno nei rapporti reciproci e nelle strategie di Mountain View. Che prima ha cercato di raggiungere un accordo con il Governo cinese per ridimensionare, se non cancellare, i **filtri** imposti da Pechino al proprio motore di ricerca e poi ha deciso di ridurre, se non eliminare del tutto, la propria attività nel paese asiatico.
 
 Google quindi ha dirottato tutto il **traffico** del proprio motore di ricerca, nella sua versione cinese (cioè Google.com.cn), verso Hong Hong (cioè all'indirizzo Google.com.hk), liberandosi in teoria dai filtri imposti dal governo di Pechino. Solo in teoria però perchè l'accesso al nuovo sito potrebbe essere bloccato dalle autorità cinesi, le quali inoltre potrebbero limitare o bloccare le funzionalità di tutti i siti di Google all'interno del proprio territorio (contromisura che si [segnala](http://www.google.com/prc/report.html#hl=en) già presa in atto).
 

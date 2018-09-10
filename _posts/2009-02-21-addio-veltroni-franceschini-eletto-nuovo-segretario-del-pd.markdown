@@ -28,7 +28,7 @@ Queste sono state le parole di **Walter Veltroni** dopo la sconfitta in Sardegna
 
 La domanda da cui dobbiamo partire è tanto semplice quanto oscura; che cosa il **PD**?
 
-Già ai tempi delle primarie [scrissi](/2007/09/24/248/) che la mia paura era che il nuovo soggetto politico che si sarebbe formato da lì a poco non sarebbe stato altro che la fusione di due partiti (DS e Margherita). Purtroppo la storia mi ha dato ragione e il Partito Democratico ha mantenuto quella che era la caratteristica delle coalizioni di Centro-Sinistra, ovvero un insieme di viziati incollati alla poltrona che non fanno altro che litigare tra di loro mentre il paese sta andando al catafascio.
+Già ai tempi delle primarie [scrissi](/2007/09/24/248.html) che la mia paura era che il nuovo soggetto politico che si sarebbe formato da lì a poco non sarebbe stato altro che la fusione di due partiti (DS e Margherita). Purtroppo la storia mi ha dato ragione e il Partito Democratico ha mantenuto quella che era la caratteristica delle coalizioni di Centro-Sinistra, ovvero un insieme di viziati incollati alla poltrona che non fanno altro che litigare tra di loro mentre il paese sta andando al catafascio.
 
 Personalmente non so dirvi che cosa sia il PD, ma posso dirvi cosa mi piacerebbe fosse.
 

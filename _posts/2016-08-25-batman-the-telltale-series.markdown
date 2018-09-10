@@ -19,7 +19,7 @@ Il crociato incappucciato punta... e clicca!
 
 ## I'm Batman!
 
-Questo mese abbiamo già parlato delle avventure ad episodi con [Life is Strange](/2016/08/17/life-is-strange/) e, pur in maniera indiretta, di [Batman](/2016/08/24/suicide-squad/). A chiudere il cerchio ci pensa Telltale (già presentata come una delle principali software house del settore delle avventure ad episodi) col recente "Batman: the Telltale Series" che, portando a casa il bat-logo, conferma di saper conquistare i favori di pubblico e critica.
+Questo mese abbiamo già parlato delle avventure ad episodi con [Life is Strange](/2016/08/17/life-is-strange.html) e, pur in maniera indiretta, di [Batman](/2016/08/24/suicide-squad.html). A chiudere il cerchio ci pensa Telltale (già presentata come una delle principali software house del settore delle avventure ad episodi) col recente "Batman: the Telltale Series" che, portando a casa il bat-logo, conferma di saper conquistare i favori di pubblico e critica.
 
 Come per gli altri componenti della famiglia allargata di Telltale, anche la serie sul cavaliere oscuro vede il giocatore interpretare il protagonista Bruce Wayne/Batman alle prese con dialoghi serrati, investigazioni (del resto l'uomo pipistrello è il miglior  detective del mondo) e colpi di scena.
 

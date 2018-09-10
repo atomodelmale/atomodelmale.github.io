@@ -77,5 +77,5 @@ In ultima analisi ai noi connazionali non restano che due scelte:
 	
   2. **Tornare alla buon vecchia carta** -- col bene placido della semplificazione e del risparmio.
 
-Per quelli che desisteranno e sceglieranno, infine, di arrendersi, rimangono valide le istruzioni già scritte da Radio Rebelde in [Guida al Censimento 2011. Come e perchè compilarlo](/2011/09/24/guida-al-censimento-2011-come-e-perche-compilarlo/), per tutti gli altri, strenui sostenitori del progresso -- tra cui si annovera l'autore --,**toccate ferro e in bocca al lupo**!
+Per quelli che desisteranno e sceglieranno, infine, di arrendersi, rimangono valide le istruzioni già scritte da Radio Rebelde in [Guida al Censimento 2011. Come e perchè compilarlo](/2011/09/24/guida-al-censimento-2011-come-e-perche-compilarlo.html), per tutti gli altri, strenui sostenitori del progresso -- tra cui si annovera l'autore --,**toccate ferro e in bocca al lupo**!
 

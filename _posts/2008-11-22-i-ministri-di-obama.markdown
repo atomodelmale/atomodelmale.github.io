@@ -25,7 +25,7 @@ tags:
 
 Si dice che per avere una grande squadra di calcio occorrono un gran portiere, un gran regista e un gran bomber.
 
-Il bomber [Obama](/2008/11/09/la-corsa-alla-casa-bianca-vince-barack-obama/) ha scelto.  Il suo regista sarà infatti **Timothy Geithner**, futuro ministro del tesoro USA, che avrà il compito di prendere palla la patata bollente dell'attuale situazione economia statunitense e provare a risollevarla.  Il suo portiere La sua portiera sarà invece **Hillary Clinton**, futuro segretario di Stato, che dovrà essere la "conservatice"-difensivista del gruppo.
+Il bomber [Obama](/2008/11/09/la-corsa-alla-casa-bianca-vince-barack-obama.html) ha scelto.  Il suo regista sarà infatti **Timothy Geithner**, futuro ministro del tesoro USA, che avrà il compito di prendere palla la patata bollente dell'attuale situazione economia statunitense e provare a risollevarla.  Il suo portiere La sua portiera sarà invece **Hillary Clinton**, futuro segretario di Stato, che dovrà essere la "conservatice"-difensivista del gruppo.
 
 Barack e Hillary, i due avversari delle primarie, si ritrovano dunque fianco a fianco nella gestione della politica estera americana. Una coppia che dovrà mostrarsi unita di fronte alle numerose sfide che attendono Obama dopo gli anni bui di Bush. Dall'Iraq all'Afghanistan, dal conflitto tra israeliani e palestinesi ai rapporti con Cuba, l'America cercherà di voltare pagina.
 

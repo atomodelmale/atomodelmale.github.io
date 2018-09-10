@@ -19,7 +19,7 @@ tags:
 - IPod
 ---
 
-Il 2013 [iniziava con la chiusura di Hackulous e AppTrackr](/2013/01/01/hackulous-chiude-i-battenti-bye-bye-a-installous-e-apptrackr/), una community ed un servizio che avevano fatto storia anche grazie all'app Installous che permetteva il download (illegale) e l'installazione delle applicazioni dell'AppStore sui dispositivi jailbroken. Va anche detto che, benché illegali, Installous e i suoi colleghi offrono un importante servizio per chiunque possieda un dispositivo non più aggiornabile all'ultima versione di iOS che richiedere applicazioni scritte per i vecchi firmware. Tutti i servizi mantengono la lista delle versioni delle applicazioni caricate e permettono il download di una specifica versione.
+Il 2013 [iniziava con la chiusura di Hackulous e AppTrackr](/2013/01/01/hackulous-chiude-i-battenti-bye-bye-a-installous-e-apptrackr.html), una community ed un servizio che avevano fatto storia anche grazie all'app Installous che permetteva il download (illegale) e l'installazione delle applicazioni dell'AppStore sui dispositivi jailbroken. Va anche detto che, benché illegali, Installous e i suoi colleghi offrono un importante servizio per chiunque possieda un dispositivo non più aggiornabile all'ultima versione di iOS che richiedere applicazioni scritte per i vecchi firmware. Tutti i servizi mantengono la lista delle versioni delle applicazioni caricate e permettono il download di una specifica versione.
 
 Ovviamente Installous non era l'unico servizio di download di applicazioni presente sulla scena, benché fosse il più famoso ed utilizzato. In seguito alla sua chiusura, le alternative già esistenti hanno registrato una forte crescita, affiancate da altrettanti nuovi progetti.
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Dopo lo studio reso noto dall'Oms, secondo cui le [carni lavorate sono cancerogene](/2015/10/26/oms-le-carni-lavorate-sono-cancerogene/), un'altra decisione in tema di salute e sicurezza alimentare suscita scalpore. Questa volta in ambito europeo.
+Dopo lo studio reso noto dall'Oms, secondo cui le [carni lavorate sono cancerogene](/2015/10/26/oms-le-carni-lavorate-sono-cancerogene.html), un'altra decisione in tema di salute e sicurezza alimentare suscita scalpore. Questa volta in ambito europeo.
 
 La plenaria del Parlamento europeo ha approvato in prima lettura l'accordo con il Consiglio per semplificare le procedure di autorizzazione dei 'nuovi alimenti' (il cosiddetto _novel food_). L'Efsa, l'Autorità europea per la sicurezza alimentare, effettuerà perciò una valutazione nei casi in cui un alimento abbia un effetto sulla salute umana.
 

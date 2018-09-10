@@ -14,7 +14,7 @@ tags:
 - Viaggi
 ---
 
-Dopo la [prima parte](/2012/03/16/mantova-last-minute-un-week-end-nella-citta-dei-gonzaga-parte-1/) ecco 3 possibili itinerari di visita. Vi consiglio innanzitutto di acquistare la **Mantova Musei Card**, una tessera che permette di visitare diversi musei con un unico biglietto cumulativo molto conveniente.
+Dopo la [prima parte](/2012/03/16/mantova-last-minute-un-week-end-nella-citta-dei-gonzaga-parte-1.html) ecco 3 possibili itinerari di visita. Vi consiglio innanzitutto di acquistare la **Mantova Musei Card**, una tessera che permette di visitare diversi musei con un unico biglietto cumulativo molto conveniente.
 
 Con la Mantova Musei Card 5, acquistabile in diverse biglietterie (da quella di Palazzo Ducale  a quella di Palazzo Tè solo per citarne due) è possibile entrare in cinque musei (segnati in seguito con l'asterisco) al costo di 15 euro (anziché 25). Presentando la tessera si ha inoltre diritto a diverse agevolazioni, sconti o riduzioni sulla tariffa d'ingresso di altri monumenti e luoghi di interesse.
 

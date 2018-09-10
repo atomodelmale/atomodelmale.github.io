@@ -28,4 +28,4 @@ Al suo attivo decine di film, numerosi riconoscimenti e premi (tra le altre co
 
 Tanti i successi del celebre regista, dai_ I soliti ignoti_ del 1958 alla _La grande guerra_ del 1959 con Alberto Sordi e Vittorio Gassman. O _L'armata Brancaleone_ del 1966 e i primi 2 capitoli della trilogia di _Amici miei_.
 
-Recentemente il regista era apparso alla trasmissione [Raiperunanotte](/2010/03/26/raiperunanotte/), aveva criticato i tagli alla cultura e gli stessi italiani, definiti pavidi, come ai tempi di Mussolini. Forse era stato anche troppo generoso.
+Recentemente il regista era apparso alla trasmissione [Raiperunanotte](/2010/03/26/raiperunanotte.html), aveva criticato i tagli alla cultura e gli stessi italiani, definiti pavidi, come ai tempi di Mussolini. Forse era stato anche troppo generoso.

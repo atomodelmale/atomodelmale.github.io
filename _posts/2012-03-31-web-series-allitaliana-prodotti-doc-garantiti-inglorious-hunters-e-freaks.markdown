@@ -27,7 +27,7 @@ Due ottimi esempi di Webseries -- vicine all'autore per le tematiche trattate :)
 
 ![]({{ site.baseurl }}/uploads/2012/03/freaks.jpg)
 
-Con la prima stagione composta da 7 episodi, [**Freaks** ](http://www.freakstheseries.com/)riprende tematiche e dinamiche già viste in serie televisive come **Misfits** o **[Heroes](/2007/09/19/eroi-per-tutti-le-tasche/)** -- a loro volta ispirate all'universo degli X-Men -- e le trasporta nelle vite di **5 ventenni del Bel Paese**.
+Con la prima stagione composta da 7 episodi, [**Freaks** ](http://www.freakstheseries.com/)riprende tematiche e dinamiche già viste in serie televisive come **Misfits** o **[Heroes](/2007/09/19/eroi-per-tutti-le-tasche.html)** -- a loro volta ispirate all'universo degli X-Men -- e le trasporta nelle vite di **5 ventenni del Bel Paese**.
 
 Nella **Roma** di oggi, cinque ragazzi diversi per carattere e modi di essere, si ritrovano inspiegabilmente accumunati da un **incidente** che li priva dei ricordi degli ultimi 4 mesi di vita. Così Viola, Silvio, Marco, Giulia e Andrea, si risvegliatisi a casa di Silvio, cercano di ricostruire gli eventi accaduti, **scoprendo di possedere dei superpoteri**.
 

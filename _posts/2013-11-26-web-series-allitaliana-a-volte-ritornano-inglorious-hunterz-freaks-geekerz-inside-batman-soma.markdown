@@ -15,7 +15,7 @@ tags:
 - Web
 ---
 
-A quasi due anni di distanza dal [primo articolo](/2012/03/31/web-series-allitaliana-prodotti-doc-garantiti-inglorious-hunters-e-freaks/) torniamo a parlare delle web serie del Bel Paese facendo il punto su due vecchie conoscenze e dando un'occhiata ai nuovi arrivi.
+A quasi due anni di distanza dal [primo articolo](/2012/03/31/web-series-allitaliana-prodotti-doc-garantiti-inglorious-hunters-e-freaks.html) torniamo a parlare delle web serie del Bel Paese facendo il punto su due vecchie conoscenze e dando un'occhiata ai nuovi arrivi.
 
 ## Recap
 

@@ -20,7 +20,7 @@ La news ha fatto capolino sulle pagine delle principali testate di settore, spun
 
 Se leggendo vi è venuto l'impulso di staccare il vostro router Wi-Fi e buttarlo nell'immondizia, aspettate.
 
-Non è la [prima volta](/2010/11/28/codice-alice-wpa-aperto-il-codice-delle-reti-wireless-di-telecom-parte-i/) (e probabilmente non sarà neanche l'ultima) che gli standard di sicurezza (Wi-Fi, Web, etc.) si rivelano "bucati". Tanto che la continua caccia alla vulnerabilità e alla relativa "cura" sono alla base di un fervente mercato globale fatto di agenzie governative, gruppi di hacker e compagnie di sicurezza.
+Non è la [prima volta](/2010/11/28/codice-alice-wpa-aperto-il-codice-delle-reti-wireless-di-telecom-parte-i.html) (e probabilmente non sarà neanche l'ultima) che gli standard di sicurezza (Wi-Fi, Web, etc.) si rivelano "bucati". Tanto che la continua caccia alla vulnerabilità e alla relativa "cura" sono alla base di un fervente mercato globale fatto di agenzie governative, gruppi di hacker e compagnie di sicurezza.
 
 Soprannominata KRACK (acromino di Key Reinstallation Attacks), la vulnerabilità trovata dal ricercatore belga interessa diversi protocolli di sicurezza comuni per Wi-Fi, inclusi i recenti e diffusi WPA e soprattutto WPA2. La portata della notizia è mondiale, dato che potenzialmente colpisce miliardi di dispositivi, molti dei quali difficili da aggiornare tempestivamente e che, loro malgrado, rimarranno vulnerabili per molto tempo.
 

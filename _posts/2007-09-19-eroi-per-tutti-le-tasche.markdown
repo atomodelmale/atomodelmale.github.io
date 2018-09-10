@@ -33,7 +33,7 @@ tags:
 
 <blockquote>_Una riesce a farsi male in mille modi diversi ma a guarire in un nanosecondo, l'altro viaggia nello spazio e nel tempo, l'altro ancora vola a velocità supersonica e quell'altro...__ _</blockquote>
 
-Se state pensando che vi propini nuovamente un mega-articolo sulla storia degli [**X-men**](/2007/06/16/the-astonishing-marvel-universe-the-x-men/) vi sbagliate di grosso.
+Se state pensando che vi propini nuovamente un mega-articolo sulla storia degli [**X-men**](/2007/06/16/the-astonishing-marvel-universe-the-x-men.html) vi sbagliate di grosso.
 E' l'ultima "**cult series**" importata direttamente dall'America, targata "**NBC**", ecco a voi:
 
 ![]({{ site.baseurl }}/uploads/2008/11/heroes.png)

@@ -17,7 +17,7 @@ tags:
 - Tony Stark
 ---
 
-L'avevamo visto nella recente super-rissa di [Captain America: Civil War](/2016/05/26/captain-america-civil-war/) in cui un giovanissimo Spider-man veniva reclutato da Tony Stark/Iron-man tra i propri ranghi.
+L'avevamo visto nella recente super-rissa di [Captain America: Civil War](/2016/05/26/captain-america-civil-war.html) in cui un giovanissimo Spider-man veniva reclutato da Tony Stark/Iron-man tra i propri ranghi.
 
 ![]({{ site.baseurl }}/uploads/2016/05/civil_war003.jpg)
 

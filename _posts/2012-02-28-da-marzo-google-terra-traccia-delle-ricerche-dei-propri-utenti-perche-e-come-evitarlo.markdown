@@ -58,7 +58,7 @@ Lo so Google è bello, veloce e comodo, ma se la salvaguardia della vostra priva
 
 Oltre alle alternative "note" come [Yahoo!](http://it.yahoo.com/) e [Bing](http://it.bing.com/), in questi mesi ho potuto apprezzare **per minimalità ed efficienza** lo semi-sconosciuto **[DuckDuckGo](http://duckduckgo.com/)** che consiglio a grandi e piccini.
 
-Menzione patriottica per il nostrano [Volunia](/2012/02/07/volunia-svelato-prove-su-strada-e-primi-giudizi/).
+Menzione patriottica per il nostrano [Volunia](/2012/02/07/volunia-svelato-prove-su-strada-e-primi-giudizi.html).
 
 **Basta così?![]({{ site.baseurl }}/uploads/2012/02/Enemies-are-listening-google.jpg)** Google non è solo ricerca, è Mail, Docs, Reader, News, etc. , fino ad arrivare al "neonato" **Plus**.
 

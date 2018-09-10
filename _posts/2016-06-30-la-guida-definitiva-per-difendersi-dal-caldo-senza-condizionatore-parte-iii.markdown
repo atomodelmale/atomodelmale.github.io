@@ -14,7 +14,7 @@ tags:
 - Estate
 ---
 
-Ultimo di tre articoli (i primi due sono [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-i/) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-ii/)) per guidarvi nella battaglia contro il caldo afoso dell'estate senza ricorrere (per risparmio o indisponibilità) al condizionatore.
+Ultimo di tre articoli (i primi due sono [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-i.html) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-ii.html)) per guidarvi nella battaglia contro il caldo afoso dell'estate senza ricorrere (per risparmio o indisponibilità) al condizionatore.
 
 # Panni e lenzuoli
 

@@ -17,7 +17,7 @@ tags:
 
 **Expendables 2![]({{ site.baseurl }}/uploads/2012/08/Expendables2-4.jpg)**
 
-Alcune volte gli esperimenti riescono, altre volte falliscono. Contro ogni pronostico -- ce n'erano?! -- gli [**Expendables** ](/2010/09/09/i-mercenari-the-expendables/)di **Stallone** hanno sbancato i botteghini di mezzo mondo, lasciando al nerboruto "registore" -- metà regista, metà attore -- "_la libertà, è di certo il gusto, di girare il sequel giusto_".
+Alcune volte gli esperimenti riescono, altre volte falliscono. Contro ogni pronostico -- ce n'erano?! -- gli [**Expendables** ](/2010/09/09/i-mercenari-the-expendables.html)di **Stallone** hanno sbancato i botteghini di mezzo mondo, lasciando al nerboruto "registore" -- metà regista, metà attore -- "_la libertà, è di certo il gusto, di girare il sequel giusto_".
 
 Gli americani direbbero "More of the same", ma Sly non si è accontentato di offrire solo questo, rimpolpando il cast e dando ancor più spazio a quello che ha decretato il successo della prima pellicola: "**Old Guys & Catch Phrases**".
 

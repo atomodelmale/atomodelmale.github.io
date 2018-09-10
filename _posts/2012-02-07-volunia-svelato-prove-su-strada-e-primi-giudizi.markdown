@@ -16,7 +16,7 @@ tags:
 - Volunia
 ---
 
-[Seconda apparizione](/2011/11/20/volunia-il-motore-di-ricerca-italiano-che-sfidera-google/) sulle pagine dell'Atomo del Male di [Volunia](http://www.volunia.com), il **progetto tutto italiano** del papà di PageRank, l'algoritmo di ricerca di Google.
+[Seconda apparizione](/2011/11/20/volunia-il-motore-di-ricerca-italiano-che-sfidera-google.html) sulle pagine dell'Atomo del Male di [Volunia](http://www.volunia.com), il **progetto tutto italiano** del papà di PageRank, l'algoritmo di ricerca di Google.
 
 **Volunia, la presentazione**
 

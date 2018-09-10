@@ -19,7 +19,7 @@ tags:
 
 Avete acquistato un nuovo PC da Home Theater e vi accingete a trasferire (rippare) la vostra vasta collezione di dischi Blue Ray su hard disk per un accesso più veloce ma non sapete quale risoluzione scegliere per la vostra TV?
 
-O magari volete sapere se è meglio scaricare i film di Netflix --- [presto disponibile in Italia](/2015/09/30/il-22-ottobre-arriva-netflix-cose-quanto-costa/) --- in qualità 1080p o 720p.
+O magari volete sapere se è meglio scaricare i film di Netflix --- [presto disponibile in Italia](/2015/09/30/il-22-ottobre-arriva-netflix-cose-quanto-costa.html) --- in qualità 1080p o 720p.
 
 Per qualsiasi decisione riguardo la qualità dei filmati scaricati o da trasferire lo schema sotto può darvi una mano.
 

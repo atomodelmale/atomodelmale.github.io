@@ -15,7 +15,7 @@ tags:
 - RSS
 ---
 
-Primo di tre articoli che prendono in esame i migliori lettori di feed RSS per le tre principali piattaforme: Desktop, [Mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android/) e [Web](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online/).
+Primo di tre articoli che prendono in esame i migliori lettori di feed RSS per le tre principali piattaforme: Desktop, [Mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android.html) e [Web](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online.html).
 
 **RSS, Really Simple Syndacation**
 
@@ -51,4 +51,4 @@ A queste si aggiungono un'infinità di opzioni di **ordinamento delle news** ed 
 
 Consiglio personale: qualsiasi programma si scelga per la lettura dei feed RSS, avvalersi dell'ottimo servizio fornito da [Google Reader](/#) integrato con il programma da voi scelto, vi farà ottenere il massimo dai vostri feed.
 
-Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Mobile RSS Feed Reader 2012 - I migliori lettori RSS per iPhone e Android](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android/) e [Best Web RSS Feed Reader 2012 - Il miglior lettore RSS online](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online/).
+Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Mobile RSS Feed Reader 2012 - I migliori lettori RSS per iPhone e Android](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android.html) e [Best Web RSS Feed Reader 2012 - Il miglior lettore RSS online](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online.html).

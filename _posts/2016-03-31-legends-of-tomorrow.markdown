@@ -21,7 +21,7 @@ L'universo DC del piccolo schermo si allarga con un'altra serie TV e, se avrà s
 
 Che apertura eh? A dire il vero il contenuto non si discosta troppo dalla [vera introduzione](https://www.youtube.com/watch?v=Wq_DHCOEnDg) ripetuta ad ogni puntata.
 
-Che è questo "Legends of Tomorrow"? Un crossover e spin-off delle recenti serie TV su [Flash](/2014/10/30/the-flash/) e Arrow.
+Che è questo "Legends of Tomorrow"? Un crossover e spin-off delle recenti serie TV su [Flash](/2014/10/30/the-flash.html) e Arrow.
 
 Ok, riprendiamo l'introduzione (seria) che spiega l'arzigogolo per il quale si pigliano un po' di personaggi secondari di Arrow, li si mette insieme a quelli di Flash e se ne fa una serie gggiovane a tema Dr. Who.
 

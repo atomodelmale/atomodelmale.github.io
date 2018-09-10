@@ -73,7 +73,7 @@ Aquilani e Nocerino riempiono il vuoto lasciato Pirlo. La squadra è ancor più 
 
 **NAPOLI** _Voto 7_
 
-Pandev è la classica ciliegina sulla torta. Il tricolore rimane un sogno, ma crederci non costa nulla. Il [girone di ferro](/2011/08/25/sorteggio-champions-girone-di-ferro-per-il-napoli-meglio-inter-e-milan/) di Champions lascia poche speranze nella competizione continentale. Ripetere la scorsa annata sarebbe già abbastanza, ovviamente l'obiettivo sarà fare meglio.
+Pandev è la classica ciliegina sulla torta. Il tricolore rimane un sogno, ma crederci non costa nulla. Il [girone di ferro](/2011/08/25/sorteggio-champions-girone-di-ferro-per-il-napoli-meglio-inter-e-milan.html) di Champions lascia poche speranze nella competizione continentale. Ripetere la scorsa annata sarebbe già abbastanza, ovviamente l'obiettivo sarà fare meglio.
 
 **NOVARA** _Voto 6_
 

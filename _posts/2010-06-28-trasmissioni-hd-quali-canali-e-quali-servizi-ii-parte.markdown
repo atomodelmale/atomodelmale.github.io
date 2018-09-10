@@ -28,11 +28,11 @@ Dopo aver parlato nella **prima  parte** dell'HD e delle offerte per l'Alta Def
 
 ![]({{ site.baseurl }}/uploads/2010/06/digitale.jpg)
 
-Chi non ha ancora sentito parlare di [**digitale terrestre**](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte/), **decoder** e **switch-off** alzi la mano!
+Chi non ha ancora sentito parlare di [**digitale terrestre**](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte.html), **decoder** e **switch-off** alzi la mano!
 
 L'Italia intera sta gradualmente passando al digitale terrestre, bisogna farlo e si sta facendo. La buona notizia è che sul digitale terrestre, al contrario della stravetusta trasmissione analogica, è possibile trasmettere canali in **alta  definizione**. L'altrettanto buona notizia è che una parte di questi canali HD viene **trasmessa  in  chiaro** – leggasi **gratis**. Tra questi si annoverano il palinsesto di **Rai  HD**, affiancato dall'eterno antagonista Mediaset, coi canali tradizionali **Canale 5, Rete 4** e **Italia 1**, portati all'**HD** per l'occasione.
 
-A braccetto con le trasmissioni in chiaro viaggiano quelle **criptate**, che richiedono la sottoscrizione di un abbonamento. Dall'offerta in Alta Definizione proposta da **Mediaset  Premium** coi canali di **Premium  Calcio  HD** e **Premium  Cinema  HD**, si affiancano le proposte di altri network come il servizio "**low cost**" messo a disposizione da [**Europa7**](/2010/05/29/europa-7-sbarca-sul-digitale-terrestre-una-pay-tv-low-cost-in-hd-e-3d/).
+A braccetto con le trasmissioni in chiaro viaggiano quelle **criptate**, che richiedono la sottoscrizione di un abbonamento. Dall'offerta in Alta Definizione proposta da **Mediaset  Premium** coi canali di **Premium  Calcio  HD** e **Premium  Cinema  HD**, si affiancano le proposte di altri network come il servizio "**low cost**" messo a disposizione da [**Europa7**](/2010/05/29/europa-7-sbarca-sul-digitale-terrestre-una-pay-tv-low-cost-in-hd-e-3d.html).
 
 ![]({{ site.baseurl }}/uploads/2010/06/350px-Tv_digitaleterrestre.png)
 
@@ -64,6 +64,6 @@ Riassumendo quanto visto in questi due articoletti emerge che senza ombra di dub
 
 L'offerta del **digitale  terrestre** risente della **gioventù del  servizio** sia per il numero che per la qualità delle trasmissioni disponibili. Con buona probabilità diventerà la **piattaforma** sulla quale **si  diffonderà** l'alta definizione, benché al momento investire in questa tecnologia può riservare qualche brutta sorpresa agli utenti.
 
-Ultima ma non meno importante, **l'IpTV** propone la soluzione **meno** "**invasiva**" – al pari del digitale terrestre – dato che le trasmissioni passano attraverso le **linee  telefoniche** che portano Internet in casa nostra. Oltre alle **trasmissioni  in  HD** consente all'utente di utilizzare di **servizi** Internet **dedicati**, ma come contro ha una **bassa  quantità** di canali con **qualità** a volte **altalenante** oltre ad una **diffusione** che va di **pari  passo** col **_[digital divide](/2009/11/13/italia-arrivederci-banda-larga/)._ Buona Visione**
+Ultima ma non meno importante, **l'IpTV** propone la soluzione **meno** "**invasiva**" – al pari del digitale terrestre – dato che le trasmissioni passano attraverso le **linee  telefoniche** che portano Internet in casa nostra. Oltre alle **trasmissioni  in  HD** consente all'utente di utilizzare di **servizi** Internet **dedicati**, ma come contro ha una **bassa  quantità** di canali con **qualità** a volte **altalenante** oltre ad una **diffusione** che va di **pari  passo** col **_[digital divide](/2009/11/13/italia-arrivederci-banda-larga.html)._ Buona Visione**
 
 [<- Torna a ](http://wp.me/pl33w-1XW)**[Trasmissioni HD, quali canali e quali servizi (I Parte)](http://wp.me/pl33w-1XW)**

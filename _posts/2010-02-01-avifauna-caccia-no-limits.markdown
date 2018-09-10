@@ -16,7 +16,7 @@ tags:
 - Caccia
 ---
 
-Dopo aver tentato di mettere le doppiette in mano ai [sedicenni](/2009/04/21/doppiette-selvagge/) il governo continua la sua lotta alla **fauna** selvatica. L'art 38 della **legge Comunitaria** approvata di recente al Senato infatti se limita la stagione di caccia dal 1 settembre al 31 gennaio, prevedendo modiche di tale calendario solo nel senso di una riduzione dell'attività venatoria, permette nello stesso tempo a **Regioni** e **Provincie** deroghe in merito all'**avifauna**(cioè il complesso di uccelli che vivono in un determinato luogo).
+Dopo aver tentato di mettere le doppiette in mano ai [sedicenni](/2009/04/21/doppiette-selvagge.html) il governo continua la sua lotta alla **fauna** selvatica. L'art 38 della **legge Comunitaria** approvata di recente al Senato infatti se limita la stagione di caccia dal 1 settembre al 31 gennaio, prevedendo modiche di tale calendario solo nel senso di una riduzione dell'attività venatoria, permette nello stesso tempo a **Regioni** e **Provincie** deroghe in merito all'**avifauna**(cioè il complesso di uccelli che vivono in un determinato luogo).
 
 Queste ultime potranno infatti decretare di estendere il periodo di caccia relativo all'avifauna a periodi diversi, qualora vengano evidenziate ragioni di pubblica utilità come la riduzione di possibili danni alle colture. Le Regioni prima di stabilire il calendario della stagione venatoria dovranno inoltre chiedere ed ottenere il parere preventivo dell'**Ispra**(Istituto superiore protezione e  ricerca ambientale).
 

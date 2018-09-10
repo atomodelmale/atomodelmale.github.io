@@ -28,7 +28,7 @@ Nel mentre ci sono un **attacco DOS del gruppo Anonymous contro il sito dell'Agc
 
 Diciamo le cose come stanno: si, la legge dell'Agcom è uno dei **soliti, ottocenteschi e bolsi tentativi per imbrigliare** un genio della lampada ormai irrefrenabile come **Internet**. Non c'è niente da fare, non ci riescono gli eserciti di perbenisti americani e nemmeno il governo cinese, figuriamoci se ci possono riuscire i nostri politici, il cui sforzo maggiore di modernizzazione è usare l'iPad per leggere la gazzetta dello sport.
 
-Ci ha provato perfino il governo francese con il suo **[Hadopi](/2009/04/03/francia-arriva-la-legge-del-taglione/)** e la promessa di uno smacco alla pirateria, col risultato che gli utenti, per selezione naturale, si sono adattati al nuovo ambiente, lasciando perdere il _peer-to-peer_ e andando a cercare i loro "contenuti" favoriti tramite altri sistemi.
+Ci ha provato perfino il governo francese con il suo **[Hadopi](/2009/04/03/francia-arriva-la-legge-del-taglione.html)** e la promessa di uno smacco alla pirateria, col risultato che gli utenti, per selezione naturale, si sono adattati al nuovo ambiente, lasciando perdere il _peer-to-peer_ e andando a cercare i loro "contenuti" favoriti tramite altri sistemi.
 
 Ma torniamo in tema,**come funziona la legge**?
 

@@ -22,7 +22,7 @@ tags:
 - Silvio Berlusconi
 ---
 
-**SOS Silvio**. Dopo la sentenza della corte Costituzionale sul [Lodo Alfano](/2009/10/07/corte-costituzionale-ecco-la-pronuncia-sul-lodo-alfano-incostituzionale/) , il premier ha visto riaperti i processi Mills e Mediaset. Ma ecco spuntare la soluzione magica a tutti i mali (cioè ai guai giudiziari del cavaliere) :** il processo ![berlusconi]({{ site.baseurl }}/uploads/2008/12/berlusconi.png)
+**SOS Silvio**. Dopo la sentenza della corte Costituzionale sul [Lodo Alfano](/2009/10/07/corte-costituzionale-ecco-la-pronuncia-sul-lodo-alfano-incostituzionale.html) , il premier ha visto riaperti i processi Mills e Mediaset. Ma ecco spuntare la soluzione magica a tutti i mali (cioè ai guai giudiziari del cavaliere) :** il processo ![berlusconi]({{ site.baseurl }}/uploads/2008/12/berlusconi.png)
 
 breve**.
 

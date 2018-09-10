@@ -15,8 +15,8 @@ tags:
 - RSS
 ---
 
-Secondo di tre articoli che prendono in esame i migliori lettori di feed RSS per le tre principali piattaforme: [Desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/), Mobile e [Web](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online/).
-Nel caso non sappiate cosa siano e a cosa servano i feed RSS, vi consiglio di leggervi la breve introduzione del [primo articolo](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/).
+Secondo di tre articoli che prendono in esame i migliori lettori di feed RSS per le tre principali piattaforme: [Desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html), Mobile e [Web](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online.html).
+Nel caso non sappiate cosa siano e a cosa servano i feed RSS, vi consiglio di leggervi la breve introduzione del [primo articolo](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html).
 
 **[Reeder](http://itunes.apple.com/us/app/reeder/id325502379?mt=8) per iPhone (iOS)**
 
@@ -44,4 +44,4 @@ L'applicazione, oltre a fornire il **caching in background** delle notizie, disp
 
 Come è possibile notare, entrambe le applicazioni non possono prescindere dall'utilizzo di Google Reader per l'organizzazione e la portabilità dei feed.
 
-Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Desktop RSS Feed Reader 2012 - I migliori lettori RSS per Windows e Mac](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/) e [Best Web RSS Feed Reader 2012 - Il miglior lettore RSS online](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online/).
+Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Desktop RSS Feed Reader 2012 - I migliori lettori RSS per Windows e Mac](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html) e [Best Web RSS Feed Reader 2012 - Il miglior lettore RSS online](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online.html).

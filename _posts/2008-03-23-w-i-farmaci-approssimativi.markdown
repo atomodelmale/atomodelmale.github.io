@@ -77,7 +77,7 @@ Vediamo un semplice esempio:
 
 Avete presente l'Aulin?
 
-Bene, [**l'Aulin**](/2007/05/25/aulin-mescolato-non-shakerato/)- commercializzato dalla **Roche nel lontano 1985** - prima della scadenza del brevetto veniva **venduto alla bellezza di 11,50€,** al contrario, una volta decorsi i diritti patrimoniali del brevetto, è stata data la possibilità ad altri produttori di utilizzare il principio attivo – il nimesulide – per produrre **il farmaco generico, che tutt'ora viene venduto nelle farmacie alla modica cifra di 2,60€, un risparmio di oltre il 75%**!
+Bene, [**l'Aulin**](/2007/05/25/aulin-mescolato-non-shakerato.html)- commercializzato dalla **Roche nel lontano 1985** - prima della scadenza del brevetto veniva **venduto alla bellezza di 11,50€,** al contrario, una volta decorsi i diritti patrimoniali del brevetto, è stata data la possibilità ad altri produttori di utilizzare il principio attivo – il nimesulide – per produrre **il farmaco generico, che tutt'ora viene venduto nelle farmacie alla modica cifra di 2,60€, un risparmio di oltre il 75%**!
 
 **Ogni soldo risparmiato è un soldo guadagnato**
 

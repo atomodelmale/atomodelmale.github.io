@@ -19,7 +19,7 @@ tags:
 - Trenitalia
 ---
 
-[Qualche tempo fà](/2008/10/02/fido-a-bordo/) era scoppiata la polemica per la presenza di zecche sui nostri treni e subito dopo si era prospettata la possibilità di far entrare i cani nelle carrozze solo a certe condizioni. Ma dopo le critiche ricevute Trenitalia sospese le nuove misure per poter aprire una discussione sul tema.
+[Qualche tempo fà](/2008/10/02/fido-a-bordo.html) era scoppiata la polemica per la presenza di zecche sui nostri treni e subito dopo si era prospettata la possibilità di far entrare i cani nelle carrozze solo a certe condizioni. Ma dopo le critiche ricevute Trenitalia sospese le nuove misure per poter aprire una discussione sul tema.
 
 Ed ora le più importanti nuove regole in vigore dal 1 dicembre 2008. Innanzitutto i cani di piccola taglia, i gatti ed altri piccoli animali domestici da compagnia (_custoditi nell'apposito contenitore di dimensioni non superiori a 70x30x50_) sono ammessi **gratuitamente** nella prima e nella seconda classe di tutte le categorie di treni, eccezion fatta solo per i treni ES* effettuati con materiale ETR 450.
 

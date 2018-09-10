@@ -21,7 +21,7 @@ tags:
 - Medico
 ---
 
-Tanto per rimanere in tema di [**farmaci generici**](/2008/03/23/w-i-farmaci-approssimativi/) (che sembra avere un buon seguito tra i lettori), scrivo questo articolino per i più interessati sull'argomento.
+Tanto per rimanere in tema di [**farmaci generici**](/2008/03/23/w-i-farmaci-approssimativi.html) (che sembra avere un buon seguito tra i lettori), scrivo questo articolino per i più interessati sull'argomento.
 
 ![]({{ site.baseurl }}/uploads/2008/10/asprirna.png)
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Alla fine trionfa lui, il film inglese _[**Il discorso del re**](/2011/02/27/il-discorso-del-re/)_. Con 4 statuette (miglior film, miglior regia, miglior attore protagonista e miglior sceneggiatura originale) la pellicola diretta da Tom Hooper diventa l'assoluta protagonista della 83° edizione degli Academy Awards. Non certo un trionfo alla luce delle 12 nomination ricevute ma comunque un ottimo risultato.
+Alla fine trionfa lui, il film inglese _[**Il discorso del re**](/2011/02/27/il-discorso-del-re.html)_. Con 4 statuette (miglior film, miglior regia, miglior attore protagonista e miglior sceneggiatura originale) la pellicola diretta da Tom Hooper diventa l'assoluta protagonista della 83° edizione degli Academy Awards. Non certo un trionfo alla luce delle 12 nomination ricevute ma comunque un ottimo risultato.
 
 I diretti concorrenti d'altronde si sono dovuti accontentare dei premi rimasti, certamente i meno prestigiosi. La pellicola _The Social Network_ vince nelle categorie miglior sceneggiatura non originale, montaggio e colonna sonora mentre _Inception_ porta a casa 4 statuette per la fotografia, il sonoro, il missaggio del suono e gli effetti speciali.
 

@@ -21,7 +21,7 @@ Vi siete mai chiesti perché l'influenza arrivi proprio nel periodo autunno-inve
 
 Puntuale come una tassa, insieme alle foglie ingiallite e le giornate più corte arriva l'immancabile influenza annuale che, senza distinzione di sesso o età, alletta 5 milioni di persone ogni anno, portando 1/4 di milione a morirne per complicazioni correlate.
 
-Per quanto paradossale, siamo riusciti a debellare --- [vaccinatevi](/2015/10/25/vaccini-in-calo-tornano-pertosse-e-morbillo/)! --- malattie incurabili del recente passato ma l'influenza, malgrado le [annuali campagne di vaccinazione](/2008/10/12/il-vaccino-anti-influenzale/), resiste imperterrita.
+Per quanto paradossale, siamo riusciti a debellare --- [vaccinatevi](/2015/10/25/vaccini-in-calo-tornano-pertosse-e-morbillo.html)! --- malattie incurabili del recente passato ma l'influenza, malgrado le [annuali campagne di vaccinazione](/2008/10/12/il-vaccino-anti-influenzale.html), resiste imperterrita.
 La ragione di questa incredibile resistenza è l'altissima mutabilità del virus influenzale: anche se i nostri anticorpi hanno debellato le influenze degli anni passati non riusciranno a riconoscere la nuova generazione di virus. Gli anticorpi guardano dall'altra parte e noi ci pigliamo l'influenza. Anche la vaccinazione annuale non si è rivelata decisiva per risolvere il problema. Per essere efficace nel debellare la malattia su vasta scala sarebbe necessaria una vaccinazione di massa, mentre ad oggi i principali vaccinati sono anziani e bambini.
 
 ## Se lo conosci lo eviti

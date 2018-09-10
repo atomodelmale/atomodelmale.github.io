@@ -23,13 +23,13 @@ Beh, io si, quindi ho fatto un po' di ricerche sulle statistiche dell'"Atomo del
 ![](http://www.astro.umd.edu/~raquel/Links/random/sparrowMS.jpg)![](http://www.comicscontinuum.com/stories/0510/28/wolverine36b.jpg)![](http://italia.pravda.ru/img/idb/brigaterosse.jpg)![](http://fc04.deviantart.com/fs6/i/2005/107/7/2/Sweet_little_devil_by_Drakenborg.jpg)
 
 	
-  1. Al primo posto troviamo "[**Jack Sparrow**](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi/)", grazie Jack, sei sempre nei nostri cuori
+  1. Al primo posto troviamo "[**Jack Sparrow**](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi.html)", grazie Jack, sei sempre nei nostri cuori
 
 	
-  2. Al secondo c'è "[**Marvel**](/2007/06/16/the-astonishing-marvel-universe-the-x-men/)", allora non sono l'unico a cui piace l'universo Marvel :P
+  2. Al secondo c'è "[**Marvel**](/2007/06/16/the-astonishing-marvel-universe-the-x-men.html)", allora non sono l'unico a cui piace l'universo Marvel :P
 
 	
-  3. Al terzo troviamo a pari merito "[**Brigate Rosse**](/2007/06/01/le-brigate-rosse/)" e ancora "[**Pirati dei Caraibi**](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi/)"... a questo punto Carneade ne dedurrebbe che: "tutti i comunisti hanno visto Pirati dei Caraibi ma non tutti i fan di Pirati dei Caraibi sono comunisti..."
+  3. Al terzo troviamo a pari merito "[**Brigate Rosse**](/2007/06/01/le-brigate-rosse.html)" e ancora "[**Pirati dei Caraibi**](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi.html)"... a questo punto Carneade ne dedurrebbe che: "tutti i comunisti hanno visto Pirati dei Caraibi ma non tutti i fan di Pirati dei Caraibi sono comunisti..."
 
 	
   4. Quarto posto l'inquietante: "**posizioni  del diavolo**"... curioso...

@@ -12,7 +12,7 @@ categories:
 - Azione
 ---
 
-Secondo capitolo della serie del Cap. Dopo l'onesto [primo capitolo](/2011/07/31/capitan-america-il-primo-vendicatore/) che ne ha raccontato le origini e quella bomba atomica che è stato [The Avengers](/2012/05/01/the-avengers/), Cap deve vedersela con una minaccia che arriva dall'interno.
+Secondo capitolo della serie del Cap. Dopo l'onesto [primo capitolo](/2011/07/31/capitan-america-il-primo-vendicatore.html) che ne ha raccontato le origini e quella bomba atomica che è stato [The Avengers](/2012/05/01/the-avengers.html), Cap deve vedersela con una minaccia che arriva dall'interno.
 
 ## Heil S.H.I.E.L.D.
 

@@ -24,7 +24,7 @@ tags:
 
 Impossibile?  Trattasi solo di un remake della pellicola _Misson to Mars _datata 2000?
 
-Niente di tutto questo, almeno per il presidente americano **Barack  Obama.** Quando ormai la NASA sembrava destinata a [scomparire](/2009/08/22/arrivederci-nasa/) e gli shuttle stavano terminando il loro lungo servizio di volo gli  Stati Uniti rilanciano l'esplorazione dello spazio.
+Niente di tutto questo, almeno per il presidente americano **Barack  Obama.** Quando ormai la NASA sembrava destinata a [scomparire](/2009/08/22/arrivederci-nasa.html) e gli shuttle stavano terminando il loro lungo servizio di volo gli  Stati Uniti rilanciano l'esplorazione dello spazio.
 
 Prima, attorno  alla metà degli anni 30, l'arrivo di una navicella nell'orbita di Marte e  poi, pochi anni dopo, l'atterraggio sul suolo marziano. E non è finita qui.
 

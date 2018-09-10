@@ -20,7 +20,7 @@ tags:
 - Tregua
 ---
 
-Continua l'operazione **piombo fuso** nella [**striscia di Gaza** ](/2009/01/07/guerra-violenza-e-morte-nella-striscia-di-gaza/)e continuano a salire i morti del conflitto. Le truppe israeliane sono ora in territorio palestinese per dare la caccia ai miliziani di Hamas, scoprire depositi di armi e distruggere i tunnel attraverso i quali l'organizzazione fondamentalista si rifornisce di equipaggiamento e armamento militare, nonché di munizioni. Prosegue anche, seppur con minor intensità, il lancio di razzi verso le cittadine israeliane del sud.
+Continua l'operazione **piombo fuso** nella [**striscia di Gaza** ](/2009/01/07/guerra-violenza-e-morte-nella-striscia-di-gaza.html)e continuano a salire i morti del conflitto. Le truppe israeliane sono ora in territorio palestinese per dare la caccia ai miliziani di Hamas, scoprire depositi di armi e distruggere i tunnel attraverso i quali l'organizzazione fondamentalista si rifornisce di equipaggiamento e armamento militare, nonché di munizioni. Prosegue anche, seppur con minor intensità, il lancio di razzi verso le cittadine israeliane del sud.
 
 ![gaza_ap]({{ site.baseurl }}/uploads/2009/01/gaza_ap.jpg)
 

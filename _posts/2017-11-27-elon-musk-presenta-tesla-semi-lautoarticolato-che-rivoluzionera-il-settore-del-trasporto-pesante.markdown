@@ -38,6 +38,6 @@ Ciliegina sulla torta, la modalità convoglio, che permette ai Semi di disporsi 
 
 ![]({{ site.baseurl }}/uploads/2017/11/tesla-semi-002.jpg)
 
-Chiudendo la presentazione, Musk ha dichiarato che i primi Semi usciranno dalle proprie [Gigafactories](/2017/04/27/elon-musk-100-gigafactory-bastano-per-il-fabbisogno-energetico-del-mondo/) ad inizio 2019, con regimi di prezzo dai 150.000 a 180.000$ rispettivamente per la motrice con autonomia da 500 e 800 Km.
+Chiudendo la presentazione, Musk ha dichiarato che i primi Semi usciranno dalle proprie [Gigafactories](/2017/04/27/elon-musk-100-gigafactory-bastano-per-il-fabbisogno-energetico-del-mondo.html) ad inizio 2019, con regimi di prezzo dai 150.000 a 180.000$ rispettivamente per la motrice con autonomia da 500 e 800 Km.
 
 Come sempre rimaniamo sintonizzati sugli "azzardi" di Elon, contenti dell'impegno di Tesla nel portare il motore elettrico in ogni settore del trasporto.

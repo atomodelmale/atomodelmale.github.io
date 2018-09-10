@@ -18,7 +18,7 @@ tags:
 - Sallusti
 ---
 
-Avevo appena finito di scrivere il mio precedente articolo sull'[attentato in **Norvegia**](/2011/07/23/attentati-in-norvegia-oltre-90-morti-lodio-religioso-continua-a-far-vittime/) quando per scrupolo informativo vado a vedere come le varie testate giornalistiche hanno affrontato il grave evento.
+Avevo appena finito di scrivere il mio precedente articolo sull'[attentato in **Norvegia**](/2011/07/23/attentati-in-norvegia-oltre-90-morti-lodio-religioso-continua-a-far-vittime.html) quando per scrupolo informativo vado a vedere come le varie testate giornalistiche hanno affrontato il grave evento.
 
 Immaginavo che di fronte a tale gravità si lasciassero da parte pure esternazioni demagogiche e faziose.
 

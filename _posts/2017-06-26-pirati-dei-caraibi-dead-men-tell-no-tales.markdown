@@ -21,7 +21,7 @@ tags:
 - Pirati
 ---
 
-Quinto capitolo della <del>brillante</del>, <del>fortunata</del>, infinita serie del [Capitano <del>Depp</del> Sparrow](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi/). Se vi chiede com'è questo Dead Men Tell No Tales, basta pensare che qualche mese prima dell'uscita nei cinema, un attore come Javier Bardem --- che nella pellicola interpreta il cattivo di turno --- faceva capolino tra i trailer, raccomandando di andare a vedere questa fantastica storia di avventura, amore e filibustieri.
+Quinto capitolo della <del>brillante</del>, <del>fortunata</del>, infinita serie del [Capitano <del>Depp</del> Sparrow](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi.html). Se vi chiede com'è questo Dead Men Tell No Tales, basta pensare che qualche mese prima dell'uscita nei cinema, un attore come Javier Bardem --- che nella pellicola interpreta il cattivo di turno --- faceva capolino tra i trailer, raccomandando di andare a vedere questa fantastica storia di avventura, amore e filibustieri.
 
 Convinti?
 

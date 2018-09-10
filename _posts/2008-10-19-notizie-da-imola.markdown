@@ -23,6 +23,6 @@ Cattive e buone notizie per Imola. Partiamo dalle prime. Innanzitutto il nuovo D
 
 Buone notizie invece per la Bretella : l'8 novembre (speriamo) aprirà il primo tratto dalla rotonda di via Villa Clelia a via Salvo D'Acquisto. Finalmente, dato che durante la settimana in alcune ore della giornata il traffico in via Montericco è congestionato e fermo ed è fonte di rumore e smog, in un'area tanto delicata vista la presenza dell'ospedale, di scuole e case di cura.
 
-Infine prosegue la costruzione della nuova [Centrale Hera ](/2007/12/24/a-tutto-gas/)in via Casalegno : il [RAB](http://www.rabimola.it/) continua a monitorare e a  controllare il cantiere, si propone di realizzare un interessante studio sulla qualità dell'aria imolese e offre nel suo sito un'_analisi per la comparazione tra i costi del servizio di teleriscaldamento e i corrispondenti, a parità di servizio, del gas metano_. Infine sono state collocate 2 nuove stazioni di monitoraggio dell'aria in via Carpe e in Piazza Romagna.
+Infine prosegue la costruzione della nuova [Centrale Hera ](/2007/12/24/a-tutto-gas.html)in via Casalegno : il [RAB](http://www.rabimola.it/) continua a monitorare e a  controllare il cantiere, si propone di realizzare un interessante studio sulla qualità dell'aria imolese e offre nel suo sito un'_analisi per la comparazione tra i costi del servizio di teleriscaldamento e i corrispondenti, a parità di servizio, del gas metano_. Infine sono state collocate 2 nuove stazioni di monitoraggio dell'aria in via Carpe e in Piazza Romagna.
 
 Il Gorgonauta.

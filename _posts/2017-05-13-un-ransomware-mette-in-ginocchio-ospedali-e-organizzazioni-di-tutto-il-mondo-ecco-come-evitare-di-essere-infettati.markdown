@@ -19,7 +19,7 @@ tags:
 - Virus
 ---
 
-Non è la prima volta che si parla di ransomware o [estorsioni informatiche](/2015/12/28/estorsioni-informatiche-in-aumento-per-avere-indietro-i-propri-dati-ecco-come-evitare-i-ransomware/) sulle queste pagine digitali. La particolarità della news che sta facendo il giro del mondo è che un software di estorsione informatica chiamato "WannaCry/WanaCryptor" ha toccato in poco tempo i quattro angoli del pianeta, contagiando --- e bloccando --- i computer di aziende, ospedali, università, compagnie telefoniche, arrivando a infestare i terminali di oltre 70 paesi.
+Non è la prima volta che si parla di ransomware o [estorsioni informatiche](/2015/12/28/estorsioni-informatiche-in-aumento-per-avere-indietro-i-propri-dati-ecco-come-evitare-i-ransomware.html) sulle queste pagine digitali. La particolarità della news che sta facendo il giro del mondo è che un software di estorsione informatica chiamato "WannaCry/WanaCryptor" ha toccato in poco tempo i quattro angoli del pianeta, contagiando --- e bloccando --- i computer di aziende, ospedali, università, compagnie telefoniche, arrivando a infestare i terminali di oltre 70 paesi.
 
 ![]({{ site.baseurl }}/uploads/2017/05/WannaCry_001.jpg)
 

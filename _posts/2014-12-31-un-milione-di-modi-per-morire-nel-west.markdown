@@ -26,7 +26,7 @@ Seth MacFarlane -- papà de "I Griffin" -- ritorna dietro alla cinepresa con "Un
 
 Dopo il successo di Ted -- a cui farà seguito un secondo film nel 2015 --, MacFarlane dirige sé stesso in "Un milione di modi per morire nel west", parodia della grande epopea Western.
 
-Nel paesino di Old Stump vive Albert Stark (MacFarlane) -- che nulla ha a che vedere con [Tony](/2010/05/04/iron-man-2/) o [Eddard](/2014/12/30/telltale-game-of-thrones/) -- nell'Arizona di fine '800. MacFarlane modella il personaggio da lui interpretato sulle orme degli anti-eroi di Allen, intelligente e sensibile ma anche pavido ed impacciato. Del resto Albert vive in un tempo e luogo in cui ci sono milioni di modi spaventosi di morire, come dargli torto.
+Nel paesino di Old Stump vive Albert Stark (MacFarlane) -- che nulla ha a che vedere con [Tony](/2010/05/04/iron-man-2.html) o [Eddard](/2014/12/30/telltale-game-of-thrones.html) -- nell'Arizona di fine '800. MacFarlane modella il personaggio da lui interpretato sulle orme degli anti-eroi di Allen, intelligente e sensibile ma anche pavido ed impacciato. Del resto Albert vive in un tempo e luogo in cui ci sono milioni di modi spaventosi di morire, come dargli torto.
 
 Louise (Amanda -- Mamma Mia! -- Seyfried) lascia Albert a causa della sua mancanza di carattere, scegliendo di stare col bellimbusto mustacchiato Foy (Nail Patrick -- How I met your mother -- Harris). Per fortuna di Albert, ci penserà la bellissima Anna (Charlize Theron) a sparigliare le carte in tavola e a trasformare il timido ed impacciato protagonista in ... un timido e leggermente meno impacciato uomo del West. Oh, è c'è anche Liam Neeson che fa il cattivo, per la cronaca.
 

@@ -64,4 +64,4 @@ Tutto quello che è necessario per trovare il codice della rete **è contenuto n
 
 Tale numero è divisibile in due parti, del tipo: XX-XXXXXX, **le prime due cifre (XX) corrispondono alla prima parte del codice seriale del router**, mentre il codice completo permette di individuare sia il MAC address della scheda di rete del router, sia il resto del codice seriale.
 
-Continua con **[Codice Alice WPA, aperto il codice delle reti wireless di Telecom - Parte II](/2010/12/01/codice-alice-wpa-aperto-il-codice-delle-reti-wireless-di-telecom-%E2%80%93-parte-ii-algoritmi-cracking-tool-e-come-difendersi/)**
+Continua con **[Codice Alice WPA, aperto il codice delle reti wireless di Telecom - Parte II](/2010/12/01/codice-alice-wpa-aperto-il-codice-delle-reti-wireless-di-telecom-%E2%80%93-parte-ii-algoritmi-cracking-tool-e-come-difendersi.html)**

@@ -16,7 +16,7 @@ tags:
 - Cantieri
 ---
 
-Ne avevo [già parlato](/2007/03/14/imola-una-citta-in-fermento/). Nel frattempo la **bretella** aveva cominciato a prendere forma e nel relativo cantiere si lavorava alacremente alla sua realizzazione. Questo fino al 26 settembre, quando viene resa nota la sentenza del TAR (Tribunale Amministrativo Regionale) dell'Emilia Romagna che blocca il cantiere sulla base di vizi formali presenti in quegli stessi atti che avevano permesso l'inizio dei lavori. Di conseguenza tutto è fermo, tutti i progetti sono cancellati così come la gara d'appalto che la Cesi aveva vinto per costruire la bretella.
+Ne avevo [già parlato](/2007/03/14/imola-una-citta-in-fermento.html). Nel frattempo la **bretella** aveva cominciato a prendere forma e nel relativo cantiere si lavorava alacremente alla sua realizzazione. Questo fino al 26 settembre, quando viene resa nota la sentenza del TAR (Tribunale Amministrativo Regionale) dell'Emilia Romagna che blocca il cantiere sulla base di vizi formali presenti in quegli stessi atti che avevano permesso l'inizio dei lavori. Di conseguenza tutto è fermo, tutti i progetti sono cancellati così come la gara d'appalto che la Cesi aveva vinto per costruire la bretella.
 
 Tutto nasce nel 2005 quando Wwf e alcuni cittadini presentano un ricorso al Tar per annullare l'approvazione del progetto definitivo ed esecutivo dell'asse stradale da parte della giunta comunale. Oggi la risposta. I vizi formali sono 3:
 

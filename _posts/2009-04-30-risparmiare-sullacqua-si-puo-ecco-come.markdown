@@ -23,7 +23,7 @@ Acqua, un bene prezioso di prima necessità che sta assumendo sempre più valore
 
 ![water-money]({{ site.baseurl }}/uploads/2009/04/water-money.jpg)
 
-Non so quanti ne siano a conoscenza, ma nel contestato [**decreto 133/08**](/2008/10/28/1332008/), l'articolo **23-bis** delibera - con una sinteticità sconosciuta al più smaliziato dei legislatori - la **privatizzazione della gestione dell'acqua**:
+Non so quanti ne siano a conoscenza, ma nel contestato [**decreto 133/08**](/2008/10/28/1332008.html), l'articolo **23-bis** delibera - con una sinteticità sconosciuta al più smaliziato dei legislatori - la **privatizzazione della gestione dell'acqua**:
 
 <blockquote>
 

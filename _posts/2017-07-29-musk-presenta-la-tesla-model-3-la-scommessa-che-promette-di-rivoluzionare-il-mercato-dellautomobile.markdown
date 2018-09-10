@@ -25,7 +25,7 @@ Voce rotta da un velo di emozione, Musk prende un grosso respiro e procede alla 
 
 La scommessa di Tesla e Musk è sopratutto agli occhi del pubblico, dopo la raccolta di prenotazioni condotta nel 2016 arrivando a mezzo milione di prenotazioni, ognuna costata l'equivalente di 1.000€ per entrare nella lista dei futuri proprietari di una Model 3.
 
-Con le nuove [Gigafactory](/2017/04/27/elon-musk-100-gigafactory-bastano-per-il-fabbisogno-energetico-del-mondo/) alle spalle, Musk ha finalmente presentato e consegnato ai primi clienti le proprie Model 3.
+Con le nuove [Gigafactory](/2017/04/27/elon-musk-100-gigafactory-bastano-per-il-fabbisogno-energetico-del-mondo.html) alle spalle, Musk ha finalmente presentato e consegnato ai primi clienti le proprie Model 3.
 
 Di suo, la Model 3 ha tutti i numeri e caratteristiche per aprire il mercato alle auto (elettriche) di nuova generazione. La versione standard dell'auto, dal promesso costo base di 35.000 dollari, ha un'autonomia di 354 km, una velocità massima dichiarata di 209 km/h e ha un'accelerazione da 0 a 100 km/h in 5,6 secondi. In aggiunta alla versione standard, è disponibile la versione long-range, dal costo base di 44.000 dollari, autonomia di 498 km e capace di raggiungere da 0 a 100 km/h in 5.1 secondi con velocità massima di 225 km/h. In aggiunta ai dati "classici" dell'automotive, ci sono quelli della ricarica, un fattore fondamentale per rendere l'auto elettrica un prodotto di massa. Dalla sua, la Model 3 in combinazione col Supercharger di Tesla, ha una velocità di ricarica delle batterie di circa 210 km in 30 minuti, che diventano 24 km ogni 30 minuti coi tradizionali caricatori domestici.
 

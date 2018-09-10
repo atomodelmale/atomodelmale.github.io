@@ -16,7 +16,7 @@ tags:
 - Viaggi
 ---
 
-Raccontati i [primi due giorni di vacanza ](/2012/05/23/idee-per-una-vacanza-il-lago-maggiore-parte-i/)ecco i rimanenti itinerari di visita.
+Raccontati i [primi due giorni di vacanza ](/2012/05/23/idee-per-una-vacanza-il-lago-maggiore-parte-i.html)ecco i rimanenti itinerari di visita.
 
 _Terzo giorno : statua di San Carlo - rocca di Angera - Arona_
 

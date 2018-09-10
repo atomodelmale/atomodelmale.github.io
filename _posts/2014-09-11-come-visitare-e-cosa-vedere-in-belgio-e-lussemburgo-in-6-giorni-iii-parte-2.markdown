@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Tornati al punto di partenza](/2014/09/10/come-visitare-e-cosa-vedere-in-belgio-e-lussemburgo-in-6-giorni-ii-parte/), è ora di affrontare le mete dei prossimi giorni. Si parte con Bruges.
+Tornati al punto di partenza](/2014/09/10/come-visitare-e-cosa-vedere-in-belgio-e-lussemburgo-in-6-giorni-ii-parte.html), è ora di affrontare le mete dei prossimi giorni. Si parte con Bruges.
 
 **4° giorno**
 

@@ -21,7 +21,7 @@ Ogni tanto capita la tempesta perfetta. Quella dove i venti, il mare, la tempera
 
 ![the-martian-poster]({{ site.baseurl }}/uploads/2015/10/the-martian-poster.jpg)
 
-Il risultato è tutt'altro che scontato. Ok, c'è Matt Damon, c'è Ridley Scott, c'è la storia di "The Martian", il libro di Andrew Weir da cui è tratto il film, ma questo "porting" cinematografico dell'Uomo di Marte poteva uscire una mezza ciofeca come il promettentissimo Prometeus di Scott. O magari il protagonista poteva venire fuori piagnone come il Dr. Mann di [Interstellar](/2014/11/29/interstellar/). O si poteva finire con una trama che si perde in banalità da soap opera (ancora, Interstellar docet). E invece no.
+Il risultato è tutt'altro che scontato. Ok, c'è Matt Damon, c'è Ridley Scott, c'è la storia di "The Martian", il libro di Andrew Weir da cui è tratto il film, ma questo "porting" cinematografico dell'Uomo di Marte poteva uscire una mezza ciofeca come il promettentissimo Prometeus di Scott. O magari il protagonista poteva venire fuori piagnone come il Dr. Mann di [Interstellar](/2014/11/29/interstellar.html). O si poteva finire con una trama che si perde in banalità da soap opera (ancora, Interstellar docet). E invece no.
 
 Una maledetta tempesta perfetta che segue gli stessi principi che il protagonista, tale Mark Watney, (astro)botanico, applica per sopravvivere sul Pianeta Rosso. Soluzioni semplici, funzionanti e (scientificamente) accurate. Bando ai pistolotti moralisti e alle sotto-trame insensate. La trama si riassume in 20 parole: Futuro prossimo. Missione su Marte. L'equipaggio decide di abbandonare la missione per condizioni avverse. Credendolo morto, abbandonano Watney sul pianeta.
 

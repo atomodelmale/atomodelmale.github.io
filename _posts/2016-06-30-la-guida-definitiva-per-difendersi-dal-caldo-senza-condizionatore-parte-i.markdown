@@ -14,7 +14,7 @@ tags:
 - Estate
 ---
 
-L'estate è arrivata e con lei la voglia di frescura. Chi può (e vuole) permetterselo, ha già messo in funzione i condizionatori. In questo articolo diviso in tre parti (trovate le altre due [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-ii/) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-iii/)), vediamo quali soluzioni si possono adottare per difendersi dal caldo quando per volontà (di risparmio energetico/monetario) o indisponibilità non potete contare sui condizionatori.
+L'estate è arrivata e con lei la voglia di frescura. Chi può (e vuole) permetterselo, ha già messo in funzione i condizionatori. In questo articolo diviso in tre parti (trovate le altre due [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-ii.html) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-iii.html)), vediamo quali soluzioni si possono adottare per difendersi dal caldo quando per volontà (di risparmio energetico/monetario) o indisponibilità non potete contare sui condizionatori.
 
 # Acqua, come se piovesse
 

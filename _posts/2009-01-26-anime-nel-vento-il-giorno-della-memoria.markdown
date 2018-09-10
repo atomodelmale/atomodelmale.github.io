@@ -25,7 +25,7 @@ tags:
 
 Domani in tutta Italia e in numerosi paesi di tutto il mondo si terranno le celebrazioni legate al **giorno della memoria,** in ricordo di tutte le vittime del Nazismo e dell'Olocausto.
 
-Ecco quanto già scrissi un [anno fà](/2008/01/26/il-giorno-della-memoria/).
+Ecco quanto già scrissi un [anno fà](/2008/01/26/il-giorno-della-memoria.html).
 
 _Durante la seconda guerra mondiale infatti milioni di persone (tra cui ebrei, oppositori politici, portatori di handicap, rom, omosessuali ecc) vennero uccise in tutta Europa dai nazisti.  Il 27 gennaio 1945 le truppe sovietiche liberarono il campo di **Auschwitz - Birkenau**(a sinistra l'ingresso) svelando così al mondo la soluzione finale e la verità sull'entità dei massacri compiuti contro il popolo ebraico durante la guerra. In Italia (con la legge 211 del 20 luglio 2000) si è deciso di scegliere proprio la giornata del 27 gennaio come data simbolica per ricordare quanto successo, adeguandosi così a numerosi paesi del vecchio continente (Germania, Inghilterra) e all'ONU (risoluzione 60/7 del 1° novembre 2005)._
 

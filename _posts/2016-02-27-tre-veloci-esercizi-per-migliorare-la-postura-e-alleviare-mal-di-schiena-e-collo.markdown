@@ -16,7 +16,7 @@ tags:
 - Ufficio
 ---
 
-Abbiamo già trattato la questione di avere una [buona postura](/2015/11/26/una-postura-che-evita-mal-di-schiena-e-cervicali-dovute-alluso-inteso-degli-smartphone/) e proposto [esercizi](/2011/02/27/emicrania-cervicale-e-mal-di-schiena-come-batterli-migliorando-la-propria-postura/) che possono evitare ed alleviare i sintomi legati ad una cattiva postura.
+Abbiamo già trattato la questione di avere una [buona postura](/2015/11/26/una-postura-che-evita-mal-di-schiena-e-cervicali-dovute-alluso-inteso-degli-smartphone.html) e proposto [esercizi](/2011/02/27/emicrania-cervicale-e-mal-di-schiena-come-batterli-migliorando-la-propria-postura.html) che possono evitare ed alleviare i sintomi legati ad una cattiva postura.
 
 Se sentite dolore a schiena e collo e volete una soluzione veloce per "sciogliere" i dolorosi nervi, magari provati da ore passate con la testa a penzoloni davanti a monitor e smartphone --- ma la soluzione migliore è sempre la prevenzione, prendetevi le vostre pause --- l'utente di YouTube [rekrain](https://www.youtube.com/channel/UCI__rzwfWqQ_rkoDe3X6VgA) propone questi brevissimi esercizi che si possono fare in 3 minuti e che richiedono solo un muro contro il quale appoggiare la schiena.
 

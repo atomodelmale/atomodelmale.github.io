@@ -17,7 +17,7 @@ tags:
 - Sistema
 ---
 
-Si parlava poco tempo fa di come [CloudReady](/2015/10/31/avete-un-vecchio-pc-inutilizzato-dategli-nuova-vita-con-cloudready-e-google-chrome-os/) porti su tutti i PC Chrome OS, il sistema operativo di Google.
+Si parlava poco tempo fa di come [CloudReady](/2015/10/31/avete-un-vecchio-pc-inutilizzato-dategli-nuova-vita-con-cloudready-e-google-chrome-os.html) porti su tutti i PC Chrome OS, il sistema operativo di Google.
 
 ![]({{ site.baseurl }}/uploads/2016/01/RemixOS002.png)
 

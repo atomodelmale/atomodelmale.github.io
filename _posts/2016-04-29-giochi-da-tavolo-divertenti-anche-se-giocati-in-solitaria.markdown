@@ -14,7 +14,7 @@ tags:
 - Giochi
 ---
 
-I giochi da tavolo sono un ottimo passatempo (c'è perfino chi ha pensato di farci sopra un [film](/2015/09/29/coloni-di-catan-il-gioco-piu-amato-nella-silicon-valley-sara-presto-un-film/)). Peccato che solitamente richiedano almeno un'altra persona con cui giocare, ancora meglio se si è in un gruppo di 3-4 persone. Ovviamente può capitare che abbiate un'irrefrenabile voglia di giocare ma che il vostro partner (o gruppo) di gioco non sia disponibile.
+I giochi da tavolo sono un ottimo passatempo (c'è perfino chi ha pensato di farci sopra un [film](/2015/09/29/coloni-di-catan-il-gioco-piu-amato-nella-silicon-valley-sara-presto-un-film.html)). Peccato che solitamente richiedano almeno un'altra persona con cui giocare, ancora meglio se si è in un gruppo di 3-4 persone. Ovviamente può capitare che abbiate un'irrefrenabile voglia di giocare ma che il vostro partner (o gruppo) di gioco non sia disponibile.
 
 Che fare? Esistono giochi dotati di una modalità solitaria che, se ben fatta, richiede il cambiamento di poche regole rispetto alla versione per più giocatori, preservando un'ottima esperienza di gioco.
 

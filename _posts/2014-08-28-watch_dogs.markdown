@@ -30,7 +30,7 @@ O più comunemente: "Sapere è Potere". Bacon (Francis, non Kevin) ha centrato i
 
 Anche se non vola o diventa un omone verde di 3 metri quando si inRazza, Pearce è praticamente un super-eroe. Con un semplice tocco del suo cellulare hackera semafori, ponti, dissuasori e, se lo fate arrabbiare, fa scoppiare a distanza centraline elettriche e perfino le bombe a mano. E questo non è niente, mettetelo alle strette in un angolo, vedrete che repertorio di [fatality](http://it.wikipedia.org/wiki/Mortal_Kombat)!
 
-Figo? Si. E infatti Pearce entra in scena con una sequenza degna del miglior Bourne. Resort a cinque stelle. Ricchi che lo circondano a dozzine. E lui pulito e beato col suo smartphone succhia soldi e informazioni dai loro dispositivi. Peccato che, come ogni [controllore](/2009/03/29/watchmen/), ci fosse qualcuno che lo stava controllando. I suddetti tizi ne hanno a male e fanno passare un bruttissimo quarto d'ora a Pearce che, nello scontro, perde la nipotina di 6 anni.
+Figo? Si. E infatti Pearce entra in scena con una sequenza degna del miglior Bourne. Resort a cinque stelle. Ricchi che lo circondano a dozzine. E lui pulito e beato col suo smartphone succhia soldi e informazioni dai loro dispositivi. Peccato che, come ogni [controllore](/2009/03/29/watchmen.html), ci fosse qualcuno che lo stava controllando. I suddetti tizi ne hanno a male e fanno passare un bruttissimo quarto d'ora a Pearce che, nello scontro, perde la nipotina di 6 anni.
 
 Si, ho capito, non è la trama più originale degli ultimi anni. Cioè, volete l'azione, volete l'hacking, volete le macchine, volete pure le donne ignude e pretendete perfino una trama brillante?! Esagerati!
 

@@ -43,7 +43,7 @@ Inoltre continua il "fuori tutti" **sull'arredamento**, in questo caso **da  uff
 ![Scuola]({{ site.baseurl }}/uploads/2014/07/Scuola.jpg)
 
 Il ritorno dalle vacanze. Settembre è uno dei mesi più ricchi di offerte che seguono l'arrivo di nuovi prodotti.
-I nuovi modelli di **elettrodomestici** -- tranne i frigoriferi, che abbiamo detto arrivare a [Maggio](/2014/04/29/quando-e-cosa-acquistare-in-primavera/) --, **biciclette**, **moto** e **auto** arrivano nei negozi, che vuol dire forti sconti sui vecchi modelli.
+I nuovi modelli di **elettrodomestici** -- tranne i frigoriferi, che abbiamo detto arrivare a [Maggio](/2014/04/29/quando-e-cosa-acquistare-in-primavera.html) --, **biciclette**, **moto** e **auto** arrivano nei negozi, che vuol dire forti sconti sui vecchi modelli.
 
 Offerte anche per i prodotti da **giardinaggio** con l'arrivo della brutta stagione.
 

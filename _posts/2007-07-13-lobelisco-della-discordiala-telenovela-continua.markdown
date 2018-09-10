@@ -18,7 +18,7 @@ tags:
 
 Nel primo articolo eravamo giunti, nella successione dei fatti, alla fine del 2006.
 
-Ecco [quanto avevo scritto](/2007/01/27/lobelisco-della-discordialarticolo/) :
+Ecco [quanto avevo scritto](/2007/01/27/lobelisco-della-discordialarticolo.html) :
 
 _ Fine 2006/ Inizio 2007 - Il comune ricorre al Consiglio di Stato che già nel 2003 gli aveva dato ragione. La sentenza annullerebbe tutte le delibere del Comune sul trasloco: quella sulla riqualificazione di Piazza Bianconcini, quella relativa al progetto esecutivo per la riqualificazione di Piazza Matteotti e anche la decisione del Comune di pagare i lavori attraverso l'emissione di Buoni ordinari comunali._
 

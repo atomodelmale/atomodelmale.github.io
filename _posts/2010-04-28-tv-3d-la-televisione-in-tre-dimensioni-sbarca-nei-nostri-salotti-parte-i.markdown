@@ -60,4 +60,4 @@ Se sulla carta sembra un processo semplice e lineare, nella realtà **riprendere
 
 Pur riprendendo le scene tramite telecamere poste a distanza simile a quella dei nostri occhi, si pongono una serie di **problemi** sia **nella regolazione** di queste telecamere – il nostro sguardo è poche volte parallelo, ma al contrario converge verso il punto che vogliamo mettere a fuoco –, sia **nella riproduzione** del registrato, che deve essere diversa per i due occhi – mentre lo schermo, del cinema o della televisione, è uno.
 
-[Continua TV 3D, la televisione in tre dimensioni sbarca nei nostri salotti - Parte II -->](/2010/04/28/tv-3d-la-televisione-in-tre-dimensioni-sbarca-nei-nostri-salotti-parte-ii/)
+[Continua TV 3D, la televisione in tre dimensioni sbarca nei nostri salotti - Parte II -->](/2010/04/28/tv-3d-la-televisione-in-tre-dimensioni-sbarca-nei-nostri-salotti-parte-ii.html)

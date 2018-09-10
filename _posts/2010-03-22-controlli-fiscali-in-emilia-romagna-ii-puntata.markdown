@@ -19,7 +19,7 @@ tags:
 - Stato
 ---
 
-Lo scorso agosto ci siamo lasciati con [**questo**](/2009/08/26/controlli-fiscali-sullemilia-romagna/) articolo in cui riportavo la notizia di un "**inspessimento**" dei **controlli fiscali** a livello nazionale (ed in Emilia-Romagna), in questi mesi ANCI e l'Agenzia delle Entrate non sono certo rimaste con le mani in mano, anzi…
+Lo scorso agosto ci siamo lasciati con [**questo**](/2009/08/26/controlli-fiscali-sullemilia-romagna.html) articolo in cui riportavo la notizia di un "**inspessimento**" dei **controlli fiscali** a livello nazionale (ed in Emilia-Romagna), in questi mesi ANCI e l'Agenzia delle Entrate non sono certo rimaste con le mani in mano, anzi…
 
 **Paradisi per peccatori**
 

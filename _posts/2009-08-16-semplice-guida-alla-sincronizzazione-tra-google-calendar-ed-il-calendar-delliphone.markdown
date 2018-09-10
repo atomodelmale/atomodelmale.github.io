@@ -20,7 +20,7 @@ tags:
 
 ## Attenzione:
 
-Questo articolo è datato. Per una guida più aggiornata vedere [Sincronizzare Google Calendar e Calendar dell'iPhone [Guida Aggiornata iOS 5 e 6]](/2012/10/21/sincronizzare-google-calendar-e-calendar-delliphone-guida-aggiornata-ios-5-e-6/).
+Questo articolo è datato. Per una guida più aggiornata vedere [Sincronizzare Google Calendar e Calendar dell'iPhone [Guida Aggiornata iOS 5 e 6]](/2012/10/21/sincronizzare-google-calendar-e-calendar-delliphone-guida-aggiornata-ios-5-e-6.html).
 
 * * *
 

@@ -34,11 +34,11 @@ Per ogni attività che fate durante la giornata, segnatene il tipo, l'ora di ini
 
   * ![TR]({{ site.baseurl }}/uploads/2014/12/TR.jpg)
 
-**Mancanza di Auto-Disciplina**: se siete pieni di propositi ma non riuscite a portarli a termine, benché il tempo a vostra disposizione sia appropriato, potreste avere un problema di auto-disciplina. Guardate i dati che avete collezionato su come investite il vostro tempo. Potreste scoprire che, invece di andare in palestra, avete passato un'ora su Facebook e che invece di studiare la lezione di solfeggio avete sperperato la serata su WhatsApp con le vostre amiche del cuore. Volete raggiungere i vostri obiettivi? Rimuovete le distrazioni inutili e "[debuggate](/2014/11/30/volete-acquisire-una-buona-abitudine-ma-non-riuscite-forse-e-il-momento-di-debuggare-il-vostro-cervello/)" il vostro cervello.
+**Mancanza di Auto-Disciplina**: se siete pieni di propositi ma non riuscite a portarli a termine, benché il tempo a vostra disposizione sia appropriato, potreste avere un problema di auto-disciplina. Guardate i dati che avete collezionato su come investite il vostro tempo. Potreste scoprire che, invece di andare in palestra, avete passato un'ora su Facebook e che invece di studiare la lezione di solfeggio avete sperperato la serata su WhatsApp con le vostre amiche del cuore. Volete raggiungere i vostri obiettivi? Rimuovete le distrazioni inutili e "[debuggate](/2014/11/30/volete-acquisire-una-buona-abitudine-ma-non-riuscite-forse-e-il-momento-di-debuggare-il-vostro-cervello.html)" il vostro cervello.
 
   * ![overwhelmed]({{ site.baseurl }}/uploads/2014/12/overwhelmed.jpg)
 
-**Aspettative troppo alte**: se state già raggiungendo buoni risultati ma non riuscite a completarli tutti, non siete pigri ma più probabilmente avete alzato un po' troppo l'asticella delle aspettative. Ricordatevi che anche i Grandi (con la G maiuscola) sono partiti facendo un passo alla volta. Non abusate della vostra [forza di volontà](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo/) perché potreste finirla e avere risultati peggiori di quando avete iniziato. Scegliete con cura le vostre battaglie perché il vostro tempo è limitato, così come la vostra forza di volontà.
+**Aspettative troppo alte**: se state già raggiungendo buoni risultati ma non riuscite a completarli tutti, non siete pigri ma più probabilmente avete alzato un po' troppo l'asticella delle aspettative. Ricordatevi che anche i Grandi (con la G maiuscola) sono partiti facendo un passo alla volta. Non abusate della vostra [forza di volontà](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo.html) perché potreste finirla e avere risultati peggiori di quando avete iniziato. Scegliete con cura le vostre battaglie perché il vostro tempo è limitato, così come la vostra forza di volontà.
 
   * ![purpose]({{ site.baseurl }}/uploads/2014/12/purpose.jpg)
 
@@ -50,7 +50,7 @@ Chiave per risolvere i problemi sopraccitati è cambiare le proprie abitudini. C
 
 ![zen]({{ site.baseurl }}/uploads/2014/12/zen.jpg)
 
-È [dimostrato](http://www.ncbi.nlm.nih.gov/pubmed/21749245) che usare un _condizionamento contestuale_, piuttosto che la sola forza di volontà, permetta una più facile acquisizione di (buone) abitudini. E.g., invece di dire "voglio mangiare più sano", imponiamoci che, e.g., "a cena si mangia solo verdura" o invece di "voler [dormire meglio](/2011/07/31/da-pavlov-un-buon-rimedio-contro-linsonnia/)" stabilire che "a letto si dorme e basta e se si vuole leggere o usare tablet/smartphone si va in salotto".
+È [dimostrato](http://www.ncbi.nlm.nih.gov/pubmed/21749245) che usare un _condizionamento contestuale_, piuttosto che la sola forza di volontà, permetta una più facile acquisizione di (buone) abitudini. E.g., invece di dire "voglio mangiare più sano", imponiamoci che, e.g., "a cena si mangia solo verdura" o invece di "voler [dormire meglio](/2011/07/31/da-pavlov-un-buon-rimedio-contro-linsonnia.html)" stabilire che "a letto si dorme e basta e se si vuole leggere o usare tablet/smartphone si va in salotto".
 
 Ultimo, ma non meno importante, non spezzate il circolo di buone abitudini. Tenere traccia dei progressi fatti rende più difficile abbandonarle -- avete presente il detto "fatti trenta, facciamo trentuno"?. Rendersi conto di cosa si è riuscito a costruire e modificare di sé è sorprendente e contribuirà ad aumentare la conoscenza di sé e la propria autostima.
 

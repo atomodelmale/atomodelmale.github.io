@@ -12,7 +12,7 @@ categories:
 - Salute
 ---
 
-Secondo di tre articoli (gli altri li trovate [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-i/) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-iii/)) dove elenchiamo quali soluzioni si possono adottare per difendersi dal caldo quando, per risparmiare energia o per indisponibilità, non possiamo utilizzare un condizionatore.
+Secondo di tre articoli (gli altri li trovate [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-i.html) e [qui](/2016/06/30/la-guida-definitiva-per-difendersi-dal-caldo-senza-condizionatore-parte-iii.html)) dove elenchiamo quali soluzioni si possono adottare per difendersi dal caldo quando, per risparmiare energia o per indisponibilità, non possiamo utilizzare un condizionatore.
 
 # Costruire un condizionatore artigianale
 

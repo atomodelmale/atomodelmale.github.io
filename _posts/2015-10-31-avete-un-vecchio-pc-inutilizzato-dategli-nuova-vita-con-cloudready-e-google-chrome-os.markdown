@@ -21,7 +21,7 @@ Avete un PC o un portatile di qualche anno fa lasciato in un angolo a invecchiar
 
 ## Chrome OS
 
-Qualche anno fa (era il 2009, oh tempus fugitivus!) Google lanciò [Chrome OS](/2009/11/20/google-arriva-anche-sui-nostri-desktop-con-chromeos/).
+Qualche anno fa (era il 2009, oh tempus fugitivus!) Google lanciò [Chrome OS](/2009/11/20/google-arriva-anche-sui-nostri-desktop-con-chromeos.html).
 
 Idea di base del sistema operativo è fornire la piattaforma minima per far girare un browser --- inaspettatamente, Google Chrome --- da cui si può accedere a tutti i servizi online per la lettura di pagine web, scrittura di documenti, etc. In pratica Chrome OS demanda a servizi come Google Docs, Google Drive o Dropbox il lavoro sporco di gestire la scrittura dei vostri documenti o di conservare, in generale, documenti, foto, musica e video.
 

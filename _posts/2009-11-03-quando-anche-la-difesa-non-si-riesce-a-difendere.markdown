@@ -68,7 +68,7 @@ Insomma anche l'aeronautica ha i suoi grattacapi per mantenere lindi e puliti i
 
 [![011070-microsoft_security_essentials]({{ site.baseurl }}/uploads/2009/11/011070-microsoft_security_essentials.jpg)]({{ site.baseurl }}/uploads/2009/11/011070-microsoft_security_essentials.jpg)
 
-Dopo la [classifica di inizio anno](/2009/01/21/paura-dei-virus-diamo-un-occhiata-alla-classifica-di-av-comparatives-per-scegliere-lantivirus-adatto-alle-nostre-esigenze/) diffusa da [**AV-Comparatives**](http://www.av-comparatives.org/), l'azienda indipendente di benchmarking degli antivirus ha recentemente pubblicato un nuovo rapporto sulle loro capacità di rimozione dei malware, stilandone la classifica.
+Dopo la [classifica di inizio anno](/2009/01/21/paura-dei-virus-diamo-un-occhiata-alla-classifica-di-av-comparatives-per-scegliere-lantivirus-adatto-alle-nostre-esigenze.html) diffusa da [**AV-Comparatives**](http://www.av-comparatives.org/), l'azienda indipendente di benchmarking degli antivirus ha recentemente pubblicato un nuovo rapporto sulle loro capacità di rimozione dei malware, stilandone la classifica.
 Dal confronto tra 16 antivirus, i vincitori sono stati - con mia parziale sorpresa:
 
 	

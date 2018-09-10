@@ -16,7 +16,7 @@ categories:
 - Scienza
 ---
 
-La [recente notizia](/2016/05/28/allarme-super-batterio-negli-usa/) della scoperta negli USA di un batterio resistente anche agli antibiotici più potenti ha riportato all'attenzione del grande pubblico la questione dell'uso ingiustificato degli antibiotici, principale responsabile nella selezione di nuovi ceppi di batteri super-resistenti, e quella della ricerca di nuovi tipi di antibiotici.
+La [recente notizia](/2016/05/28/allarme-super-batterio-negli-usa.html) della scoperta negli USA di un batterio resistente anche agli antibiotici più potenti ha riportato all'attenzione del grande pubblico la questione dell'uso ingiustificato degli antibiotici, principale responsabile nella selezione di nuovi ceppi di batteri super-resistenti, e quella della ricerca di nuovi tipi di antibiotici.
 
 Mentre la soluzione del primo problema è di tipo culturale --- e l'[Italia è da anni](http://www.ilpost.it/2011/11/20/la-fine-dellera-antibiotica/) il capofila di questo primato negativo ---, riguardo il secondo, un team di ricercatori di Harvard ha recentemente pubblicato su Nature un articolo dal titolo (tradotto) "[Una piattaforma per la scoperta di nuovi antibiotici macrolidi](http://www.nature.com/nature/journal/v533/n7603/full/nature17967.html)" in cui viene descritta una piattaforma per la rapida prototipazione di nuovi  antibiotici (macrolidi).
 

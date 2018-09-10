@@ -16,13 +16,13 @@ tags:
 - X-Men
 ---
 
-Con First Class tornano il **Professor X**, **Magneto** e una folta compagine mutante[ **dell'universo  Marvel**](/2007/06/16/the-astonishing-marvel-universe-the-x-men/), in quella che ha tutto il potenziale per essere la nuova trilogia dei "figli dell'atomo" .
+Con First Class tornano il **Professor X**, **Magneto** e una folta compagine mutante[ **dell'universo  Marvel**](/2007/06/16/the-astonishing-marvel-universe-the-x-men.html), in quella che ha tutto il potenziale per essere la nuova trilogia dei "figli dell'atomo" .
 
 **La mutazione, base dell'evoluzione**
 
 ![]({{ site.baseurl }}/uploads/2011/06/Xmen-first-class-poster.jpg)
 
-Storia del decennio passato: cavalcando il crescente interesse del pubblico per i suoi "super-eroi con super-problemi" la Marvel ha prodotto [la sua prima trilogia](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/), incentrata sugli X-Men e sulle storie del professor X, genetista ed insegnante dell'omonimo Xavier Istitute, dove giovani dotati di poteri mutanti possono trovare un riparo, un luogo di apprendimento ed aggregazione.
+Storia del decennio passato: cavalcando il crescente interesse del pubblico per i suoi "super-eroi con super-problemi" la Marvel ha prodotto [la sua prima trilogia](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html), incentrata sugli X-Men e sulle storie del professor X, genetista ed insegnante dell'omonimo Xavier Istitute, dove giovani dotati di poteri mutanti possono trovare un riparo, un luogo di apprendimento ed aggregazione.
 
 La trilogia "classica" – se non l'avete ancora vista, rimediate subito! – oltre alle **epiche battaglie** combattute a suon di super-poteri tra "buoni e cattivi", aveva come sfondo il rapporto tra la **libertà** dei mutanti, il loro status nella società e le pressioni del governo nel gestire questa **pericolosa quanto preziosa risorsa**.
 

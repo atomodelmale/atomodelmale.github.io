@@ -18,7 +18,7 @@ tags:
 
 ![oculus_facebook]({{ site.baseurl }}/uploads/2014/03/oculus_facebook.jpeg)
 
-E' decisamente tempo di acquisti per Facebook. Dopo il recente esborso plurimiliardario di [WhatsApp](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp/) il poliedrico Zuckerberg ha recentemente acquistato per "appena" 2 miliardi di dollari lo stato dell'arte della realtà virtuale: [Oculus Rift](http://www.oculusvr.com/).
+E' decisamente tempo di acquisti per Facebook. Dopo il recente esborso plurimiliardario di [WhatsApp](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp.html) il poliedrico Zuckerberg ha recentemente acquistato per "appena" 2 miliardi di dollari lo stato dell'arte della realtà virtuale: [Oculus Rift](http://www.oculusvr.com/).
 
 Certo, l'acquisto di WhatsApp è più che giustificato, ma perché investire una somma considerevole per una tecnologia relativamente lontana dal contesto del social network?
 

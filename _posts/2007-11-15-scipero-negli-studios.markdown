@@ -32,4 +32,4 @@ Per ultimo capiamo bene cosa significa **Sceneggiatura**. [Wikipedia ](http://it
 
 Con la speranza che tutto si risolva, chiudo l'articolo, invitando ciascuno a cercare su Internet notizie della propria serie televisiva preferita.
 
-Il Gorgonauta. [](//atomodelmale.forumfree.net/?t=22434503://)_ _
+Il Gorgonauta. [](//atomodelmale.forumfree.net/?t=22434503:/.html)_ _

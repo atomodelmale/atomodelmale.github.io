@@ -15,9 +15,9 @@ tags:
 - RSS
 ---
 
-Terzo ed ultimo articolo sui migliori lettori di feed RSS per le tre principali piattaforme: [Desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/), [Mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android/) e Web.
+Terzo ed ultimo articolo sui migliori lettori di feed RSS per le tre principali piattaforme: [Desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html), [Mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android.html) e Web.
 
-Nel caso non sappiate cosa siano e a cosa servano i feed RSS, vi consiglio di leggervi la breve introduzione del [primo articolo](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/).
+Nel caso non sappiate cosa siano e a cosa servano i feed RSS, vi consiglio di leggervi la breve introduzione del [primo articolo](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html).
 
 **Google Reader**
 
@@ -41,4 +41,4 @@ A completare il trio [Pure Reader](https://addons.mozilla.org/en-US/firefox/addo
 
 * * *
 
-Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Desktop RSS Feed Reader 2012 – I migliori lettori RSS per Windows e Mac](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/) e [Best Mobile Feed Reader 2012 - I migliori lettori RSS per iPhone e Android](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android/).
+Siete curiosi di sapere quali sono i migliori lettori RSS per le altre piattaforme? Continuate la lettura con [Best Desktop RSS Feed Reader 2012 – I migliori lettori RSS per Windows e Mac](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html) e [Best Mobile Feed Reader 2012 - I migliori lettori RSS per iPhone e Android](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android.html).

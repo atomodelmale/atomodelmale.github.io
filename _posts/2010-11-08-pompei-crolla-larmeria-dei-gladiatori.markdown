@@ -25,9 +25,9 @@ L'edificio, chiamato comunemente anche "la casa dei gladiatori", si trovava lung
 
 Ad un primo esame le cause del crollo sono imputate alla **pioggia** e ad un cattivo restauro eseguito negli anni scorsi.
 
-Ma quanto accaduto (e dopo il crollo di parte del soffitto della [Domus Aurea](/2010/03/31/roma-crolla-parte-del-soffitto-della-domus-aurea/) a Roma) getta un lunga ombra sullo stato di conservazione e manutenzione del **patrimonio storico-artistico-archeologico** del nostro paese.
+Ma quanto accaduto (e dopo il crollo di parte del soffitto della [Domus Aurea](/2010/03/31/roma-crolla-parte-del-soffitto-della-domus-aurea.html) a Roma) getta un lunga ombra sullo stato di conservazione e manutenzione del **patrimonio storico-artistico-archeologico** del nostro paese.
 
-Tale patrimonio sarà anche di ingenti dimensioni  e i fondi saranno pure limitati, come si afferma dalle parti del Ministero dei Beni e delle Attività culturali, ma se già le poche risorse che si hanno a disposizione vengono ridotte o destinate ad altro (come ha rivelato Radio Rebelde nel suo [ultimo articolo](/2010/11/06/tagli-alla-scuola-non-per-le-scuole-private-cattoliche-per-loro-tremonti-trova-200-milioni/)) non è possible, in ogni caso, andare molto lontano.
+Tale patrimonio sarà anche di ingenti dimensioni  e i fondi saranno pure limitati, come si afferma dalle parti del Ministero dei Beni e delle Attività culturali, ma se già le poche risorse che si hanno a disposizione vengono ridotte o destinate ad altro (come ha rivelato Radio Rebelde nel suo [ultimo articolo](/2010/11/06/tagli-alla-scuola-non-per-le-scuole-private-cattoliche-per-loro-tremonti-trova-200-milioni.html)) non è possible, in ogni caso, andare molto lontano.
 
 L'area archeologica di Pompei, nonostante sia uno dei siti più visitati del nostro paese, non versa in ottime condizioni. Sporcizia, rifiuti, cani randagi, cattiva o addirittura assenza di manutenzione. Ed ora si temono nuovi **crolli**. Problemi forse comuni a Pompei ma che ora finsicono sotto la luce dei riflettori.
 

@@ -20,7 +20,7 @@ Se da una parte è intoccabile il proponimento di massimizzare la santa trinità
 
 ![]({{ site.baseurl }}/uploads/2017/12/vacation_003.jpg)
 
-Sapere quando "staccare" da lavoro è importante e spesso, proprio perché siamo avviluppati in periodi di stress che decimano la nostra [forza di volontà](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo/), abbiamo bisogno di "ricaricare le batterie", andando in vacanza.
+Sapere quando "staccare" da lavoro è importante e spesso, proprio perché siamo avviluppati in periodi di stress che decimano la nostra [forza di volontà](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo.html), abbiamo bisogno di "ricaricare le batterie", andando in vacanza.
 
 Il consiglio è cogliere l'opportunità del capodanno per prendere il calendario dell'anno venturo e cominciare a mettere un po' di X sulle settimane in cui farsi una bella vacanza. La pratica è tutt'altro che un mero esercizio di pianificazione. Se non pianificate per tempo, già nei primi mesi dell'anno il calendario tenderà a riempirsi di impegni, scadenze e obblighi perché "tanto non ho segnato niente per quella data", riducendo a zero il tempo dedicato a voi stessi (e soprattutto ai cari che vorrebbero passare con voi un po' tempo lontano dallo stress di tutti i giorni).
 

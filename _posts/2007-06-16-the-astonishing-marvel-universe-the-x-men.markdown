@@ -94,7 +94,7 @@ Il discorso per gli **X-men** invece è differente, l'idea della mutazione genet
 
 Con gli X-men Stan Lee crea un vero e proprio **sotto-universo** affollato di creature semi-divine (o semi-diaboliche a seconda dei casi...)
 
-La prima avventura degli "uomini del domani" è datata 1963, un ristretto gruppo di mutanti composto da **Ciclope**, **Marvel Girl**, **Angelo**,**La Bestia** e **L'Uomo ghiaccio** vengono mandati dal **professor X** a combattere per la prima volta **Magneto** che sta cercando di attaccare l'esercito degli Stati Uniti d'America (per una descrizione più dettagliata dei personaggi vi rimando **[all'articolo del Gorgonauta](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/)**).
+La prima avventura degli "uomini del domani" è datata 1963, un ristretto gruppo di mutanti composto da **Ciclope**, **Marvel Girl**, **Angelo**,**La Bestia** e **L'Uomo ghiaccio** vengono mandati dal **professor X** a combattere per la prima volta **Magneto** che sta cercando di attaccare l'esercito degli Stati Uniti d'America (per una descrizione più dettagliata dei personaggi vi rimando **[all'articolo del Gorgonauta](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html)**).
 
 Benché l'idea fosse innovativa e intrigante purtroppo non attecchì e l'albo dopo un paio di ristampe finì nel dimenticatoio, i personaggi degli X-men vennero "scorporati" dalla propria testata ed "usati" come ospiti in altre testa![]({{ site.baseurl }}/uploads/2008/11/xmancomics.png)
 

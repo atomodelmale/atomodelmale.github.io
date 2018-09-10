@@ -22,7 +22,7 @@ Appese trivella e scafandro al chiodo, il nuovo capitolo dell'opera di Irrationa
 
 ![Bioshock Infinite]({{ site.baseurl }}/uploads/2013/04/Bioshock-Infinite.jpg)
 
-Scordatevi le claustrofobiche strutture sommerse di [Rapture](/2007/10/13/andiamo-mister-bolla/) e preparatevi all'immensità del cielo di Columbia.
+Scordatevi le claustrofobiche strutture sommerse di [Rapture](/2007/10/13/andiamo-mister-bolla.html) e preparatevi all'immensità del cielo di Columbia.
 
 <blockquote>"Dove siamo"</blockquote>
 

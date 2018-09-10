@@ -28,7 +28,7 @@ tags:
 - Will Right
 ---
 
-Dopo l'exploit di **[Bioshock](/2007/10/13/andiamo-mister-bolla/)** di 11 mesi fa torno a parlare di un videogioco: il suo papà è **Will Wright**, lo stesso della serie **Sims** e **SimCity;** diamo un caldo benvenuto a
+Dopo l'exploit di **[Bioshock](/2007/10/13/andiamo-mister-bolla.html)** di 11 mesi fa torno a parlare di un videogioco: il suo papà è **Will Wright**, lo stesso della serie **Sims** e **SimCity;** diamo un caldo benvenuto a
 
 ![]({{ site.baseurl }}/uploads/2008/10/wright.png)
 

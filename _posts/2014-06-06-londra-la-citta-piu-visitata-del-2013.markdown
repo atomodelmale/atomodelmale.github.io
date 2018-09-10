@@ -28,7 +28,7 @@ Vi piacciono i musei? Londra offre tantissime proposte tra British Museum, Natio
 
 Ancora non siete convinti? Amate il verde e cinguettio degli uccelli? Londra è pronta a deliziarvi con oltre una ventina di parchi e giardini botanici. Dal Green park, elevato al grado di Parco Reale da Carlo II d'Inghilterra nel 1668, a Hyde park, dotato di un fascino naturalistico teatro di numerosi concerti e spettacoli all'aperto.
 
-Troppa scelta e siete indecisi su cosa vedere a Londra? Noi proponiamo la nostra [esperienza](/2012/08/31/londra-in-3-giorni-parte-i/), ma su [nonsoloturisti.it](http://nonsoloturisti.it/?s=londra) potete trovare tantissimi articoli su cosa vedere e come strutturare la vostra vacanza nella capitale britannica.
+Troppa scelta e siete indecisi su cosa vedere a Londra? Noi proponiamo la nostra [esperienza](/2012/08/31/londra-in-3-giorni-parte-i.html), ma su [nonsoloturisti.it](http://nonsoloturisti.it/?s=londra) potete trovare tantissimi articoli su cosa vedere e come strutturare la vostra vacanza nella capitale britannica.
 
 Come scrisse Samuel Johnson, autore del celebre "A dictionary of the English language", per 173 anni punto di riferimento della lingua inglese:
 

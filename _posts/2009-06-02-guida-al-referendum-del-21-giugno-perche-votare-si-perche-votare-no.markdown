@@ -20,7 +20,7 @@ tags:
 ---
 
 **Quando si andrà a votare?**
-[Come vi avevamo già annunciato](/2009/04/11/election-day-la-spina-del-fianco-del-premier-berlusconi/), dopo lunghi tira e molla tra PDL e Lega,  è stato fissata come data per i 3 referendum Domenica 21 Giugno in concomitanza con eventuali ballottaggi delle elezioni amministrative.
+[Come vi avevamo già annunciato](/2009/04/11/election-day-la-spina-del-fianco-del-premier-berlusconi.html), dopo lunghi tira e molla tra PDL e Lega,  è stato fissata come data per i 3 referendum Domenica 21 Giugno in concomitanza con eventuali ballottaggi delle elezioni amministrative.
 
 **Quali sono i tre quesiti che dovremo votare?**
 

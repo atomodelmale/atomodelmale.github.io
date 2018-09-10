@@ -36,4 +36,4 @@ Nella pratica, i punti salienti su cui le aziende dovranno lavorare prima dell'e
 
   * documentazione e applicazione di appropriate misure di sicurezza per impedire l'accesso non autorizzato ai dati. La documentazione include anche l'individuazione di responsabilità e procedure nel caso di violazione dei dati.
 
-Continua leggendo la [seconda parte](/2018/02/26/gdpr-cose-e-quali-sono-le-ricadute-su-piccole-e-medie-imprese-2-di-2/) dell'articolo.
+Continua leggendo la [seconda parte](/2018/02/26/gdpr-cose-e-quali-sono-le-ricadute-su-piccole-e-medie-imprese-2-di-2.html) dell'articolo.

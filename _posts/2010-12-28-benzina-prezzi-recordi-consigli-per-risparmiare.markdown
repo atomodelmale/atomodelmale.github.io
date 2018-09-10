@@ -28,7 +28,7 @@ Infatti mentre alcune compagnie hanno già ritoccato i prezzi della benzina e 
 
 Ma come si alzono i prezzi è anche possibile **risparmiare**. Vediamo come.
 
-Oltre all'ovvio consiglio di recarsi ove possibile dalle compagnie che praticano il prezzo più basso o dalle cosiddette **[pompe bianche](/2009/08/09/pompe-bianche-ecco-lelenco-e-gli-indirizzi-di-tutti-i-benzinai-low-cost/)**(ossia da distributori indipendenti slegati dalle grosse compagnie petrolifere) e di praticare il **self service**, un risparmio in termini di consumi di carburante può arrivare da una corretta manutenzione del veicolo e da uno stile di guida più "rilassato".
+Oltre all'ovvio consiglio di recarsi ove possibile dalle compagnie che praticano il prezzo più basso o dalle cosiddette **[pompe bianche](/2009/08/09/pompe-bianche-ecco-lelenco-e-gli-indirizzi-di-tutti-i-benzinai-low-cost.html)**(ossia da distributori indipendenti slegati dalle grosse compagnie petrolifere) e di praticare il **self service**, un risparmio in termini di consumi di carburante può arrivare da una corretta manutenzione del veicolo e da uno stile di guida più "rilassato".
 
 Sotto quest'ultimo aspetto valgono semplici suggerimenti come evitare brusche accelerate, sfruttare il freno motore, cambiare rapidamente le marce verso quella più alta o mantenere una velocità moderata e costante. Ma anche evitare di viaggiare con carichi sporgenti in grado di compromettere l'aerodinamicità del veicolo stesso o non scaldare il motore e spegnere quest'ultimo durante le soste.
 

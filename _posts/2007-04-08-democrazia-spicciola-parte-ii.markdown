@@ -46,4 +46,4 @@ Se uno solo sa parlare, o conosce meglio degli altri come "incalzare" il popolo,
 
 Lo diceva già Socrate a suo tempo: diffidare dei demagoghi e di tutti quelli che invece di usare **parole precise, specifiche e dirette**, usano **emozioni, metafore e giri di parole** per distogliere l'attenzione dell'ascoltatore dall'idea alla base del proprio discorso (se avete voglia leggetevi **La Fattoria degli Animali** di **Orwell** che è un buon esempio di tutto ciò).
 
-**[Torna a Democrazia Spicciola (Parte I)](/2007/03/26/democrazia-spicciola-parte-i/)**
+**[Torna a Democrazia Spicciola (Parte I)](/2007/03/26/democrazia-spicciola-parte-i.html)**

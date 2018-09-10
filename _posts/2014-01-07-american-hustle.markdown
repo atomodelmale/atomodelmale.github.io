@@ -19,7 +19,7 @@ tags:
 - Jeremy Renner
 ---
 
-Immaginate. [Batman ](/2012/09/29/the-dark-knight-rises-il-cavaliere-oscuro-il-ritorno/)sovrappeso e col riporto che turlupina un'[Occhio di Falco](/2012/05/01/the-avengers/) aué-aué col ciuffo alla Elvis. O ancora una[ Katniss Everdeen](/2012/05/01/the-avengers/) depressa che da fuoco a tutta la casa. Oppure uno [Sberla ](/2010/06/20/a-team-trama-e-recensione/)iper-eccitato con la permanente.
+Immaginate. [Batman ](/2012/09/29/the-dark-knight-rises-il-cavaliere-oscuro-il-ritorno.html)sovrappeso e col riporto che turlupina un'[Occhio di Falco](/2012/05/01/the-avengers.html) aué-aué col ciuffo alla Elvis. O ancora una[ Katniss Everdeen](/2012/05/01/the-avengers.html) depressa che da fuoco a tutta la casa. Oppure uno [Sberla ](/2010/06/20/a-team-trama-e-recensione.html)iper-eccitato con la permanente.
 
 Sogno acido? Quasi.
 

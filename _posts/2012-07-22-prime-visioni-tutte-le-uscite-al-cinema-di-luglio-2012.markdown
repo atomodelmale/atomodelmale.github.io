@@ -28,7 +28,7 @@ Nel giorno in cui gli Stati Uniti festeggiano l'indipendenza, ecco il film che c
 
 Altre due interessanti pellicole: The Way Back e Quell'idiota di nostro fratello. La prima descrive la fuga di sette uomini da un gulag sovietico nel 1940, la seconda l'improvviso arrivo, nella vita di tre sorelle, del loro scombinato (ed ex carcerato) fratello Ned.
 
-**[Biancaneve e il cacciatore ](/2012/07/17/biancaneve-e-il-cacciatore/)**
+**[Biancaneve e il cacciatore ](/2012/07/17/biancaneve-e-il-cacciatore.html)**
 
 Seconda pellicola del 2012 dedicata alla principessa della Disney, nel cast entrano Kristen Stewart (Biancaneve), Chris Hemsworth (il cacciatore) e Charlize Theron (la regina cattiva).
 

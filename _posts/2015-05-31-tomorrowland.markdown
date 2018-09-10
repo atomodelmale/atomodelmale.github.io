@@ -15,13 +15,13 @@ tags:
 - George Clooney
 ---
 
-Ragazzi, ho avuto un'idea: facciamo un film a tema [Bioshock](/2007/10/13/andiamo-mister-bolla/)? Si dai, però siamo la Disney, dobbiamo fare pubblicità ai nostri parchi, cosa possiamo inventarci?
+Ragazzi, ho avuto un'idea: facciamo un film a tema [Bioshock](/2007/10/13/andiamo-mister-bolla.html)? Si dai, però siamo la Disney, dobbiamo fare pubblicità ai nostri parchi, cosa possiamo inventarci?
 
 ## Tomorrowland
 
 ![Tomorrowland 000]({{ site.baseurl }}/uploads/2015/05/Tomorrowland-000.jpg)
 
-Con un livello di meta-referenza da doppia capriola carpiata, la Disney punta tutto su questo Tomorrowland. Se con [Pirati dei Caraibi](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi/) ci si era limitati ad appioppare al film il nome dell'omonima attrazione, in Tomorrowland s'è fatto un passo avanti, includendo l'attrazione stessa all'interno del film.
+Con un livello di meta-referenza da doppia capriola carpiata, la Disney punta tutto su questo Tomorrowland. Se con [Pirati dei Caraibi](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi.html) ci si era limitati ad appioppare al film il nome dell'omonima attrazione, in Tomorrowland s'è fatto un passo avanti, includendo l'attrazione stessa all'interno del film.
 
 Peccato che il risultato, tolti gli effetti speciali e Clooney (e Hugh Laurie/Dottor House), si riduca a poco più di un giro per la suddetta attrazione.
 

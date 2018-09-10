@@ -26,7 +26,7 @@ S.H.I.E.L.D. to the rescue!
 
 ![agents of the shield 004]({{ site.baseurl }}/uploads/2013/10/agents-of-the-shield-004.jpg)
 
-L'episodio pilota di Agents of the S.H.I.E.L.D, andato in onda in Ammmerega lo scorso 24 Settembre, riprende la storia da dove l'aveva lasciata [The Avengers](/2012/05/01/the-avengers/). Dopo gli eventi di New York, l'esistenza di supereroi e supercattivi si palesa a tutto il mondo. Le segnalazioni di nuovi "strani eventi" fioccano come neve d'inverno e lo S.H.I.E.L.D. ha bisogno d'istituire una nuova task-force per controllarli e proteggere i civili.
+L'episodio pilota di Agents of the S.H.I.E.L.D, andato in onda in Ammmerega lo scorso 24 Settembre, riprende la storia da dove l'aveva lasciata [The Avengers](/2012/05/01/the-avengers.html). Dopo gli eventi di New York, l'esistenza di supereroi e supercattivi si palesa a tutto il mondo. Le segnalazioni di nuovi "strani eventi" fioccano come neve d'inverno e lo S.H.I.E.L.D. ha bisogno d'istituire una nuova task-force per controllarli e proteggere i civili.
 
 All'uopo ritroviamo l'agente Coulson, che credevamo ucciso da Loki in The Avengers ma che scopriamo vivo e vegeto. Nulla di sconvolgente, i personaggi Marvel, si sa, non rimangono morti a lungo e spesso il loro ritorno genera trame e sottotrame. ![agents of the shield 001]({{ site.baseurl }}/uploads/2013/10/agents-of-the-shield-001.jpg)
 

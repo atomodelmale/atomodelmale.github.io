@@ -18,7 +18,7 @@ tags:
 - Giustizia
 ---
 
-Il caso **Cesare Battisti** non è nuovo alle [cronache italiane](/2009/01/30/brasile-cesare-battisti-non-terrorista-ma-rifugiato-politico/). Ed ora la **Corte Suprema Brasilian** a, dopo il ricorso presentato a suo tempo dall'Italia contro l'allora decisione del Ministro della Giustizia brasiliano di considerare Battisti un rifugiato politico (quindi non estradabile), si è invece espressa a favore dell'**estradizione**.
+Il caso **Cesare Battisti** non è nuovo alle [cronache italiane](/2009/01/30/brasile-cesare-battisti-non-terrorista-ma-rifugiato-politico.html). Ed ora la **Corte Suprema Brasilian** a, dopo il ricorso presentato a suo tempo dall'Italia contro l'allora decisione del Ministro della Giustizia brasiliano di considerare Battisti un rifugiato politico (quindi non estradabile), si è invece espressa a favore dell'**estradizione**.
 
 La Corte tuttavia, anche se si è pronunciata a favore dell'estradizione e quindi del rientro in Itala di Battisti, ha stabilito che la decisione finale sul caso spetterà comunque al presidente brasiliano Lula. Sarà quindi quest'ultimo a dire l'ultima parola sulla vicenda.
 

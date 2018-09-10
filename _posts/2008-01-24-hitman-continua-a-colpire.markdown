@@ -20,7 +20,7 @@ tags:
 
 Strano, non mi sembrava di aver acceso il pc... uhm... chi ha installato Hitman, va bé, non si dice mai di no ad una giocata... Che presentazione lunga... ahhh, ecco 47, vediamo un po'... wow, che grafica iperrealistica... aspetta, ma non sono davanti al PC! E chi è tutta questa gente attorno!!!
 
-Checché pensiate, il cappello introduttivo qui sopra non racconta il mio ultimo incubo a base di **overdose ludiche** e  dell'ultima scorpacciata di "**peperonata della nonna**". Ho semplicemente visto l'ultimo film del misconosciuto Xavier Gens, interpretato dal leggermente più conosciuto (ricordate il cattivo di **[Die Hard 4.0](/2007/10/30/die-hard-vivere-o-morire/)**?) **Timothy Olyphant** e devo dire che mi è piaciuto, e anche parecchio :P.
+Checché pensiate, il cappello introduttivo qui sopra non racconta il mio ultimo incubo a base di **overdose ludiche** e  dell'ultima scorpacciata di "**peperonata della nonna**". Ho semplicemente visto l'ultimo film del misconosciuto Xavier Gens, interpretato dal leggermente più conosciuto (ricordate il cattivo di **[Die Hard 4.0](/2007/10/30/die-hard-vivere-o-morire.html)**?) **Timothy Olyphant** e devo dire che mi è piaciuto, e anche parecchio :P.
 
 **The Silent Assassin**
 

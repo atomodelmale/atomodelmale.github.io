@@ -12,7 +12,7 @@ categories:
 - Tech &amp; Hacks
 ---
 
-Abbiamo già parlato di [jailbreak](/2009/06/04/ida-il-navigatore-gps-offline-che-tutti-i-possessori-di-iphone-aspettavano/) e di alcune app disponibili su Cydia che migliorano l'utilizzo dei nostri dispositivi Apple. BatteryDoctorPro è uno di questi. Nomen omen, l'applicazione nasce come programma di gestione della batteria ma offre molte caratteristiche interessanti che sorprendono per qualità e quantità. Ancor più sorprendente è che, senza pubblicità di sorta, l'applicazione sia scaricabile gratuitamente. Chapeau.
+Abbiamo già parlato di [jailbreak](/2009/06/04/ida-il-navigatore-gps-offline-che-tutti-i-possessori-di-iphone-aspettavano.html) e di alcune app disponibili su Cydia che migliorano l'utilizzo dei nostri dispositivi Apple. BatteryDoctorPro è uno di questi. Nomen omen, l'applicazione nasce come programma di gestione della batteria ma offre molte caratteristiche interessanti che sorprendono per qualità e quantità. Ancor più sorprendente è che, senza pubblicità di sorta, l'applicazione sia scaricabile gratuitamente. Chapeau.
 
 BatteryDoctorPro supporta iOS 5 e 6 ed è presente su Cydia nel repository di BigBoss e per installarlo è sufficiente cercare l'omonima applicazione. Una volta installato e riavviata la SpringBoard, troverete l'applicazione standalone sulla Home, mentre cliccando sull'iconcina della batteria in alto a destra o aprendo il centro notifiche vedrete il pratico widget di controllo.
 

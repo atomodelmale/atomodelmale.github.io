@@ -15,11 +15,11 @@ tags:
 - Marvel
 ---
 
-La famiglia spaziale più gettonata del momento aggiunge un nuovo media su cui fare capolino: PC, tablet e smartphone. Come recita il titolo, a produrre il gioco dei [Guardiani della Galassia](/2014/10/26/i-guardiani-della-galassia/) è la Telltale Games, già apparsa su queste pagine digitali per le trasposizioni di [Batman](/2016/08/25/batman-the-telltale-series/) e [Game of Thrones](/2016/08/25/batman-the-telltale-series/).
+La famiglia spaziale più gettonata del momento aggiunge un nuovo media su cui fare capolino: PC, tablet e smartphone. Come recita il titolo, a produrre il gioco dei [Guardiani della Galassia](/2014/10/26/i-guardiani-della-galassia.html) è la Telltale Games, già apparsa su queste pagine digitali per le trasposizioni di [Batman](/2016/08/25/batman-the-telltale-series.html) e [Game of Thrones](/2016/08/25/batman-the-telltale-series.html).
 
 ![]({{ site.baseurl }}/uploads/2017/04/telltaleGotG_003.jpg)
 
-Come per le altre avventure della casa videoludica, anche "Guardians of the Galaxy: The Telltale Series" si prende la propria fetta di libertà rispetto all'omonima serie cinematografica, la cui storia è --- almeno per ora --- da considerare alternativa a quanto visto nel recente [Vol.2](/2017/04/27/guardiani-della-galassia-vol-2/), così come per parte della prima pellicola. Il gioco quindi non sarà direttamente legato a nessuno degli altri media, prendendo spunto sia dagli adattamenti cinematografici, così come dalle trasposizioni televisive e gli originali a fumetti.
+Come per le altre avventure della casa videoludica, anche "Guardians of the Galaxy: The Telltale Series" si prende la propria fetta di libertà rispetto all'omonima serie cinematografica, la cui storia è --- almeno per ora --- da considerare alternativa a quanto visto nel recente [Vol.2](/2017/04/27/guardiani-della-galassia-vol-2.html), così come per parte della prima pellicola. Il gioco quindi non sarà direttamente legato a nessuno degli altri media, prendendo spunto sia dagli adattamenti cinematografici, così come dalle trasposizioni televisive e gli originali a fumetti.
 
 ![]({{ site.baseurl }}/uploads/2017/04/telltaleGotG_000.jpg)
 

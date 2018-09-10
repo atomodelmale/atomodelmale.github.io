@@ -45,4 +45,4 @@ La massa procrastina le proprie idee indefessamente, senza porsi problemi, annie
 
 Un esempio tipico di **"democrazia degli individui"** è quella che non predilige mai le scelte irreversibili, come la **pena di morte** o la **dichiarazione di guerra**, scelte di cui ci si può pentire solo (ipocriticamente) a parole, in pratica l'idea che il governo possa conoscere la verità assoluta è tipica solo dei regimi autocratici, mentre un governo realmente democratico soppesa ogni decisione con calma e ponderatezza, anche se questo, in molti casi, implica disporre di un lasso di tempo maggiore per prendere le decisioni.
 
-**[Continua con Democrazia Spicciola (Parte II)](/2007/04/08/democrazia-spicciola-parte-ii/)**
+**[Continua con Democrazia Spicciola (Parte II)](/2007/04/08/democrazia-spicciola-parte-ii.html)**

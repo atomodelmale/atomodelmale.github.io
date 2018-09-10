@@ -27,7 +27,7 @@ Lungi dall'essere quel mezzo pesce d'aprile di [Amazon Prime Air](http://www.ama
 
 ![echo]({{ site.baseurl }}/uploads/2014/11/echo.png)
 
-Marketing a parte, parliamo del nuovo gadget. Echo è un longilineo speaker nero corredato alla sua sommità di un suggestivo cerchietto che con le pulsazioni della sua luce bluastra rimarca il ritmo della nostra interazione col dispositivo. Sempre connesso al cloud, Echo utilizzerà l'assistente digitale Alexa, che come i colleghi [Siri](/2011/10/04/apple-ecco-il-nuovo-iphone-4s/), [Cortana](http://www.windowsphone.com/en-gb/how-to/wp8/cortana/meet-cortana) e [Google Now](http://www.google.com/landing/now/), non mancherà di ascoltare le richieste dei propri padroni. Informazioni da Wikipedia, liste dalla spesa, appuntamenti, musica, notizie e meteo saranno il pane quotidiano per Alexa.
+Marketing a parte, parliamo del nuovo gadget. Echo è un longilineo speaker nero corredato alla sua sommità di un suggestivo cerchietto che con le pulsazioni della sua luce bluastra rimarca il ritmo della nostra interazione col dispositivo. Sempre connesso al cloud, Echo utilizzerà l'assistente digitale Alexa, che come i colleghi [Siri](/2011/10/04/apple-ecco-il-nuovo-iphone-4s.html), [Cortana](http://www.windowsphone.com/en-gb/how-to/wp8/cortana/meet-cortana) e [Google Now](http://www.google.com/landing/now/), non mancherà di ascoltare le richieste dei propri padroni. Informazioni da Wikipedia, liste dalla spesa, appuntamenti, musica, notizie e meteo saranno il pane quotidiano per Alexa.
 
 In più Amazon ha dotato Echo di un orecchio molto fine, tanto da permettergli di sentire nostri comando dalle stanze vicine.
 

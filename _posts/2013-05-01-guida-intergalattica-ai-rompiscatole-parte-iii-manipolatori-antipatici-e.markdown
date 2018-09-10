@@ -59,7 +59,7 @@ _Homo animal socialis_. Stare in società vuol dire integrazione, lavoro di squa
 
 ## Noi stessi
 
-Mutans mutandis, anche noi altri possiamo _rompiscatolare_ il resto dell'umanità. Se il vostro fine ultimo è migliorare per stare meglio con voi stessi e il prossimo, preparatevi a fare una bella doccia di umiltà ogni mattino, premurandovi di rimuovere eventuali residui di suscettibilità. Abbiamo già affrontato l'argomento parlando dei [_criticoni_](/2013/04/27/guida-intergalattica-ai-rompiscatole-parte-i-saltafila-sfaticati-e-criticoni/) e di come interpretare gli appunti a noi diretti.
+Mutans mutandis, anche noi altri possiamo _rompiscatolare_ il resto dell'umanità. Se il vostro fine ultimo è migliorare per stare meglio con voi stessi e il prossimo, preparatevi a fare una bella doccia di umiltà ogni mattino, premurandovi di rimuovere eventuali residui di suscettibilità. Abbiamo già affrontato l'argomento parlando dei [_criticoni_](/2013/04/27/guida-intergalattica-ai-rompiscatole-parte-i-saltafila-sfaticati-e-criticoni.html) e di come interpretare gli appunti a noi diretti.
 
 ![you]({{ site.baseurl }}/uploads/2013/04/you.jpg)
 

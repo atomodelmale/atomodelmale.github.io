@@ -31,7 +31,7 @@ L'HD torna sulle pagine dell'Atomo del Male, questa volta per parlare dei conten
 
 Come avrete capito dal cappello introduttivo, oltre che dal titolo, in questo articolo l'autore – da cui mi dissocio completamente ;) – cercherà di far **chiarezza** in quella sempre più intricata foresta che è la **trasmissione** – e visione – **di canali in High Definition**.
 
-Se non avete ben presente cosa sia l'Alta Definizione vi suggerisco di dare un occhiata a **[questo articolo](/2008/03/03/hd-720p-1080i-1080p-hdready-o-fullhd/)** in modo da dissipare ogni dubbio e proseguire senza indugi.
+Se non avete ben presente cosa sia l'Alta Definizione vi suggerisco di dare un occhiata a **[questo articolo](/2008/03/03/hd-720p-1080i-1080p-hdready-o-fullhd.html)** in modo da dissipare ogni dubbio e proseguire senza indugi.
 
 La storia è sempre la stessa, abbiamo sborsato fior di quattrini per accaparrarci la **nuova  tecnologia** – che sia una nuova console, uno smartphone o una televisione HD non fa differenza – e non vediamo l'ora di goderci tutte le mirabilie promesseci dal venditore. Accendiamo il dispositivo e … **NIENTE**, non succede niente! Perché? Perché se il primo pensiero è accaparrarsi il contenitore, quello immediatamente successivo è il **contenuto**!
 
@@ -58,7 +58,7 @@ Nel dettaglio:
   * **Fastweb**, grazie alle proprie – e poche, purtroppo – connessioni in **fibra  ottica** sarebbe il miglior candidato a fornire trasmissioni in HD – il perché lo vedremo in seguito. Il set top box fornito offre solo due canali HD – **ONtv  HD** e **ONtv  FILM  HD** – oltre alla possibilità dei classici abbonamenti Sky e Mediaset Premium.
 
 	
-  * **Vodafone** con il venturo – sperando che non faccia la stessa fine del [CuboVision](/2010/01/31/cubovision-la-rivoluzione-della-tv-passa-per-telecom/) --  **Tv  Connect** propone un **decoder  digitale  terrestre** ad **alta  definizione**, capace di **collegarsi  in  WiFi** per poter utilizzare alcune applicazioni internet oltre che visualizzare filmati in streaming. Il lettore di smartcard permette inoltre di sottoscrivere abbonamenti a canali a pagamento.
+  * **Vodafone** con il venturo – sperando che non faccia la stessa fine del [CuboVision](/2010/01/31/cubovision-la-rivoluzione-della-tv-passa-per-telecom.html) --  **Tv  Connect** propone un **decoder  digitale  terrestre** ad **alta  definizione**, capace di **collegarsi  in  WiFi** per poter utilizzare alcune applicazioni internet oltre che visualizzare filmati in streaming. Il lettore di smartcard permette inoltre di sottoscrivere abbonamenti a canali a pagamento.
 
 	
   * **Wind**, ultimo ma non meno importante, si avvale dell'ampio palinsesto offerto da **Sky  HD** – previo abbonamento – oltre ai canali in chiaro del digitale terrestre.

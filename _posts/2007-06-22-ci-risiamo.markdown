@@ -18,5 +18,5 @@ Il ministro Gentiloni annuncia di voler bloccare in Italia la vendita del videog
 
 Mentre il paese è attorniato da mille problemi si pensa a questo, a proibire un videogioco. La libertà d'espressione e di pensiero è una cosa che i nostri politici forse non riescono a vedere nella nostra carta istituzionale, ma probabilmente sono troppo indaffarati a fare telefonate....
 
-Se volete sapere di più sull'argomento [questo articolo](/2007/04/28/il-videogioco-induce-alla-violenza/) potrebbe interessarvi. 
+Se volete sapere di più sull'argomento [questo articolo](/2007/04/28/il-videogioco-induce-alla-violenza.html) potrebbe interessarvi. 
 

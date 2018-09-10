@@ -23,7 +23,7 @@ Aperto il vaso di <del>Pandora</del> FakeApp, gli utenti di Reddit non ci hanno 
 
 Oltre all'exploit pruriginoso, che ha contribuito alla diffusione virale della notizia, è naturale chiedersi se il mondo dei media (tutto) sia pronto per un futuro in cui con pochi strumenti e bassa conoscenza tecnica, qualsiasi utente di Internet può prendere un filmato, metterci sopra la faccia del bersaglio di turno e fargli dire e fare tutto ciò che vuole. Ne è un'anteprima il recente [filmato del presidente dell'Argentina Mauricio Macri](https://www.youtube.com/watch?v=M8t6hGRtDac), a cui è stato "sovraimpresso" il volto dell'Adolf Hitler di Bruno Ganz nel film "La Caduta".
 
-Il cinema hollywoodiano ci ha abituato a ben peggio, come le recenti ricostruzioni digitali di attori purtroppo scomparsi ([Rogue One](/2016/12/17/rogue-one-a-star-wars-story/), per citarne uno recente). Ma, come rimarcato sopra (e confermato dalla ricostruzione sotto), quello che disarma è la facilità con cui è possibile produrre un filmato di buona qualità, capace di trarre in inganno come minimo gli spettatori più distratti.
+Il cinema hollywoodiano ci ha abituato a ben peggio, come le recenti ricostruzioni digitali di attori purtroppo scomparsi ([Rogue One](/2016/12/17/rogue-one-a-star-wars-story.html), per citarne uno recente). Ma, come rimarcato sopra (e confermato dalla ricostruzione sotto), quello che disarma è la facilità con cui è possibile produrre un filmato di buona qualità, capace di trarre in inganno come minimo gli spettatori più distratti.
 
 ![]({{ site.baseurl }}/uploads/2018/01/fakeapp2.gif)
 

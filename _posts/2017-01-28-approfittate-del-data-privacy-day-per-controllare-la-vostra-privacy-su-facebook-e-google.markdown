@@ -17,7 +17,7 @@ tags:
 - Privacy
 ---
 
-Oggi al suo decimo compleanno, il "giorno della privacy", ufficialmente chiamato [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), è un evento internazionale dedicato ad aumentare la consapevolezza generale sulla privacy dei propri dati. Che siano pensieri, foto, video o anche solo [reazioni](/2016/02/29/facebook-introduce-5-nuove-reazioni-a-fianco-del-classico-like/) ai post di amici, ogni giorno generiamo una valanga di informazioni personali sfruttabili da siti web e aziende terze (che pagano i primi per avere i dati) per gli scopi più vari: dalla profilazione per far apparire pubblicità di prodotti che compreremmo, a strumenti per [scremare candidati](https://www.sciencedaily.com/releases/2016/01/160114110719.htm) durante i colloqui di lavoro.
+Oggi al suo decimo compleanno, il "giorno della privacy", ufficialmente chiamato [Data Privacy Day](https://en.wikipedia.org/wiki/Data_Privacy_Day), è un evento internazionale dedicato ad aumentare la consapevolezza generale sulla privacy dei propri dati. Che siano pensieri, foto, video o anche solo [reazioni](/2016/02/29/facebook-introduce-5-nuove-reazioni-a-fianco-del-classico-like.html) ai post di amici, ogni giorno generiamo una valanga di informazioni personali sfruttabili da siti web e aziende terze (che pagano i primi per avere i dati) per gli scopi più vari: dalla profilazione per far apparire pubblicità di prodotti che compreremmo, a strumenti per [scremare candidati](https://www.sciencedaily.com/releases/2016/01/160114110719.htm) durante i colloqui di lavoro.
 
 ![]({{ site.baseurl }}/uploads/2017/01/Screen-Shot-2017-01-28-at-11.22.57.png) 
 

@@ -21,7 +21,7 @@ tags:
 - Regionali
 ---
 
-Dopo il [caos](/2010/03/03/lombardia-e-lazio-caos-liste-elettorali-esclusi-rispettivamente-formigoni-e-il-pdl/) dei giorni scorsi sulle liste elettorali in Lombardia e Lazio il **Governo**è intervenuto con un **decreto** interpretativo per riammettere le liste contestate e non rinviare le elezioni regionali. Per approvare il testo occorreva la firma del presidente della Repubblica e **Napolitano** ha dovuto scegliere tra salvaguardare il diritto al voto dei cittadini e il rispetto delle regole e delle procedure.
+Dopo il [caos](/2010/03/03/lombardia-e-lazio-caos-liste-elettorali-esclusi-rispettivamente-formigoni-e-il-pdl.html) dei giorni scorsi sulle liste elettorali in Lombardia e Lazio il **Governo**è intervenuto con un **decreto** interpretativo per riammettere le liste contestate e non rinviare le elezioni regionali. Per approvare il testo occorreva la firma del presidente della Repubblica e **Napolitano** ha dovuto scegliere tra salvaguardare il diritto al voto dei cittadini e il rispetto delle regole e delle procedure.
 
 Il presidente della Repubblica, vista l'impossibilità di immaginare un'elezione senza il principale partito politico italiano (il Pdl) e la mancanza di vizi di incostituzionalità nel testo presentatogli, ha firmato il decreto, scatenando i malumori di Di Pietro di molti cittadini, in particolare del cosiddetto **Popolo Viola**. E così mentre manifestazioni di protesta sono divampate nelle piazze di tutta Italia sabato 13 marzo a Roma le opposizioni (tranne l'Udc) scenderanno in strada per manifestare il proprio dissenso al decreto.
 

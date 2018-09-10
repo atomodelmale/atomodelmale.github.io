@@ -14,7 +14,7 @@ tags:
 - GDPR
 ---
 
-Parte seconda ([la prima la trovate qua](/2018/02/26/gdpr-cose-e-quali-sono-le-ricadute-su-piccole-e-medie-imprese-1-di-2/)) del nostro articolo sulla GDPR e sulle conseguenze che il Regolamento Generale sulla Protezione dei Dati, che entrerà in vigore il prossimo 25 maggio, avrà su piccole e medie imprese.
+Parte seconda ([la prima la trovate qua](/2018/02/26/gdpr-cose-e-quali-sono-le-ricadute-su-piccole-e-medie-imprese-1-di-2.html)) del nostro articolo sulla GDPR e sulle conseguenze che il Regolamento Generale sulla Protezione dei Dati, che entrerà in vigore il prossimo 25 maggio, avrà su piccole e medie imprese.
 
 DISCLAIMER: come nella prima parte, ripeto anche qua che la lettura di qualche articolo sul tema non equivale ad una consulenza da parte di un esperto legale. Malgrado faccia solo bene informarsi e farsi un'idea del regolamento, per evitare spiacevoli sorprese dovute al "fai-da-te", meglio chiedere la consulenza a professionisti qualificati.
 

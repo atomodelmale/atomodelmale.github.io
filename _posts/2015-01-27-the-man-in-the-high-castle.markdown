@@ -20,7 +20,7 @@ tags:
 - Ridley Scott
 ---
 
-Vi piace la fantastoria? Fanta-che? Si dai, tipo "cosa sarebbe successo se invece del D-day e delle bombe sul Giappone l'America avesse rifiutato di andare in soccorso degli alleati europei?" (Qualcuno ha detto [Wolfenstein A New Order](/2014/07/23/wolfenstein-the-new-order/)?)
+Vi piace la fantastoria? Fanta-che? Si dai, tipo "cosa sarebbe successo se invece del D-day e delle bombe sul Giappone l'America avesse rifiutato di andare in soccorso degli alleati europei?" (Qualcuno ha detto [Wolfenstein A New Order](/2014/07/23/wolfenstein-the-new-order.html)?)
 
 ![the man in the high castle_001]({{ site.baseurl }}/uploads/2015/01/the-man-in-the-high-castle_001.jpg)
 

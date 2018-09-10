@@ -17,7 +17,7 @@ tags:
 - X-Men
 ---
 
-Secondo spin-off dedicato all'artigliato canadese interpretato dall'istrionico Hugh - [Valjeaaaaan](http://youtu.be/ImCwamsRy3c?t=52s) -- Jackman. Come [promesso](/2009/05/23/x-men-le-origini-wolverine/), si va in Giappone.
+Secondo spin-off dedicato all'artigliato canadese interpretato dall'istrionico Hugh - [Valjeaaaaan](http://youtu.be/ImCwamsRy3c?t=52s) -- Jackman. Come [promesso](/2009/05/23/x-men-le-origini-wolverine.html), si va in Giappone.
 
 ## The Wolverine
 
@@ -39,7 +39,7 @@ Una serie che ha fatto storia e che ha contribuito a scolpire il carattere del W
 
 E invece no. Con una perseveranza demoniaca "L'immortale" segue la strada di "Origini". Wolverine uccide ma 1) niente sangue, 2) niente smembramenti e 3) Hugh, se fai anche il faccino pentito quando accoppi uno ci fai un piacere. Uccisioni da TV dei ragazzi e dialoghi, dialoghi, dialoghi per dire poco, poco, poco. La storia, per sé, regge, ma il rapporto tra Logan e Mariko è oltremodo posticcio come lo è anche <del>lo scontro</del> <del>la zuffa</del> <del>il bisticcio</del> la constatazione amichevole coi ninja pre-finale.
 
-Certo, il film difficilmente delude il grande pubblico perché riesce nel ruolo di intrattenere e, per certi versi, stupire lo spettatore. Il problema sta nel sapore. Questo Wolverine nè-carne-nè-pesce continua a mancare dell'acre gusto di rabbia e sangue dell'originale --pallidamente accennato nella [trilogia degli X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/) -- che i fan di tutto il mondo ancora aspettano di assaporare.
+Certo, il film difficilmente delude il grande pubblico perché riesce nel ruolo di intrattenere e, per certi versi, stupire lo spettatore. Il problema sta nel sapore. Questo Wolverine nè-carne-nè-pesce continua a mancare dell'acre gusto di rabbia e sangue dell'originale --pallidamente accennato nella [trilogia degli X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html) -- che i fan di tutto il mondo ancora aspettano di assaporare.
 
 Una cosa di buono però ce l'ha "The Wolverine", la tradizionale end credits scene che ci ricorda dei "Giorni di un Futuro Passato". Re-SNIKT!
 

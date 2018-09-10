@@ -23,7 +23,7 @@ tags:
 
 **Torna il mostro**.
 
-I **mostri** a volte ritornano. Era già finito nella galleria degli orrori ma ora tranquillamente torna a fare la sua comparsa. Stiamo parlando del [Ddl Prodi-Levi ](/2007/10/21/crucifige/)(ddl C 1269) che vaporizzatosi dopo la caduta del governo Prodi ricompare a novembre 2008 alla commissione Cultura della Camera. Allora ne rise il globo e il mondo della rete si indignò. Ma come se niente fosse (sperando che magari nessuno dica nulla) il Ddl viene riproposto suscitando un indignazione ancora maggiore dato i giudizi ricevuti. E dispiace perché questo significa che chiunque sia al governo l'importante è limitare la rete e la libertà dei cittadini. **COMPLIMENTI**.
+I **mostri** a volte ritornano. Era già finito nella galleria degli orrori ma ora tranquillamente torna a fare la sua comparsa. Stiamo parlando del [Ddl Prodi-Levi ](/2007/10/21/crucifige.html)(ddl C 1269) che vaporizzatosi dopo la caduta del governo Prodi ricompare a novembre 2008 alla commissione Cultura della Camera. Allora ne rise il globo e il mondo della rete si indignò. Ma come se niente fosse (sperando che magari nessuno dica nulla) il Ddl viene riproposto suscitando un indignazione ancora maggiore dato i giudizi ricevuti. E dispiace perché questo significa che chiunque sia al governo l'importante è limitare la rete e la libertà dei cittadini. **COMPLIMENTI**.
 
 Mentre rimane pressoché identica la definizione di prodotto editoriale (e l'iscrizione al R.O.C. comporterà l'applicazione della disciplina relativa ai reati a mezzo di stampa) l'art 8 nel suo 3 comma sembra escludere i blog dalla nuova legge liberticida.
 

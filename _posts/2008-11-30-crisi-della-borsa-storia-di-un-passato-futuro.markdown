@@ -25,9 +25,9 @@ tags:
 - Speculazione
 ---
 
-Alcune volte è sorprendente la **ciclicità** di certi eventi: l'immancabile ritorno di mode vecchie di 20-30 anni, l'andirivieni dell'**[interesse per la politica](/2007/03/26/democrazia-spicciola-parte-i/)**; ne ho parlato perfino nell'articolo **[sulla legge 133](/2008/10/28/1332008/).**
+Alcune volte è sorprendente la **ciclicità** di certi eventi: l'immancabile ritorno di mode vecchie di 20-30 anni, l'andirivieni dell'**[interesse per la politica](/2007/03/26/democrazia-spicciola-parte-i.html)**; ne ho parlato perfino nell'articolo **[sulla legge 133](/2008/10/28/1332008.html).**
 
-La crisi, parola molto di moda al momento, è già stata argomento di ottimi articoli scritti da Radio Rebelde ( **[Crisi finanziaria del 2008](/2008/10/08/la-crisi-finanziaria-del-2008/)**), in questo articoletto invece, senza perdermi nei dettagli di tecnicismi e calcoli cabalistici, vorrei puntare il riflettore su un altro evento ciclico, ma di tipo economico: **le crisi della Borsa**.
+La crisi, parola molto di moda al momento, è già stata argomento di ottimi articoli scritti da Radio Rebelde ( **[Crisi finanziaria del 2008](/2008/10/08/la-crisi-finanziaria-del-2008.html)**), in questo articoletto invece, senza perdermi nei dettagli di tecnicismi e calcoli cabalistici, vorrei puntare il riflettore su un altro evento ciclico, ma di tipo economico: **le crisi della Borsa**.
 
 **La tulipe noire**
 

@@ -18,7 +18,7 @@ tags:
 - PD
 ---
 
-Domenica e lunedì ad Imola si è votato anche per eleggere sindaco e consiglio comunale dopo che, come già scritto anche nel [blog](/2008/02/15/arrivederci-sindaco/), il primo cittadino Marchignoli aveva dato le proprie dimissioni per candidarsi con il PD alla camera (obiettivo riuscito).
+Domenica e lunedì ad Imola si è votato anche per eleggere sindaco e consiglio comunale dopo che, come già scritto anche nel [blog](/2008/02/15/arrivederci-sindaco.html), il primo cittadino Marchignoli aveva dato le proprie dimissioni per candidarsi con il PD alla camera (obiettivo riuscito).
 
 Come era prevedibile Daniele Manca, candidato del PD, ha vinto con una larga maggioranza (il 61,63%) e sarà quindi il nuovo sindaco. Seguono Adriano Gini con il 21,48% (Pdl-Lega), Antonio Pezzi con il 10,97% (Alleanza con Pezzi-Unione di centrodestra) ed infine la lista civica di Giuseppe Palazzolo con il 5,91% (lista civica Palazzolo sindaco per Imola).
 

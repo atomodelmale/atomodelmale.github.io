@@ -17,7 +17,7 @@ tags:
 - Virus
 ---
 
-La notizia ha scosso i pilastri dell'Internet: anche i Mac sono soggetti ai [ransomware](/2015/12/28/estorsioni-informatiche-in-aumento-per-avere-indietro-i-propri-dati-ecco-come-evitare-i-ransomware/), i programmacci che quatti quatti vi bloccano i file e richiedono un riscatto di centinaia di euro per riaverli indietro.
+La notizia ha scosso i pilastri dell'Internet: anche i Mac sono soggetti ai [ransomware](/2015/12/28/estorsioni-informatiche-in-aumento-per-avere-indietro-i-propri-dati-ecco-come-evitare-i-ransomware.html), i programmacci che quatti quatti vi bloccano i file e richiedono un riscatto di centinaia di euro per riaverli indietro.
 
 [L'annuncio](http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/) arriva da Palo Alto Networks, sorprendendo gli utenti di Apple che finora si ritenevano in un isola felice rispetto ai possessori di sistemi Windows: i più bersagliati da questo tipo di attacchi.
 

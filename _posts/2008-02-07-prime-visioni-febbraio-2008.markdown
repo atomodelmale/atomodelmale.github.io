@@ -43,7 +43,7 @@ Elenco completo delle **uscite**:
 	
   * 29 febbraio.  Rendition / Prospettive di un delitto / Jumper / Il mattino ha l'ora in bocca / Forse Dio è malato / Rec / La rabbia / Fine pena mai / Il futuro non è scritto / Persepolis.
 
-Come sempre le locandine sono prese dal sito [filmup.](http://filmup.leonardo.it/index.htm) Un ultimo appunto : alcune settimane fà è morto **Heath Ledger**(vedi articolo nel [blog](/2008/01/23/la-scomparsa-di-heath-ledger/)). Grazie all'autopsia è stato reso noto che l'attore è scomparso per una overdose accidentale di farmaci (Valium, anti-staminici e sonniferi) e quindi non si è trattato di un suicidio. Ledger soffriva di insonnia e per dormire gli erano stati prescritti diversi medicinali (anti-ansiolitici) che mescolati tra loro gli sono stati fatali.
+Come sempre le locandine sono prese dal sito [filmup.](http://filmup.leonardo.it/index.htm) Un ultimo appunto : alcune settimane fà è morto **Heath Ledger**(vedi articolo nel [blog](/2008/01/23/la-scomparsa-di-heath-ledger.html)). Grazie all'autopsia è stato reso noto che l'attore è scomparso per una overdose accidentale di farmaci (Valium, anti-staminici e sonniferi) e quindi non si è trattato di un suicidio. Ledger soffriva di insonnia e per dormire gli erano stati prescritti diversi medicinali (anti-ansiolitici) che mescolati tra loro gli sono stati fatali.
 
 Il Gorgonauta._
 _

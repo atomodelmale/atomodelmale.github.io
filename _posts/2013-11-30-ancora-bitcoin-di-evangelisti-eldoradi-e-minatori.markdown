@@ -16,7 +16,7 @@ tags:
 - Bitcoin
 ---
 
-Torniamo a parlare di [Bitcoin](/2013/11/26/cose-il-bitcoin-la-moneta-dei-nerd-o-la-moneta-del-futuro/), fenomeno monetario assurto agli onori della cronaca per l'incredibile crescita del proprio cambio col dollaro, passato dagli "appena" 200$ degli inizi di ottobre 2013 arrivando agli attuali 1000$ toccati nella giornata del 27 novembre 2013 (sul sito di scambio [Mt.Gox](https://www.mtgox.com/)).
+Torniamo a parlare di [Bitcoin](/2013/11/26/cose-il-bitcoin-la-moneta-dei-nerd-o-la-moneta-del-futuro.html), fenomeno monetario assurto agli onori della cronaca per l'incredibile crescita del proprio cambio col dollaro, passato dagli "appena" 200$ degli inizi di ottobre 2013 arrivando agli attuali 1000$ toccati nella giornata del 27 novembre 2013 (sul sito di scambio [Mt.Gox](https://www.mtgox.com/)).
 
 ## Bitcoin, le origini
 
@@ -44,7 +44,7 @@ L'escalation al mining estremo ha visto in pochi anni il passaggio dai "normali"
 
 ## Bitcoin, una nuova bolla?
 
-Di [bolle finanziarie](/2008/11/30/crisi-della-borsa-storia-di-un-passato-futuro/) ne abbiamo viste tante in questi anni. E probabilmente l'attuale speculazione sul Bitcoin non sarà da meno, toccando il proprio picco e subendo l'inevitabile crollo. In particolare l'attuale momento di notorietà della moneta sta portando -- e porterà -- frotte di utenti a questo nuovo El Dorado che, in più di un'occasione, si è dimostrato popolato da [pirati](https://www.mtgox.com/press_release_20130404.html) e [speculatori](http://markets.blockchain.info/markets/mtgox/EUR).
+Di [bolle finanziarie](/2008/11/30/crisi-della-borsa-storia-di-un-passato-futuro.html) ne abbiamo viste tante in questi anni. E probabilmente l'attuale speculazione sul Bitcoin non sarà da meno, toccando il proprio picco e subendo l'inevitabile crollo. In particolare l'attuale momento di notorietà della moneta sta portando -- e porterà -- frotte di utenti a questo nuovo El Dorado che, in più di un'occasione, si è dimostrato popolato da [pirati](https://www.mtgox.com/press_release_20130404.html) e [speculatori](http://markets.blockchain.info/markets/mtgox/EUR).
 
 ![mtgoxstock]({{ site.baseurl }}/uploads/2013/11/mtgoxstock.png)
 

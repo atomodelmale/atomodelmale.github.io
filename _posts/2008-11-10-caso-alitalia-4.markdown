@@ -29,7 +29,7 @@ Lo so che non ne potete più di sentire  parlare di Alitalia e come me vi augur
 
 **Cos'è successo in questi 2 mesi in cui non ci siamo sentiti?**
 
-Cgil, Cisl, Uil e Ugl hanno firmato il [piano proposto dalla Cai](/2008/09/03/il-caso-alitalia-3/), non senza patemi tuttavia. In particolare la Cgil, dopo un primo no, ha deciso di firmare solo dopo la mediazione del Sottosegretario alla presidenza del Consiglio dei ministri **Gianni Letta** e maggiori garanzie per i precari. Non hanno invece aderito all'accordo le cinque sigle autonome **Sdl, Avia, Anpac, Anpav e Up** che rappresentano all'incirca il 25% dei lavoratori di Alitalia.
+Cgil, Cisl, Uil e Ugl hanno firmato il [piano proposto dalla Cai](/2008/09/03/il-caso-alitalia-3.html), non senza patemi tuttavia. In particolare la Cgil, dopo un primo no, ha deciso di firmare solo dopo la mediazione del Sottosegretario alla presidenza del Consiglio dei ministri **Gianni Letta** e maggiori garanzie per i precari. Non hanno invece aderito all'accordo le cinque sigle autonome **Sdl, Avia, Anpac, Anpav e Up** che rappresentano all'incirca il 25% dei lavoratori di Alitalia.
 
 **Perché il cosiddetto "FRONTE DEL NO" non ha firmato?**
 

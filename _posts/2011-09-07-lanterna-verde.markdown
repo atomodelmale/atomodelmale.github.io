@@ -25,7 +25,7 @@ Eroi, Eroi, Eroi.
 
 Questa volta è il turno di un eroe sconosciuto – in termini cinematografici – alla sua prima apparizione: **Hal Jordan**, alias **Lanterna Verde**.
 
-**Hal**– interpretato da **Ryan Reynolds**, già Deadpool in [X-Men: le origini - Wolverine](/2009/05/23/x-men-le-origini-wolverine/) – è un **irresponsabile** patentato, ritardatario cronico ed incapace di creare rapporti duraturi e stabili sia di tipo professionale che personale.
+**Hal**– interpretato da **Ryan Reynolds**, già Deadpool in [X-Men: le origini - Wolverine](/2009/05/23/x-men-le-origini-wolverine.html) – è un **irresponsabile** patentato, ritardatario cronico ed incapace di creare rapporti duraturi e stabili sia di tipo professionale che personale.
 
 Il tipico "**bello e dannato**", ma senza droga e sesso, per intenderci.
 

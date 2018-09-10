@@ -36,7 +36,7 @@ Non c'è che l'imbarazzo della scelta.
 
 ![classic shell]({{ site.baseurl }}/uploads/2012/12/classic-shell.jpg)
 
-Semplice e completo, Classic Shell si è perfino guadagnato il "rispetto" di un [package-manager](/2012/09/30/i-principali-gestori-di-pacchetti-per-windows-aspettando-windows-store/) come Ninite, che lo ha aggiunto al [proprio menù](http://ninite.com/classicstart/) di programmi.
+Semplice e completo, Classic Shell si è perfino guadagnato il "rispetto" di un [package-manager](/2012/09/30/i-principali-gestori-di-pacchetti-per-windows-aspettando-windows-store.html) come Ninite, che lo ha aggiunto al [proprio menù](http://ninite.com/classicstart/) di programmi.
 
 Benché minimale, Classic Shell è uno delle soluzioni più versatili, permettendo di scegliere che tipo di versione del menù impostare -- da quello a singola colonna pre-XP, fino a quello di 7 --, per non parlare di una miriade di tweak tra cui i caratteri del menù, l'icona del pulsante, ecc.
 

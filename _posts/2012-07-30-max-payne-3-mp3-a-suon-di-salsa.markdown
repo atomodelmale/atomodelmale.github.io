@@ -23,7 +23,7 @@ Il Dolore sarà sempre al Massimo?
 
 **Ehi, E' Max Payne!**
 
-[Max Payne](/2008/12/21/max-payne-a-man-with-nothing-to-loose/) ritorna con un nuovo capitolo e una nuova pagina della propria vita, al timone il team di **Rockstar Vancouver** e grande assenteista Sam Lake -- la mente letteraria dietro i primi due capitoli.
+[Max Payne](/2008/12/21/max-payne-a-man-with-nothing-to-loose.html) ritorna con un nuovo capitolo e una nuova pagina della propria vita, al timone il team di **Rockstar Vancouver** e grande assenteista Sam Lake -- la mente letteraria dietro i primi due capitoli.
 
 Dalle norrene atmosfere della periferia di New York il caro Max, consegnato il distintivo della DEA, finisce a **San Paolo del Brasile**, con la promessa di un lavoro semplice e pulito come guardia del corpo privata della facoltosa famiglia **Branco.**
 

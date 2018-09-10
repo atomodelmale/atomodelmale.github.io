@@ -40,7 +40,7 @@ Per questo motivo e per l'**incalzante penuria energetica** degli ultimi anni, l
 
 Ma saranno veramente risparmiose queste lampadine o è tutta una mossa commerciale sull'onda della moda ecologico-catastrofica di quest'ultimo biennio?
 
-Stando alle proposte dell'Unione Europea dovremmo **dire definitivamente addio ai cari lumini a bulbo entro e non oltre il settembre del 2012** (lo stesso anno dello [switch-off analogico](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte/) e della [fine del mondo](http://it.wikipedia.org/wiki/21_dicembre_2012)!), data in cui saranno messe al bando da ogni scaffale di negozio e supermercato.
+Stando alle proposte dell'Unione Europea dovremmo **dire definitivamente addio ai cari lumini a bulbo entro e non oltre il settembre del 2012** (lo stesso anno dello [switch-off analogico](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte.html) e della [fine del mondo](http://it.wikipedia.org/wiki/21_dicembre_2012)!), data in cui saranno messe al bando da ogni scaffale di negozio e supermercato.
 
 Dando un'occhiata ai conti fatti dalla UE, il **risparmio  prodotto** dalla sostituzione si dovrebbe aggirare **intorno ai 50€ annui per ogni famiglia** sulla bolletta elettrica (1cent oggi, 1cent domani e si fa un milione...) oltre ad un **abbassamento dei consumi totali di diossido di carbonio pari a 15 milioni di tonnellate**.
 

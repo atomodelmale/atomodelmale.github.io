@@ -29,7 +29,7 @@ zanzaraccia del cavolo!</blockquote>
 
 Battendo gli esattori delle tasse e perfino i perfidi spigoli, il cui unico scopo è frantumare i mignoli degli onesti cittadini che camminano a piedi nudi per casa, le zanzare continuano ad occupare il primo posto nella classifica dei nemici giurati dell'umanità.
 
-Non è la prima volta che le subdole succhia-sangue si sono guadagnate un [articolo sull'Atomo](/2008/10/17/le-zanzare-son-tornate/) ma la guerriglia, di casa in casa, che si combatte tra il genere umano e gli insettacci pestiferi è **lungi dall'essere vinta**.
+Non è la prima volta che le subdole succhia-sangue si sono guadagnate un [articolo sull'Atomo](/2008/10/17/le-zanzare-son-tornate.html) ma la guerriglia, di casa in casa, che si combatte tra il genere umano e gli insettacci pestiferi è **lungi dall'essere vinta**.
 
 Se la guerra langue, in attesa di una vera svolta, ognuno di noi può portare avanti la propria personale battaglia verso lo **sterminio totale di quest'immonda creatura**, inventata al solo scopo di disturbare l'uomo con il suo subdolo ronzio e l'irrefrenabile isteria grattugiatoria provocata dalle sue punture.
 

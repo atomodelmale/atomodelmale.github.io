@@ -14,7 +14,7 @@ tags:
 - Ordine
 ---
 
-Dato che in molti hanno apprezzato la recensione de "[Il Magico Potere del Riordino](/2015/12/28/disordinati-cronici-il-magico-potere-del-riordino-e-il-libro-che-fa-per-voi/)", libro best-seller di Marie Kondo sul come diventare ordinati, perché non corroborare il buon proposito di un 2016 più ordinato con i consigli di [Zen Habits](http://zenhabits.net/declutter-rules/)?
+Dato che in molti hanno apprezzato la recensione de "[Il Magico Potere del Riordino](/2015/12/28/disordinati-cronici-il-magico-potere-del-riordino-e-il-libro-che-fa-per-voi.html)", libro best-seller di Marie Kondo sul come diventare ordinati, perché non corroborare il buon proposito di un 2016 più ordinato con i consigli di [Zen Habits](http://zenhabits.net/declutter-rules/)?
 
 ## Le regole del riordino perfetto
 

@@ -24,7 +24,7 @@ tags:
 - Proposta
 ---
 
-Dopo le (giuste) proteste la proposta [Levi](/2008/11/14/i-mostri-ritornano/) torna a scomparire (per quanto non si sa) ma nel frattempo ecco che spunta un nuovo disegno di legge, stavolta del parlamentare R.Cassinelli targato Pdl. Questa volta però non si parla più di uccidere i **blog** ma di salvarli.
+Dopo le (giuste) proteste la proposta [Levi](/2008/11/14/i-mostri-ritornano.html) torna a scomparire (per quanto non si sa) ma nel frattempo ecco che spunta un nuovo disegno di legge, stavolta del parlamentare R.Cassinelli targato Pdl. Questa volta però non si parla più di uccidere i **blog** ma di salvarli.
 
 ![]({{ site.baseurl }}/uploads/2008/12/blog.jpg)
 

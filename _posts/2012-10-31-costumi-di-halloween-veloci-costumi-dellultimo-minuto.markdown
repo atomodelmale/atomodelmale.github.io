@@ -48,7 +48,7 @@ Tutto ciò che vi serve è un completo grigio -- e se li avete, un paio di occhi
 
 ![]({{ site.baseurl }}/uploads/2012/10/john-carter.jpeg)
 
-Vi ricordate di [John Carter da Marte](/2012/03/28/john-carter/)?
+Vi ricordate di [John Carter da Marte](/2012/03/28/john-carter.html)?
 
 Anche in questo caso con pochi indumenti potrete ricreare il vostro personale costume da John Carter. Vi servono un paio di scarpe e pantaloni marroni, procuratevi un po' di stoffa marrone e tagliatela in modo da potervene legare intorno alla vita e in diagonale lungo il busto.
 

@@ -22,7 +22,7 @@ Prevedibile Watson!
 
 ![]({{ site.baseurl }}/uploads/2011/12/Sherlock-Holmes-Game-of-Shadows3.jpg)
 
-La nuova pellicola del **detective più arguto e famoso** del mondo prende piede poco dopo gli eventi narrati alla fine del [primo capitolo](/2009/12/31/sherlock-holmes/).
+La nuova pellicola del **detective più arguto e famoso** del mondo prende piede poco dopo gli eventi narrati alla fine del [primo capitolo](/2009/12/31/sherlock-holmes.html).
 
 **Watson sta per sposarsi** e **Holmes** continua nel trattare casi irrisolvibili per i comuni mortali tra **improbabili travestimenti** ed **allegre scazzottate**.
 

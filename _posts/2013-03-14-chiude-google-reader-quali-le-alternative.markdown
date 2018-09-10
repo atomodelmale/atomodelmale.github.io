@@ -21,7 +21,7 @@ La scure di Mountain View non tentenna e continua a mietere vittime eccellenti
 
 [![Google Reader]({{ site.baseurl }}/uploads/2013/03/Google-Reader.jpg)]({{ site.baseurl }}/uploads/2013/03/Google-Reader.jpg)
 
-Ancora sgomenti per la preannunciata dipartita di [iGoogle](/2012/07/31/le-alternative-a-igoogle-netvibes-e-protopage/) a inizio novembre di questo anno, gli affezionati utenti dei servizi di Google si sono ritrovati uno scioccante pop-up nella giornata di ieri quando hanno aperto la pagina di [Google Reader](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online/), il famoso e pluri-premiato servizio di lettura di Feed RSS targato Big G.
+Ancora sgomenti per la preannunciata dipartita di [iGoogle](/2012/07/31/le-alternative-a-igoogle-netvibes-e-protopage.html) a inizio novembre di questo anno, gli affezionati utenti dei servizi di Google si sono ritrovati uno scioccante pop-up nella giornata di ieri quando hanno aperto la pagina di [Google Reader](/2012/04/23/best-web-feed-reader-2012-il-miglior-lettore-rss-online.html), il famoso e pluri-premiato servizio di lettura di Feed RSS targato Big G.
 
 [![Google Axe]({{ site.baseurl }}/uploads/2013/03/Google-Axe.jpg)]({{ site.baseurl }}/uploads/2013/03/Google-Axe.jpg)
 
@@ -31,7 +31,7 @@ Ai noi, poveri topini che abbandonano la nave prima che coli a picco, Google reg
 
 ## Le alternative
 
-Gettate dietro le spalle nostalgia e amarezza, guardiamoci in giro per eleggere il nostro futuro aggregatore di feed. Google Reader è (era) un servizio web e uno dei suoi punti di forza è stata proprio la facilità di accesso tramite qualsiasi dispositivo che fosse fisso, portatile o mobile. Come abbiamo avuto modo di vedere, esistono soluzioni [desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac/) e [mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android/) di vario tipo, ma in questo caso ci limiteremo a quanto ha da offrire l'InterWeb.
+Gettate dietro le spalle nostalgia e amarezza, guardiamoci in giro per eleggere il nostro futuro aggregatore di feed. Google Reader è (era) un servizio web e uno dei suoi punti di forza è stata proprio la facilità di accesso tramite qualsiasi dispositivo che fosse fisso, portatile o mobile. Come abbiamo avuto modo di vedere, esistono soluzioni [desktop](/2012/04/23/best-desktop-rss-feed-reader-2012-i-migliori-lettori-rss-per-windows-e-mac.html) e [mobile](/2012/04/23/best-mobile-feed-reader-2012-i-migliori-lettori-rss-per-iphone-e-android.html) di vario tipo, ma in questo caso ci limiteremo a quanto ha da offrire l'InterWeb.
 
 ### NetVibes
 

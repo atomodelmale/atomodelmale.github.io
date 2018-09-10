@@ -24,7 +24,7 @@ Altro keynote, altro <del>rega</del>, no se c'è una cosa che Apple non fa è r
 
 Mi chiedo in quanti abbiano -- me compreso -- pensato ad una versione dell'iPad ancora più striminzita e mobbbile sentendo il nome affibbiato al nuovo nato in casa Apple.
 
-Invece no, dopo aver abbandonato la numerazione alla [terza incarnazione](/2012/03/09/apple-presenta-il-nuovo-ipad/) in favore di un laconico "nuovo iPad", con la quinta versione del tablet, la Mela punta tutto sulla portabilità senza compromessi del proprio dispositivo che diventa "Air".
+Invece no, dopo aver abbandonato la numerazione alla [terza incarnazione](/2012/03/09/apple-presenta-il-nuovo-ipad.html) in favore di un laconico "nuovo iPad", con la quinta versione del tablet, la Mela punta tutto sulla portabilità senza compromessi del proprio dispositivo che diventa "Air".
 
 ## Design
 

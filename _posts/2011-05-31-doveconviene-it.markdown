@@ -12,7 +12,7 @@ categories:
 - Economia
 ---
 
-Riprendendo il discorso iniziato con l'articolo [Perso nella foresta delle promozioni? Ecco due siti italiani che fanno per te!](/2009/05/25/promozioni-online/), oggi diamo un'occhiata al servizio offerto da DoveConviene.it.
+Riprendendo il discorso iniziato con l'articolo [Perso nella foresta delle promozioni? Ecco due siti italiani che fanno per te!](/2009/05/25/promozioni-online.html), oggi diamo un'occhiata al servizio offerto da DoveConviene.it.
 
 **Dove Conviene?**
 

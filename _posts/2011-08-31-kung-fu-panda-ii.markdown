@@ -22,7 +22,7 @@ Prima di scrivere la recensione di un seguito mi fa sempre piacere rileggere cos
 
 ![]({{ site.baseurl }}/uploads/2011/08/KungFuPandaII2.jpg)
 
-Facendola breve, nella recensione del [primo capitolo](/2008/09/01/arriva-il-pandamonio/) ho trovato **tutti gli elementi** che fanno parte dell'ultima fatica della DreamWorks e che hanno reso famoso **il panda Po ed il suo Kung Fu**, ma andiamo con ordine.
+Facendola breve, nella recensione del [primo capitolo](/2008/09/01/arriva-il-pandamonio.html) ho trovato **tutti gli elementi** che fanno parte dell'ultima fatica della DreamWorks e che hanno reso famoso **il panda Po ed il suo Kung Fu**, ma andiamo con ordine.
 
 In Kung Fu Panda II ritroviamo la maggior parte dei personaggi conosciuti – ed amati – del primo film: **c'è il padre di Po, il maestro Shifu, i 5 Cicloni** e – c'è bisogno di dirlo? – il Guerriero Dragone: l'impavido Po.
 

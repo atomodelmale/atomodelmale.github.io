@@ -24,7 +24,7 @@ Google ritenta l'attacco a WhatsApp, Facebook Messenger e Telegram. L'asso nella
 
 ## I can feel your Allo, allo, allo, allooooh
 
-Due progetti non sono ancora riusciti alla grande G: lanciare un [degno rivale](/2011/06/29/google-e-1/) di Facebook e spodestare i vari WhatsApp & co. per la messaggistica istantanea, pur provandoci fin dal mezzo fiasco di [Wave](/2009/05/31/google-wave-le-onde-che-rivoluzioneranno-il-web/).
+Due progetti non sono ancora riusciti alla grande G: lanciare un [degno rivale](/2011/06/29/google-e-1.html) di Facebook e spodestare i vari WhatsApp & co. per la messaggistica istantanea, pur provandoci fin dal mezzo fiasco di [Wave](/2009/05/31/google-wave-le-onde-che-rivoluzioneranno-il-web.html).
 
 Presentato lo scorso Maggio e rilasciato a inizio settimana per Android e iOS, [Allo](https://allo.google.com/) affianca Google Messenger e Hangouts nella battaglia per conquistare gli utenti. Ciò che rende Allo diverso da tutto ciò che è venuto prima è la sua profonda integrazione con l'intelligenza artificiale (AI) di Google.
 

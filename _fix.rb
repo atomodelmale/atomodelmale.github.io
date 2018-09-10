@@ -1,7 +1,6 @@
-require "rubygems"
-require "nokogiri"
-require "open-uri"
-require "mdl"
+# require "rubygems"
+# require "nokogiri"
+# require "open-uri"
 
 # // apri post
 # files = "_posts/2007-01-11-x-agosto.markdown"
@@ -13,7 +12,7 @@ counter = 0
 Dir.glob( files ) { | file |
 
   content = File.read( file )
-  reg = /\[https?:\/\/[^]]+\]/
+  reg = /\((\/[^)]+)\/\)/
   # img_file = content.scan( reg ).last.first
 
   # if !File.exist? "_#{img_file}"
@@ -22,8 +21,10 @@ Dir.glob( files ) { | file |
   # content = content.gsub( reg, "_" )
   if reg.match? content
   
-    puts file
-    puts content.scan( reg )
+    # puts file
+    # puts content.scan( reg )
+    content = content.gsub( reg, "(#{'\1'}.html)" )
+    File.open( "#{file}", 'w' ){ |file| file.write( content ) }
 
   end
 

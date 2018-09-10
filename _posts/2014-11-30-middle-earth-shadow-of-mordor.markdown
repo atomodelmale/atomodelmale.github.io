@@ -18,7 +18,7 @@ Gli [Uruk-hai](http://it.wikipedia.org/wiki/Uruk-hai), guidati dalla Mano Nera d
 
 ![shadow of mordor001]({{ site.baseurl }}/uploads/2014/11/shadow-of-mordor001.jpg)
 
-Trama a parte, che tutt'al più fa da pretesto per ambientazioni e personaggi, Shadow of Mordor è un free-roaming game à la [Assassin's Creed](/2010/05/05/assassins-creed-2/) in cui il giocatore dovrà guidare Talion attraverso Mordor. Oltre all'aspetto free-roaming, Shadow of Mordor aggiunge molti elementi di gioco di ruolo. Compiendo missioni e guadagnando esperienza, Talion potrà aumentare le proprie abilità da Ranger (spada e pugnale), i poteri di Celebrimbor (arco e magie) o il danno di armi e mosse a sua disposizione.
+Trama a parte, che tutt'al più fa da pretesto per ambientazioni e personaggi, Shadow of Mordor è un free-roaming game à la [Assassin's Creed](/2010/05/05/assassins-creed-2.html) in cui il giocatore dovrà guidare Talion attraverso Mordor. Oltre all'aspetto free-roaming, Shadow of Mordor aggiunge molti elementi di gioco di ruolo. Compiendo missioni e guadagnando esperienza, Talion potrà aumentare le proprie abilità da Ranger (spada e pugnale), i poteri di Celebrimbor (arco e magie) o il danno di armi e mosse a sua disposizione.
 
 ![shadow of mordor]({{ site.baseurl }}/uploads/2014/11/shadow-of-mordor.jpg)
 

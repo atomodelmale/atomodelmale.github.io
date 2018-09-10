@@ -16,7 +16,7 @@ tags:
 ---
 
 
-Dopo cinque giorni](/2014/09/11/come-visitare-e-cosa-vedere-in-belgio-e-lussemburgo-in-6-giorni-iii-parte-2/), la vacanza nei paesi del Benelux sta volgendo al termine. Prima di riprendere l'aereo, c'è ancora tempo per visitare Bruxelles, capitale del Belgio e dell'Europa. La città è molto vasta e offre molteplici spunti, per questo verranno indicati solo alcuni itinerari di visita.
+Dopo cinque giorni](/2014/09/11/come-visitare-e-cosa-vedere-in-belgio-e-lussemburgo-in-6-giorni-iii-parte-2.html), la vacanza nei paesi del Benelux sta volgendo al termine. Prima di riprendere l'aereo, c'è ancora tempo per visitare Bruxelles, capitale del Belgio e dell'Europa. La città è molto vasta e offre molteplici spunti, per questo verranno indicati solo alcuni itinerari di visita.
 
 **6° giorno**
 

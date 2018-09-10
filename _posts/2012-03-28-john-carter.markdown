@@ -45,9 +45,9 @@ Suo malgrado Carter dovrà trasformarsi nell'eroe di Marte, **lottando per porta
 
 Il personaggio, **nato** dalla macchina da scrivere di **Edgar Rice Burroughs** -- famoso soprattutto per essere il creatore di Tarzan -- nel lontano **1912**, festeggia proprio quest'anno il proprio centenario ed è, a tutti gli effetti, **l'archetipo dell'eroe** tutto cazzotti e fantascienza a cui oggi siamo abituati.
 
-Curiosità personali a parte, il **film** risulta **magistralmente condotto** da un regista alla sua prima prova con un live action, **Andrew Stanton**, l'uomo dietro la cinepresa -- o meglio il mouse -- di capolavori **Pixar** come [Toy Story](/2010/07/31/toy-story-3/) e [Wall-E](/2008/10/27/wall%E2%80%A2e/).
+Curiosità personali a parte, il **film** risulta **magistralmente condotto** da un regista alla sua prima prova con un live action, **Andrew Stanton**, l'uomo dietro la cinepresa -- o meglio il mouse -- di capolavori **Pixar** come [Toy Story](/2010/07/31/toy-story-3.html) e [Wall-E](/2008/10/27/wall%E2%80%A2e.html).
 
-A questo si aggiunge un cast di attori consolidati come **Mark Strong, Willem Dafoe e James Purefoy**, ai quali si affiancano giovani promesse come **Taylor Kitsch** e **Lynn Collins** (già rispettivamente Gambit e Volpe d'Argento in [X-Men le origini: Wolverine](/2009/05/23/x-men-le-origini-wolverine/).
+A questo si aggiunge un cast di attori consolidati come **Mark Strong, Willem Dafoe e James Purefoy**, ai quali si affiancano giovani promesse come **Taylor Kitsch** e **Lynn Collins** (già rispettivamente Gambit e Volpe d'Argento in [X-Men le origini: Wolverine](/2009/05/23/x-men-le-origini-wolverine.html).
 
 Una **fotografia suggestiva e attenta ai dettagli** (l'esperienza Pixar si fa sentire) ed un **montaggio dinamico** completano il quadro di un film d'avventura per tutti -- è pur sempre un Disney -- che non mancherà di ripresentarsi con **un paio di sequel** nelle sale.
 

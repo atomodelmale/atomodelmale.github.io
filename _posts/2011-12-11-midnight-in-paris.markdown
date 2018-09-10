@@ -17,7 +17,7 @@ tags:
 
 **Midnight in Paris**[![]({{ site.baseurl }}/uploads/2011/12/Midnight-in-Paris.jpg)
 
-Paris](/2011/10/31/parigi-in-7-giorni-parte-i/), Paris, Paris, non smette mai di affascinare la ville lumiere.
+Paris](/2011/10/31/parigi-in-7-giorni-parte-i.html), Paris, Paris, non smette mai di affascinare la ville lumiere.
 
 Questa volta è **Woody All**(i)**en** a omaggiare la città degli innamorati con un **film leggerissimo**, ma onesto nell'intrattenere il pubbico.
 

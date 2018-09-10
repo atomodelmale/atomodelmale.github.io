@@ -20,13 +20,13 @@ Lo è stato dalla sua fondazione. Una vita fa, nel lontano 2006. Per intenderci,
 
 Negli anni l'Atomo ha cambiato più volte forma.
 
-Come si diceva, tutto [partì nel 2006](/2007/01/11/x-agosto/) con Blogspot, che oggi si chiama Blogger, tutt'ora in mano a Google. In quella prima incarnazione digitale, l'Atomo non aveva una compagine editoriale fissa. Tutto era nato da una decina di amici e la voglia di una bacheca virtuale dove condividere e discutere le proprie opinioni. Tralasciando l'origine del nome (la trovate [qua](/premessa-dintenti-2/)), oltre al blog in cui vari autori scrivevano articoli su temi di loro interesse, affiancammo un forum a supporto della discussione.
+Come si diceva, tutto [partì nel 2006](/2007/01/11/x-agosto.html) con Blogspot, che oggi si chiama Blogger, tutt'ora in mano a Google. In quella prima incarnazione digitale, l'Atomo non aveva una compagine editoriale fissa. Tutto era nato da una decina di amici e la voglia di una bacheca virtuale dove condividere e discutere le proprie opinioni. Tralasciando l'origine del nome (la trovate [qua](/premessa-dintenti-2.html)), oltre al blog in cui vari autori scrivevano articoli su temi di loro interesse, affiancammo un forum a supporto della discussione.
 
 ![]({{ site.baseurl }}/uploads/2011/09/atomodelmalelittlerk4no5.png)
 
-Ad un anno dalla fondazione, [l'Atomo cambiò forma](/2007/05/29/cambio-di-piattaforma/), trasferendosi dalla piattaforma di Google a quella di Wordpress.com. Il passaggio vide una formalizzazione più chiara dello "staff" dell'Atomo, composto dagli attuali autori permanenti [Il Gorgonauta](/author/il-gorgonauta/), [Radio Rebelde](/author/radio-rebelde/) e [TheSave](/author/thesave/).
+Ad un anno dalla fondazione, [l'Atomo cambiò forma](/2007/05/29/cambio-di-piattaforma.html), trasferendosi dalla piattaforma di Google a quella di Wordpress.com. Il passaggio vide una formalizzazione più chiara dello "staff" dell'Atomo, composto dagli attuali autori permanenti [Il Gorgonauta](/author/il-gorgonauta.html), [Radio Rebelde](/author/radio-rebelde.html) e [TheSave](/author/thesave.html).
 
-Pur mantenendo un approccio aperto a tematiche e interessi disparati, l'Atomo si è focalizzato a più riprese sul raccontare la realtà territoriale degli autori: Imola. Le interviste da parte degli autori culminarono in due [documentari](/video/) intitolati "L'Obelisco della Discordia" e "A Tutto Gas!", trattando i temi della valorizzazione del centro storico e dell'economia del territorio.
+Pur mantenendo un approccio aperto a tematiche e interessi disparati, l'Atomo si è focalizzato a più riprese sul raccontare la realtà territoriale degli autori: Imola. Le interviste da parte degli autori culminarono in due [documentari](/video.html) intitolati "L'Obelisco della Discordia" e "A Tutto Gas!", trattando i temi della valorizzazione del centro storico e dell'economia del territorio.
 
 L'ultima trasformazione del blog avviene nel 2008, con l'acquisto dell'attuale dominio [atomodelmale.it](atomodelmale.it).
 

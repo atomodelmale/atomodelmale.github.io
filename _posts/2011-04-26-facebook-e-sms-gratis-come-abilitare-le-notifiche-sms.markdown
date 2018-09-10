@@ -15,7 +15,7 @@ tags:
 - SMS
 ---
 
-A quasi sei mesi di distanza si torna a parlare di [Messages](/2010/11/17/messages-da-facebook-la-mail-che-uccidera-l%E2%80%99email/), il servizio di messagistica "omnicomprensiva" lanciato da Facebook.
+A quasi sei mesi di distanza si torna a parlare di [Messages](/2010/11/17/messages-da-facebook-la-mail-che-uccidera-l%E2%80%99email.html), il servizio di messagistica "omnicomprensiva" lanciato da Facebook.
 
 **SMS a GO-GO**
 
@@ -71,6 +71,6 @@ Se da una parte ci sono tutti i **vantaggi della mobilità** SMS, associata alla
 
 Il numero è infatti a disposizione di Facebook, che può decidere – nei termini di legge – cosa farne in un prossimo futuro, per non parlare di amici e sconosciuti che potrebbero usare il numero per fini non del tutto leciti.
 
-Mentre al primo problema non c'è un rimedio – Facebook imperat! – il secondo si può risolvere  tramite le "impostazioni sulla privacy" di Facebook (Account -> "Impostazioni sulla Privacy") e limitando la visibilità del cellulare o ai **soli amici**, ad una lista di questi ([vi rimando all'articolo relativo](/2011/01/30/mettere-ordine-in-facebook-con-le-liste/)) o a nessuno.
+Mentre al primo problema non c'è un rimedio – Facebook imperat! – il secondo si può risolvere  tramite le "impostazioni sulla privacy" di Facebook (Account -> "Impostazioni sulla Privacy") e limitando la visibilità del cellulare o ai **soli amici**, ad una lista di questi ([vi rimando all'articolo relativo](/2011/01/30/mettere-ordine-in-facebook-con-le-liste.html)) o a nessuno.
 
 E mi raccomando: "messaggiate con cautela!"

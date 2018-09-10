@@ -20,7 +20,7 @@ tags:
 - Usa
 ---
 
-Manca oramai poco all'elezione del nuovo presidente degli Stati Uniti D'America (appena 21 giorni, l'election-day è il 4 novembre) e dopo le prime [2 puntate](/2008/02/10/la-corsa-alla-casa-bianca-seconda-puntata/) è ora di riepilogare gli ultimi avvenimenti. Innanzitutto si sfideranno il repubblicano **John McCain**, che ha superato con scioltezza le primarie del suo partito e il democratico **Barack Obama**, alla fine trionfante sulla sua rivale Hillary Clinton dopo una lunga campagna elettorale per assicurarsi il sostegno e il voto dei delegati democratici.
+Manca oramai poco all'elezione del nuovo presidente degli Stati Uniti D'America (appena 21 giorni, l'election-day è il 4 novembre) e dopo le prime [2 puntate](/2008/02/10/la-corsa-alla-casa-bianca-seconda-puntata.html) è ora di riepilogare gli ultimi avvenimenti. Innanzitutto si sfideranno il repubblicano **John McCain**, che ha superato con scioltezza le primarie del suo partito e il democratico **Barack Obama**, alla fine trionfante sulla sua rivale Hillary Clinton dopo una lunga campagna elettorale per assicurarsi il sostegno e il voto dei delegati democratici.
 
 ![]({{ site.baseurl }}/uploads/2008/10/barack-obama1.jpg)
 

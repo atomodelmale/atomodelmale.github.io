@@ -16,7 +16,7 @@ tags:
 - Ewan McGregor
 ---
 
-Dopo un'[Alice](/2010/03/17/alice-in-wonderland-3d/) e due [Biancanevi](/2012/07/17/biancaneve-e-il-cacciatore/), la rivisitazione Hollywoodiana delle fiabe registra una new entry, l'adattamento di "Jack e la pianta di fagioli".
+Dopo un'[Alice](/2010/03/17/alice-in-wonderland-3d.html) e due [Biancanevi](/2012/07/17/biancaneve-e-il-cacciatore.html), la rivisitazione Hollywoodiana delle fiabe registra una new entry, l'adattamento di "Jack e la pianta di fagioli".
 
 ## Il Cacciatore di Giganti
 
@@ -40,7 +40,7 @@ Col passare dei secoli la storia diventa mito, fino al giorno in cui Jack, giova
 
 ![Sheldon Derision]({{ site.baseurl }}/uploads/2013/03/Sheldon-Derision.gif)
 
-Se mi avessero detto che Bryan - [X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/) - Singer stava lavorando ad un rifacimento del classico inglese "Jack e la pianta di fagioli" avrei usato lo sguardo di "sufficienza e derisione" alla Sheldon.
+Se mi avessero detto che Bryan - [X-Men](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html) - Singer stava lavorando ad un rifacimento del classico inglese "Jack e la pianta di fagioli" avrei usato lo sguardo di "sufficienza e derisione" alla Sheldon.
 
 Invece il caro Bry-Bry è riuscito a sorprendermi. La storia raccontata, benché abbondi di azione, violenza e smembramenti, non scade mai nel truculento, permettendo anche ad un pubblico più giovane di apprezzare la pellicola.
 

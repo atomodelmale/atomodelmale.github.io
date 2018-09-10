@@ -18,7 +18,7 @@ tags:
 - Strade
 ---
 
-Con grande felicità da parte di grandi e piccini lo stato italiano ha scelto il week-end di **ferragosto** per "regalare" ai propri cittadini il **[nuovo Codice della Strada](/2010/05/09/nuovo-codice-della-strada-2010-ecco-le-principali-novita-dalla-patente-a-ore-alla-multa-a-rate/)**.
+Con grande felicità da parte di grandi e piccini lo stato italiano ha scelto il week-end di **ferragosto** per "regalare" ai propri cittadini il **[nuovo Codice della Strada](/2010/05/09/nuovo-codice-della-strada-2010-ecco-le-principali-novita-dalla-patente-a-ore-alla-multa-a-rate.html)**.
 
 Dopo l'entrata in vigore del nuovo Codice, cos'è cambiato riguardo al **recupero dei punti della patente**?
 

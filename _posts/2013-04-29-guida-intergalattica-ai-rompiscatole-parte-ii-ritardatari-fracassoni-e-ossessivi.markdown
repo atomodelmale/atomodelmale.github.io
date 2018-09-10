@@ -41,7 +41,7 @@ Se non ha già cercato di farlo, il ritardatario vi contatterà, in questo caso 
 
 Oggi, come non mai, la quiete è un lusso che pochi possono permettersi. Se poi al già gremito panorama sonoro di sirene, traffico ed allarmi si aggiunge un vicino/coinquilino fracassone, l'esaurimento nervoso è servito.
 
-Un po' come lo_ [sfaticato disordinato](/2013/04/27/guida-intergalattica-ai-rompiscatole-parte-i-saltafila-sfaticati-e-criticoni/)_, anche il fracassone non lo fa -- si spera -- apposta. Semplicemente non si rendere conto, o non tiene abbastanza in considerazione, il disturbo che arreca. Notificarglielo è l'unico modo _civile_ di risolvere la situazione.
+Un po' come lo_ [sfaticato disordinato](/2013/04/27/guida-intergalattica-ai-rompiscatole-parte-i-saltafila-sfaticati-e-criticoni.html)_, anche il fracassone non lo fa -- si spera -- apposta. Semplicemente non si rendere conto, o non tiene abbastanza in considerazione, il disturbo che arreca. Notificarglielo è l'unico modo _civile_ di risolvere la situazione.
 
 ![Community Annie Broom]({{ site.baseurl }}/uploads/2013/04/Community-Annie-Broom.gif)
 
@@ -71,6 +71,6 @@ Esistono persone (genitori, fidanzati, amici, etc.) con cui state bene, ma la cu
 
 Se anche applicando le sopracitate tecniche non riuscite a far valere le vostre ragioni, l'unica soluzione è _amputare_. Dividete la vostra strada da quella del ossessivo. Ne risentirete sicuramente, ma allontanarvene gioverà alla vostra salute fisica e mentale.
 
-La nostra guida [continua con la terza parte](/2013/05/01/guida-intergalattica-ai-rompiscatole-parte-iii-manipolatori-antipatici-e/).
+La nostra guida [continua con la terza parte](/2013/05/01/guida-intergalattica-ai-rompiscatole-parte-iii-manipolatori-antipatici-e.html).
 
 via lifehacker | [Top 10 Ways to Deal with Life's Most Annoying People](http://lifehacker.com/5991919/top-10-ways-to-deal-with-lifes-most-annoying-people)

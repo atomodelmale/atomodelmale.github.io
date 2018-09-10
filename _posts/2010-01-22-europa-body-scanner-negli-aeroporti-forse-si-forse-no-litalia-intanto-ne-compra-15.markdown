@@ -25,7 +25,7 @@ tags:
 ---
 
 
-Dopo il fallito attentato al volo della [Delta Airlines](/2009/12/26/fallito-attentato-aereo-al-volo-della-delta-airlines-proveniente-dalla-nigeria/) negli aeroporti è stata ideata e richiesta l'introduzione degli **Body Scanner**, speciali strumenti che permettono di individuare armi od esplosivi **sotto i vestiti** di una persona **, non** tuttavia liquidi o polveri presenti all'**interno del suo corpo**. Ordigni che sfuggono ai controlli dei metal detector grazie ai materiali in cui sono contenuti  o con i quali di cui sono fabbricati, come la ceramica.
+Dopo il fallito attentato al volo della [Delta Airlines](/2009/12/26/fallito-attentato-aereo-al-volo-della-delta-airlines-proveniente-dalla-nigeria.html) negli aeroporti è stata ideata e richiesta l'introduzione degli **Body Scanner**, speciali strumenti che permettono di individuare armi od esplosivi **sotto i vestiti** di una persona **, non** tuttavia liquidi o polveri presenti all'**interno del suo corpo**. Ordigni che sfuggono ai controlli dei metal detector grazie ai materiali in cui sono contenuti  o con i quali di cui sono fabbricati, come la ceramica.
 
 Il body scanner infatti permette di visualizzare su uno schermo un **'immagine** (in 2D o 3D a seconda della tecnologia utilizzata) del corpo della persona esaminata grazie ad appositi software e quindi di individuare possibili esplosivi o armi. Ma che altri oggetti insoliti come sacchetti o buste.
 

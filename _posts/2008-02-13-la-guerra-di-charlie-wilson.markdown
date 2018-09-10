@@ -36,6 +36,6 @@ Il regista (Mike Nichols) non lo fa dire esplicitamente ma tutti sappiamo che po
 
 Riguardo agli attori, **Tom Hanks** dimostra ancora una volta la propria versatilità (è infatti bravissimo anche nei panni del deputato), ma la sorpresa è**Julia Roberts**, che mettendo da parte per una volta le vesti di "ragazza qualunque" è stupenda come diva liberal e raffinata per eccellenza. Grandioso anche Philip Seymour Hoffman, capace con la sua ironia di strappare diversi sorrisi.
 
-Dopo [Leoni per Agnelli](/2008/01/14/leoni-per-agnelli/) Hollywood parla ancora di politica  ma questa volta in modo non banale, a differenza della pellicola di Robert Redford, qui l'idea di fondo è chiara: gli Stati Uniti, e la storia lo dimostra, sono sempre stati pronti ad aiutare i vari paesi a liberarli dal nemico, vedi anche l'Italia, ma nel momento di ricostruzione si sono sempre tirati indietro compiaciuti del fatto che esistano paesi deboli che saranno loro sempre debitori.
+Dopo [Leoni per Agnelli](/2008/01/14/leoni-per-agnelli.html) Hollywood parla ancora di politica  ma questa volta in modo non banale, a differenza della pellicola di Robert Redford, qui l'idea di fondo è chiara: gli Stati Uniti, e la storia lo dimostra, sono sempre stati pronti ad aiutare i vari paesi a liberarli dal nemico, vedi anche l'Italia, ma nel momento di ricostruzione si sono sempre tirati indietro compiaciuti del fatto che esistano paesi deboli che saranno loro sempre debitori.
 
 Radio Rebelde.

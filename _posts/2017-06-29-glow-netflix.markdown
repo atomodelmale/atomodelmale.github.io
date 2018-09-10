@@ -25,7 +25,7 @@ Per tutti coloro che finora hanno vissuto sotto un sasso, s'agevoli il momento A
 
 Bon, fine documentario. Che c'entra questo GLOW con il Wrestling? Indizio: è l'acronimo di Gorgeous Ladies of Wrestling. Ed è questo il tema dell'ultima serie Netflix, con protagonista la sempre apprezzata Alison Brie (Mad Men, Community).
 
-Ambientata in una calda Los Angeles del 1985 (chi ha detto [Stranger Things](/2016/09/22/stranger-things/)?), le 10 velocissime puntate della prima stagione trasudano lacca per capelli, spandex e eroina. Come lo sport su cui è incentrato, anche GLOW non perderà tempo per prendersi sul serio, e, al contrario, armato di leggerezza e buon gusto --- cioè di abbastanza cattivo gusto da fare il giro --- racconterà di emancipazione, razzismo e sessismo ai tempi del Walkman.
+Ambientata in una calda Los Angeles del 1985 (chi ha detto [Stranger Things](/2016/09/22/stranger-things.html)?), le 10 velocissime puntate della prima stagione trasudano lacca per capelli, spandex e eroina. Come lo sport su cui è incentrato, anche GLOW non perderà tempo per prendersi sul serio, e, al contrario, armato di leggerezza e buon gusto --- cioè di abbastanza cattivo gusto da fare il giro --- racconterà di emancipazione, razzismo e sessismo ai tempi del Walkman.
 
 ![]({{ site.baseurl }}/uploads/2017/06/GLOW002.jpg)
 

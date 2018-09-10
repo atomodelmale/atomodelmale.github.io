@@ -77,4 +77,4 @@ Dato che il cimitero si stende lungo il versante di una collina, consiglio di pa
 
 Il terzo giorno doveva essere dedicato alla visita del **museo d'Orsay**, museo a cui tenevo molto, essendo un amante delle opere impressioniste. Peccato che "une gréve" (sciopero) ad oltranza abbia impedito a me e al resto dei turisti – incazzerecci – riunitisi all'entrata di godere dello spettacolo. Mannaggia alla crisi, mannaggia ai tagli di personale, fatto sta che, messomi il cuore in pace, abbiamo deciso di visitare la vicina **Île de la Cité**, l'isoletta sulla senna al centro di Parigi sulla quale si trovano la **cattedrale di Notre-Dame** – che immagino non abbia bisogno di presentazioni -- e il complesso del **Palais de la Cité** che ospita il Palazzo di Giustizia, la meravigliosa **Sainte-Chapelle**, la **Conciergerie** – purtroppo in restauro -- e la prefettura.
 
-[Continua con Parigi in 7 giorni - Parte II](/2011/10/31/parigi-in-7-giorni-parte-ii/)
+[Continua con Parigi in 7 giorni - Parte II](/2011/10/31/parigi-in-7-giorni-parte-ii.html)

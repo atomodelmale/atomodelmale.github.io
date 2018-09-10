@@ -22,7 +22,7 @@ tags:
 - Pace
 ---
 
-La[ tregua ](/2009/01/14/striscia-di-gaza-lodissea-continua-ma-hamas-accetta-la-tregua/)tra Hamas e Israele nella **striscia di Gaza**, siglata lo scorso gennaio grazie alla mediazione egiziana, regge, ma a stento. Mentre continuano a segnalarsi sporadiche violenze, con nuovi lanci di razzi e di colpi di mortaio, nuove  incursioni, bombardamenti e alcune vittime le trattative sembrano non giungere ad alcuna soluzione concreta.
+La[ tregua ](/2009/01/14/striscia-di-gaza-lodissea-continua-ma-hamas-accetta-la-tregua.html)tra Hamas e Israele nella **striscia di Gaza**, siglata lo scorso gennaio grazie alla mediazione egiziana, regge, ma a stento. Mentre continuano a segnalarsi sporadiche violenze, con nuovi lanci di razzi e di colpi di mortaio, nuove  incursioni, bombardamenti e alcune vittime le trattative sembrano non giungere ad alcuna soluzione concreta.
 
 Si parla di un possibile cessate il fuoco della durata almeno di un anno ma le parti appaiono ancora poco disponibili e pongono condizioni: **Hamas** chiede la completa ri-apertura dei valichi di frontiera, **Israele,** invece, perché quanto richiesto dalla prima si verifichi, esige la liberazione del soldato israeliano Ghilad Shalit, rapito nel 2006. L'organizzazione integralista ritiene però che tale ultima questione sia oggetto di una trattativa separata e non coincidente con quella attuale.
 

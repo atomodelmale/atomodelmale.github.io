@@ -85,7 +85,7 @@ Al contrario le ultime due categorie di errori sono molto più profondi ed inter
 
 **Difficili da ammettere e da correggere**, solitamente sono quei comportamenti che chi ci conosce bene ci **rimprovera spesso** e che, tante volte, sono alla base di litigi ed accese discussioni.
 
-Ben consci di dover cambiare abitudini, **procrastiniamo**, consideriamo che "_nessuno è perfetto_" e che forse sono gli altri che dovrebbero farsi un esame di coscienza e capire le nostre necessità. Tutti comportamenti adottati dal **[nostro cervello](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo/)** per difendersi dalla **soverchiante pressione** sui nostri sistemi decisionali.
+Ben consci di dover cambiare abitudini, **procrastiniamo**, consideriamo che "_nessuno è perfetto_" e che forse sono gli altri che dovrebbero farsi un esame di coscienza e capire le nostre necessità. Tutti comportamenti adottati dal **[nostro cervello](/2010/12/29/la-top-5-dei-modi-in-cui-il-cervello-ci-boicotta-e-i-metodi-per-evitarlo.html)** per difendersi dalla **soverchiante pressione** sui nostri sistemi decisionali.
 
 Lui risparmia energia, noi indulgiamo nei vizi.
 

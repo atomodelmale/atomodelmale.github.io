@@ -26,7 +26,7 @@ Tratto dal romanzo "Old Man" di Corman McCarthy e diretto dai fratelli  Joel Coe
 
 "Non è un paese per vecchi" è un western moderno, che ripropone, quasi, ai giorni nostri gli stilemi classici del vecchio e selvaggio west e che vede nel confine tra il Texas e Messico quel campo di battaglia dove buoni e cattivi  si affrontano.
 
-Il film, come forse sapete, ai recenti [Oscar](/2008/02/25/oscar-2008-i-vincitori/) ha vinto  4 statuette come Miglior Film, Miglior Regia, Miglior Attore non protagonista (Javier Bardem), Miglior Sceneggiatura non originale.
+Il film, come forse sapete, ai recenti [Oscar](/2008/02/25/oscar-2008-i-vincitori.html) ha vinto  4 statuette come Miglior Film, Miglior Regia, Miglior Attore non protagonista (Javier Bardem), Miglior Sceneggiatura non originale.
 
 Se sugli ultimi 3 premi concordo pienamente, sul miglior film non sono d'accordo. Ok, l'intento dei registi era quello di esprimere, attraverso la metafora del killer, la **follia** che sta investendo questa umanità, sotto la pressione di una società che cancella  il senso stesso dell'umanità.
 
@@ -34,7 +34,7 @@ Tuttavia a mio avviso il film manca di coinvolgimento, non c'è una storia da se
 
 Per quanto riguarda gli altri Oscar invece, come ho già detto concordo pienamente, la regia stupenda (d'altronde parliamo di 2 fuoriclasse  come i fratelli Coen), fotografie e paesaggi da lasciare senza fiato ma soprattutto uno strepitoso Javier Bardem (che recentemente ha anche interpretato con Giovanna Mezzogiorno "L'amore ai tempi del colera") che ipnotizza perché ridicolo e feroce allo stesso tempo, i cadaveri che lascia alla sue spalle diventano corpi senza senso, quasi grotteschi.
 
-Tra l'altro  in un primo momento i due registi avevano deciso di affidare il ruolo del cacciatore Llewelyn Moss al povero [Heath Ledger](/2008/01/23/la-scomparsa-di-heath-ledger/), ma l'attore rinunciò spiegando che aveva bisogno di riposare e così i fratelli Coen hanno deciso allora di scommettere su Josh Brolin.
+Tra l'altro  in un primo momento i due registi avevano deciso di affidare il ruolo del cacciatore Llewelyn Moss al povero [Heath Ledger](/2008/01/23/la-scomparsa-di-heath-ledger.html), ma l'attore rinunciò spiegando che aveva bisogno di riposare e così i fratelli Coen hanno deciso allora di scommettere su Josh Brolin.
 
 Il mio giudizio in sintesi non è negativo, semplicemente vista la critica e le aspettative mi aspettavo qualcosa di più, che meritasse insomma il premio come Miglior Film, ma come spesso succede più alte sono le aspettative più è difficile che queste vengano rispettate.
 

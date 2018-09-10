@@ -16,7 +16,7 @@ tags:
 - Windows
 ---
 
-A circa un mese dalla recente uscita di [Windows 10](/2015/07/30/microsoft-rilascia-windows-10-parole-chiave-gratis-menu-start-cortana-ed-edge/) Microsoft festeggia i 20 anni di Windows 95.
+A circa un mese dalla recente uscita di [Windows 10](/2015/07/30/microsoft-rilascia-windows-10-parole-chiave-gratis-menu-start-cortana-ed-edge.html) Microsoft festeggia i 20 anni di Windows 95.
 
 ## A step into the <del>future</del> past
 

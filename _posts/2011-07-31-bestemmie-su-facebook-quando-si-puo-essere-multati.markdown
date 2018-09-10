@@ -12,7 +12,7 @@ categories:
 - Legge
 ---
 
-Naturale proseguimento del cliccatissimo [Facebook. Quando si può essere accusati di diffamazione?](/2009/05/16/facebook-quando-si-puo-essere-accusati-di-diffamazione/), vediamo quando si può ravvisare l'illecito per bestemmia sul Social Network.
+Naturale proseguimento del cliccatissimo [Facebook. Quando si può essere accusati di diffamazione?](/2009/05/16/facebook-quando-si-puo-essere-accusati-di-diffamazione.html), vediamo quando si può ravvisare l'illecito per bestemmia sul Social Network.
 
 **Chi di bestemmia ferisce...**
 

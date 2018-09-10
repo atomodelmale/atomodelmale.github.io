@@ -17,7 +17,7 @@ tags:
 - Star Wars
 ---
 
-A un anno di distanza dal [Risveglio della Forza](/2016/01/31/star-wars-il-risveglio-della-forza/) (e della Saga), Guerre Stellari torna nei cinema per raccontare i fatti antecedenti il primo film del '77, quelli che hanno portato i ribelli in possesso dei piani per distruggere la prima, gloriosa Morte Nera.
+A un anno di distanza dal [Risveglio della Forza](/2016/01/31/star-wars-il-risveglio-della-forza.html) (e della Saga), Guerre Stellari torna nei cinema per raccontare i fatti antecedenti il primo film del '77, quelli che hanno portato i ribelli in possesso dei piani per distruggere la prima, gloriosa Morte Nera.
 
 ## Rogue One
 

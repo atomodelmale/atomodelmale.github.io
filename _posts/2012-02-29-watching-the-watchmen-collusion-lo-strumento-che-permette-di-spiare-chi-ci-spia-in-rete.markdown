@@ -50,4 +50,4 @@ In futuro si potrebbe pensare ad un sistema simile a Collusion che **raccolga**,
 
 Con le parole di Kovacs:
 
-<blockquote>The memory of the internet is forever. We are being watched. It's now time for us [to watch the watchers](/2009/03/29/watchmen/).</blockquote>
+<blockquote>The memory of the internet is forever. We are being watched. It's now time for us [to watch the watchers](/2009/03/29/watchmen.html).</blockquote>

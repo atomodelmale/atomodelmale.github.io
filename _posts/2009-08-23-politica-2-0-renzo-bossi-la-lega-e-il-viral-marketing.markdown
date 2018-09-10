@@ -47,7 +47,7 @@ Da sempre **partito delle azioni più che delle idee**, la Lega non si è **mai 
 
 ![renzo_bossi]({{ site.baseurl }}/uploads/2009/08/renzo_bossi.jpg)
 
-Miscuglio di generi e persone, il partito fin'ora si è saputo muovere "come un sol uomo", e di questo gliene va dato atto, dimostrando di **saper "forzare" la mano del governo**, confermato dalle [ultime esternazioni estive del Senatur](/2009/08/06/incubi-di-mezza-estate-targati-lega-bandiere-regionali-e-gabbie-salariali/).
+Miscuglio di generi e persone, il partito fin'ora si è saputo muovere "come un sol uomo", e di questo gliene va dato atto, dimostrando di **saper "forzare" la mano del governo**, confermato dalle [ultime esternazioni estive del Senatur](/2009/08/06/incubi-di-mezza-estate-targati-lega-bandiere-regionali-e-gabbie-salariali.html).
 
 Dal canto suo anche **Renzo Bossi**, figlio 21enne di Umberto, già salito agli onori della cronaca per qualche [scaramuccia scolastica](http://www.lastampa.it/redazione/cmsSezioni/politica/200811articoli/38650girata.asp), ha ben pensato di seguire la forzosa moda del padre, **pubblicando sul proprio profilo di Facebook** un gioco programmato assieme all'amico **Fabio Betti** - ormai considerato il PR leghista su FacciaLibro.
 

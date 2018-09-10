@@ -26,7 +26,7 @@ Hipmunk riporta il dato dopo un'estensiva analisi su tre milioni di voli all'int
 
 ![]({{ site.baseurl }}/uploads/2018/01/when.gif)
 
-Ciò significa che, se ad esempio avete già pensato a come trascorrere una vacanza (con un minimo di accortezza [potete pianificarne anche tre in un anno](/2017/12/30/approfittate-del-nuovo-anno-per-pianificare-le-vostre-vacanze/)) la prossima primavera, ora potrebbe essere il momento giusto per accaparrarvi i biglietti a prezzi stracciati.
+Ciò significa che, se ad esempio avete già pensato a come trascorrere una vacanza (con un minimo di accortezza [potete pianificarne anche tre in un anno](/2017/12/30/approfittate-del-nuovo-anno-per-pianificare-le-vostre-vacanze.html)) la prossima primavera, ora potrebbe essere il momento giusto per accaparrarvi i biglietti a prezzi stracciati.
 
 A far da contraltare ai ribassi di Gennaio, Skyscanner colloca a Marzo un sostanziale incremento dei voli nazionali (+13%) e internazionali (+56%), per poi ritornare sulle medie annuali nei mesi successivi.
 

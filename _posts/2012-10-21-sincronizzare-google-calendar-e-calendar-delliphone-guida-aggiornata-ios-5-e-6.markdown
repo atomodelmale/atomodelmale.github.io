@@ -21,7 +21,7 @@ tags:
 
 La convivenza tra iOS ed i servizi offerti da Google è da sempre un hot-topic tra le pagine dell'Atomo del Male.
 
-Dopo molte richieste, e qualche esperimento, ecco la guida **[aggiornata](/2009/08/16/semplice-guida-alla-sincronizzazione-tra-google-calendar-ed-il-calendar-delliphone/)** che tanti aspettavano su come sincronizzare contatti e calendari di Google con iCal e la rubrica dell'iPhone.
+Dopo molte richieste, e qualche esperimento, ecco la guida **[aggiornata](/2009/08/16/semplice-guida-alla-sincronizzazione-tra-google-calendar-ed-il-calendar-delliphone.html)** che tanti aspettavano su come sincronizzare contatti e calendari di Google con iCal e la rubrica dell'iPhone.
 
 **Calendari - sincronizzare Google Calendar e Calendar dell'iPhone**
 

@@ -16,7 +16,7 @@ Ormai tutti hanno sentito, almeno una volta, tra TG e quotidiani, del gruppo sen
 
 ![]({{ site.baseurl }}/uploads/2012/02/anonymus-vs-vatican.jpg)
 
-I suoi attacchi a [siti istituzionali e non](/2012/01/23/megaupload-filesonic-e-la-crociata-di-anonymous-pirateria/) sono diventati il **cruccio di stati e aziende** che, dal canto loro, si trovano a dover affrontare una **fiera informatica invisibile e letale**.
+I suoi attacchi a [siti istituzionali e non](/2012/01/23/megaupload-filesonic-e-la-crociata-di-anonymous-pirateria.html) sono diventati il **cruccio di stati e aziende** che, dal canto loro, si trovano a dover affrontare una **fiera informatica invisibile e letale**.
 
 La notizia, passata un po' in sordina, forse proprio **per l'esito generato**, è che il gruppo di hacker, nell'agosto 2011 -- in concomitanza della visita del papa a Madrid -- **ha tentanto**, senza successo, **un attacco ai siti istituzionali della Giornata Mondiale della Gioventù e del Vaticano**.
 

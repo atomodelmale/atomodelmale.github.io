@@ -16,7 +16,7 @@ tags:
 - Ligabue
 ---
 
-[L'avevo promesso](/2010/03/29/ligabue-il-nuovo-album-uscira-a-maggio-intanto-ecco-le-date-del-tour-estivo-2010/). Tenendo fede alla parola data (cosa assai rara di questi tempi) ecco i cinema che in **Emilia Romagna** aderiranno il 15 aprile al **Ligabue Day.**
+[L'avevo promesso](/2010/03/29/ligabue-il-nuovo-album-uscira-a-maggio-intanto-ecco-le-date-del-tour-estivo-2010.html). Tenendo fede alla parola data (cosa assai rara di questi tempi) ecco i cinema che in **Emilia Romagna** aderiranno il 15 aprile al **Ligabue Day.**
 
 Brevemente, i cinema convenzionati proietteranno, preceduto da una video-presentazione dello stesso Ligabue, **Olimpico 2008**, l'ultimo concerto del rocker di Correggio  tenuto allo stadio Olimpico di Roma il 18 luglio 2008. Con tanto di presentazione (in anteprima) dell'inedito singolo_ Nel tempo_ estratto dal nuovo album in uscita il 7 maggio.
 

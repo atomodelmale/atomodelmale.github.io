@@ -37,7 +37,7 @@ tags:
 - VHS
 ---
 
-Altro giro, altro regalo: a distanza di un anno dalle peripezie culinarie del simpatico **[topo-chef Rémy](/2007/11/12/ratatouille-il-topo-chef/)**, il "dinamic duo" **Disney e Pixar** ha sfornato un altro piccolo capolavoro: **WALL•E!**
+Altro giro, altro regalo: a distanza di un anno dalle peripezie culinarie del simpatico **[topo-chef Rémy](/2007/11/12/ratatouille-il-topo-chef.html)**, il "dinamic duo" **Disney e Pixar** ha sfornato un altro piccolo capolavoro: **WALL•E!**
 
 ![]({{ site.baseurl }}/uploads/2008/10/wall-e.png)
 

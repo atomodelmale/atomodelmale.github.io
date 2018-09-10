@@ -16,7 +16,7 @@ tags:
 - Computer
 ---
 
-Come dicevamo [qua](/2014/07/19/quando-e-cosa-comprare-in-estate/) l'imminente ritorno a scuola di Settembre è il momento giusto per comprare un nuovo computer e, più in generale, nuovo hardware.
+Come dicevamo [qua](/2014/07/19/quando-e-cosa-comprare-in-estate.html) l'imminente ritorno a scuola di Settembre è il momento giusto per comprare un nuovo computer e, più in generale, nuovo hardware.
 
 Se siete indecisi o non sapete proprio che pesci pigliare [Logical Increments](http://www.logicalincrements.com/) è il sito che fa per voi.
 

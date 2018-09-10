@@ -22,7 +22,7 @@ Prima di incominciare 3 precisazioni. Primo voglio ricordare 2 film usciti a set
 
 A questo punto possiamo passare alle nuove uscite. Nel primo weekend (5/10) segnalo 3 pellicole : **Mr. Brooks**, **Rush Hour - Missione Parigi** e **Cemento armato**. Il primo è un thriller poliziesco che vede Kevin Costner nei panni di un serial killer con seri problemi psichici e Demi Moore in quelli di un agente di polizia che indaga sulla vicenda. Nel secondo film Carter e l'ispettore Lee (Jackie Chan) si ritroveranno a Parigi per salvare la figlia di un loro vecchio amico. I guai e le risate non mancheranno. Terzo ma non ultimo Cemento Armato, il nuovo lavoro M.Martani con Nicolas Vaporidis e Giorgio Faletti. Storia di periferia abbandonata, con le sue leggi e i suoi drammi.
 
-Nel secondo fine settimana (12/10) finalmente esce **Resident Evil - Extinction** (di cui ho [già parlato](/2007/08/03/anticipazioni-resident-evil-3/)) e **Stardust** con Michelle Pfeiffer e Robert De Niro. Questa pellicola narra di un mondo immaginario e di una stella caduta dal cielo. Quest'ultima sarà l'oggetto del desiderio di molte personaggi e si ritroverà al centro dell'eterna lotta tra bene e male. Giudizio? Una possibile sorpresa.
+Nel secondo fine settimana (12/10) finalmente esce **Resident Evil - Extinction** (di cui ho [già parlato](/2007/08/03/anticipazioni-resident-evil-3.html)) e **Stardust** con Michelle Pfeiffer e Robert De Niro. Questa pellicola narra di un mondo immaginario e di una stella caduta dal cielo. Quest'ultima sarà l'oggetto del desiderio di molte personaggi e si ritroverà al centro dell'eterna lotta tra bene e male. Giudizio? Una possibile sorpresa.
 
 ![]({{ site.baseurl }}/uploads/2008/10/ratatouille_us.jpg)
 

@@ -17,7 +17,7 @@ tags:
 
 ## Happy Together
 
-Ci si chiedeva già al tempo dell'[acquisizione plurimilionaria](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp/) di WhatsApp da parte di Facebook quali sarebbero state le ricadute sugli utenti dell'app di messaggistica istantanea.
+Ci si chiedeva già al tempo dell'[acquisizione plurimilionaria](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp.html) di WhatsApp da parte di Facebook quali sarebbero state le ricadute sugli utenti dell'app di messaggistica istantanea.
 
 A fine Agosto, con un [post](https://blog.whatsapp.com/10000627/WhatsApp-guarda-avanti?) sul proprio blog ufficiale, WhatsApp ha comunicato l'aggiornamento dei propri termini di utilizzo e dell'informativa sulla privacy per i propri utenti per
 

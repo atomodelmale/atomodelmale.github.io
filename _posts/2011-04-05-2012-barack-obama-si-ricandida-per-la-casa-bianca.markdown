@@ -28,6 +28,6 @@ Ma l **'economia** americana mostra segnali ripresa con una diminuzione del 
 
 Lo stesso potrebbe essere poi il primo presidente americano capace di porre fine non a 1, non a 2,  ma ben a 3 guerre. Ieri il conflitto iracheno, oggi il conflitto in Afghanistan e domani, Gheddafi permettendo, il conflitto libico.
 
-Mentre i repubblicani, dopo il buon risultato ottenuto nelle elezioni di [metà mandato](/2010/11/07/usa-elezioni-di-meta-mandato-obama-punito-ma-non-sconfitto/), si mostrano divisi sul candidato da opporre ai democratici (da Mitt Romney a Newt Gingrich, da Michele Bachmann a Sarah Palin), tanto da dover rinviare il primo dibattito da maggio a settembre.
+Mentre i repubblicani, dopo il buon risultato ottenuto nelle elezioni di [metà mandato](/2010/11/07/usa-elezioni-di-meta-mandato-obama-punito-ma-non-sconfitto.html), si mostrano divisi sul candidato da opporre ai democratici (da Mitt Romney a Newt Gingrich, da Michele Bachmann a Sarah Palin), tanto da dover rinviare il primo dibattito da maggio a settembre.
 
 Ma Obama nelle stesso tempo non potrà più contare né sull'effetto sorpresa né su quell'immagine di uomo nuovo che hanno contribuito al suo straordinario successo 3 anni fà. E per molti quella promessa di cambiamento sventolata alle scorse elezioni presidenziali deve ancora essere mantenuta.

@@ -17,7 +17,7 @@ tags:
 - Lavoro
 ---
 
-Al di là delle [opinioni](/2009/06/27/catastrofistadevi-rimanere-in-silenzio-parola-di-silvio-berlusconi/) del premier Berlusconi (e senza alcun pregiudizio ideologico per questa o quella notizia) ecco le principali misure, proposte e novità del nuovo decreto anticrisi :
+Al di là delle [opinioni](/2009/06/27/catastrofistadevi-rimanere-in-silenzio-parola-di-silvio-berlusconi.html) del premier Berlusconi (e senza alcun pregiudizio ideologico per questa o quella notizia) ecco le principali misure, proposte e novità del nuovo decreto anticrisi :
 
 	
   * **Detassazione degli utili delle imprese.** Gli utili reinvestiti dalle aziende in macchinari e apparecchiature saranno detassati al 50%  fino al 30 giugno 2010. Il benefico verrà revocato nel caso in cui i beni acquistati vengano ceduti a terzi;

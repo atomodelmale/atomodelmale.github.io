@@ -16,7 +16,7 @@ tags:
 - Marvel
 ---
 
-Ritornano gli underdogs dell'universo Marvel. Ce la fa questo secondo volume della space opera (buffa) targata Marvel a bissare l'epicità del [predecessore](/2014/10/26/i-guardiani-della-galassia/)? Parafrasando quanto scritto per  [Avengers: Age of Ultron](/2015/05/28/avengers-age-of-ultron/):
+Ritornano gli underdogs dell'universo Marvel. Ce la fa questo secondo volume della space opera (buffa) targata Marvel a bissare l'epicità del [predecessore](/2014/10/26/i-guardiani-della-galassia.html)? Parafrasando quanto scritto per  [Avengers: Age of Ultron](/2015/05/28/avengers-age-of-ultron.html):
 
 <blockquote>
   Tutto considerato, il vero nemico in Guardiani della Galassia Vol. 2 è [...] il primo film della serie. La maledizione di fare un lavoro dannatamente buono è che poi ti chiedono di farne un altro. E con quello non parti da zero, ma da dove avevi lasciato il pubblico 3 anni prima.

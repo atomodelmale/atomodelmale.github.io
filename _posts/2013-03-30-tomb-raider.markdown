@@ -53,7 +53,7 @@ Inoltre, il ritrovamento di artefatti e tombe accrescerà conoscenze ed arsenale
 
 [![TombRaider03]({{ site.baseurl }}/uploads/2013/03/TombRaider03.jpg)]({{ site.baseurl }}/uploads/2013/03/TombRaider03.jpg)
 
-Seguendo la strategia vincente di [Hunger Games](/2012/05/18/the-hunger-games/) -- e/o [Sucker Punch](/2011/03/29/sucker-punch/) -- (la nuova) Lara Croft smette i panni dell'indomita eroina che ride in faccia alla morte, per quelli dell'adolescente che, confrontandosi con pericoli e sangue, ne rimane scioccata. E' solo grazie all'aiuto -- psicologico, più che fisico -- dei propri compagni di avventura che Lara non si perderà d'animo ed affronterà gli orrori dell'Isola.
+Seguendo la strategia vincente di [Hunger Games](/2012/05/18/the-hunger-games.html) -- e/o [Sucker Punch](/2011/03/29/sucker-punch.html) -- (la nuova) Lara Croft smette i panni dell'indomita eroina che ride in faccia alla morte, per quelli dell'adolescente che, confrontandosi con pericoli e sangue, ne rimane scioccata. E' solo grazie all'aiuto -- psicologico, più che fisico -- dei propri compagni di avventura che Lara non si perderà d'animo ed affronterà gli orrori dell'Isola.
 
 Finalmente una protagonista eroica ma "umana", che ad ogni piè sospinto ha paura, trema ed il cui corpo (così come l'animo) risente di ferite, tagli e tumefazioni.
 

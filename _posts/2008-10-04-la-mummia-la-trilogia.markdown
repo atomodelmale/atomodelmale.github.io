@@ -31,7 +31,7 @@ tags:
 - Tomba
 ---
 
-Il 2008 è decisamente l'anno della Cina: [Kung Fu Panda](/2008/09/01/arriva-il-pandamonio/), le [Olimpiadi](/2008/08/27/bilancio-pechino-2008/) e l'ultimo capitolo della trilogia "La Mummia".
+Il 2008 è decisamente l'anno della Cina: [Kung Fu Panda](/2008/09/01/arriva-il-pandamonio.html), le [Olimpiadi](/2008/08/27/bilancio-pechino-2008.html) e l'ultimo capitolo della trilogia "La Mummia".
 
 **Mummia mia!**
 

@@ -21,7 +21,7 @@ tags:
 ---
 
 La Marvel torna sul piccolo schermo con "Marvel's Agent Carter".
-Imparata la lezione da [Marvel's Agents of -- voglio-ma-non-posso -- Shield](/2013/10/03/agents-of-the-s-h-i-e-l-d/) o altro mezzo fiasco?
+Imparata la lezione da [Marvel's Agents of -- voglio-ma-non-posso -- Shield](/2013/10/03/agents-of-the-s-h-i-e-l-d.html) o altro mezzo fiasco?
 
 Spoiler: Imparata.
 
@@ -29,7 +29,7 @@ Spoiler: Imparata.
 
 ![Agent Carter 000]({{ site.baseurl }}/uploads/2015/02/Agent-Carter-000.jpg)
 
-La Seconda Guerra Mondiale è finita, ma per l'agente Peggy Carter è appena iniziata un battaglia molto più personale. Perso l'amato [Steve Rogers](/2011/07/31/capitan-america-il-primo-vendicatore/) dopo gli eventi del primo Capitan America, Peggy è tornata a New York come membro del SSR (Strategic Scientific Reserve -- la versione Casablanca dello Shield), con licenza di ... portare panini.
+La Seconda Guerra Mondiale è finita, ma per l'agente Peggy Carter è appena iniziata un battaglia molto più personale. Perso l'amato [Steve Rogers](/2011/07/31/capitan-america-il-primo-vendicatore.html) dopo gli eventi del primo Capitan America, Peggy è tornata a New York come membro del SSR (Strategic Scientific Reserve -- la versione Casablanca dello Shield), con licenza di ... portare panini.
 
 Benché Peggy si sia distinta sul campo come membro degli [Howling Commandos](http://marvelcinematicuniverse.wikia.com/wiki/Howling_Commandos), ora è impiegata nell'SSR come semplice segretaria. Un lavoro di tutto riposo a cui i suoi colleghi vorrebbero relegarla senza troppe cerimonie. D'altronde "Peggy è qua perché se la spassava con Cap. durante la guerra" commentano i suoi colleghi.
 

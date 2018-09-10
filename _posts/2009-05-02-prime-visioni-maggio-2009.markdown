@@ -15,7 +15,7 @@ tags:
 - '2009'
 ---
 
-Meglio gli artigli di [Wolverine](/2009/04/26/il-29-aprile-ecco-x-men-le-origini-wolverine-trailer/) o i segreti e le bugie della classe politica ed economica  americana svelati da uno scaltro reporter? Questo fine settimana (1/05) potreste quindi scegliere tra Hugh Jackman e Russell Crowe, rispettivamente interpreti di **_X-men - Le origini : Wolverine** e **State of a Play_.** Se poi ciò non vi bastasse ecco Benicio Del Toro nella parte del rivoluzionario Ernesto Che Guevara nella pellicola _CHE - Guerriglia_, secondo atto della trsposizione cinematografica dedicata al guerrigliero argentino e infine  una allegra e scoppiettante _Riunione di famiglia_, tutta equivoci e sorprese.
+Meglio gli artigli di [Wolverine](/2009/04/26/il-29-aprile-ecco-x-men-le-origini-wolverine-trailer.html) o i segreti e le bugie della classe politica ed economica  americana svelati da uno scaltro reporter? Questo fine settimana (1/05) potreste quindi scegliere tra Hugh Jackman e Russell Crowe, rispettivamente interpreti di **_X-men - Le origini : Wolverine** e **State of a Play_.** Se poi ciò non vi bastasse ecco Benicio Del Toro nella parte del rivoluzionario Ernesto Che Guevara nella pellicola _CHE - Guerriglia_, secondo atto della trsposizione cinematografica dedicata al guerrigliero argentino e infine  una allegra e scoppiettante _Riunione di famiglia_, tutta equivoci e sorprese.
 
 ![angeliedemoni]({{ site.baseurl }}/uploads/2009/05/angeliedemoni.jpg)
 

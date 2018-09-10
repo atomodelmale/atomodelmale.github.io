@@ -22,7 +22,7 @@ Sono tanti, son mutant... ah, già, sono Inumani.
 
 ## Inhumans
 
-Degli inumani (minuscola) e dei cristalli Terrigeni se n'era già sentito parlare nelle ultime stagioni di [Agents of SHIELD](/2013/10/03/agents-of-the-s-h-i-e-l-d/). Persone normali che, grazie all'esposizione ai fumi rilasciati dalla rottura di suddetti cristalli, acquisiscono improvvisamente poteri incredibili: controllo dell'elettricità, super velocità, capacità di generare onde sismiche, etc.
+Degli inumani (minuscola) e dei cristalli Terrigeni se n'era già sentito parlare nelle ultime stagioni di [Agents of SHIELD](/2013/10/03/agents-of-the-s-h-i-e-l-d.html). Persone normali che, grazie all'esposizione ai fumi rilasciati dalla rottura di suddetti cristalli, acquisiscono improvvisamente poteri incredibili: controllo dell'elettricità, super velocità, capacità di generare onde sismiche, etc.
 
 Qualcuno ha detto X-men? Cristalli a parte, gli Inumani (a cui gli inumani di Agents sono ispirati) ricordano molto da vicino i Mutanti dal gene X. E in effetti i due gruppi di super-gente si sono spesso incontrati e scontrati sulle bande disegnate Marvel. Ma dato che Marvel/Disney/ABC non hanno i diritti per gli X-uomini (quelli se li tiene ben stretti la Fox), perché non fare una serie TV proprio sugli Inumani, I maiuscola?
 

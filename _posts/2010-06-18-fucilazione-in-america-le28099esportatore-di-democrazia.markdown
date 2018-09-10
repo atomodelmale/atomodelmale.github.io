@@ -19,7 +19,7 @@ tags:
 - Usa
 ---
 
-Quando l'Atomo del Male era un angoletto ancor più piccolo di quell'immenso mare che è il Web, si è parlato della [**pena di morte**](/2007/01/18/salsa-di-canaglia-alla-beccaria/) e di quanto incivile e retrogrado tale metodo di punizione/prevenzione -- sia.
+Quando l'Atomo del Male era un angoletto ancor più piccolo di quell'immenso mare che è il Web, si è parlato della [**pena di morte**](/2007/01/18/salsa-di-canaglia-alla-beccaria.html) e di quanto incivile e retrogrado tale metodo di punizione/prevenzione -- sia.
 
 **Quattro proiettili, dritti al cuore**
 

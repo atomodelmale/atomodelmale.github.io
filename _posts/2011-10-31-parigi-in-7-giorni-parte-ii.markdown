@@ -15,7 +15,7 @@ tags:
 - Viaggi
 ---
 
-Riprendiamo il viaggio virtuale nella Ville Lumière iniziato con [Parigi in 7 giorni - Parte I](/2011/10/31/parigi-in-7-giorni-parte-i/)
+Riprendiamo il viaggio virtuale nella Ville Lumière iniziato con [Parigi in 7 giorni - Parte I](/2011/10/31/parigi-in-7-giorni-parte-i.html)
 
 **L'itinerario:  giorni IV – VI IV° Giorno (Sabato)**
 

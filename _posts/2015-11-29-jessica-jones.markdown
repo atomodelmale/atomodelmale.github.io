@@ -17,9 +17,9 @@ tags:
 - Superpoteri
 ---
 
-Jessica Jones, un thriller psicologico tutto al femminile con cui Marvel e Netflix bissano (e superano) il successo del [Diavolo di Hell's Kitchen](/2015/04/30/daredevil/).
+Jessica Jones, un thriller psicologico tutto al femminile con cui Marvel e Netflix bissano (e superano) il successo del [Diavolo di Hell's Kitchen](/2015/04/30/daredevil.html).
 
-Il pubblico (fan in primis) è pronto per vedere i propri eroi sotto una luce più adulta e, per tanti versi, reale. Benché il tema abbia trovato (relativamente) poco seguito nei fumetti, il successo televisivo di Daredevil ne ha dimostrato il potenziale.  E così il duo Netflix-Marvel, oltre a battere il proverbiale ferro finché è caldo, ha pensato di alzare la posta e produrre una serie 1) con un cast, oltre che una protagonista, prettamente femmiline (dopo l'ottimo esperimento di [Agent Carter](/2015/02/24/marvels-agent-carter/)) e 2) ambientata in una New York talmente cupa e tetra da rasentare il noir e l'hard-boiled. Il risultato? Oltre le più rosee aspettative.
+Il pubblico (fan in primis) è pronto per vedere i propri eroi sotto una luce più adulta e, per tanti versi, reale. Benché il tema abbia trovato (relativamente) poco seguito nei fumetti, il successo televisivo di Daredevil ne ha dimostrato il potenziale.  E così il duo Netflix-Marvel, oltre a battere il proverbiale ferro finché è caldo, ha pensato di alzare la posta e produrre una serie 1) con un cast, oltre che una protagonista, prettamente femmiline (dopo l'ottimo esperimento di [Agent Carter](/2015/02/24/marvels-agent-carter.html)) e 2) ambientata in una New York talmente cupa e tetra da rasentare il noir e l'hard-boiled. Il risultato? Oltre le più rosee aspettative.
 
 ## Jessica Jones
 

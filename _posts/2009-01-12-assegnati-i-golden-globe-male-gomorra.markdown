@@ -15,7 +15,7 @@ tags:
 - Premiazione
 ---
 
-Gli Usa assegnano i **Golden Globe** ma _Gomorra_ non vince come migliore pellicola straniera, nonostante i tanti riconoscimenti, anche a livello internazionale, ottenuti. Il premio infatti è andato a _Valzer con Bashir_, uscito da poco anche nelle [nostre sale](/2009/01/04/prime-visioni-gennaio-2009/), in grado di battere tutti gli altri film in concorso (sconfitti anche _La Banda Baader Meinhof,_ tedesco; _Everlasting moments_, svedese;  _"Ti amerò per sempre_, francese).
+Gli Usa assegnano i **Golden Globe** ma _Gomorra_ non vince come migliore pellicola straniera, nonostante i tanti riconoscimenti, anche a livello internazionale, ottenuti. Il premio infatti è andato a _Valzer con Bashir_, uscito da poco anche nelle [nostre sale](/2009/01/04/prime-visioni-gennaio-2009.html), in grado di battere tutti gli altri film in concorso (sconfitti anche _La Banda Baader Meinhof,_ tedesco; _Everlasting moments_, svedese;  _"Ti amerò per sempre_, francese).
 
 Un vero peccato dato che spesso questi premi rappresentano un'anticipazione di quanto avverrà la notte degli Oscar, che si terrà tra l'altro tra poco più di un mese (il 22 febbraio), ma senza rattristarsi troppo: la preziosa statuetta, in fondo, è ancora da assegnare.
 

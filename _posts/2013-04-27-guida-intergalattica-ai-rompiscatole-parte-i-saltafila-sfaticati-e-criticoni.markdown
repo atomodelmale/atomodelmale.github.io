@@ -75,4 +75,4 @@ Così come le persone solari v'illuminano la giornata, esistono i criticoni che 
 
 via lifehacker | [Top 10 Ways to Deal with Life's Most Annoying People](http://lifehacker.com/5991919/top-10-ways-to-deal-with-lifes-most-annoying-people)
 
-Continua con la [seconda parte della "Guida intergalattica ai rompiscatole"](/2013/04/29/guida-intergalattica-ai-rompiscatole-parte-ii-ritardatari-fracassoni-e-ossessivi/)
+Continua con la [seconda parte della "Guida intergalattica ai rompiscatole"](/2013/04/29/guida-intergalattica-ai-rompiscatole-parte-ii-ritardatari-fracassoni-e-ossessivi.html)

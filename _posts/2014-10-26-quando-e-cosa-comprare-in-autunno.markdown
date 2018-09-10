@@ -16,7 +16,7 @@ tags:
 ---
 
 Ufficialmente iniziato il 23 Settembre, l'autunno è arrivato.
-Le giornate si accorciano (oggi abbiamo anche [cambiato l'orario](/2014/10/24/ci-risiamo-domenica-cambia-lorario-le-lancette-vanno-spostate-in-avanti-o-indietro/)) e diventano più fredde.
+Le giornate si accorciano (oggi abbiamo anche [cambiato l'orario](/2014/10/24/ci-risiamo-domenica-cambia-lorario-le-lancette-vanno-spostate-in-avanti-o-indietro.html)) e diventano più fredde.
 
 Salutate le giornate di sole dell'estate, outlet e centri commerciali si ripopolano di potenziali clienti. Ecco cosa tenere sott'occhio nei prossimi mesi per trovare prezzi stracciati.
 
@@ -54,7 +54,7 @@ Novembre è il mese migliore per accaparrarvi un elettrodomestico in offerta. I 
 
 Anche elettronica e televisioni subiscono un effetto simile. E' il momento giusto per ottenere un forte sconto su quella Tv Led da 50'' che tanto agognate.
 
-Per i fan di Apple, l'azienda se n'è appena uscita con i nuovi [iPhone 6](/2014/09/29/mela-bacata-saranno-i-bugs-a-far-marcire-la-mela/) ed iPad Air 2 e su eBay impazzeranno le offerte di chi ha comprato i nuovi modelli e rivende i vecchi. Happy bidding per i vostri iPhone 5/5S e iPad Air.
+Per i fan di Apple, l'azienda se n'è appena uscita con i nuovi [iPhone 6](/2014/09/29/mela-bacata-saranno-i-bugs-a-far-marcire-la-mela.html) ed iPad Air 2 e su eBay impazzeranno le offerte di chi ha comprato i nuovi modelli e rivende i vecchi. Happy bidding per i vostri iPhone 5/5S e iPad Air.
 
 ## Dicembre
 

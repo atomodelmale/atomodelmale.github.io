@@ -15,7 +15,7 @@ tags:
 - X-Men
 ---
 
-Dopo un'attesa di 17 anni dal [primo film sugli X-uomini](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/), gli X-Men sbarcano sul piccolo schermo con una... Legione.
+Dopo un'attesa di 17 anni dal [primo film sugli X-uomini](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html), gli X-Men sbarcano sul piccolo schermo con una... Legione.
 
 ## The Story So Far
 
@@ -27,7 +27,7 @@ Introdotto nel 1985, David eredita dal padre potenti abilità psichiche ma come 
 
 ## Legion
 
-La recente serie TV di FX attinge dal background fumettistico descritto sopra, ma riesce a concentrarsi, più che sullo spettacolo dei poderosi poteri di Legion (ci sono anche quelli eh), sulla frammentata psicologia del personaggio. Ad ogni episodio la serie domanda allo spettatore "Cos'è la realtà?". Una caratteristica già presente nella serie di grande successo [Mr. Robot](/2016/01/26/mr-robot/), qui esacerbata dai poteri di David, capaci di riscrivere le leggi della fisica.
+La recente serie TV di FX attinge dal background fumettistico descritto sopra, ma riesce a concentrarsi, più che sullo spettacolo dei poderosi poteri di Legion (ci sono anche quelli eh), sulla frammentata psicologia del personaggio. Ad ogni episodio la serie domanda allo spettatore "Cos'è la realtà?". Una caratteristica già presente nella serie di grande successo [Mr. Robot](/2016/01/26/mr-robot.html), qui esacerbata dai poteri di David, capaci di riscrivere le leggi della fisica.
 
 ![]({{ site.baseurl }}/uploads/2017/02/Legion_0003.jpg)
 

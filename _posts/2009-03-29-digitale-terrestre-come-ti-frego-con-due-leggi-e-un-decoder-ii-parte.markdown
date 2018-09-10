@@ -14,7 +14,7 @@ tags:
 - Digitale Terrestre
 ---
 
-Se nella [prima parte dell'articolo](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte/) parlavo delle lavande di mane collettive con cui si sono sciacquati  le mani i vari governi che si sono avvicendati sulla faccenda "Digitale Terrestre", nella seconda parte vorrei soffermarmi sugli aspetti più tecnici, evidenziando punti di forza e debolezza di questa "nuova" tecnologia.
+Se nella [prima parte dell'articolo](/2009/02/28/digitale-terrestre-come-ti-frego-con-due-leggi-e-un-decoder-i-parte.html) parlavo delle lavande di mane collettive con cui si sono sciacquati  le mani i vari governi che si sono avvicendati sulla faccenda "Digitale Terrestre", nella seconda parte vorrei soffermarmi sugli aspetti più tecnici, evidenziando punti di forza e debolezza di questa "nuova" tecnologia.
 
 **Transistor o Valvole?**
 

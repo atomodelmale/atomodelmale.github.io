@@ -13,7 +13,7 @@ categories:
 - Informazione
 ---
 
-Chissà se le **proteste** [anti-SOPA/PIPA di ieri](/2012/01/18/sopa-al-vaglio-e-wikipedia-va-in-sciopero-per-24-ore/) hanno influenzato la decisione odierna.
+Chissà se le **proteste** [anti-SOPA/PIPA di ieri](/2012/01/18/sopa-al-vaglio-e-wikipedia-va-in-sciopero-per-24-ore.html) hanno influenzato la decisione odierna.
 
 ![]({{ site.baseurl }}/uploads/2012/01/sopa-meme-1.jpg)
 
@@ -27,7 +27,7 @@ La storia è sempre la stessa: politici **senza alcuna preparazione** sull'argo
 
 Ad ogni modo **il potere politico** è dettato, oltre che dagli agganci alle lobby -- in questo caso quella degli editori/produttori -- **dal consenso popolare**. Questa volta, malgrado fosse presente il primo, è mancato il secondo, che al contrario ha fatto sentire un **forte ed unito urlo di protesta**.
 
-Altresì è già accaduto che l'indifferenza degli elettori lasci campo libero a queste proposte e ne sono un esempio l'[HADOPI](/2009/04/03/francia-arriva-la-legge-del-taglione/) francese o il nostrano **decreto Urbani**.
+Altresì è già accaduto che l'indifferenza degli elettori lasci campo libero a queste proposte e ne sono un esempio l'[HADOPI](/2009/04/03/francia-arriva-la-legge-del-taglione.html) francese o il nostrano **decreto Urbani**.
 
 Come già detto la riforma del **copyright** ha un **assoluto bisogno di modernizzazione**, è un argomento spinoso e per questo necessita dell'apporto di **tecnici** di settore che hanno le **conoscenze e l'intelligenza** per poter affrontare una sfida così complessa.
 

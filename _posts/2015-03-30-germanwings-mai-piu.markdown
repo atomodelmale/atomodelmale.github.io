@@ -19,7 +19,7 @@ tags:
 - Volo
 ---
 
-Quando ho letto del [volo Germanwings](/2015/03/24/provenza-precipita-airbus-con-150-persone-a-bordo/) non ho potuto fare a meno di pensare ad un libro letto di recente: "Influence - Science and Practice" di Robert Cialdini.
+Quando ho letto del [volo Germanwings](/2015/03/24/provenza-precipita-airbus-con-150-persone-a-bordo.html) non ho potuto fare a meno di pensare ad un libro letto di recente: "Influence - Science and Practice" di Robert Cialdini.
 
 Tra le teorie sull'influenza sociale esposte dall'autore, c'è quella della "Prova Sociale" (Social Proof) -- uno fa una cosa, due lo seguono, tre lo imitano, etc. -- riportando l'esempio dei suicidi "famosi" che, inspiegabilmente, sono i precursori di una catena di incidenti, spesso mortali, successivi al primo evento funesto. Ricordo la pelle d'oca mentre leggevo il passaggio in cui Cialdini cita lo studio di David Phillips, sociologo della University of California, e l'[effetto "Werther"](http://it.wikipedia.org/wiki/Effetto_Werther).
 

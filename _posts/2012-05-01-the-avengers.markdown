@@ -37,11 +37,11 @@ Dal '64 di acqua ne è passata tanta sotto i ponti e la formazione ha vissuto un
 
 ![]({{ site.baseurl }}/uploads/2012/05/Avengers3.jpg)
 
-Tutt'altro che "improvvisata", la storia dei vendicatori ha solide radici, piantate a partire dal primo film su **Iron Man**, in cui viene presentato uno misconosciuto **Nick Fury** -- interpretato da Samuel L. Jackson -- nella post-credit scene della pellicola. A questo seguirono l'incredibile **Hulk**, **[Iron Man 2](/2010/05/04/iron-man-2/)**, **[Thor](/2011/05/03/thor/)** e **[Capitan America](/2011/07/31/capitan-america-il-primo-vendicatore/)**, in ognuno dei quali il caro Nick e lo S.H.I.E.L.D. -- la super-organizzazione governativa di cui è a capo -- si è ricavato sempre più spazio, preparando il terreno per il "**crossover**" raccontato in The Avengers.
+Tutt'altro che "improvvisata", la storia dei vendicatori ha solide radici, piantate a partire dal primo film su **Iron Man**, in cui viene presentato uno misconosciuto **Nick Fury** -- interpretato da Samuel L. Jackson -- nella post-credit scene della pellicola. A questo seguirono l'incredibile **Hulk**, **[Iron Man 2](/2010/05/04/iron-man-2.html)**, **[Thor](/2011/05/03/thor.html)** e **[Capitan America](/2011/07/31/capitan-america-il-primo-vendicatore.html)**, in ognuno dei quali il caro Nick e lo S.H.I.E.L.D. -- la super-organizzazione governativa di cui è a capo -- si è ricavato sempre più spazio, preparando il terreno per il "**crossover**" raccontato in The Avengers.
 
 ![]({{ site.baseurl }}/uploads/2012/05/Avengers7.jpg)
 
-Il film inizia come punto di congiunzione tra le storie narrate in Thor e Capitan America: il **Tesseract**, un cubo luminescente dalle potenzialità illimitata, permette all'esiliato e psicologicamente instabile **[Loki](/2011/05/03/thor/) ** di materializzarsi sulla Terra.
+Il film inizia come punto di congiunzione tra le storie narrate in Thor e Capitan America: il **Tesseract**, un cubo luminescente dalle potenzialità illimitata, permette all'esiliato e psicologicamente instabile **[Loki](/2011/05/03/thor.html) ** di materializzarsi sulla Terra.
 
 Spargendo "panico et distruzione", il semi-dio norreno s'impadronisce del suddetto esaedro e minaccia di **aprire un varco tra la Terra e le recondite profondità cosmiche** dalle quali provengono i suoi alleati, i feroci **Chitauri**.
 

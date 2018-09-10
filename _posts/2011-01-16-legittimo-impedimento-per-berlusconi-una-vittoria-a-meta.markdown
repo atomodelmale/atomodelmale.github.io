@@ -23,7 +23,7 @@ Costituzionale si,  costituzionale no.
 
 Alla fine la **Corte Costituzionale**, l'organo chiamato nel nostro ordinamento  a verificare l'osservava delle leggi e delle norme in esse contenute alla Costituzione e alle altre leggi costituzionali, ha raggiunto un compromesso.
 
-Il [**legittimo impedimento**](/2010/02/03/legittimo-impedimento-legittima-diseguaglianza-ecco-la-nuova-legge-per-salvare-silvio-berlusconi/) è si costituzionale, ma solo in parte.
+Il [**legittimo impedimento**](/2010/02/03/legittimo-impedimento-legittima-diseguaglianza-ecco-la-nuova-legge-per-salvare-silvio-berlusconi.html) è si costituzionale, ma solo in parte.
 
 Se infatti la Corte lascia in piedi una legge che permette al Presidente del Consiglio la possibilità di opporre legittimamente le attività istituzionali a chi lo vorrebbe presente in tribunale, la stessa ha soppresso la speciale procedura che era stata inventata per il Cavaliere e che toglieva al Giudice ogni parola.
 

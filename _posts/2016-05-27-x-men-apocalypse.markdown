@@ -23,7 +23,7 @@ By fans for hardcore fans.
 
 ## X-Men: Apocalypse
 
-Previously on X-Men, ci si era lasciati con quel capolavoro ambientato negli anni '60 dal nome di [First Class](/2011/06/29/x-men-first-class/) e il successivo [Giorni di un Futuro Passato](/2014/05/31/x-men-giorni-di-un-futuro-passato/) che ha fatto tabula rasa della [precedente trilogia sugli x-uomini](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico/).
+Previously on X-Men, ci si era lasciati con quel capolavoro ambientato negli anni '60 dal nome di [First Class](/2011/06/29/x-men-first-class.html) e il successivo [Giorni di un Futuro Passato](/2014/05/31/x-men-giorni-di-un-futuro-passato.html) che ha fatto tabula rasa della [precedente trilogia sugli x-uomini](/2007/06/15/x-men-la-trilogia-e-il-loro-futuro-cinematografico.html).
 
 Questo terzo capitolo inizia dove ci aveva lasciato la scena post-credits del secondogenito. Per autocitarmi:
 

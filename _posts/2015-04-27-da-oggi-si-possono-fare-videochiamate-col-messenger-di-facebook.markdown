@@ -33,7 +33,7 @@ Aggiornata l'app di Facebook, basterà entrare in Messenger, aprire una chat con
 
 ![facebook_resistance]({{ site.baseurl }}/uploads/2015/04/facebook_resistance.jpg)
 
-L'aggiunta delle (video)chiamate non è che l'ennesima di una lunga serie di mosse da parte di Facebook (tra cui l'[acquisto di WhatsApp](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp/)) per la conquista degli utenti che usano la piattaforma per news, messaggi e ora anche per chiamare.
+L'aggiunta delle (video)chiamate non è che l'ennesima di una lunga serie di mosse da parte di Facebook (tra cui l'[acquisto di WhatsApp](/2014/02/20/campagna-acquisti-facebook-16-miliardi-per-whatsapp.html)) per la conquista degli utenti che usano la piattaforma per news, messaggi e ora anche per chiamare.
 
 Dalla parte di Facebook ci sono i numeri. Non serve cercare e aggiungere nessuno, come Skype o Hangouts ci hanno abituati. Se si ha l'amicizia su Facebook il gioco è fatto -- e poi chi lo dice a quell'attaccabottoni a cui non volevate dare il vostro numero di telefono di smettere di assillarvi chiamandovi su Facebook Messenger?
 

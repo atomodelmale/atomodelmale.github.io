@@ -32,7 +32,7 @@ Ma in cosa consiste questo worm e come si diffonde?
 
 Niente di veramente impressionante, al solito **"l'anello debole" della sicurezza informatica sono gli utenti**. Lo sfortunato bersaglio del virus in questione si ritroverà un messaggio (in "chat" o in "posta") dal soggetto "interessante" del tipo: "Ehi, guarda questo filmato! Ti ho ripreso tutto nudo!!!" oppure "Guardati questo video, è troppo bello!".
 
-Se il malcapitato di turno, come nella migliore tradizione **[phishing](/2007/10/06/tordi-a-strascico-il-phishing-daltura/)**, cliccherà sul link fornito, sarà rimandato ad una finta pagina, fotocopia di siti come YouTube o Google Video.
+Se il malcapitato di turno, come nella migliore tradizione **[phishing](/2007/10/06/tordi-a-strascico-il-phishing-daltura.html)**, cliccherà sul link fornito, sarà rimandato ad una finta pagina, fotocopia di siti come YouTube o Google Video.
 
 Quando cliccherà su "Visualizza video" gli verrà spiegato, tramite un comodo messaggino, che ha bisogno di scaricare un **aggiornamento di Flash Player** (il programma di Adobe per riprodurre filmati ed animazioni su internet) per vedere il filmato.
 

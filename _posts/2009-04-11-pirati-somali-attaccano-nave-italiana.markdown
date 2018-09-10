@@ -22,7 +22,7 @@ tags:
 - Somalia
 ---
 
-I [pirati](/2008/05/24/pirati/) somali continuano i loro attacchi. Dopo aver attaccato navi britanniche, tedesche, statunitensi e francesi; il
+I [pirati](/2008/05/24/pirati.html) somali continuano i loro attacchi. Dopo aver attaccato navi britanniche, tedesche, statunitensi e francesi; il
 
 ![somali_pirates1]({{ site.baseurl }}/uploads/2009/04/somali_pirates1.jpg) rimorchiatore 'Buccaneer', battente bandiera italiana, è stato assaltato e sequestrato a 60 miglia da Aden, nel tratto di mare tra Somalia e lo Yemen.
 Ci sarebbero 10 italiani a bordo, dei 16 totali; il sequestro è avvenuto questa mattina alle 11 locali (le 10 in Italia).

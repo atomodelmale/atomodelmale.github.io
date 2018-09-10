@@ -17,9 +17,9 @@ Trasposizione dell'omonimo fumetto della Dark House, R.I.P.D. è un mix -- mesco
 
 ![RIPD]({{ site.baseurl }}/uploads/2013/09/RIPD.jpg) 
 
-Wild West con una bella infarinatura fantasy alla [Hell Boy](/2008/07/25/hellboy-ii-the-golden-army/).
+Wild West con una bella infarinatura fantasy alla [Hell Boy](/2008/07/25/hellboy-ii-the-golden-army.html).
 
-Rayan Reynolds, che con le trasposizioni dai fumetti ha toccato (pochi) [alti](/2009/05/23/x-men-le-origini-wolverine/) e (molti) [bassi](/2011/09/07/lanterna-verde/), è Nick, protagonista nonché good cop del dipartimento anti-droga di Boston. Nick ha un partner, Hayes -- Kevin Bacon --, ed un segreto: nell'ultima retata ha tenuto per sé l'oro sequestrato come "fondo pre-pensionamento". Dato che è il buono, a 15 minuti da inizio film Nick si pente e confida ad Hayes di voler restituire la refurtiva. ![RIPD002]({{ site.baseurl }}/uploads/2013/09/RIPD002.jpg)
+Rayan Reynolds, che con le trasposizioni dai fumetti ha toccato (pochi) [alti](/2009/05/23/x-men-le-origini-wolverine.html) e (molti) [bassi](/2011/09/07/lanterna-verde.html), è Nick, protagonista nonché good cop del dipartimento anti-droga di Boston. Nick ha un partner, Hayes -- Kevin Bacon --, ed un segreto: nell'ultima retata ha tenuto per sé l'oro sequestrato come "fondo pre-pensionamento". Dato che è il buono, a 15 minuti da inizio film Nick si pente e confida ad Hayes di voler restituire la refurtiva. ![RIPD002]({{ site.baseurl }}/uploads/2013/09/RIPD002.jpg)
 
 Hayes non ci sta ed esprime il proprio dissenso con un'eloquente pallottola ficcata nel cranio di Nick. Così impartiamo che i buoni poliziotti finiscono in paradiso mentre quelli meno buoni all'R.I.P.D., il dipartimento "riposa in pace". Compito dei suoi agenti è proteggere i viventi dai "deados": anime di criminali morti rimaste nelle loro spoglie mortali e capaci di rovinare e corrompere qualunque cosa li circondi. Nick viene affiancato a Roy, un marshal del vecchio West interpretato da Jeff Bridges in cappello e pizzetto.
 

@@ -19,7 +19,7 @@ tags:
 
 Imola, volete passeggiare per **Piazza Matteotti?** Ora è finalmente possibile dopo la conclusione dei lavori di **ripavimentazione** (e ora rimane solo il pezzo di Via Emila contiguo alla piazza sul quale, cmq, già si lavora). E l'obelisco? Dopo varie ipotesi sulla sua futura collocazione (al cimitero del Piratello o anche in un lato della stessa piazza Matteotti) lo stesso verrà collocato presso il giardino Stefanino Curti in viale Zappi.
 
-Ma cosa è accaduto dopo che a fine[ 2006 ](/2007/07/13/lobelisco-della-discordiala-telenovela-continua/)il Consiglio di Stato aveva bocciato il ricorso del comune?
+Ma cosa è accaduto dopo che a fine[ 2006 ](/2007/07/13/lobelisco-della-discordiala-telenovela-continua.html)il Consiglio di Stato aveva bocciato il ricorso del comune?
 
 Mentre quest'ultimo cerca una via d'uscita con il Ministero i comitati ricorrono nuovamente al Tar, vista la vittoria ottenuta in precedenza, per ottenere la ricollocazione del Monumento ai caduti nella piazza nell'inerzia del Comune. Il Tribunale Amministrativo Regionale dichiara l'inottemperanza del palazzo comunale ma nel frattempo quest'ultimo ha ottenuto la cancellazione del decreto Garzillo.
 

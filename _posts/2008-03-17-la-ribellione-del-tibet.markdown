@@ -33,6 +33,6 @@ Parte del Tibet viene invasa alla fine degli anni 40 (1949) dalla forze Cinesi l
 
 Non avendo dati certi è difficile dare un giudizio :  da una parte e dall'altra forse si tende ad esagerare ma sicuramente il Tibet non è la patria dei **diritti umani**. Ed in questo senso dare le Olimpiadi ad uno Stato del genere, la Cina, dove si viola la dignità dell'uomo, dove vige la pena di morte significa arrendersi al mercato e alla potenza economica cinese, di cui il mondo sembra essere succube (gli Usa, visto che amano tanto ed esportano la democrazia nel mondo, dovrebbero accattare pure il paese asiatico).
 
-Quello che sta avvenendo in questi giorni ricorda quanto successo mesi or sono in [Myanmar](/2007/09/27/myanmar-continua-la-rivolta/), ex Birmania. Anche lì i monaci si ribellarono al regime, chiedendo la fine della dittatura militare. Da allora qualcosa è cambiato? Sembra proprio di no,  la giunta militare è sempre al potere mentre nel paese sono state denunciate misteriose sparizioni e torture.
+Quello che sta avvenendo in questi giorni ricorda quanto successo mesi or sono in [Myanmar](/2007/09/27/myanmar-continua-la-rivolta.html), ex Birmania. Anche lì i monaci si ribellarono al regime, chiedendo la fine della dittatura militare. Da allora qualcosa è cambiato? Sembra proprio di no,  la giunta militare è sempre al potere mentre nel paese sono state denunciate misteriose sparizioni e torture.
 
 Una sconfitta per la democrazia e per la libertà che appare ora destinata a ripetersi.

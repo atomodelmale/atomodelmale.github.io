@@ -21,7 +21,7 @@ Adorate [Dropbox](https://www.dropbox.com/) e fareste di tutto per accaparrarv
 
 ![]({{ site.baseurl }}/uploads/2012/10/rocket-splash.jpeg)
 
-Sempre foriero di intelligenti quanto [coinvolgenti contest pubblicitari](/2011/01/17/dropbox-dropquest-2011-la-guida-per-vincere-1gb-in-piu/), il team di Dropbox ne ha inventata un'altra per farsi pubblicità e distribuire una pioggia di GB sugli account degli studenti di mezzo mondo.
+Sempre foriero di intelligenti quanto [coinvolgenti contest pubblicitari](/2011/01/17/dropbox-dropquest-2011-la-guida-per-vincere-1gb-in-piu.html), il team di Dropbox ne ha inventata un'altra per farsi pubblicità e distribuire una pioggia di GB sugli account degli studenti di mezzo mondo.
 
 Grazie all'iniziativa "**Space Race Program**" Dropbox offre, per due anni, la bellezza di 3GB di spazio addizionali per i vostri account.
 

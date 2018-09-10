@@ -110,6 +110,6 @@ Ergo, per godere delle prelibatezze dell'High Definition, **il segnale digitale 
 
 ![]({{ site.baseurl }}/uploads/2008/10/blueray.png)
 
-Al momento attuale gli unici apparecchi che permettono l'uscita del segnale su una porta HDMI sono i nuovissimi **lettori [Blu-ray](/2008/02/20/blu-ray-batte-hd-dvd/)** (vincitori della battaglia dei formati HD) e i **decoder per programmi satellitari HD**(come quello offerto da **Sky**).
+Al momento attuale gli unici apparecchi che permettono l'uscita del segnale su una porta HDMI sono i nuovissimi **lettori [Blu-ray](/2008/02/20/blu-ray-batte-hd-dvd.html)** (vincitori della battaglia dei formati HD) e i **decoder per programmi satellitari HD**(come quello offerto da **Sky**).
 
 Bene, ora che sapete qualcosina in più su formati televisivi ed alta definizione, state attenti agli acquisti avventati e preparatevi alla avvento della nuova **[Ultra-High Definition](http://it.wikipedia.org/wiki/Ultra_Alta_Definizione)** :P

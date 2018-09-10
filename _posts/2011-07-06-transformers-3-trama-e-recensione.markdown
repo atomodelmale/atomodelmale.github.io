@@ -37,7 +37,7 @@ Per Optimus Prime, gli altri Autobot e Sam non è altro che l'inizio di una nuov
 
 **La serie cinematografica**.
 
-Ancora una volta ecco sul grande schermo **Shia LaBeouf** e gli ormai popolari giocattoli della **Hasbro**, in una pellicola, la terza, destinata a concludere la prima [serie cinematografica](/2009/07/02/transformers-la-vendetta-del-caduto/) destinata ai Transformers.
+Ancora una volta ecco sul grande schermo **Shia LaBeouf** e gli ormai popolari giocattoli della **Hasbro**, in una pellicola, la terza, destinata a concludere la prima [serie cinematografica](/2009/07/02/transformers-la-vendetta-del-caduto.html) destinata ai Transformers.
 
 Se lo stile è quello di sempre, massicce dosi di azione, interrotte qua e là da battute e brevi spunti di riflessione, le vere novità giungono sopratutto dal **cast**, per certi versi rivoluzionato.
 

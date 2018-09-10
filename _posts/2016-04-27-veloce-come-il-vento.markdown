@@ -52,7 +52,7 @@ Vince la co-protagonista della pellicola, Matilda De Angelis, alla prima prova s
 
 Vince, in senso lato, [Carlo Capone](https://it.wikipedia.org/wiki/Carlo_Capone), a cui il personaggio di Loris è ispirato, campione torinese di rally dal carattere difficile il quale, per vicissitudini e drammi personali, oggi vive in un istituto psichiatrico.
 
-Vince, infine, il Cinema (C maiuscola) italiano, che con questo film e altri come [Smetto Quando Voglio](/2014/02/13/smetto-quando-voglio/) e [Lo Chiamavano Jeeg Robot](https://it.wikipedia.org/wiki/Lo_chiamavano_Jeeg_Robot), hanno dimostrato che l'Italia non si nutre solo di melodrammi e cinepanettoni.
+Vince, infine, il Cinema (C maiuscola) italiano, che con questo film e altri come [Smetto Quando Voglio](/2014/02/13/smetto-quando-voglio.html) e [Lo Chiamavano Jeeg Robot](https://it.wikipedia.org/wiki/Lo_chiamavano_Jeeg_Robot), hanno dimostrato che l'Italia non si nutre solo di melodrammi e cinepanettoni.
 
 Citando Loris (che cita Mario Andretti): "se hai tutto sotto controllo vuol dire che non stai andando abbastanza forte". Veloce come il Vento non è un film perfetto, ma ha tanta "forza" e "sangue" da piacere a tutti, grandi e piccoli.
 

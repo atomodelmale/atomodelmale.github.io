@@ -16,7 +16,7 @@ tags:
 - Starcraft
 ---
 
-Ha finalmente trovato un epilogo la storia di Khemist49, utente di Reddit che meno di un mese fa pubblicò il fortuito ritrovamento di un CD contente il gold master --- termine usato per indicare la versione finale di un software pronto per il rilascio --- di [StarCraft](/2010/08/16/starcraft-ii-wings-of-liberty/), classe 1998.
+Ha finalmente trovato un epilogo la storia di Khemist49, utente di Reddit che meno di un mese fa pubblicò il fortuito ritrovamento di un CD contente il gold master --- termine usato per indicare la versione finale di un software pronto per il rilascio --- di [StarCraft](/2010/08/16/starcraft-ii-wings-of-liberty.html), classe 1998.
 
 ![]({{ site.baseurl }}/uploads/2017/05/starcraft-001.jpg)
 

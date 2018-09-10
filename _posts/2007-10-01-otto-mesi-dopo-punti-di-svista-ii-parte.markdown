@@ -21,7 +21,7 @@ tags:
 - XP
 ---
 
-Ben otto mesi oooorsooonooo (citazione, chi conosce Aldo, Giovanni e Giacomo capirà la battuta) **[parlai di Vista](/2007/01/30/punti-di-svista-i-parte/)**, concludendo che il sistema operativo era ancora molto acerbo per quanto riguardava supporto hardware e software di terze parti e, ad oggi, la situazione non sembra essere cambiata molto. Ma andiamo con ordine.
+Ben otto mesi oooorsooonooo (citazione, chi conosce Aldo, Giovanni e Giacomo capirà la battuta) **[parlai di Vista](/2007/01/30/punti-di-svista-i-parte.html)**, concludendo che il sistema operativo era ancora molto acerbo per quanto riguardava supporto hardware e software di terze parti e, ad oggi, la situazione non sembra essere cambiata molto. Ma andiamo con ordine.
 
 **C'è chi dice no**
 

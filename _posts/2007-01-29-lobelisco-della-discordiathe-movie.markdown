@@ -18,6 +18,6 @@ tags:
 
 Ecco il video, speriamo che vi piaccia.
 
-**[Vi consiglio di fare un salto all'articolo scritto da Il Gorgonauta.](/2007/01/27/lobelisco-della-discordialarticolo/)**
+**[Vi consiglio di fare un salto all'articolo scritto da Il Gorgonauta.](/2007/01/27/lobelisco-della-discordialarticolo.html)**
 
 Buona Visione.

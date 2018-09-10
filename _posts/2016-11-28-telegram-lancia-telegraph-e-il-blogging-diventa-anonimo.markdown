@@ -14,7 +14,7 @@ categories:
 - Sicurezza
 ---
 
-[Telegram](/2015/06/30/telegram-lalternativa-a-whatsapp-sicura-aperta-e-con-tanti-assi-nella-manica/) è già salito agli onori della cronaca per essere l'app di messaggistica preferita dai terroristi oltre che dagli irriducibili della privacy (ma per quelli veri c'è [Signal](https://whispersystems.org/)).
+[Telegram](/2015/06/30/telegram-lalternativa-a-whatsapp-sicura-aperta-e-con-tanti-assi-nella-manica.html) è già salito agli onori della cronaca per essere l'app di messaggistica preferita dai terroristi oltre che dagli irriducibili della privacy (ma per quelli veri c'è [Signal](https://whispersystems.org/)).
 
 Non contenti i fratelli Durov hanno recentemente affiancato alla propria applicazione di messaggistica, [Telegraph](http://telegra.ph/), una piattaforma di pubblicazione online al pari dei più famosi [Medium](https://medium.com/) e [Ghost](https://ghost.org/). Ciò che distingue Telegraph dai suoi predecessori è che per pubblicare un post su Telegraph non è necessario alcun account.
 

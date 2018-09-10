@@ -12,7 +12,7 @@ categories:
 - Risparmio
 ---
 
-Giusto tre mesi fa elencavamo quali prodotti è meglio acquistare in [inverno](/2014/01/23/quando-e-cosa-acquistare-in-inverno/) per accaparrarseli ai prezzi più bassi. Dato che -- almeno nel calendario -- la primavera è bella che iniziata, vediamo cosa ci possiamo aspettare dai prossimi tre mesi di acquisti.
+Giusto tre mesi fa elencavamo quali prodotti è meglio acquistare in [inverno](/2014/01/23/quando-e-cosa-acquistare-in-inverno.html) per accaparrarseli ai prezzi più bassi. Dato che -- almeno nel calendario -- la primavera è bella che iniziata, vediamo cosa ci possiamo aspettare dai prossimi tre mesi di acquisti.
 
 ## Primavera
 

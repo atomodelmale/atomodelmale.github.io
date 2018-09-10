@@ -17,9 +17,9 @@ tags:
 - Robot
 ---
 
-Ultimo di una (fortuita) trilogia marzolina di articoli sulla presenza dei robot (fisici e virtuali) nelle nostre vite (gli altri due articoli li trovate [qua](/2017/03/28/la-truffa-del-pronto-mi-sente-quando-le-frodi-diventano-iper-tecnologiche/) e [qua](/2017/03/30/scrive-un-robot-per-cercargli-un-lavoro-538-candidature-dopo-ecco-quello-che-ha-imparato/)).
+Ultimo di una (fortuita) trilogia marzolina di articoli sulla presenza dei robot (fisici e virtuali) nelle nostre vite (gli altri due articoli li trovate [qua](/2017/03/28/la-truffa-del-pronto-mi-sente-quando-le-frodi-diventano-iper-tecnologiche.html) e [qua](/2017/03/30/scrive-un-robot-per-cercargli-un-lavoro-538-candidature-dopo-ecco-quello-che-ha-imparato.html)).
 
-In questo caso torniamo a prendere in considerazione un tema caldo: la paura che i robot rubino il posto lavoro alle loro controparti umane. La tematica ha già fatto capolino sull'Atomo del Male, considerando il [prossimo futuro](/2016/04/27/camion-automatizzati-risparmio-ambiente-e-sicurezza-ma-anche-milioni-di-posti-di-lavoro-a-repentaglio/), quali sono [i lavori più a rischio](/2016/02/27/i-lavori-a-maggior-rischio-di-essere-soppiantati-dalle-macchine/), e quali politiche si potrebbero mettere in campo per [mitigarne gli effetti sulla società](/2017/01/07/reddito-di-cittadinanza-e-tassa-sui-robot-per-combattere-la-poverta/).
+In questo caso torniamo a prendere in considerazione un tema caldo: la paura che i robot rubino il posto lavoro alle loro controparti umane. La tematica ha già fatto capolino sull'Atomo del Male, considerando il [prossimo futuro](/2016/04/27/camion-automatizzati-risparmio-ambiente-e-sicurezza-ma-anche-milioni-di-posti-di-lavoro-a-repentaglio.html), quali sono [i lavori più a rischio](/2016/02/27/i-lavori-a-maggior-rischio-di-essere-soppiantati-dalle-macchine.html), e quali politiche si potrebbero mettere in campo per [mitigarne gli effetti sulla società](/2017/01/07/reddito-di-cittadinanza-e-tassa-sui-robot-per-combattere-la-poverta.html).
 
 ![]({{ site.baseurl }}/uploads/2017/03/robot-tesla.jpg)
 

@@ -42,7 +42,7 @@ Quello che avete appena letto è la personalissima esperienza di "black-out di A
 
 Come annunciato, questa è stata la prima di altre prove che verranno eseguite nei 3 giorni di vacanza dal 13 al 15 di Agosto **dalle 5 alle 7:30**.
 
-Mi chiedo se il black-out di stamane sia stata una **prova "con cognizione di causa" o un test malriuscito** di copertura e tenuta della fornitura della **[centrale a Turbogas](/2007/12/24/a-tutto-gas/)** in caso di black-out nazionale: per saperlo dovremo attendere il responso di Hera che sicuramente si paleserà nei giornali i prossimi giorni.
+Mi chiedo se il black-out di stamane sia stata una **prova "con cognizione di causa" o un test malriuscito** di copertura e tenuta della fornitura della **[centrale a Turbogas](/2007/12/24/a-tutto-gas.html)** in caso di black-out nazionale: per saperlo dovremo attendere il responso di Hera che sicuramente si paleserà nei giornali i prossimi giorni.
 
 ![centrale_turbogas_imola]({{ site.baseurl }}/uploads/2009/08/centrale_turbogas_imola.jpg)
 

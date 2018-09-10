@@ -67,7 +67,7 @@ Sembra strano, ma fare la spesa alla chiusura dei negozi vi obbliga a prendere l
 
 ## 22:00. A nanna
 
-Parafrasando Cicerone (o chi per lui), "de tempibus disputandum non est". Ognuno ha i proprio orari per addormentarsi e svegliarsi. Vero è che rispettare un ciclo di sonno regolare migliora il senso di riposo e rilassamento delle vostre notti. Considerando una sveglia intorno alle 7, il momento giusto per "andare in branda" è intorno alle 22-23. Ricordatevi che l'orario importante non è quando vi mettete sotto le coperte, ma quando (finalmente) vi addormentate. Cercate di limitare al letto le sole [attività notturne](/2013/06/27/la-sveglia-e-la-vostra-nemesi-5-consigli-per-farvela-amica-e-svegliarvi-meglio/) per svegliarvi freschi e riposati.
+Parafrasando Cicerone (o chi per lui), "de tempibus disputandum non est". Ognuno ha i proprio orari per addormentarsi e svegliarsi. Vero è che rispettare un ciclo di sonno regolare migliora il senso di riposo e rilassamento delle vostre notti. Considerando una sveglia intorno alle 7, il momento giusto per "andare in branda" è intorno alle 22-23. Ricordatevi che l'orario importante non è quando vi mettete sotto le coperte, ma quando (finalmente) vi addormentate. Cercate di limitare al letto le sole [attività notturne](/2013/06/27/la-sveglia-e-la-vostra-nemesi-5-consigli-per-farvela-amica-e-svegliarvi-meglio.html) per svegliarvi freschi e riposati.
 
 ## 22:30. Non siete ancora a letto? Vendete su eBay
 

@@ -17,7 +17,7 @@ tags:
 - LucasArts
 ---
 
-Era il 1998, la [fine della golden age](/2013/04/04/rip-lucasarts-quella-volta-che-topolino-uccise-guybrush-threepwood/) delle avventure grafiche. Tim Schafer, allora al soldo di LucasArts, se ne usciva con un'avventura grafica che abbandonava il dogma del punta-e-clicca per imbarcarsi in un videogame fatto di morti viventi, movimenti a _carro-armato_, folklore messicano e noir anni '30.
+Era il 1998, la [fine della golden age](/2013/04/04/rip-lucasarts-quella-volta-che-topolino-uccise-guybrush-threepwood.html) delle avventure grafiche. Tim Schafer, allora al soldo di LucasArts, se ne usciva con un'avventura grafica che abbandonava il dogma del punta-e-clicca per imbarcarsi in un videogame fatto di morti viventi, movimenti a _carro-armato_, folklore messicano e noir anni '30.
 
 Signore e signori, l'immenso, l'unico, l'inimitabile **Grim Fandango**.
 

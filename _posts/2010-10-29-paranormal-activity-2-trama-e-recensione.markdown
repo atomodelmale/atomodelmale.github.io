@@ -27,7 +27,7 @@ Le telecamere, una volta accese, cominciano a registrare una serie di **stranez
 
 **L'appetito vien mangiando..**
 
-Non anticipo il resto del film ma per chi ha già visto [Paranormal Activity](/2010/02/09/paranormal-activity-trama-e-recensione/) il resto della pellicola non sarà certo una novità. Visto l'incredibile successo del primo film ad **Hollywood** hanno ben pensato di sfornare un sequel, giunto velocemente nella sale di tutto il globo.
+Non anticipo il resto del film ma per chi ha già visto [Paranormal Activity](/2010/02/09/paranormal-activity-trama-e-recensione.html) il resto della pellicola non sarà certo una novità. Visto l'incredibile successo del primo film ad **Hollywood** hanno ben pensato di sfornare un sequel, giunto velocemente nella sale di tutto il globo.
 
 Il **budget** a disposizione, questa era volta, era più alto (e quindi era possibile incrementare la quantità e la qualità degli effetti speciali) ma il risultato finale è più che deludente : _Paranormal Activity 2_ si limita a copiare il suo fortunato predecessore.
 

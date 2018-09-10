@@ -16,7 +16,7 @@ Che sia per un'**azione coatta** o per "scelta" personale, il fatto è il seguen
 
 Conosciuti ai più -- per non dire a tutti -- come due dei principali siti presso i quali **reperire musica, film e altro materiale protetto da copyright**, sono stati oggetto di un'operazione condotta dall'**FBI** contro i gestori della piattaforma, accusati di pirateria online.
 
-Che sia una **rappresaglia** delle autorità nei confronti dell'[accanita protesta](/2012/01/18/sopa-al-vaglio-e-wikipedia-va-in-sciopero-per-24-ore/) portata avanti **contro SOPA e PIPA**?
+Che sia una **rappresaglia** delle autorità nei confronti dell'[accanita protesta](/2012/01/18/sopa-al-vaglio-e-wikipedia-va-in-sciopero-per-24-ore.html) portata avanti **contro SOPA e PIPA**?
 
 Secondo il sottoscritto non c'entra una mazza, ma andiamo con ordine.
 

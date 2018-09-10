@@ -32,7 +32,7 @@ Nell'episodio precedente:
 
 ![]({{ site.baseurl }}/uploads/2010/04/3-d-glasses-traditional.gif)
 
-Riprendendo il discorso da dove l'avevamo lasciato nell'[articolo precedente](/2010/04/28/tv-3d-la-televisione-in-tre-dimensioni-sbarca-nei-nostri-salotti-parte-i/), e sorvolando sui problemi di registrazione – che riguardano principalmente registi e produttori –, focalizziamoci sulla visione, abbiamo detto: **l'occhio** destro **deve vedere le immagini registrate per esso**, così come il sinistro, e guai ad invertirne l'ordine, salvo ritrovarsi con una disgustante **sensazione di nausea**.
+Riprendendo il discorso da dove l'avevamo lasciato nell'[articolo precedente](/2010/04/28/tv-3d-la-televisione-in-tre-dimensioni-sbarca-nei-nostri-salotti-parte-i.html), e sorvolando sui problemi di registrazione – che riguardano principalmente registi e produttori –, focalizziamoci sulla visione, abbiamo detto: **l'occhio** destro **deve vedere le immagini registrate per esso**, così come il sinistro, e guai ad invertirne l'ordine, salvo ritrovarsi con una disgustante **sensazione di nausea**.
 
 Il metodo più usato – e più economico – fin'ora per ottenere tale "**indirizzamento selettivo**" verso i due occhi è stato l'uso di **lenti colorate** – chi non ha mai indossato gli occhialini blu-rossi cartonati alzi la mano – che di contro ha una **bassa definizione delle immagini** ed una **resa del colore tutt'altro che naturale**.
 

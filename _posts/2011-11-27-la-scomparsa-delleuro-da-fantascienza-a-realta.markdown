@@ -18,7 +18,7 @@ tags:
 ---
 
 
-Proprio un anno fa, in pieno scenario fantascientifico, ipotizzavo la possibile [scomparsa dell'Euro](/2010/12/11/che-succede-se-leuro-scompare/). Oggi la mia fantasia è più che una possibilità.
+Proprio un anno fa, in pieno scenario fantascientifico, ipotizzavo la possibile [scomparsa dell'Euro](/2010/12/11/che-succede-se-leuro-scompare.html). Oggi la mia fantasia è più che una possibilità.
 
 A riprova di ciò un articolo del **_New York Times_,** che sottolinea come molti istituti di credito, quali **Merrill Lynch**, **Barclays  Capital** e **Nomura** hanno pubblicato decine di rapporti in settimana nei quali esaminano questa eventualità.
 

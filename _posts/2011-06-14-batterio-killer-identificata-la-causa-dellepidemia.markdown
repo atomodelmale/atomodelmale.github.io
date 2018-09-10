@@ -19,7 +19,7 @@ tags:
 ---
 
 
-Colpa dei cetrioli spagnoli. No colpa di quelli olandesi. La causa dell'**[epidemia](/2011/05/29/allarme-batterio-killer-del-cetriolo-in-germania/)** che per settimane ha terrorizzato i consumatori di mezza europa e ha provocato almeno 37 morti (36 dei quali di cittadinanza tedesca) ha finalmente un nome.
+Colpa dei cetrioli spagnoli. No colpa di quelli olandesi. La causa dell'**[epidemia](/2011/05/29/allarme-batterio-killer-del-cetriolo-in-germania.html)** che per settimane ha terrorizzato i consumatori di mezza europa e ha provocato almeno 37 morti (36 dei quali di cittadinanza tedesca) ha finalmente un nome.
 
 Tutta colpa di **germogli** di diversi legumi prodotti da un'azienda biologica della Bassa Sassonia, la **Bienenbuettel Gaertnerhof**. Quest'ultima ora è stata chiusa e tutti i suoi prodotti saranno ritirati dal mercato. La Germania di conseguenza ha dichiarato il cessato allarme sul consumo di cetrioli, insalate e pomodori crudi.
 

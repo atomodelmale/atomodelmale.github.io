@@ -19,7 +19,7 @@ tags:
 ---
 
 
-Si temeva la [fine del mondo](/2008/09/02/un-buco-nero-sulla-terra/), invece nulla di preoccupante o catastrofico sembra essere successo. Riparliamo dell'**LHC**, il macchinario additato come dispensatore di morte. I primi esperimenti si annunciano completati ed è quindi venuto il momento di fare il punto della situazione.
+Si temeva la [fine del mondo](/2008/09/02/un-buco-nero-sulla-terra.html), invece nulla di preoccupante o catastrofico sembra essere successo. Riparliamo dell'**LHC**, il macchinario additato come dispensatore di morte. I primi esperimenti si annunciano completati ed è quindi venuto il momento di fare il punto della situazione.
 
 Il primo fascio di protoni ha effettuato il giro completo dell'acceleratore prima in un senso e poi in quello opposto per testare la macchina, ma ad una velocità piuttosto bassa e senza scontrarsi. Solo nei prossimi mesi i protoni verranno progressivamente spinti ad intensità maggiori e poi fatti collidere.
 

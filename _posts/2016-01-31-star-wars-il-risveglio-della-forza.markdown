@@ -19,7 +19,7 @@ A quasi 40 anni dal primo (quarto) episodio e 10 anni dopo la nuova (vecchia) tr
 
 ## The Force Awakens
 
-Come ogni fan che sogna di strapazzare l'antipatico di turno con un bel force choke, anch'io nutrivo i miei dubbi su questo rispolvero della trilogia (no, no, la nuova (vecchia) trilogia non esiste, la, la, la, non vi sento). Il suo creatore l'aveva abbandonata poco prima, [vendendo X-Wing e Spade Laser a Topolino](/2012/11/30/lucas-vende-star-wars-a-disney-co-i-ribelli-si-sono-venduti-allimpero/). C'era J. Jay DJ Abrams alla regia. Lo stesso killer seriale che ha trasformato Spock in Ridge di Beautiful. E invece. Colpo di scena, in quella piccola galassia, lontana lontana, è successo il miracolo.
+Come ogni fan che sogna di strapazzare l'antipatico di turno con un bel force choke, anch'io nutrivo i miei dubbi su questo rispolvero della trilogia (no, no, la nuova (vecchia) trilogia non esiste, la, la, la, non vi sento). Il suo creatore l'aveva abbandonata poco prima, [vendendo X-Wing e Spade Laser a Topolino](/2012/11/30/lucas-vende-star-wars-a-disney-co-i-ribelli-si-sono-venduti-allimpero.html). C'era J. Jay DJ Abrams alla regia. Lo stesso killer seriale che ha trasformato Spock in Ridge di Beautiful. E invece. Colpo di scena, in quella piccola galassia, lontana lontana, è successo il miracolo.
 
 ![]({{ site.baseurl }}/uploads/2016/01/StarWarsRisveglio001.jpg)
 

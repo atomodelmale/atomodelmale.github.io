@@ -17,11 +17,11 @@ tags:
 - Western
 ---
 
-Come inventarsi un nuovo franchise sfruttando la fortunata esperienza di [Pirati dei Caraibi](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi/)?
+Come inventarsi un nuovo franchise sfruttando la fortunata esperienza di [Pirati dei Caraibi](/2007/06/01/dritti-alla-meta-e-conquista-la-preda-la-trilogia-di-pirati-dei-caraibi.html)?
 
-La Disney se lo deve essere chiesto. E bisogna anche dare atto alla casa di Topolino di aver mostrato un certo coraggio cambiando completamente tema e arrischiandosi su un genere, quello western, che ultimamente ha sfornato alcuni [blockbuster di successo](/2013/02/12/django-unchained/) ma soprattutto tanti flop.
+La Disney se lo deve essere chiesto. E bisogna anche dare atto alla casa di Topolino di aver mostrato un certo coraggio cambiando completamente tema e arrischiandosi su un genere, quello western, che ultimamente ha sfornato alcuni [blockbuster di successo](/2013/02/12/django-unchained.html) ma soprattutto tanti flop.
 
-Dopo l'apprezzato western visionario di [Rango](/2011/03/29/rango/), Verbinski ci riprova. Questa volta mettendo Johnny Depp nel ruolo dello squinternato indiano Tonto -- si, è il suo nome anche nella versione originale. A fargli da spalla, il dovrebbe-essere-protagonista-ma-anche-no-perché-c'è-già-Depp Armie Hammer, nel ruolo del Lone Ranger John Reid.
+Dopo l'apprezzato western visionario di [Rango](/2011/03/29/rango.html), Verbinski ci riprova. Questa volta mettendo Johnny Depp nel ruolo dello squinternato indiano Tonto -- si, è il suo nome anche nella versione originale. A fargli da spalla, il dovrebbe-essere-protagonista-ma-anche-no-perché-c'è-già-Depp Armie Hammer, nel ruolo del Lone Ranger John Reid.
 
 ![LoneRanger3]({{ site.baseurl }}/uploads/2013/07/LoneRanger3.jpg)
 

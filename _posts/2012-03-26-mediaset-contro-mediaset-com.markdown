@@ -30,7 +30,7 @@ Spiegato all'uomo della strada: **il dominio è quel nome proprio di un sito che
 
 La notizia è che **Mediaset** (o meglio RTI) **ha dimenticato il rinnovo della registrazione del dominio mediaset.com**.
 
-Vai a capire se per la mancanza di post-it o a causa della congenita [ostilità di Mediaset](/2011/06/30/agcom-nuova-legge-bavaglio-sul-diritto-dautore/) col web, fatto sta che attualmente il sito risulta registrato a nome di tale **Didier Madiba** che ne ha approfittato per caricare il **proprio sito di vendita di sistemi di backup** (attualmente in beta).
+Vai a capire se per la mancanza di post-it o a causa della congenita [ostilità di Mediaset](/2011/06/30/agcom-nuova-legge-bavaglio-sul-diritto-dautore.html) col web, fatto sta che attualmente il sito risulta registrato a nome di tale **Didier Madiba** che ne ha approfittato per caricare il **proprio sito di vendita di sistemi di backup** (attualmente in beta).
 
 In un'ultimo slancio disperato, gli avvocati della società hanno **dato adito ad un procedimento** presso l'Organizzazione Mondali della Proprietà Intellettuale (WIPO), affermando **la malafede del nuovo proprietario del nome di dominio**. Purtroppo **l'azione non ha sortito gli effetti sperati**, e il caro Didier e la sua Fenicius LLC hanno vinto a mani basse la contesa, dato che il proprio core business è effettivamente la vendita di "media sets" -- maccheronizzabile in italiano come "supporti di backup".
 

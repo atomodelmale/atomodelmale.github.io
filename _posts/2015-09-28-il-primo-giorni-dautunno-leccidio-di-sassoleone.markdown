@@ -26,7 +26,7 @@ tags:
 
 L'eccidio di Sassoleone. Una virgola, nell'imponente testo della Storia, ma è proprio la sua dimensione personale che permette a ognuno di noi di confrontarsi con essa. Rivelando, nella sua modestia, quanto facilmente date e numeri della Storia riescano a dissolvere l'umanità dietro ad essi.
 
-È proprio per dare una visione più vicina, reale e tangibile che la pellicola di Massimo Bacchi e Alessandro Lanzoni --- già autori di [Accadde a Sassoleone](/2010/08/20/accadde-a-sassoleone/) e [Il Mare a Sassoleone](/2011/08/30/il-mare-a-sassoleone/) --- si sposa coi testi e la voce di Enrico Vagnini, in "[Il Primo Giorno d'Autunno](https://www.youtube.com/watch?v=-KiLJZxuCQ0)".
+È proprio per dare una visione più vicina, reale e tangibile che la pellicola di Massimo Bacchi e Alessandro Lanzoni --- già autori di [Accadde a Sassoleone](/2010/08/20/accadde-a-sassoleone.html) e [Il Mare a Sassoleone](/2011/08/30/il-mare-a-sassoleone.html) --- si sposa coi testi e la voce di Enrico Vagnini, in "[Il Primo Giorno d'Autunno](https://www.youtube.com/watch?v=-KiLJZxuCQ0)".
 
 La pellicola, classificabile come "documentario storico", prende subito commiato dalle soporifere produzioni di categoria. Scordatevi i pistolotti su "Tizio che incontrò Caio in data x/y per incontrare Mevio il giorno z". Qui ci sono la vita, le esperienze, i dubbi, le vigliaccherie e il coraggio di quei giorni.
 

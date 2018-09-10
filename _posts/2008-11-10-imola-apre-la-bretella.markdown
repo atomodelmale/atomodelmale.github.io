@@ -17,7 +17,7 @@ tags:
 - Traffico
 ---
 
-Lo strano serpentone di cemento, che aveva sollevato tanta curiosità (ma anche [mugugni](/2007/10/02/imola-stop-alla-bretella/)) tra i cittadini imolesi ha aperto i battenti la mattina dell'8 novembre. Stiamo parlando di Via  della Costituzione (comunemente nota come **Bretella**), aperta nel suo **primo stralcio**, dalla rotonda di via Villa Clelia a via Salvo D'acquisto.
+Lo strano serpentone di cemento, che aveva sollevato tanta curiosità (ma anche [mugugni](/2007/10/02/imola-stop-alla-bretella.html)) tra i cittadini imolesi ha aperto i battenti la mattina dell'8 novembre. Stiamo parlando di Via  della Costituzione (comunemente nota come **Bretella**), aperta nel suo **primo stralcio**, dalla rotonda di via Villa Clelia a via Salvo D'acquisto.
 
 Dopo la spesa di 12 milioni di euro, più di 2 anni di lavori e un stop di 2 mesi imposto dal Tar e sbloccato dal Consiglio di Stato che ha accolto il ricorso presentato dal Comune, la sospirata/odiata opera stradale vede la luce. Previsto un limite di velocità pari a 60 km/h e il divieto di sorpasso per i mezzi pesanti. Ma come cambia la circolazione? La bretella sarà percorribile in entrambi i sensi di marcia da via Villa Clelia a via S.D'Acquisto e viceversa. Previste 2 rotonde : presso l'incrocio tra Via della Solidarietà e Via San Benedetto per mettere direttamente in comunicazione (provvisoriamente) via della solidarietà con la Montanara (per smaltire così il traffico su Via Montericco); presso via San Benedetto per raccogliere il traffico che dalla Pedagna confluisce verso via Villa Clelia.
 

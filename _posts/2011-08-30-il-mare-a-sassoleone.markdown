@@ -20,7 +20,7 @@ tags:
 
 Lui è **chiunque**, barbiere e falegname di una **Sassoleone fantastica**, in quella "terra di mezzo" che è l'inconscio, dove il tempo, da flusso inarrestabile, scroscia in una cascata capace di rimescolare passato e presente e di dar vita ad una dimensione tanto onirica quanto reale.
 
-La storia raccontata dal dinamico duo **Bacchi-Lanzoni** - già conosciuti per il docu-film "[Accadde a Sassoleone](/2010/08/20/accadde-a-sassoleone/)" - ne "Il Mare a Sassoleone" affonda le proprie radici in questo fertile ambiente, in cui **il reale si macchia di fantasia** e l'inconscio completa quello che la realtà non riuscirebbe a comunicare.
+La storia raccontata dal dinamico duo **Bacchi-Lanzoni** - già conosciuti per il docu-film "[Accadde a Sassoleone](/2010/08/20/accadde-a-sassoleone.html)" - ne "Il Mare a Sassoleone" affonda le proprie radici in questo fertile ambiente, in cui **il reale si macchia di fantasia** e l'inconscio completa quello che la realtà non riuscirebbe a comunicare.
 
 In questo **sogno ad occhi aperti**, l'innominato protagonista - interpretato da un ottimo e inaspettato **Massimo Bianconcini** - racconta e si racconta tramite **storie, burle e pensieri ad alta voce**, in bilico tra ironia, filosofia e, perché no, tradizione popolare.
 

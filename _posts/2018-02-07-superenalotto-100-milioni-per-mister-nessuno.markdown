@@ -12,7 +12,7 @@ categories:
 - Blog
 ---
 
-L'ultima volta era [novembre](/2017/11/08/il-saggio-dice-il-montepremi-sale-ma-solo-fino-a-natale/) e il montepremi del Superenalotto si stava avvicinando a quota 60 milioni di euro. Allora si ipotizzava che almeno fino a Natale non ci sarebbe stata alcuna vincita. Oggi, febbraio 2018, la supposizione si è rivelata esatta.
+L'ultima volta era [novembre](/2017/11/08/il-saggio-dice-il-montepremi-sale-ma-solo-fino-a-natale.html) e il montepremi del Superenalotto si stava avvicinando a quota 60 milioni di euro. Allora si ipotizzava che almeno fino a Natale non ci sarebbe stata alcuna vincita. Oggi, febbraio 2018, la supposizione si è rivelata esatta.
 
 Prelevato il più possibile dalle tasche degli italici, due erano le possibilità. La prima. La vincita di mister nessuno per invogliare le giocate nei mesi invernali, quelli in cui la disponibilità economica è minore. La seconda. Far innalzare il montepremi.
 

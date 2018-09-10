@@ -27,7 +27,7 @@ Recita infatti l'art 15 : _Per i siti informatici, le dichiarazioni o le rettifi
 
 Insomma quello che viene contestato non è tanto la responsabilità o meno dei blogger ma quanto gli viene richiesto, ossia adempimenti e obblighi tipici del mondo giornalistico ma non del mondo della rete, quindi il fatto di aver compiuto una generalizzazione più che sproporzionata.
 
-Nel frattempo la legge [salva blog ](/2008/12/04/ammazza-o-salva-blog/)è giunta alla versione 2.0, con 2 novità che riguardano le condizioni per la registrazione del prodotto editoriale : tra  le 2 o più persone regolarmente retribuite non è vi da considerare il proprietario del sito e occorre raggiungere un reddito annuale lordo di 50.000 euro (non più 36.000).
+Nel frattempo la legge [salva blog ](/2008/12/04/ammazza-o-salva-blog.html)è giunta alla versione 2.0, con 2 novità che riguardano le condizioni per la registrazione del prodotto editoriale : tra  le 2 o più persone regolarmente retribuite non è vi da considerare il proprietario del sito e occorre raggiungere un reddito annuale lordo di 50.000 euro (non più 36.000).
 
 E nel frattempo mentre si pensa di introdurre la dottrina Sarkozy anche in Italia, nel disegno di legge 733  l'articolo 50 bis fa le prove generali per rendere gli **ISP** (coloro che offrono come servizio l'accesso a internet) i poliziotti della rete. Viene detto :
 

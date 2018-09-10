@@ -17,7 +17,7 @@ Chi ha detto che Dungeons & Dragons (D&D) è solo roba per nerd? Cioè, magari l
 
 ![]({{ site.baseurl }}/uploads/2017/07/HarmonQuest_001.jpg)
 
-Anche qua c'è lo zampino di Dan Harmon, creatore delle fortunate serie di Community e [Rick and Morty](/2017/07/31/rick-and-morty/).
+Anche qua c'è lo zampino di Dan Harmon, creatore delle fortunate serie di Community e [Rick and Morty](/2017/07/31/rick-and-morty.html).
 
 Per i fan di Harmon l'amore dello sceneggiatore/produttore/regista per D&D non è una novità, considerando che lo sceneggiatore ha dedicato due intere puntate di Community al gioco, oltre a riservare un segmento di ogni puntata del proprio podcast, HarmonTown. Ed è proprio attorno ad HarmonTown che nasce l'idea di una serie animata in cui Harmon, un ospite dell'episodio (tra cui Paul Tompkins, Aubrey Plaza, John Hodgman e Nathan Fillion), Jeff Davis e Erin McGathy --- il primo comico e amico di vecchia data di Harmon, la seconda scrittrice/attrice/podcaster nonché ex-moglie dello sceneggiatore --- giocano un capitolo di una campagna (quest in inglese) di D&D creata e coordinata da Spencer Crittenden, anch'esso "prodotto" (o meglio, "scoperta") di HarmonTown, di cui il barbuto giovane è diventato Dungeon Master (DM) ufficiale (e successivamente assistente di Harmon).
 
