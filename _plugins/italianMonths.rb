@@ -28,7 +28,7 @@ module Jekyll
       "11" => "Novembre", 
       "12" => "Dicembre"}
     def italianMonths( text )
-      MONTHS[ text ]
+      return MONTHS[ text ]
     end
   end
 end
