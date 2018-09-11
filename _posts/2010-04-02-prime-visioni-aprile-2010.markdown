@@ -16,7 +16,7 @@ tags:
 - Aprile
 ---
 
-Con 2 interessanti **documentari** si apre il mese di aprile, almeno per  quanto riguarda il cinema. Il primo, ** _Burma  VJ: [![]({{ site.baseurl }}/uploads/2010/04/Gamer.jpg)]({{ site.baseurl }}/uploads/2010/04/Gamer.jpg)
+Con 2 interessanti **documentari** si apre il mese di aprile, almeno per  quanto riguarda il cinema. Il primo, ** _Burma  VJ: ![]({{ site.baseurl }}/uploads/2010/04/Gamer.jpg)
 
 Reporting from a Closed  Country **è un reportage sul Myanmar (ex Birmania) a 3 anni dalla rivolta dei monaci buddisti birmani, il secondo,**Sangue e cemento**, è un inchiesta sulle responsabilità e sui tanti interrogativi ancora aperti riguardanti il terremoto che ha colpito, quasi un anno fà, l'Abruzzo.
 
@@ -28,7 +28,7 @@ Il terzo venerdì di aprile (16/04) preparatevi a..uno **Scontro tra titani** : 
 
 Il quarto fine settimana del mese (23/04) _Olvier Stone_ con **Wall  Street: Il  denaro non dorme mai_** ci porterà nei meandri (e nei segreti) più profondi della capitale della finanza mondiale : Wall Street.
 
-[![]({{ site.baseurl }}/uploads/2010/04/Iron-Man-2.jpg)]({{ site.baseurl }}/uploads/2010/04/Iron-Man-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/04/Iron-Man-2.jpg)
 
 Infine l'ultimo week end (30/04) "l'uomo di ferro", il miliardario Tony Stark, tornerà per combattere un nuovo nemico nel sequel di Iron Man **Iron Man 2**. Woody e Buzz invece toneranno nelle sale cinematografiche con **_Toy Story 3-D_**.
 

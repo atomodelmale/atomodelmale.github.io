@@ -16,7 +16,7 @@ tags:
 - Turchia
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/10/terremoto-turchia2011.jpg)]({{ site.baseurl }}/uploads/2011/10/terremoto-turchia2011.jpg)
+_![]({{ site.baseurl }}/uploads/2011/10/terremoto-turchia2011.jpg)
 
 Ferhat_, 13 anni, estratto vivo dalle macerie dopo oltre 100 ore dal sisma.
 

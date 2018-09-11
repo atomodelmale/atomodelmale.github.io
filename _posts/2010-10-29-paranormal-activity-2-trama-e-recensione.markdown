@@ -23,7 +23,7 @@ Mentre tutto sembra andare per il meglio (per Cristy e & all'orizzonte non si 
 
 Le telecamere, una volta accese, cominciano a registrare una serie di **stranezze**, concentrate per lo più durante le ore notturne: le porte si aprono e si chiudono senza alcuna logica spiegazione, le luci si spengono e si accendono da sole. E la macchina per pulire l'acqua della piscina viene ritrovata ogni mattina, misteriosamente, a bordo vasca...
 
-[![]({{ site.baseurl }}/uploads/2010/10/Paranormal-Activity-2.jpg)]({{ site.baseurl }}/uploads/2010/10/Paranormal-Activity-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/10/Paranormal-Activity-2.jpg)
 
 **L'appetito vien mangiando..**
 

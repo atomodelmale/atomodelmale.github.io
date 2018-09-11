@@ -22,7 +22,7 @@ tags:
 
 Un anno sta per finire e uno invece sta per iniziare. In un clima di bilanci e di classifiche quali sono stati i singoli e le voci che ci hanno accompagnato per questi lunghi 12 mesi?
 
-[![]({{ site.baseurl }}/uploads/2010/12/rihanna.jpg)]({{ site.baseurl }}/uploads/2010/12/rihanna.jpg)
+![]({{ site.baseurl }}/uploads/2010/12/rihanna.jpg)
 
 Rihanna, Emma Marrone e Ligabue sono solo alcuni tra i tanti nomi che compariranno in questa speciale **classifica**, classifica che fa riferimento alle principali canzoni che hanno raggiunto la posizione numero uno della classifica settimanale italiana e l'hanno mantenuta per più settimane consecutive.
 
@@ -46,7 +46,7 @@ Terzo posizione per il rocker di Correggio. Se non l'avete ancora capito si trat
 
 Occupa il secondo gradino del podio un altro artista italiano, ossia un certo Lorenzo Cherubini, in arte **Jovanotti**. Il suo singolo _Baciami ancora_, oltre a costituire la colonna sonora dell'omonima pellicola, ha occupato la prima posizione per ben 5 settimane consecutive. Ed ora si appresta a bissare il successo con il singolo _Tutto l'amore che ho_, primo già da 2 settimane.
 
-1. **Shakira. Waka Waka**.[![]({{ site.baseurl }}/uploads/2010/12/Shakira-2.jpg)]({{ site.baseurl }}/uploads/2010/12/Shakira-2.jpg)
+1. **Shakira. Waka Waka**.![]({{ site.baseurl }}/uploads/2010/12/Shakira-2.jpg)
 
 Il singolo dell'estate nonché uno dei simboli (forse il principale, vista la triste figura dell'Italia) dei mondiali di calcio. La canzone ha conquistato anche gli italiani ed è stata prima in classifica per 16 settimane consecutive. Il relativo video invece su _youtube_ ha ottenuto la cifra record di 260 milioni di visualizzazioni complessive. Il 2010 si conferma quindi come l'anno della bella e simpatica  **Shakira** che tra l'altro ha raggiunto la prima posizione anche con il successivo singolo _[Loca](/2010/10/31/shakira-e-diventata-loca-il-nuovo-singolo-del-nuovo-album-the-sun-comes-out.html)_.
 

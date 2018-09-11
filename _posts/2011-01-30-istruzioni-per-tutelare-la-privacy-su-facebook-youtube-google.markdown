@@ -35,7 +35,7 @@ Gli utenti registrati con YouTube (un servizio di Google) possono decidere di re
 
 **Facebook**
 
-Gli iscritti di Facebook possono mostrare le informazioni pubblicate online (come testi e fotografie) a tre cerchie di[![]({{ site.baseurl }}/uploads/2011/01/facebook-privacy.jpg)]({{ site.baseurl }}/uploads/2011/01/facebook-privacy.jpg)
+Gli iscritti di Facebook possono mostrare le informazioni pubblicate online (come testi e fotografie) a tre cerchie di![]({{ site.baseurl }}/uploads/2011/01/facebook-privacy.jpg)
 
 persone: i propri contatti nel social network ("solo amici"), la rete di relazioni indirette ("amici degli amici") e tutti. Oppure, possono personalizzare ogni opzione. Il punto di partenza per la gestione dei dati sono le **"Impostazioni sulla privacy"**, accessibili dalla voce **"Account"**, in alto a destra nella pagina del social network.
 

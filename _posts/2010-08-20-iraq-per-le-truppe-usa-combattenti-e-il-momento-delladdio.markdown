@@ -31,7 +31,7 @@ Con una comunità internazionale inerte alla finestra. La resa, in diretta mondi
 
 Una guerra che si conclude con l'avvio di un **processo di democratizzazione** del paese mediorientale (forse l'unica cosa davvero positiva di tutta la vicenda), processo che però ha richiesto da una parte e dall'altra un prezzo altissimo: in 7 anni e mezzo sono morti più di 4.ooo soldati americani mentre i civili iracheni deceduti si contano nell'ordine delle decine di migliaia.
 
-[![]({{ site.baseurl }}/uploads/2010/08/saddam1.jpg)]({{ site.baseurl }}/uploads/2010/08/saddam1.jpg)
+![]({{ site.baseurl }}/uploads/2010/08/saddam1.jpg)
 
 Una guerra che ha avuto diversi momenti e aspetti rilevanti, come il rovesciamento del regime iracheno, la cattura  e l'impiccagione di Saddam Hussein, l'approvazione di una nuova Costituzione e le prime elezioni libere in un un paese per anni dominato da un crudele regime dittatoriale.  Ma anche anni di **violenze,** soprusi (qualcuno forse ricorda gli abusi commessi nel **carcere di Abu Ghraib** dai soldati americani e inglesi? o l'utilizzo del fosforo bianco nei combattimenti?) e morte, tra **autobombe** e kamikaze che fanno stragi anche di civili innocenti.
 

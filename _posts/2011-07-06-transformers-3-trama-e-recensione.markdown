@@ -21,7 +21,7 @@ tags:
 
 E' il 20 luglio 1969 e il mondo sta trattenendo il fiato per i primi passi dell'uomo sulla luna. Un piccolo passo per l'uomo, un grande passo per l'umanità certo, ma in realtà, per la gioia di tutti gli appassionati di cospirazioni e complotti, lo scopo della missione dell'Apollo 11 è tutt'altro : esplorare e raccogliere informazioni su un'astronave aliena schiantatasi sul suolo lunare molti anni prima dell'arrivo dell'uomo.
 
-[]({{ site.baseurl }}/uploads/2011/07/Transformers-3-Dark-of-the-Moon.jpg)[![]({{ site.baseurl }}/uploads/2011/07/Transformers-3-Dark-of-the-Moon-1.jpg)]({{ site.baseurl }}/uploads/2011/07/Transformers-3-Dark-of-the-Moon-1.jpg)
+![]({{ site.baseurl }}/uploads/2011/07/Transformers-3-Dark-of-the-Moon-1.jpg)
 
 Quarantanni dopo sulla Terra l'alleanza tra **Autobot** e umani per sconfiggere gli ultimi Decepticon nascosti sul pianeta è diventata una realtà e il giovane **Sam**, dopo aver salvato il mondo in almeno 2 occasioni, si è trasferito a Washington in cerca di lavoro.
 
@@ -31,7 +31,9 @@ Qui il ragazzo convive con la sua nuova fidanzata **Carly** e dopo una serie d
 
 Tutto sembra andare per il meglio ma la pace raggiunta sulla Terra è destinata nuovamente ad avere breve durata.
 
-Durante una missione presso Černobyl' infatti gli Autobot e i loro alleati umani scoprono uno strano dispositivo alieno e si scontrano con **Shockwave**, il Transformers che finora aveva governato Cybertron attraverso la tirannia.[![]({{ site.baseurl }}/uploads/2011/07/Shia-Lebouf-Transformers-3.jpg)]({{ site.baseurl }}/uploads/2011/07/Shia-Lebouf-Transformers-3.jpg)
+Durante una missione presso Černobyl' infatti gli Autobot e i loro alleati umani scoprono uno strano dispositivo alieno e si scontrano con **Shockwave**, il Transformers che finora aveva governato Cybertron attraverso la tirannia.
+
+![]({{ site.baseurl }}/uploads/2011/07/Shia-Lebouf-Transformers-3.jpg)
 
 Per Optimus Prime, gli altri Autobot e Sam non è altro che l'inizio di una nuova battaglia per salvare l'intero pianeta.
 
@@ -43,7 +45,7 @@ Se lo stile è quello di sempre, massicce dosi di azione, interrotte qua e là d
 
 **Rosie o Megan?**
 
-[![]({{ site.baseurl }}/uploads/2011/07/transformers-3-rosie-huntington-whiteley.jpg)]({{ site.baseurl }}/uploads/2011/07/transformers-3-rosie-huntington-whiteley.jpg)
+![]({{ site.baseurl }}/uploads/2011/07/transformers-3-rosie-huntington-whiteley.jpg)
 
 Cacciata via **Megan Fox** per via delle sue poco prudenti affermazioni (la stessa infatti ha equiparato il regista _Michael Bay_ a Hitler) sul set è giunta la modella britannica **Rosie Alice Huntington-Whiteley,** bella, bellissima, ma poco incisiva e in una parte di dubbia consistenza. Come faccia poi l'attrice a correre tra le macerie di interi grattacieli distrutti senza sporcarsi un minimo rimarrà tra l'altro sempre un grosso mistero.
 

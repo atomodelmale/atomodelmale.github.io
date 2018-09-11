@@ -22,7 +22,7 @@ tags:
 
 Negli ultimi mesi è stato annunciato che una nave mercantile, la porta container **Ms Beluga SkySails**, nel suo viaggio inaugurale dalla Germania al Sud America utilizzerà un nuovo sistema di propulsione che si affiancherà a quello già normalmente in uso.
 
-[![]({{ site.baseurl }}/uploads/2008/02/beluga-skysails.jpg)]({{ site.baseurl }}/uploads/2008/02/beluga-skysails.jpg)
+![]({{ site.baseurl }}/uploads/2008/02/beluga-skysails.jpg)
 
 Si tratta di una grande vela (più precisamente un **kite,** una via di mezzo tra un aquilone e un paracadute) che permetterà di utilizzare il vento per navigare, proprio come in passato. Tutto verrà gestito da un computer a bordo della nave e se il sistema funzionerà questa tecnologia   verrà impiantata in altre 2 navi della stessa società. Così facendo si promettono tagli ai consumi di carburante e riduzioni delle emissioni inquinanti.
 

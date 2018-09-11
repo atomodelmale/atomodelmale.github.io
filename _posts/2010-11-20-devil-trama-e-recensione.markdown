@@ -23,7 +23,7 @@ tags:
 
 Mentre all'esterno l'assistenza e i tecnici cercano di sbloccare l'ascensore, al suo interno cominciano a verificarsi strani eventi: la luce va e viene e il gruppo avverte la presenza di una strana creatura. Quando Sarah viene ferita misteriosamente alla schiena la situazione precipita, tanto da richiedere l'intervento della **polizia**.
 
-[![]({{ site.baseurl }}/uploads/2010/11/devil.jpg)]({{ site.baseurl }}/uploads/2010/11/devil.jpg)
+![]({{ site.baseurl }}/uploads/2010/11/devil.jpg)
 
 Ma quest'ultima non potrà che assistere, impotente, ad una terribile sequenza di **brutalità**..
 

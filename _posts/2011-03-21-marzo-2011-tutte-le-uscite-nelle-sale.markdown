@@ -14,7 +14,7 @@ categories:
 - Prime Visioni
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/03/Rango.jpg)]({{ site.baseurl }}/uploads/2011/03/Rango.jpg)
+_![]({{ site.baseurl }}/uploads/2011/03/Rango.jpg)
 
 Mark Wahlberg_ e _Christian Bale_. Un ring. E la storia di 2 fratellastri, 2 pugili, che devono dividersi per potersi ritrovare. Questa la trama di **The Fighter**, uscito lo scorso 4 marzo nelle sale italiane. Una pellicola basata su una storia vera, quella del boxeur irlandese Micky Ward (qui interpretato da _Wahlberg) _che negli anni 80 iniziò la sua carriera vincendo tutti i suoi primi 14 incontri.
 
@@ -30,7 +30,7 @@ _Paola Cortellesi_ e _Raul Bova_ invece approdano nella commedia **Nessuno mi pu
 
 L'ultimo fine settimana del mese (25/03) l'orrore farà poi la sua comparsa tra i campi innevati di sci. Nella pellicola **Frozen** 3 amici infatti si ritrovano bloccati sulla seggiovia prima della loro ultima discesa. Riusciranno sopravvivere o moriranno congelati?
 
-Il fantasy d'azione **_Sucker Punch_** invece ci porterà nelle mente di Babydoll, una giovane ragazza rinchiusa contro la sua volontà in un istituto di igiene mentale. Grazie al potere della sua immaginazione la stessa potrà fuggire da questa terribile realtà e vivere incredibili avventure, vivendo un viaggio che potrà restituirle la libertà. Ma quanto e cosa sarà disposta a sacrificare pur di ottenerla?[![]({{ site.baseurl }}/uploads/2011/03/sucker-punch.jpg)]({{ site.baseurl }}/uploads/2011/03/sucker-punch.jpg)
+Il fantasy d'azione **_Sucker Punch_** invece ci porterà nelle mente di Babydoll, una giovane ragazza rinchiusa contro la sua volontà in un istituto di igiene mentale. Grazie al potere della sua immaginazione la stessa potrà fuggire da questa terribile realtà e vivere incredibili avventure, vivendo un viaggio che potrà restituirle la libertà. Ma quanto e cosa sarà disposta a sacrificare pur di ottenerla?![]({{ site.baseurl }}/uploads/2011/03/sucker-punch.jpg)
 
 E in conclusione, come tradizione, l'elenco completo delle uscite e il trailer a caso del mese.
 

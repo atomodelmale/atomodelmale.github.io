@@ -14,7 +14,7 @@ tags:
 - Sanremo
 ---
 
-_[![]({{ site.baseurl }}/uploads/2012/01/enzo-iacchetti.jpg)]({{ site.baseurl }}/uploads/2012/01/enzo-iacchetti.jpeg)
+_![]({{ site.baseurl }}/uploads/2012/01/enzo-iacchetti.jpeg)
 
 Morandi, ma vattene a fanculo va. _
 

@@ -30,7 +30,7 @@ La posta in gioco comunque è alta: recarsi in una terra selvaggia e pericolosa 
 
 Questa America, così come rappresentata dai **Fratelli Coen**, d'altronde è ancora una terra di frontiera, da poco uscita da una lunga e sanguinosa guerra civile. Dove usciti dalle città ci si inoltra in una territorio ancora inesplorato e selvaggio.
 
-[![]({{ site.baseurl }}/uploads/2011/03/il-grinta-2.jpg)]({{ site.baseurl }}/uploads/2011/03/il-grinta-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/03/il-grinta-2.jpg)
 
 Ma anche una terra dove basta munirsi di una pistola per ottenere giustizia e dove regna ancora sovrana la **violenza**. Quest'ultima un vero e proprio marchio di fabbrica delle pellicole targate Joel ed Ethan Coen (basta ricordare il film Non è paese per vecchi).
 

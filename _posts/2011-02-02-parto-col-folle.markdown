@@ -19,7 +19,7 @@ tags:
 
 L'architetto Peter Highman (**Robert Downey Jr**.) si trova ad Atlanta per lavoro ma deve recarsi velocemente a Los Angeles per poter assistere alla nascita del suo primo figlio. Ma proprio nel momento in cui Peter ha trovato posto nell'aereo che lo riporterà a casa un banale "malinteso" lo costringe a rimanere a terra.
 
-[![]({{ site.baseurl }}/uploads/2011/02/Parto-col-folle.jpg)]({{ site.baseurl }}/uploads/2011/02/Parto-col-folle.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/Parto-col-folle.jpg)
 
 In suo aiuto giunge Ethan (**Zach Galifianakis**), un aspirante attore diretto a Hollywood, e il suo cagnolino Sonny. Quest'ultimo si offrirà di dare un passaggio a Peter, che quindi diventerà, nei 5 giorni che rimangono al parto, il suo "sfortunato" compagno di viaggio. Peccato che i 2 siano uno l'opposto dell'altro.
 

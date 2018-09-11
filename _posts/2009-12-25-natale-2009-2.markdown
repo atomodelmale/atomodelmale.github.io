@@ -28,4 +28,4 @@ Ho potuto osservare personalmente con grande tristezza e amarezza eventi dai qua
 
 Nel frattempo, e semplicemente, **Buon Natale**.
 
-[![]({{ site.baseurl }}/uploads/2009/12/buonnatale.jpg)]({{ site.baseurl }}/uploads/2009/12/buonnatale.jpg)
+![]({{ site.baseurl }}/uploads/2009/12/buonnatale.jpg)

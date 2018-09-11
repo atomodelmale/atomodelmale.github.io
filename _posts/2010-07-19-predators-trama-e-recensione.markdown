@@ -25,7 +25,7 @@ Il **mercenario** Royce (Adrien  Brody) si risveglia  all'improvviso mentre sta 
 
 Royce non è però solo: ben presto fa la conoscenza di altri uomini  (nell'ordine Couchillo, un narcotrafficante colombiano; Nikolay, uno  Spetsnaz russo; Isabelle, una soldatessa cecchino dell'esercito   israeliano: Mombasa, un guerrigliero della Sierra  Leone;  Stan, un  condannato a  morte instabile; Edwin, un  medico e Hanzo,  un killer  della Yakuza giapponese) che come lui si sono ritrovati, senza  un'apparente spiegazione, nella stessa giungla.
 
-[![]({{ site.baseurl }}/uploads/2010/07/predators.jpg)]({{ site.baseurl }}/uploads/2010/07/predators.jpg)
+![]({{ site.baseurl }}/uploads/2010/07/predators.jpg)
 
 **La riserva di caccia.**
 
@@ -37,7 +37,7 @@ Il pianeta è infatti un'immensa riserva di caccia dei **Predators**, una razza 
 
 Gli esseri umani, armati di mitragliatrici, fucile e pistole, incominciano così una spietata lotta per la propria **sopravvivenza** con i Predators, più forti, meglio armati e capaci di mimetizzarsi con l'ambiente circostante. Royce e compagni si ritrovano così a combattere una battaglia apparentemente senza speranza, impossibilitati a ritornare a casa e braccati da crudeli creature aliene. E, abituati a lottare l'uno contro l'altro sulla Terra, sono costretti a collaborare l'uno con l'altro, per sopravvivere.
 
-[![]({{ site.baseurl }}/uploads/2010/07/predators-2.jpg)]({{ site.baseurl }}/uploads/2010/07/predators-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/07/predators-2.jpg)
 
 Nella giungla fanno conoscenza di **Noland**, un altro essere umano sopravvissuto incredibilmente su questo ostile pianeta per molti anni. Noland si nasconde in un vecchio laboratorio alieno ma, a causa di anni di solitudine e di terrore, è mentalmente instabile (e anche pericoloso).
 

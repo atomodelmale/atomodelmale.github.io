@@ -20,7 +20,7 @@ tags:
 
 **C'è un Italia**, come spiega _Carlo Verdone_, cattolica per definizione ma nei suoi comportamenti profondamente amorale. **C'è un Italia**, come spiega **Margherita Hack**, **in cui non si potranno mai fare leggi veramente laiche, tramandando così discriminazioni e disuguaglianze**. **C'è un Italia**, come dice _Paolo Rossi_, in cui il popolo si è trasformato in pubblico, vota, applaude e va a dormire. Qualche volte si indigna anche ma poi il tutto si trasforma in qualche lieve brontolio. Un popolo che sa indicare i concorrenti del Grande Fratello ma che non sa dare un significato alla festa del 2 giugno.**C'è un Italia**, come spiegano _Don Luigi Ciotti_ e _Roberto Saviano_, dell'omertà e della paura, che osserva e sa ma non parla. **C'è un Italia** tuttavia fatta anche da coloro che si battono  per contrastare la criminalità e la mafia, anche a rischio della  propria vita, ma senza paura, come _Falcone_ e _Borsellino_. **C'è un Italia**, come racconta _Giovanni Soldini_, in cui ancora si considera e ci si batte per il prossimo. **C'è un'Italia**, come racconta una giovane ragazza albanese, di  immigrati che pur non essendo nati in questo paese arrivano a sentirlo come il proprio ed ad amarlo. Un Italia però anche razzista, in cui i  suoi partiti politici cavalcano e incentivano paure e fobie popolari. Invece di costruire solide certezze per il futuro.
 
-[![]({{ site.baseurl }}/uploads/2010/09/niente-paura.jpg)]({{ site.baseurl }}/uploads/2010/09/niente-paura.jpg)
+![]({{ site.baseurl }}/uploads/2010/09/niente-paura.jpg)
 
 **C'è un Italia** smarrita che si interroga sul proprio avvenire.
 

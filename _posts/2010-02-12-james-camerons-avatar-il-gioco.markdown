@@ -15,7 +15,7 @@ tags:
 - James Cameron
 ---
 
-**Soldato scelto Ryder**.[![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco2.jpg)]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco2.jpg)
+**Soldato scelto Ryder**.![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco2.jpg)
 
 Alcuni anni prima che Jake Sully metta "piede" sul pianeta Pandora il soldato scelto **Ryder** giunge sull'omonimo pianeta alieno popolato dai nativi Na'vi in virtù del suo particolare DNA compatibile con gli **Avatar**, creature ibride nate da un incrocio genetico tra uomini e Na'vi.
 
@@ -31,7 +31,7 @@ Se distruggere o salvare il pozzo è una **scelta** che spetta al giocatore, que
 
 Uomo o Na'vi che sia il giocatore sarà così chiamato ad esplorare il pianeta **Pandora** alla ricerca del pozzo, esplorando diversi luoghi densi di pericoli. Ryder dovrà vedersela con una popolazione, una flora e una fauna ostile, l'avatar con la superiorità tecnologica degli umani. Il primo armato di potenti armi da fuoco, il secondo di archi, spade e frecce (ma con una maggiore potenza fisica).
 
-[![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco.jpg)]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco.jpg)
+![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco.jpg)
 
 L'esplorazione del Pianeta si rivela uno degli elementi più suggestivi e spettacolari dell'intero videogioco, con diverse **mappe** tutte esplorabili completamente, e offre la visione di affascinanti paesaggi,da fitte giungle a montagne sospese.
 
@@ -39,7 +39,7 @@ L'esplorazione del Pianeta si rivela uno degli elementi più suggestivi e spetta
 
 Ogni mappa richiederà il completamento di numerose **missioni**, quella principale e quelle secondarie, per poter progredire nella storia. Si potrà girovagare per esse a piedi, tramite teletrasporto o speciali veicoli/animali (rispettivamente se siamo l'umano o l'avatar) terrestri e aerei.
 
-[![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco3.jpg)]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco3.jpg)
+![]({{ site.baseurl }}/uploads/2010/02/Avatar-il-gioco3.jpg)
 
 Il personaggio scelto potrà inoltre accumulare esperienza e migliorare, potendo così disporre di corazze più robuste, armi più potenti e maggiori **abilità**. Queste ultime potranno essere sfruttate nei **combattimenti**, permettendo così una loro maggiore dinamicità e diversità.
 

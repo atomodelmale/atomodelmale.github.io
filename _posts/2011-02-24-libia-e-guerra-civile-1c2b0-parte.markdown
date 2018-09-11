@@ -27,7 +27,7 @@ Mentre la tv Al Arabiya annuncia un bilancio di 10 mila morti e 50 mila feriti, 
 
 Ha comunque suscitato scalpore un video in cui si riprende la presunta realizzazione di una **fossa comune** in riva al mare per dare sepoltura alle vittime della rivolta.
 
-[![]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-2.jpg)]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-2.jpg)
 
 **Gheddafi e famiglia**
 
@@ -45,7 +45,7 @@ Parte dell'esercito quindi è rimasta fedela al rais libico mentre un'altra ha s
 
 Il paese è in preda al caos più completo. Molte città sono ritenute in mani ai manifestanti (come **Tobruk** e Bengasi) mentre in altre si registrano scontri, come a Tripoli, Misurata, Zawi e Ghariyan. L'aeroporto di Tripoli sarebbe ormai fuori controllo con tanto di vere e proprie **lotte della disperazione** tra i corridoi del terminale libico per salire sui voli di evacuazione adottati dalla comunità internazionale per il rientro dei propri connazionali dal paese africano (l'Alitalia nel frattempo ha sospeso i voli di linea con Tripoli).
 
-[![]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-1.jpg)]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-1.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/Libia-Rivolta-1.jpg)
 
 Anche i principali terminal petroliferi ad est di Tripoli sarebbero nelle mani dei rivoltosi. Il regime di Gheddafi avrebbe perso il controllo della Cirenaica e di tutte le città delle costa eccetto la capitale. Le prime rivolte si segnalano anche nel sud del paese. I rivoltosi ora punterebbero alla capitale per farla finita una volta per tutte con il Rais e il suo regime.
 

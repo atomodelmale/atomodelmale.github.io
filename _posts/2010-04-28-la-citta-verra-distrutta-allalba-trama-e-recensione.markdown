@@ -22,7 +22,7 @@ Alt!
 
 La pellicola in questione non è _E venne il giorno_ (ma la citazione, come si scoprirà, non è affatto casuale)..
 
-[![]({{ site.baseurl }}/uploads/2010/04/La-Città-verrà-distrutta-allalba.jpg)]({{ site.baseurl }}/uploads/2010/04/La-Città-verrà-distrutta-allalba.jpg)
+![]({{ site.baseurl }}/uploads/2010/04/La-Città-verrà-distrutta-allalba.jpg)
 
 Ricominciamo..
 
@@ -38,7 +38,7 @@ Ben presto la ridente cittadina si trasforma in un luogo spaventoso e i suoi cit
 
 In città regna quindi **confusione**, caos e morte e lo stesso sceriffo, simbolo dell'ordine e della legalità, si trova catapultato in questo mondo infernale dove le cose sfuggono al suo controllo e appaiono senza senso. Confusione accresciuta dal comportamento violento dei militari, che trattano la popolazione come un nemico e un pericolo.
 
-[![]({{ site.baseurl }}/uploads/2010/04/La-città-verrà-distrutta-allalba.jpg)]({{ site.baseurl }}/uploads/2010/04/La-città-verrà-distrutta-allalba.jpg)
+![]({{ site.baseurl }}/uploads/2010/04/La-città-verrà-distrutta-allalba.jpg)
 
 **Lotta per la sopravvivenza.**
 

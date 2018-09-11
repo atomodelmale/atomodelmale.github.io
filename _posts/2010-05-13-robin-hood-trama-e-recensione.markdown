@@ -17,7 +17,7 @@ tags:
 - Russell Crowe
 ---
 
-**Un abile arciere di sua maestà. Robert "Robin" Longstride[![]({{ site.baseurl }}/uploads/2010/05/robin-hood.jpg)]({{ site.baseurl }}/uploads/2010/05/robin-hood.jpg)** è un arciere che milita nell'esercito di sua maestà d'Inghilterra **Riccardo cuor di Leone**, in ritorno in patria dopo la crociata in Palestina. Sulla via del ritorno un ultimo ostacolo sbarra la strada a Riccardo e al suo esercito: un castello difeso dai nemici francesi. L'impavido e spavaldo sovrano assedia e attacca la roccaforte ma nel farlo perde la vita.
+**Un abile arciere di sua maestà. Robert "Robin" Longstride![]({{ site.baseurl }}/uploads/2010/05/robin-hood.jpg)** è un arciere che milita nell'esercito di sua maestà d'Inghilterra **Riccardo cuor di Leone**, in ritorno in patria dopo la crociata in Palestina. Sulla via del ritorno un ultimo ostacolo sbarra la strada a Riccardo e al suo esercito: un castello difeso dai nemici francesi. L'impavido e spavaldo sovrano assedia e attacca la roccaforte ma nel farlo perde la vita.
 
 Robin e alcuni suoi fedeli compagni d'arma decidono così di congedarsi dall'esercito inglese, verso il quale non hanno più obblighi dopo la morte del sovrano e di ritornare con propri mezzi nella natia **Inghilterra**. Nel tragitto verso casa si imbattono nella corona del defunto re Riccardo e in Sir Loxley, incaricato di riportarla in patria e consegnarla al prossimo sovrano.
 
@@ -27,7 +27,7 @@ Robin si reca invece a **Nottingham** in onore di un promesso fatta in punto di 
 
 **Lady Marion, Fra Tac e Little John.**
 
-[![]({{ site.baseurl }}/uploads/2010/05/robin-hood-2.jpg)]({{ site.baseurl }}/uploads/2010/05/robin-hood-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/05/robin-hood-2.jpg)
 
 A Nottingham vive anche la bella **Lady Marion**, donna forte, tenace e battagliera che combatte e lotta per la propria terra e i propri compaesani, stremate vittime dei soprusi del re, del clero e dello **sceriffo** locale. La "bella" spera in un miracolo che sia in grado di riportare giustizia, libertà e ordine nella sua terra e guarda caso comparirà sulla sua soglia il prode Robin, in Francia propenso solo a salvare la "pellaccia".
 
@@ -47,7 +47,7 @@ Limitata al minimo ogni traccia di romanticismo tra la bella Marion e il bel Rob
 
 Predominato scene di battaglie e scontri militari (alle quali la bella Lady Marion certo non rinuncia) mentre gli ideali che guidano Robin Hood così come quasi tutti i personaggi della pellicola vengono accennati ma non approfonditi. Un principe dei ladri insomma alle origini e in versione soldato senza paura più che in quella di **difensore degli oppressi**.
 
-[![]({{ site.baseurl }}/uploads/2010/05/robin-hood-3.jpg)]({{ site.baseurl }}/uploads/2010/05/robin-hood-3.jpg)
+![]({{ site.baseurl }}/uploads/2010/05/robin-hood-3.jpg)
 
 **Scott e Russell.**
 

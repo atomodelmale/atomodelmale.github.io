@@ -19,7 +19,7 @@ Come la prendereste se la vostra peggior nemica del liceo sposasse vostro fratel
 
 Ancora una commedia per il secondo week end del mese. Nella pellicola **In viaggio con una rock star** la rockstar inglese Aldous Snow ne combina di tutti i colori. Ad un giovane assicuratore appena uscito dal college viene quindi ordinato di assistere Aldous e di accompagnarlo in tutti i suoi spostamenti. Riuscirà il ragazzo a porre un freno alle sue pazzie?
 
-[![]({{ site.baseurl }}/uploads/2011/07/Harry-Potter-e-i-Doni-della-Morte.jpg)]({{ site.baseurl }}/uploads/2011/07/Harry-Potter-e-i-Doni-della-Morte.jpg)
+![]({{ site.baseurl }}/uploads/2011/07/Harry-Potter-e-i-Doni-della-Morte.jpg)
 
 Il 13 luglio invece la saga del mago più famoso del mondo è pronta a chiudere i battenti con la seconda parte dell'ultimo capitolo **_Harry Potter e i doni della morte: Parte II**. Per un eroe che dice addio eccone un altro pronto a fare la sua apparizione sul grande schermo.
 

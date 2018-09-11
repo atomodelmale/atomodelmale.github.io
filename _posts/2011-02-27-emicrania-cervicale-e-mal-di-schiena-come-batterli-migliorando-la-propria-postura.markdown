@@ -66,7 +66,7 @@ Analizziamo i metodi migliori per conservare una buona postura durante la giorna
 
 Oltre ai metodi per mantenere una **postura rilassante per tempi prolungati** è consigliato rompere la monotonia della stessa posizione regolarmente, anche tramite semplici **esercizi di stretching per braccia, collo e schiena** in modo da aiutare la circolazione e migliorare la flessibilità dei muscoli, che fino a quel momento sono stati in tensione.
 
-[![]({{ site.baseurl }}/uploads/2011/02/Esercizi1.jpg)]({{ site.baseurl }}/uploads/2011/02/Esercizi1.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/Esercizi1.jpg)
 
 (Clicca sull'immagine per ingrandirla)
 

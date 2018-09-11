@@ -56,6 +56,6 @@ La seconda parte di questo articolo ho deciso di dedicarla alla **satira** sui s
 Di recente ho trovato – forse è meglio dire che "sono inciampato su" – queste **vignette** che descrivono gli esseri più a **bominevoli della fauna di facebook**, guardateveli, magari potreste trovare qualcuno che conoscete (o riconoscere voi stessi)!
 
 ![]({{ site.baseurl }}/uploads/2010/02/taggatore.png)![]({{ site.baseurl }}/uploads/2010/02/Senzafiltro.png)![]({{ site.baseurl }}/uploads/2010/02/quizzatore.png)![]({{ site.baseurl }}/uploads/2010/02/neonato.png)![]({{ site.baseurl }}/uploads/2010/02/markettaro.png)![]({{ site.baseurl }}/uploads/2010/02/Giocatore.png)![]({{ site.baseurl }}/uploads/2010/02/Coordinatore.png)![]({{ site.baseurl }}/uploads/2010/02/aggressore.png)
-[![]({{ site.baseurl }}/uploads/2010/02/zecca.png)]({{ site.baseurl }}/uploads/2010/02/zecca.png)
+![]({{ site.baseurl }}/uploads/2010/02/zecca.png)
 
 Si ringrazia **theoatmeal.com** per la disponibilità delle vignette, la traduzione non è delle migliori – fatta dal sottoscritto – ma penso che mantenga comunque lo spirito.

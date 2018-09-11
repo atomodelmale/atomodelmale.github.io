@@ -20,7 +20,7 @@ tags:
 - Usa
 ---
 
-2038. Il primo essere umano mette  piede su **Marte**. E' cominciata l'esplorazione umana del pianeta rosso.[![]({{ site.baseurl }}/uploads/2010/04/marte-1.jpg)]({{ site.baseurl }}/uploads/2010/04/marte-1.jpg)
+2038. Il primo essere umano mette  piede su **Marte**. E' cominciata l'esplorazione umana del pianeta rosso.![]({{ site.baseurl }}/uploads/2010/04/marte-1.jpg)
 
 Impossibile?  Trattasi solo di un remake della pellicola _Misson to Mars _datata 2000?
 

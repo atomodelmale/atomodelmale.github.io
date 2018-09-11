@@ -21,7 +21,7 @@ tags:
 
 Tutto cambia quando un disertore russo si presenta alla Cia con un'incredibile rivelazione : una **spia** russa, sotto mentite spoglie, è presente sul territorio statunitense con il compito di uccidere il presidente della Russia. Quest'ultimo è giunto negli Stati Uniti in occasione dei funerali di Stato del vicepresidente americano recentemente scomparso. Il nome della spia russa è niente meno che..Evelyn Salt.
 
-[![]({{ site.baseurl }}/uploads/2010/11/Salt-2.png)]({{ site.baseurl }}/uploads/2010/11/Salt-2.png)
+![]({{ site.baseurl }}/uploads/2010/11/Salt-2.png)
 
 Tra lo sconcerto e la sorpresa dei propri colleghi Evelyn respinge ogni accusa ma non viene creduta. Per difendersi è costretta a fuggire e a lottare per trovare la vera spia e per salvare la propria vita e la propria **reputazione**. Riuscirà nell'intento o la **verità**è semplicemente quella raccontata dal disertore russo?
 
@@ -29,7 +29,7 @@ Tra lo sconcerto e la sorpresa dei propri colleghi Evelyn respinge ogni accusa m
 
 In un mondo che si è lasciato alle spalle la **guerra fredda** la pellicola fa tornare in auge tensioni e conflitti che per più di quarantanni hanno opposto Usa e Unione Sovietica. Accantonata per un attimo la guerra al terrore le minacce per gli Stati Uniti provengono nuovamente da un vecchio e temibile avversario, nonché dal suo stesso apparato investigativo.
 
-[![]({{ site.baseurl }}/uploads/2010/11/Salt-1.jpg)]({{ site.baseurl }}/uploads/2010/11/Salt-1.jpg)
+![]({{ site.baseurl }}/uploads/2010/11/Salt-1.jpg)
 
 Evelyn Salt, accusata di essere una spia russa doppiogiochista, affronta, sul campo, quelli che per anni sono stati i suoi colleghi, vestendo i panni della cattiva di turno. Ma forte della sue esperienza e delle sue capacità si rivelerà un osso assai dura da sconfiggere.
 

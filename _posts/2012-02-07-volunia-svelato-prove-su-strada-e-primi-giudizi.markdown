@@ -77,7 +77,7 @@ Il tono generale che mi ha trasmesso è quello  di un progetto dalle tante cara
 
 **Capitano, da che parte?**
 
-[![]({{ site.baseurl }}/uploads/2012/02/ricerca-atomo-del-male.jpg)]({{ site.baseurl }}/uploads/2012/02/ricerca-atomo-del-male.jpg)
+![]({{ site.baseurl }}/uploads/2012/02/ricerca-atomo-del-male.jpg)
 
 La direzione imboccata da Volunia sembra quella delle **ricerche sociali**.
 

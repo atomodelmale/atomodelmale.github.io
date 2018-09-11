@@ -18,7 +18,7 @@ tags:
 - Torino-Lione
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/06/no_tav.jpg)]({{ site.baseurl }}/uploads/2011/06/no_tav.jpg)«Vi è un rischio evidente che una par__te sostanziale del finanziamento globale Ue di 672 milioni di euro andrà persa»._ Queste le parole del vicepresidente Ue **Siim Kallas** con la delega ai trasporti.
+_![]({{ site.baseurl }}/uploads/2011/06/no_tav.jpg)«Vi è un rischio evidente che una par__te sostanziale del finanziamento globale Ue di 672 milioni di euro andrà persa»._ Queste le parole del vicepresidente Ue **Siim Kallas** con la delega ai trasporti.
 
 Mai tanta durezza era stata usata da Bruxelles in dieci anni di tira e molla sulla questione **Tav Torino-Lione**.
 

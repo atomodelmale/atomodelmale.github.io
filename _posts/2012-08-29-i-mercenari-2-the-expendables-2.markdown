@@ -29,16 +29,16 @@ La truppa del primo film vedeva impegnato il melanconico Barney -- **Stallone** 
 
 I primi 15 minuti del film potrebbero essere usati come riassunto per l'intera pellicola: pallottole, pallottole, frasi "ganassa" -- la sopracitata "riposa in pezzi" ne è un esempio -- e ancora pallottole.
 
-[![]({{ site.baseurl }}/uploads/2012/08/Expendables2-1.jpg)]({{ site.baseurl }}/uploads/2012/08/Expendables2-1.jpg)
+![]({{ site.baseurl }}/uploads/2012/08/Expendables2-1.jpg)
 
 Anche in questa occasione i **meta-riferimenti** agli eroi impersonati dal trio di vecchie glorie **Arnie-Sly-Willis** si sprecano, ai quali si aggiungono sequenze in cui appare quel mattacchione di **Chuck** "Calcio-Volante-a-Girare" **Norris** che, oltre a massacrare centinaia di migliaia di cattivi, trova anche il tempo di **prendere e prendersi in giro** con gli altri amici di merende.
 
-[![]({{ site.baseurl }}/uploads/2012/08/Expendables2-2.jpg)]({{ site.baseurl }}/uploads/2012/08/Expendables2-2.jpg)
+![]({{ site.baseurl }}/uploads/2012/08/Expendables2-2.jpg)
 
 Come per il primo film, la trama è tutt'al più un pretesto per collegare tra loro sequenze action e tonnellate di piombo, e, anche se capita fin troppo di sovente di chiedersi "ma quello da dove arriva?" o "ma come c'è arrivato quello in quel posto?", l'azione prende il sopravvento e **ci si lascia trascinare in quel vortice di distruzione e sangue che Sly ha sapientemente confezionato per i propri fan**.
 
 Il peso dell'età si fa sentire su tutti -- Arnie e Van Damme in primis --, ma controfigure, tagli di scena e sequenze comiche "ad-hoc" salvano le capre dell'action e le pecore (schiene) degli attempati attoroni.
 
-E Dato che non c'è due senza tre, rinfoderiamo la Colt SSA e aspettiamoci un nuovo capitolo, perché
+E dato che non c'è due senza tre, rinfoderiamo la Colt SSA e aspettiamoci un nuovo capitolo, perché
 
 <blockquote>They will be back.</blockquote>

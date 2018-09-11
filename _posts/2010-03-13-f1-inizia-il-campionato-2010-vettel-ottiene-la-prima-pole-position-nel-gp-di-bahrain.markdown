@@ -19,7 +19,7 @@ tags:
 
 **3, 2, 1..Via!**
 
-[![]({{ site.baseurl }}/uploads/2010/03/GP-Bahrain.jpg)]({{ site.baseurl }}/uploads/2010/03/GP-Bahrain.jpg)
+![]({{ site.baseurl }}/uploads/2010/03/GP-Bahrain.jpg)
 
 Comincia domenica **14 marzo** il campionato di **Formula 1**, con la **Ferrari** che spera di tornare protagonista dopo le delusioni delle ultime stagioni.
 

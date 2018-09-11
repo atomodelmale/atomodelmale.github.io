@@ -21,7 +21,7 @@ Dopo le recenti catastrofi che hanno colpito il **Giappone**, uccidendo migl
 
 Il catastrofico terremoto/maremoto che ha provocato più di 9.000 vittime e 13.000 dispersi ha infatti messo a rischio e/o danneggiato numerose centrali nucleari giapponesi, come quella di **Fukushima Daiichi**, ad oggi quella ancora più problematica.
 
-[![]({{ site.baseurl }}/uploads/2011/03/Fukushima-Daiichi.jpg)]({{ site.baseurl }}/uploads/2011/03/Fukushima-Daiichi.jpg)
+![]({{ site.baseurl }}/uploads/2011/03/Fukushima-Daiichi.jpg)
 
 _la centrale prima del terremoto/maremoto_
 
@@ -35,13 +35,13 @@ Ma cosa è successo alla centrale costruita per sopportare onde alte fino a 6,5
 
 Il terremoto ha provocato l'arresto automatico della centrale nonché seri danni ai **generatori diesel** incaricati di fornire ai 3 reattori dell'impianto funzionanti in quel momento l'energia elettrica necessaria per alimentare il loro sistema di refrigerazione.
 
-[![]({{ site.baseurl }}/uploads/2011/03/Reattore-nucleare-ad-acqua-bollente.gif)]({{ site.baseurl }}/uploads/2011/03/Reattore-nucleare-ad-acqua-bollente.gif)
+![]({{ site.baseurl }}/uploads/2011/03/Reattore-nucleare-ad-acqua-bollente.gif)
 
 Il **combustibile** di questo tipo di reattori (generalmente pastiglie di ossido di uranio parzialmente arricchito, impilate in barrette di leghe di zirconio ed assemblate in elementi di combustibile)  è infatti immerso in una vasca d'acqua che, oltre a trasformarsi al termine della fissione in vapore e quindi in energia elettrica, funge da fluido moderatore dello stesso calore prodotto dalla reazione nucleare.
 
 Una volta bloccato il sistema di refrigerazione, l'acqua evaporando non è stata in grado di raffreddare i reattori che quindi hanno cominciato a surriscaldarsi. L'aumento della **pressione** e il fallimento dei tentativi di raffreddamento messi in atto dai tecnici hanno quindi provocato una serie di violente **esplosioni** nei reattori 1, 2, 3 e 4 dell'impianto con tanto di distruzione del tetto dell'edificio contenete il reattore n. 3 (il rivestimento di quest'ultimo invece sarebbe intatto).
 
-[![]({{ site.baseurl }}/uploads/2011/03/fukushima-daiichi-dopo.jpg)]({{ site.baseurl }}/uploads/2011/03/fukushima-daiichi-dopo.jpg)
+![]({{ site.baseurl }}/uploads/2011/03/fukushima-daiichi-dopo.jpg)
 
 _la centrale dopo il terremoto/maremoto_
 

@@ -12,7 +12,7 @@ counter = 0
 Dir.glob( files ) { | file |
 
   content = File.read( file )
-  reg = /\((\/[^)]+)\/\)/
+  reg = /\[!\[\]\(\{\{ site.baseurl }}.+\)\]/
   # img_file = content.scan( reg ).last.first
 
   # if !File.exist? "_#{img_file}"
@@ -21,10 +21,12 @@ Dir.glob( files ) { | file |
   # content = content.gsub( reg, "_" )
   if reg.match? content
   
+    # puts "==="
     # puts file
     # puts content.scan( reg )
-    content = content.gsub( reg, "(#{'\1'}.html)" )
+    content = content.gsub( reg, "![]" )
     File.open( "#{file}", 'w' ){ |file| file.write( content ) }
+    # puts "==="
 
   end
 

@@ -32,7 +32,7 @@ L'archeologo decide di partire per l'Europa ma in stazione un giovane, di nome M
 
 Siamo negli anni 50, la guerra è finita, i nazisti sono stati sconfitti ma per Indiana Jones si profila all'orizzonte un nuovo nemico (suo e del suo paese) : l'Unione Sovietica. Sono infatti soldati sovietici, capitanati dalla temibile  sensitiva Irina Spalko (Cate Blanchett), a dargli noia e fastidio. Entrambi sono alla ricerca dello stesso oggetto (chi lo possiede conquista il mondo dice la leggenda) ma per fortuna accanto a Indi, oltre al viscido Mac, c'è Mutt, giovane alla Marlon Brando che non può fare a meno di sistemarsi con un pettine i propri capelli e giocare con il proprio coltello. Sua madre è scomparsa e solo Indiana Jones può aiutarlo a ritrovarla. Come dire di no ad una nuova affascinate avventura, in cui, tra l'altro, si ha la possibilità di ritrovare vecchi amori.
 
-[![]({{ site.baseurl }}/uploads/2008/10/indiana_jones.jpg)]({{ site.baseurl }}/uploads/2008/10/indiana_jones.jpg)
+![]({{ site.baseurl }}/uploads/2008/10/indiana_jones.jpg)
 
 Con l'immancabile bimotore sgangherato Indi e Mutt si trasferiscono in Sud America e qui comincia la parte più spettacolare e avventurosa di tutta pellicola : inseguimenti nella giungla, scontri all'ultimo respiro, catacombe e vecchi racconti di conquistadores alla ricerca  dell'El Dorado dominano la scena. E così lo scontro tra il bene e il male si ripete, strizzando un occhio ai precedenti (la costruzione narrativa è la stessa, inoltre alcune scene ne ricordano altre già viste, ad es la lotta nella giungla con i mezzi sovietici ricorda quella all'interno della miniera in _Indiana Jones e il tempio maledetto_) e citando altri film (come _Guerre Stellari_).
 

@@ -21,7 +21,7 @@ tags:
 
 Clive ed Elsa,  2 brillanti **scienziati** di una moderna multinazionale americana attiva nel campo dei farmaci, affiatati nella vita come nel lavoro, scoprono il modo di come manipolare il **DNA** di differenti specie animali per creare nuove forme di vita.
 
-[![]({{ site.baseurl }}/uploads/2010/08/splice.jpg)]({{ site.baseurl }}/uploads/2010/08/splice.jpg)
+![]({{ site.baseurl }}/uploads/2010/08/splice.jpg)
 
 In virtù dei loro (apparenti) successi i 2 decidono di mescolare DNA umano e animale, creando così una strana creatura ibrida chiamata **DREN**. Clive ed Elsa nascondono DREN agli occhi del mondo e cominciano ad allevarla ed educarla, quasi fosse la loro figlia..
 

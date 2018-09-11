@@ -20,7 +20,7 @@ Sono migliaia le applicazioni disponibili sull'Apple Store. Eccone 2, semplici e
 
 **Run Like Hell**
 
-**[![]({{ site.baseurl }}/uploads/2011/01/Run-like-Hell-Iphone.jpg)]({{ site.baseurl }}/uploads/2011/01/Run-like-Hell-Iphone.jpg)**
+**![]({{ site.baseurl }}/uploads/2011/01/Run-like-Hell-Iphone.jpg)**
 
 _Run Like Hell_ non è solo una celebre canzone dei Pink Floyd datata 1979 ma anche, in questo caso, il titolo della prima delle 2 applicazioni in esame.
 
@@ -32,7 +32,7 @@ _Run Like Hell_ offre infatti al giocatore una trentina di **livelli**, divisi t
 
 _Run Like Hell_, creato dalla Mass Creation Sp. z o. o., pesa infine solo una sessantina di MB e costa (sola nella versione deluxe, altrimenti è gratis) appena o,79 centesimi di euro.
 
-**Ice Age: dawn of the Dinosaurs[![]({{ site.baseurl }}/uploads/2011/01/Ice-Age-Dawn-Of-The-Dinosaurs-Iphone.jpg)]({{ site.baseurl }}/uploads/2011/01/Ice-Age-Dawn-Of-The-Dinosaurs-Iphone.jpg)**
+**Ice Age: dawn of the Dinosaurs![]({{ site.baseurl }}/uploads/2011/01/Ice-Age-Dawn-Of-The-Dinosaurs-Iphone.jpg)**
 
 La seconda applicazione invece è dedicata all'ultimo episodio della saga dell'_Era Glaciale_ ed ha come protagonista niente meno che lo sfortunatissimo **Scrat**.
 

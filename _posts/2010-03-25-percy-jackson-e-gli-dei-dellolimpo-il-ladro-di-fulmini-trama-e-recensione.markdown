@@ -18,7 +18,7 @@ tags:
 - Olimpo
 ---
 
-**Percy Jackson, giovane incompreso.[![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Poster.jpg)]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Poster.jpg)
+**Percy Jackson, giovane incompreso.![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Poster.jpg)
 
  Percy Jackson** è un giovane di New York che vive in uno squallido appartamento con la madre e il patrigno. E' dislessico e iperattivo e a scuola non ha certo tantissimi amici, tranne il fidato Grover. Ma durante una visita al museo di storia greca una professoressa si trasforma, inspiegabilmente, in una strana creatura e attacca il ragazzo..
 
@@ -30,9 +30,9 @@ L'Olimpo, Zeus, le divinità e le creature degli antichi greci sono considerate 
 
 Il giovane Persy sarà quindi chiamato, tra innumerevoli avversità, a salvare la terra dalla distruzione e nel corso di questa missione avrà modo di scoprire se stesso e i propri poteri, trasformandosi in un **eroe**.
 
-[![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson.jpg)]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson.jpg)
+![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson.jpg)
 
-**[![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Medusa.jpg)]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Medusa.jpg)
+**![]({{ site.baseurl }}/uploads/2010/03/Percy-Jackson-Medusa.jpg)
 
 Percy Jackson e Harry Potter**.
 

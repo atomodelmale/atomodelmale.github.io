@@ -25,7 +25,7 @@ Tra le uscite delle settimane scorse ecco, il 2 marzo, **Safe House - Nessuno è
 
 Non più _Harry Potter_. Daniel Radcliffe, abbandonati i panni dell'aspirante mago, interpreta il ruolo di un giovane avvocato londinese costretto a recarsi in un remoto villaggio per sbrigare alcune questioni legali. Ignora però che dovrà fare i conti con una misteriosa donna vestita completamente di nero. La pellicola, uscita lo scorso 2 marzo, si intitola guarda caso **The woman in black**.
 
-Si trova su Marte, a suo malgrado coinvolto in un conflitto tra gli abitanti del pianeta rosso. Riuscirà **John Carter** a sopravvivere? L'eroe ideato Edgar Rice Burroughs è sbarcato sul grande schermo lo scorso 9 marzo.[![]({{ site.baseurl }}/uploads/2012/03/magnifica-presenza-locandina.jpg)]({{ site.baseurl }}/uploads/2012/03/magnifica-presenza-locandina.jpg)
+Si trova su Marte, a suo malgrado coinvolto in un conflitto tra gli abitanti del pianeta rosso. Riuscirà **John Carter** a sopravvivere? L'eroe ideato Edgar Rice Burroughs è sbarcato sul grande schermo lo scorso 9 marzo.![]({{ site.baseurl }}/uploads/2012/03/magnifica-presenza-locandina.jpg)
 
 Infine due pellicole made in Italy nelle sale dal 16 marzo: **Magnifica presenza** e **10 regole per farla innamorare**. La prima racconta la storia di un aspirante attore che scopre di non essere solo nel proprio appartamento, la seconda illustra le dieci regole per far cadere tra le braccia di ogni innamorato la donna amata.
 

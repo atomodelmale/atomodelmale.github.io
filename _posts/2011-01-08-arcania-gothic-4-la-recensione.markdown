@@ -19,7 +19,7 @@ tags:
 
 La saga di_ Gothic_, iniziata nel lontano 2001 con il primo capitolo dall'omonimo titolo, continua oggi con il quarto episodio, intitolato **Arcania Gothic 4**.
 
-[![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4.png)]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4.png)
+![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4.png)
 
 **Benvenuti sull'isola di Feshir**.
 
@@ -27,7 +27,7 @@ Il nuovo episodio ha inizio da **Feshir**, una piccola isola serena e tranquilla
 
 L'isola rappresenta in pratica un vero proprio **tutorial** per il giocatore nonché il primo contatto con il coloratissimo mondo di _Arcania Gothic 4_. In questo modo si avrà possibilità di conoscere meglio e di impratichirsi con il proprio personaggio, con l'interfaccia di gioco e con le prime tattiche di combattimento.
 
-[![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-2.jpg)]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-2.jpg)
 
 **Vendetta!**
 
@@ -41,7 +41,7 @@ Punto di forza di **Gothic 4**è la sua semplicità e immediatezza : l'inter
 
 Il motore grafico inoltre (anche se richiede un buon pc per poter giocare al meglio) ci regala splendidi e dettagliati paesaggi e ambientazioni, tra paludi, **foreste** e castelli. Regalandoci di volta in volta nuovi personaggi, nuove creature e nuovi oggetti.
 
-[![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-3.jpg)]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-3.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/ArcaniaGothic4-3.jpg)
 
 **I punti deboli**.
 

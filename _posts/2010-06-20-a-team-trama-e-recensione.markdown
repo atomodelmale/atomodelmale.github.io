@@ -23,7 +23,7 @@ Erano gli anni 80 e in televisione  imperversava il Colonnello **John "Hannibal"
 
 **A-team, versione 2010.**
 
-[![]({{ site.baseurl }}/uploads/2010/06/A-team.jpg)]({{ site.baseurl }}/uploads/2010/06/A-team.jpg)
+![]({{ site.baseurl }}/uploads/2010/06/A-team.jpg)
 
 L'A-team è composto da 4 membri, tutti soldati delle Forze Speciali  targate Use. Dopo anni di onorato servizio i 4, durante una missione  nella più recente guerra del Golfo, vengono incastrati per un crimine  che non hanno commesso. Cacciati con disonore dall'esercito e sbattuti  in una cella di un carcere militare i membri dell'A-team dovranno  ripristinare la propria reputazione e il proprio onore e trovare il vero  colpevole.
 

@@ -16,7 +16,7 @@ tags:
 - Inghilterra
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/07/News-of-the-World-chiuso.jpg)]({{ site.baseurl }}/uploads/2011/07/News-of-the-World-chiuso.jpg)
+_![]({{ site.baseurl }}/uploads/2011/07/News-of-the-World-chiuso.jpg)
 
 Thank you & Goodbye_. Grazie e addio. Così recita il titolo di copertina dell'ultimo numero del popolare giornale britannico **_News of the World_**.
 

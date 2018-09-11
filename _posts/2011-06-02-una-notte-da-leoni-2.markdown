@@ -22,7 +22,7 @@ tags:
 
 Hanno trascorso una folle ed indimenticabile notte a **Las Vegas**.  Ed ora **Phil**, **Alan**, **Doug** e **Stu** si preparano a recarsi in Thailandia per festeggiare un nuovo matrimonio. Il promesso sposo (Stu) questa volta però non vuole correre rischi e per evitare nuovi disastri intende organizzare un brunch prematrimoniale sereno e tranquillo. Ma ancora una volta le cose non vanno come immaginato..
 
-[![]({{ site.baseurl }}/uploads/2011/06/Una-notte-da-Leoni-2.jpg)]({{ site.baseurl }}/uploads/2011/06/Una-notte-da-Leoni-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/06/Una-notte-da-Leoni-2.jpg)
 
 **I leoni sono tornati.**
 
@@ -38,7 +38,7 @@ Abbandonata Las Vegas l'azione si sposta a Bangkok e questa volta a perdersi 
 
 **Una risata vi seppellirà.**
 
-Insomma la nuova pellicola non vincerà certo per originalità (copiando ma allo stesso tempo aggiornando un'idea già[![]({{ site.baseurl }}/uploads/2011/06/Zach-Galifianakis.jpg)]({{ site.baseurl }}/uploads/2011/06/Zach-Galifianakis.jpg) di successo) ma sarà comunque in grado di strappare allo spettatore più di una risata, via via che verranno resi noti tutti disastri combinati dai 3 amici durante la notte.
+Insomma la nuova pellicola non vincerà certo per originalità (copiando ma allo stesso tempo aggiornando un'idea già![]({{ site.baseurl }}/uploads/2011/06/Zach-Galifianakis.jpg) di successo) ma sarà comunque in grado di strappare allo spettatore più di una risata, via via che verranno resi noti tutti disastri combinati dai 3 amici durante la notte.
 
 Tra risse, sparatorie, rapimenti e chi ne ha più ne metta una speciale considerazione va a **Zach Galifianakis**, alias Alan, il membro più pazzo e stravagante del gruppo. Ancora una volta sarai lui a dare il via alla festa drogando, inconsapevolmente, i propri amici.
 

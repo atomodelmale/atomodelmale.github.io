@@ -33,7 +33,7 @@ Cosa è successo di così terribile provocare un così simile disastro?  Non è 
 
 L'umanità nel frattempo sembra essersi persa per strada : cessata ogni forma di **solidarietà** e reciproco aiuto ognuno pensa semplicemente a sopravvivere, anche a spese del prossimo se necessario. E così invece di aiutarsi l'uno con l'altro ci si uccide a vicenda.
 
-Massimi esempi di questa nuova filosofia di vita sono i nuovi cannibali del terzo millennio : terminato il cibo hanno deciso di riempire le loro vuote **dispense** con essere umani e di dare loro la caccia. Evidentemente i tempi in cui si provava a rimediare alla catastrofe sono finiti da un pezzo.[![]({{ site.baseurl }}/uploads/2010/06/The-road.jpg)]({{ site.baseurl }}/uploads/2010/06/The-road.jpg)
+Massimi esempi di questa nuova filosofia di vita sono i nuovi cannibali del terzo millennio : terminato il cibo hanno deciso di riempire le loro vuote **dispense** con essere umani e di dare loro la caccia. Evidentemente i tempi in cui si provava a rimediare alla catastrofe sono finiti da un pezzo.![]({{ site.baseurl }}/uploads/2010/06/The-road.jpg)
 
 **Un mondo disperato.**
 

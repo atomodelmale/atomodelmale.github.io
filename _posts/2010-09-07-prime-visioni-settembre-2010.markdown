@@ -17,7 +17,7 @@ tags:
 - Ligabue
 ---
 
-_[![]({{ site.baseurl }}/uploads/2010/09/Resident-Evil-Afterlife.jpg)]({{ site.baseurl }}/uploads/2010/09/Resident-Evil-Afterlife.jpg)
+_![]({{ site.baseurl }}/uploads/2010/09/Resident-Evil-Afterlife.jpg)
 
 Sylvester Stallone, Arnold Schwarzenegger, Bruce Willis, Jet Li, Mickey Rourke, Dolph Lundgren_..tutti insieme in un unico film. Impossibile? Niente affatto, almeno nella pellicola **I mercenari** uscita lo scorso venerdì (3/09). Qui una banda di mercenari capitanata da Barney Ross "Stallone" si reca sull'isola di Vilena a destituire un sanguinario dittatore. Un lavoretto apparentamene fin troppo facile..
 

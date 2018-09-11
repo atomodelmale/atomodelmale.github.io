@@ -18,7 +18,7 @@ tags:
 - Mussolini
 ---
 
-Tra le migliaia  di applicazioni disponibili sull'**App Store** nei giorni scorsi una di esse ha generato particolare clamore e suscitato numerose **polemiche**: trattasi dell'app **_iMussolini, L'uomo che cambiò la storia del nostro paese_**, un insieme di notizie bibliografiche e di contributi testuali e audiovisivi di oltre un centinaio di discorsi del dittatore italiano direttamente disponibili sul proprio iPhone al modico prezzo di 0,79 centesimi.[![]({{ site.baseurl }}/uploads/2010/02/iMussolini.jpg)]({{ site.baseurl }}/uploads/2010/02/iMussolini.jpg)
+Tra le migliaia  di applicazioni disponibili sull'**App Store** nei giorni scorsi una di esse ha generato particolare clamore e suscitato numerose **polemiche**: trattasi dell'app **_iMussolini, L'uomo che cambiò la storia del nostro paese_**, un insieme di notizie bibliografiche e di contributi testuali e audiovisivi di oltre un centinaio di discorsi del dittatore italiano direttamente disponibili sul proprio iPhone al modico prezzo di 0,79 centesimi.![]({{ site.baseurl }}/uploads/2010/02/iMussolini.jpg)
 
 In **Italia** ben presto l'applicazione (lanciata il 21 gennaio) spopola giungendo al primo posto tra quelle più vendute, collezionando oltre **6.000 download**. L'app iMussolini viene venduta al nuovo prezzo di 1,59 euro (sarà l'inflazione) e il suo autore, l'italiano **Luigi Marino**, si gode l'inaspettata popolarità.
 
@@ -32,7 +32,7 @@ Ma l'applicazione suscita ben presto le prime polemiche..
 
 Prima la dura condanna di un'associazione di sopravvissuti dell'Olocausto residenti negli Usa, poi le accuse di fare **apologia del fascismo**, infine le perplessità dei giornali stranieri che dipingono gli italiani come un paese di **nostalgici** del regime.
 
-[![]({{ site.baseurl }}/uploads/2010/02/app-store.jpg)]({{ site.baseurl }}/uploads/2010/02/app-store.jpg)
+![]({{ site.baseurl }}/uploads/2010/02/app-store.jpg)
 
 In realtà apologia del fascismo (reato ai sensi della legge  645/1952) si ha quando chiunque  pubblicamente esalti esponenti, principi, fatti o metodi del  fascismo, oppure le sue finalità antidemocratiche. Ma l'applicazione iMussolini in realtà non inneggia affatto al fascismo : si limita semplicemente a mostrare dei **contenuti** (liberamente disponibili anche nelle edicole o in rete, basta digitare "_Mussolini_" su Youtube o su Wikipedia) nella loro nuda oggettività evitando commenti celebrativi. Questi ultimi sono gli utenti ad inserirli e dato che essi  non appaiono certo in automatico saranno eventualmente perseguitabili solo i loro rispettivi autori.
 

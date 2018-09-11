@@ -29,7 +29,7 @@ Si comincia con **The Tourist**, con _Johnny Depp_ e _Angelina Jolie_. Storia di
 
 Ecco poi il nuovo film di _Aldo, Giovanni_ e_ Giacomo_, **La banda dei Babbi Natale**. Storia di tre amici, uniti dalla passione delle bocce, finiti nei guai la notte della vigilia di Natale. Riusciranno i 3 a dimostrare di non essere una banda di ladri o finiranno dietro le sbarre?
 
-Si finisce poi con il terzo episodio della saga delle _Cronache di Narnia_, in questo caso **Le Cronache di Narnia - Il[![]({{ site.baseurl }}/uploads/2010/12/cronache-di-narnia-il-viaggio-del-veliero.jpg)]({{ site.baseurl }}/uploads/2010/12/cronache-di-narnia-il-viaggio-del-veliero.jpg) viaggio del veliero**. In questo nuovo capitolo Edmund e Lucy Pevensie, insieme al cugino Eustace Scrubb, torneranno a Narnia per aiutare il loro caro amico, il Principe Caspian, ora salito al trono e alla ricerca dei sette signori perduti di Narnia.
+Si finisce poi con il terzo episodio della saga delle _Cronache di Narnia_, in questo caso **Le Cronache di Narnia - Il![]({{ site.baseurl }}/uploads/2010/12/cronache-di-narnia-il-viaggio-del-veliero.jpg) viaggio del veliero**. In questo nuovo capitolo Edmund e Lucy Pevensie, insieme al cugino Eustace Scrubb, torneranno a Narnia per aiutare il loro caro amico, il Principe Caspian, ora salito al trono e alla ricerca dei sette signori perduti di Narnia.
 
 Il quinto e ultimo fine settimana (24/12) infine giunge sul grande schermo **Tron: Legacy**, storia di un ventisettenne esperto di tecnologia di nome Sam che si ritrova scaraventato nello stesso mondo di crudeli programmi e giochi di gladiatori in cui il proprio padre, scomparso misteriosamente, ha vissuto per oltre 25 anni.
 

@@ -17,7 +17,7 @@ tags:
 - Mistero
 ---
 
-**Cameron, c'è un regalo per te.[![]({{ site.baseurl }}/uploads/2010/08/the-box.jpg)]({{ site.baseurl }}/uploads/2010/08/the-box.jpg)**
+**Cameron, c'è un regalo per te.![]({{ site.baseurl }}/uploads/2010/08/the-box.jpg)**
 
 Richmond Virginia, 1976. **Norma** (Cameron Diaz) e Arthur sono  una giovane coppa sposata con un figlio. La prima lavora in un liceo  privato mentre il secondo in un centro studi della Nasa. I due non si  trovano in floride condizioni economiche : il liceo in cui lavora Norma  non intende rinnovare la borsa di studio a suo figlio e Arthur non è  stato selezionato dalla Nasa per diventare astronauta e viaggiare nello  spazio.
 

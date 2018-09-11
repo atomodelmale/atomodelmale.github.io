@@ -29,13 +29,13 @@ Cosa nasconde Shutter Island?
 
 L'ospedale psichiatrico ospita numerosi pazienti/detenuti che, incapaci di mantenere un contatto con la **realtà**, vivono in un loro mondo immaginario e irreale. Lo stesso Teddy Daniel soffre di allucinazioni e mal di testa. Per questi uomini il confine tra i 2 mondi è inesistente dato che essi vengono, semplicemente, a coincidere.
 
-[![]({{ site.baseurl }}/uploads/2010/03/shutter-island-2.jpg)]({{ site.baseurl }}/uploads/2010/03/shutter-island-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/03/shutter-island-2.jpg)
 
 Oltre a dover distinguere cosa c'è di vero e di falso nelle parole e nei comportamenti dei detenuti i  2 agenti sono ostacolati da un comportamento ostruzionistico e dalle **bugie** delle guardie, dei medici, degli infermieri e del direttore dell'ospedale psichiatrico. Perchè mai tutte queste perone non dovrebbero collaborare con degli agenti federali? Quali misteri nasconde Shutter Island?
 
 **Martin (Scorsese) e Leonardo (DiCaprio).**
 
-[![]({{ site.baseurl }}/uploads/2010/03/Martin-Scorsese.png)]({{ site.baseurl }}/uploads/2010/03/Martin-Scorsese.png)
+![]({{ site.baseurl }}/uploads/2010/03/Martin-Scorsese.png)
 
 _Shutter Island_ segna il **quarto** film dell'attore americano con il regista Martin Scorsese, dopo _Gangs of New York _(2002), _The aviator_ (2004) e _The departed_ (2006).
 

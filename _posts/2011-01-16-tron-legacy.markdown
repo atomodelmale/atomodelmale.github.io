@@ -22,7 +22,7 @@ tags:
 
 1989. **Kevin Flynn**, presidente della società informatica **ENCOM**, sogna un mondo dove l'informatica e le persone reali possano unirsi per dare vita ad un nuovo tipo di società. Una sera, dopo aver confessato i propri sogni al proprio figlio adolescente Sam, scompare misteriosamente.
 
-[![]({{ site.baseurl }}/uploads/2011/01/Tron-legacy.jpg)]({{ site.baseurl }}/uploads/2011/01/Tron-legacy.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/Tron-legacy.jpg)
 
 2009. **Sam Flynn** è diventato adulto ma vive ai margini della società della padre, di cui comunque è il socio di maggioranza. Rassegnatosi ormai alla scomparsa del genitore, una sera riceve la visita di Alan, un collaboratore di Kevin, il quale gli comunica di aver ricevuto una misteriosa chiamata dal vecchio ufficio del padre, una sala giochi.
 
@@ -36,7 +36,7 @@ La Rete, una rappresentazione digitale del mondo reale, è popolata dai **pr
 
 In questo mondo però si trova anche il creativo (cioè un programmatore umano) Kevin, rimasto intrappolato nello stesso mondo da lui creato ed ora esiliato ai confini della rete. Kevin è aiutato solo dalla fidata **Quorra**, l'unica ISO (equazioni isomorfe) superstite dopo il loro sterminio per opera del crudele Clu.
 
-[![]({{ site.baseurl }}/uploads/2011/01/Tron-legacy-2.jpg)]({{ site.baseurl }}/uploads/2011/01/Tron-legacy-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/Tron-legacy-2.jpg)
 
 **1982 - 2010.**
 
@@ -44,7 +44,7 @@ In questo mondo però si trova anche il creativo (cioè un programmatore umano
 
 A suo tempo **Tron** cambiava il mondo del cinema, oggi **Tron - Legacy** non è che la continuazione di una trama cominciata molti anni or sono e che continua oggi grazie ad un passaggio di consegne di tipo generazionale.
 
-Quello che manca quindi al **sequel**è la capacità di innovare il mondo del cinema così come aveva fatto il suo predecessore mentre l'innesto del **3D** non rappresenta ormai più una novità ed è relegato solo al mondo virtuale della "rete". [![]({{ site.baseurl }}/uploads/2011/01/Tron-Light-Cycle-1982.jpg)]({{ site.baseurl }}/uploads/2011/01/Tron-Light-Cycle-1982.jpg)
+Quello che manca quindi al **sequel**è la capacità di innovare il mondo del cinema così come aveva fatto il suo predecessore mentre l'innesto del **3D** non rappresenta ormai più una novità ed è relegato solo al mondo virtuale della "rete". ![]({{ site.baseurl }}/uploads/2011/01/Tron-Light-Cycle-1982.jpg)
 
 Tuttavia gli sforzi per ammodernare **Tron** ai gusti dei nuovi spettatori sono più che evidenti e il **restyling** della pellicola, dai _Light Cycle_ al mondo della rete, garantisce spettacolarità ed emozioni. Senza dimenticare tra l'altro la tematica dell'utopica ricerca di un mondo perfetto e privo di ingiustizie.
 

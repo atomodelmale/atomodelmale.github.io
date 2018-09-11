@@ -17,7 +17,7 @@ tags:
 - Sandra Bullock
 ---
 
-**6-3.[![]({{ site.baseurl }}/uploads/2010/02/Oscar.jpg)]({{ site.baseurl }}/uploads/2010/02/Oscar.jpg)**
+**6-3.![]({{ site.baseurl }}/uploads/2010/02/Oscar.jpg)**
 
 6-3, in questo caso, non è il risultato di un set di una partita di tennis bensì il verdetto della notte degli **Oscar** in merito alla sfida tra i suoi 2 principali protagonisti, The Hurt locker e Avatar.
 
@@ -35,7 +35,7 @@ Il Kolossal firmato **James Cameron** vince solo in alcune categorie tecniche (m
 
 **Gli altri premi.**
 
-[![]({{ site.baseurl }}/uploads/2010/03/Sandra-Bullock.jpg)]({{ site.baseurl }}/uploads/2010/03/Sandra-Bullock.jpg)
+![]({{ site.baseurl }}/uploads/2010/03/Sandra-Bullock.jpg)
 
 Festeggiano, rispettivamente come miglior attrice e come miglior attore protagonista, **Sandra Bullock** per _The blind side_ e **Jeff Bridges** per _Crazy heart_. In evidenza anche **Up**, miglior film d'animazione e migliore colonna sonora. 2 italo americani invece, Mauro Fiore per la fotografia di Avatar e Michael Giacchino per le musiche di Up, portano un pò d'Italia nella magica notte degli Oscar.
 

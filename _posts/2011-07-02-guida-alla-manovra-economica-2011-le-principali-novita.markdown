@@ -26,7 +26,7 @@ Il Consiglio dei Ministri ha varato la **manovra** economica che prevede una se
 
 **Taglio costi politica**. Per quanto riguarda l'Istituto per il commercio estero (**Ice**) è prevista una riduzione del personale di almeno 200 unità (al momento nell'Istituto lavorano 1200 persone, 600 delle quali all'Estero). Gli uffici dell'Ice passeranno inoltre da 14 a 2, uno a Milano e uno a Roma. E' previsto inoltre sia un taglio al finanziamento pubblico ai partiti nella misura del 10% sia l'istituzione dell'**Election Day**, cioè l'accorpamento dell'elezioni nazionali e amministrative (ma non dei referendum). Infine gli stipendi dei parlamentari saranno parificati a quelli europei.
 
-**[![]({{ site.baseurl }}/uploads/2011/07/auto-blu.jpg)]({{ site.baseurl }}/uploads/2011/07/auto-blu.jpg)
+**![]({{ site.baseurl }}/uploads/2011/07/auto-blu.jpg)
 
 Voli e auto blu**. I primi saranno riservati al capo dello Stato, ai presidenti del Consiglio, della Camera, del Senato e della Corte Costituzionale ma non ai ministri, i quali potranno usufruirne solo in caso di viaggio istituzionale all'estero. Le seconde ai presidenti di Camera, Senato e del Consiglio, in ogni caso non si potranno usare quelle con una cilindrata superiore ai 1600 cm³, fatto salvo il caso in cui vi siano particolari esigenze di sicurezza. Vanno inoltre usate e rottamate quelle che già ci sono in questo momento.
 
@@ -36,7 +36,7 @@ Voli e auto blu**. I primi saranno riservati al capo dello Stato, ai presidenti
 
 **Imprese giovani**. Per le nuove imprese formate da giovani sotto i 35 anni viene prevista un'imposta del 5% forfettaria per 5 anni.
 
-**[![]({{ site.baseurl }}/uploads/2011/07/5x1000.jpg)]({{ site.baseurl }}/uploads/2011/07/5x1000.jpg)
+**![]({{ site.baseurl }}/uploads/2011/07/5x1000.jpg)
 
 5 x mille**. Nella dichiarazione del 2012 per i redditi dell'anno precedente il 5 per mille potrà essere destinato alla cultura.** _Case popolari**. Entro il 31 dicembre 2011 il governo potrà concludere accordi con regioni ed enti locali per semplificare la procedura di alienazione degli immobili in passato di proprietà degli IACP (Istituti Autonomi Case Popolari).**Tariffe luce**. A partire dal 2012 sarà possibile un calo delle tariffe di circa il 3% grazie al taglio di oneri e incentivi.**Enti locali_ **. Dal 2013 nessun taglio a quelli che rispetteranno il patto di stabilità interno nel triennio precedente e contrasteranno l'evasione fiscale. Nei comuni di interesse turistico e nelle città d'arte, inoltre gli esercizi commerciali non saranno più tenuti a rispettare gli orari di apertura e chiusura, la chiusura domenicale e festiva e la mezza giornata di chiusura infrasettimanale. Da prossimo anno poi torneranno i** ticket** su diagnostica e specialistica (10 euro) e sui codici bianchi del pronto soccorso (25 euro).
 

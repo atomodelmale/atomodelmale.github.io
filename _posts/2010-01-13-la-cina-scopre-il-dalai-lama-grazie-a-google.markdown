@@ -20,7 +20,7 @@ tags:
 - Google
 ---
 
-Dopo una serie di attacchi e tentativi di violazione di account Gmail di dissidenti e attivisti cinesi provenienti dalla Cina (che Mountain View sospetta provenire da hacker al servizio del regime cinese) **Google** potrebbe chiudere i battenti nel paese asiatico. E non solo.[![]({{ site.baseurl }}/uploads/2008/10/logo_google.gif)]({{ site.baseurl }}/uploads/2008/10/logo_google.gif)
+Dopo una serie di attacchi e tentativi di violazione di account Gmail di dissidenti e attivisti cinesi provenienti dalla Cina (che Mountain View sospetta provenire da hacker al servizio del regime cinese) **Google** potrebbe chiudere i battenti nel paese asiatico. E non solo.![]({{ site.baseurl }}/uploads/2008/10/logo_google.gif)
 
 Da oggi stop all'accordo con Pechino che permetteva di censurare e nascondere i **risultati** del motore di ricerca "sconvenienti" al regime cinese. Google.cn permette ora di visualizzare immagini e pagine web prima bloccate e nascoste, consentendo così al popolo cinese e ai suoi giovani di aggirare la censura e i filtri imposti dal Governo. Parole come **piazza Tian'anmen** o Dalai Lama potranno acquistare finalmente il loro pieno significato.
 

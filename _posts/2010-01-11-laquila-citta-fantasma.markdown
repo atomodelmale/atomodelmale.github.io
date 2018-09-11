@@ -18,7 +18,7 @@ tags:
 - Terremoto
 ---
 
-A  8 mesi dal **sisma** l'Aquila appare per molti versi una città fantasma. Si costruiscono le new town per i terremotati ma il destino dei centri storici colpiti dal terremoto rimane sospeso. Anche le numerose opere d'arte e monumenti non se la passano bene : molte delle promesse fatte al G8 dai vari capi di stato non sono poi state rispettate e così solo agli edifici più importanti e rappresentativi è stata rivolta la dovuta attenzione.[![]({{ site.baseurl }}/uploads/2010/01/chiesa-paganica.jpg)]({{ site.baseurl }}/uploads/2010/01/chiesa-paganica.jpg)
+A  8 mesi dal **sisma** l'Aquila appare per molti versi una città fantasma. Si costruiscono le new town per i terremotati ma il destino dei centri storici colpiti dal terremoto rimane sospeso. Anche le numerose opere d'arte e monumenti non se la passano bene : molte delle promesse fatte al G8 dai vari capi di stato non sono poi state rispettate e così solo agli edifici più importanti e rappresentativi è stata rivolta la dovuta attenzione.![]({{ site.baseurl }}/uploads/2010/01/chiesa-paganica.jpg)
 
 E così il **tessuto urbano, economico e sociale** del capoluogo abruzzese e il suo centro storico sembrano destinato a sparire, sostituite da nuove città. E quello che doveva essere provvisorio diventa definitivo. I vicoli, le strade e le stradine del centro storico rimangono deserti, destinati a risorgere solo grazie alla volontà e all'impegno dei cittadini aquilani.
 

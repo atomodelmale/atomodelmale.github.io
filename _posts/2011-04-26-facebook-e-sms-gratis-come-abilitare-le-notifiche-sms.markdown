@@ -45,7 +45,7 @@ Per ottenere il servizio di notifiche SMS basta seguire questa breve procedura:
   3. Cliccate su "**Iscriviti agli SMS di Facebook**".
 
 	
-  4. Si aprirà un pop-up con la richiesta del vostro **operatore telefonico**, selezionatelo e cliccate su "**Avanti**".[![]({{ site.baseurl }}/uploads/2011/04/Facebook-Mobile-2.jpg)]({{ site.baseurl }}/uploads/2011/04/Facebook-Mobile-2.jpg)
+  4. Si aprirà un pop-up con la richiesta del vostro **operatore telefonico**, selezionatelo e cliccate su "**Avanti**".![]({{ site.baseurl }}/uploads/2011/04/Facebook-Mobile-2.jpg)
 
 	
   5. La procedura passa al cellulare, Facebook, per provare che siete voi i reali proprietari del numero utilizza una procedura di autenticazione che consta in 2 passaggi:

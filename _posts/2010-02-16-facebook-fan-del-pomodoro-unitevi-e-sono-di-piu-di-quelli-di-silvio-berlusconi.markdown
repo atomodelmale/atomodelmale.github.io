@@ -20,7 +20,7 @@ tags:
 - Sondaggi
 ---
 
-Un **pomodoro** tira l'altro? Chi lo sà, certamente su **Facebook** si. Il gruppo creato dall'_Unione degli studenti Monza_ (senza alcun scopo o riferimento politico, dicono) e dal titolo **_Questo pomodoro avrà più fan di Silvio Berlusconi_** spopola sul noto Social Network (ecco il [link](http://www.facebook.com/pages/Questo-pomodoro-avra-piu-fan-di-Silvio-Berlusconi/312287616880?v=wall&ref=search)). 417.131 fan e obiettivo raggiunto, il Silvio nazionale  ne ha "appena" 203.515, un pò meno della metà.[![]({{ site.baseurl }}/uploads/2010/02/pomodoro.jpg)]({{ site.baseurl }}/uploads/2010/02/pomodoro.jpg)
+Un **pomodoro** tira l'altro? Chi lo sà, certamente su **Facebook** si. Il gruppo creato dall'_Unione degli studenti Monza_ (senza alcun scopo o riferimento politico, dicono) e dal titolo **_Questo pomodoro avrà più fan di Silvio Berlusconi_** spopola sul noto Social Network (ecco il [link](http://www.facebook.com/pages/Questo-pomodoro-avra-piu-fan-di-Silvio-Berlusconi/312287616880?v=wall&ref=search)). 417.131 fan e obiettivo raggiunto, il Silvio nazionale  ne ha "appena" 203.515, un pò meno della metà.![]({{ site.baseurl }}/uploads/2010/02/pomodoro.jpg)
 
 Il fenomeno in realtà non è nuovo e già numerosi ortaggi e oggetti di vario genere hanno avuto il privilegio di superare esponenti del mondo politico o dello spettacolo. Ecco alcune delle scommesse più curiose:
 

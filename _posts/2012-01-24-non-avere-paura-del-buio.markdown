@@ -26,7 +26,7 @@ Nella cantina d'altronde si nasconde un terribile segreto, la cui origine si per
 
 Non è questo però il caso delle pellicola visto che la classica fatina viene sostituita da creature piccole, brutte e molte cattive. Oggetto delle loro attenzioni non certo amichevoli la piccola Sally e la sua "dentatura". Peccato che nessuno voglia credergli, anzi, tutt'al più infatti si crede che si tratti solo di farneticazioni di una bambina disturbata e con dei problemi. Solo Kim sembra dargli ragione, ma riuscirà a salvarla in tempo?
 
-**Poca tensione.[![]({{ site.baseurl }}/uploads/2012/01/non-avere-paura-del-buio-2.jpg)]({{ site.baseurl }}/uploads/2012/01/non-avere-paura-del-buio-2.jpg)**
+**Poca tensione.![]({{ site.baseurl }}/uploads/2012/01/non-avere-paura-del-buio-2.jpg)**
 
 Protagonisti del film, oltre alla piccola, le creature, una sorta di gremlins del XXI secolo dotati però di una cattiveria innata. Nascoste nell'ombra queste tramano contro i nuovi proprietari della casa ma in fondo spaventano fino ad un certo punto, a maggior ragione quando escono allo scoperto.
 

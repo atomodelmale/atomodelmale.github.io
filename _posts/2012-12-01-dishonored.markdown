@@ -29,7 +29,7 @@ Per Corvo, indossata una maschera per non farsi riconoscere, sarà l'occasion
 
 Le successive nove missioni si svolgeranno nell'immaginaria città di Dunwall dove tecnologia retrofuristica e paranormale coesistono nell'ombra. L'abitato strizza gli occhi alla **Londra vittoriana** ma l'atmosfera è decisamente più decadente tra branchi di topi pronti a divorare vivi gli abitanti (compreso il Corvo), guardie sospettose e le rovine di una città un tempo ricca e prospera.
 
-[![]({{ site.baseurl }}/uploads/2012/11/dishonored-3.jpg)]({{ site.baseurl }}/uploads/2012/11/dishonored-3.jpg)
+![]({{ site.baseurl }}/uploads/2012/11/dishonored-3.jpg)
 
 Al giocatore il compito di portare a termine le missioni principali come quelle secondarie, quest'ultime non di particolare difficoltà ma utili per conoscere nuovi personaggi e ambienti delle varie mappe di gioco.
 
@@ -41,7 +41,7 @@ Nell'arco delle missioni il giocatore potrà collezionare vari oggetti: le **r
 
 I potenziamenti per le armi  e gli equipaggiamenti del Corvo e le munizioni si potranno acquisire nel covo dei lealisti grazie alle monete recuperate nelle mappe e agli oggetti rubati, tra cui gli stessi quadri di Sokolov. Chi invece vorrà farsi una cultura  dell'universo di Dishonored potrà soffermarsi a leggere  tutti i libri e i messaggi presenti nel gioco.
 
-**Attenzione alle proprie scelte[![]({{ site.baseurl }}/uploads/2012/11/Dishonored-4.jpg)]({{ site.baseurl }}/uploads/2012/11/Dishonored-4.jpg)**
+**Attenzione alle proprie scelte![]({{ site.baseurl }}/uploads/2012/11/Dishonored-4.jpg)**
 
 L'approccio alle missioni è fondamentale per lo sviluppo della storia: maggiore sarà il caos provocato per le strade di Dunwall più il mondo del gioco sarà cupo e ostile. Al giocatore la scelta se trasformare il corvo in uno spietato assassino o in un furtivo vendicatore.
 

@@ -31,7 +31,7 @@ In_ The American_ d'altronde la nostra penisola è grande  protagonista: oltre a
 
 **Bad George.**
 
-La pellicola, tratta dal romanzo di Martin Booth _A very private gentleman_, vuole portare sul grande schermo un lato meno conosciuto di George Clooney, non quello di un elegante e affascinante seduttore ma di quello di un cattivo e tormentato uomo senza **scupoli**.[![]({{ site.baseurl }}/uploads/2010/09/The-American-George-Clooney.jpg)]({{ site.baseurl }}/uploads/2010/09/The-American-George-Clooney.jpg)
+La pellicola, tratta dal romanzo di Martin Booth _A very private gentleman_, vuole portare sul grande schermo un lato meno conosciuto di George Clooney, non quello di un elegante e affascinante seduttore ma di quello di un cattivo e tormentato uomo senza **scupoli**.![]({{ site.baseurl }}/uploads/2010/09/The-American-George-Clooney.jpg)
 
 Il film, confezionato a misura dell'attore americano, narra infatti il suo  percorso di redenzione, la sua intenzione di  ricominciare a vivere e a  lasciarsi alle spalle il proprio tragico passato.
 

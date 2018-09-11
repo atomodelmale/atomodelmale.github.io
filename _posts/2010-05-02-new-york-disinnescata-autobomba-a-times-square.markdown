@@ -16,7 +16,7 @@ tags:
 - Usa
 ---
 
-Torna l'incubo terroristico tra i palazzi e le strade di **New York**. [![]({{ site.baseurl }}/uploads/2010/05/times-square.jpg)]({{ site.baseurl }}/uploads/2010/05/times-square.jpg)
+Torna l'incubo terroristico tra i palazzi e le strade di **New York**. ![]({{ site.baseurl }}/uploads/2010/05/times-square.jpg)
 
 Un'autobomba, insolita per le strade newyorchesi quanto frequente per le vie di Baghdad, Beirut e Kabul, era pronta ad esplodere a **Times Square**, il cuore economico, culturale e finanziario della città americana.
 

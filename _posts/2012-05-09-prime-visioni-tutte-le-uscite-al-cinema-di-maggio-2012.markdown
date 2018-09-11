@@ -31,7 +31,7 @@ Pirata, investigatore, cappellaio matto. Chi? Johnny Depp, ora nelle vesti di un
 
 **Quella casa nel bosco** (18 maggio)
 
-Una casa isolata in un bosco, cinque amici in vacanza. Sfondo perfetto per un film horror e di fatto è proprio così: la casa nasconde un lato oscuro pronto a mettere alla prova chiunque varchi la sua soglia.[![]({{ site.baseurl }}/uploads/2012/05/Men-In-Black-III.jpg)]({{ site.baseurl }}/uploads/2012/05/Men-In-Black-III.jpg)
+Una casa isolata in un bosco, cinque amici in vacanza. Sfondo perfetto per un film horror e di fatto è proprio così: la casa nasconde un lato oscuro pronto a mettere alla prova chiunque varchi la sua soglia.![]({{ site.baseurl }}/uploads/2012/05/Men-In-Black-III.jpg)
 
 **Men in Black III**  (25 maggio)
 

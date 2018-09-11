@@ -18,7 +18,7 @@ tags:
 - Usa
 ---
 
-Mentre l'**Iphone** e la Apple hanno dominato (e dominano) il mercato degli **smartphone**, i concorrenti non sono certo restati inoperosi, veloci a tuffarsi in un mercato più che promettente. E dopo l'assalto dei grandi colossi del panorama telefonico mondiale (Samsung, Nokia e via dicendo), l'azienda di Mountain View (che ha le mani un pò in tutti i vasetti della marmellata) non poteva certo mancare al lauto banchetto.[![]({{ site.baseurl }}/uploads/2010/01/nexus-one.jpg)]({{ site.baseurl }}/uploads/2010/01/nexus-one.jpg)
+Mentre l'**Iphone** e la Apple hanno dominato (e dominano) il mercato degli **smartphone**, i concorrenti non sono certo restati inoperosi, veloci a tuffarsi in un mercato più che promettente. E dopo l'assalto dei grandi colossi del panorama telefonico mondiale (Samsung, Nokia e via dicendo), l'azienda di Mountain View (che ha le mani un pò in tutti i vasetti della marmellata) non poteva certo mancare al lauto banchetto.![]({{ site.baseurl }}/uploads/2010/01/nexus-one.jpg)
 
 **Google** infatti dopo broswer, sistemi operativi e chi ne ha più ne metta è entrata anche nel mercato della telefonia proponendo il proprio smartphone, **Nexus One** (o GPhone), prodotto dall'HTC, per ora in vendita solo sul mercato statunitense (ma in futuro anche in altri paesi come la Gran Bretagna).
 
@@ -102,7 +102,7 @@ _Audio playback._ Up to 20 hours
 	
   * 1ms typical response rate
 
-**_[![]({{ site.baseurl }}/uploads/2010/01/nexus-one-2.jpg)]({{ site.baseurl }}/uploads/2010/01/nexus-one-2.jpg)
+**_![]({{ site.baseurl }}/uploads/2010/01/nexus-one-2.jpg)
 
 Camera & Flash_**
 

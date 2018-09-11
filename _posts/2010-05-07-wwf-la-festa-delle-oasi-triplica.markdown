@@ -23,7 +23,7 @@ tags:
 
 La tradizionale manifestazione primaverile del **Wwf**, la **Festa delle Oasi**, in occasione del ventennale dell'iniziativa , triplica. Per 3 domeniche di maggio consecutive (il 9, il 16 e il 23 maggio) il Wwf apre al pubblico **gratuitamente** cento oasi naturalistiche sparse per tutto il territorio nazionale.
 
-[![]({{ site.baseurl }}/uploads/2010/05/oasi-ghirardi.jpg)]({{ site.baseurl }}/uploads/2010/05/oasi-ghirardi.jpg)
+![]({{ site.baseurl }}/uploads/2010/05/oasi-ghirardi.jpg)
 
 In **Emilia Romagna** le oasi interessate sono 9 :
 

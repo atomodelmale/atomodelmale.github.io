@@ -20,7 +20,7 @@ tags:
 
 Una serie di **terremoti** hanno colpito in sequenza Haiti (12 gennaio), il Giappone (26 febbraio) e per ultimo il Cile (27 febbraio). Il paese sudamericano è stato colpito da un sisma di magnitudo **8,8** gradi Richter, con epicentro nel sud del paese.
 
-[![]({{ site.baseurl }}/uploads/2010/03/Cile-terremoto1.jpg)]({{ site.baseurl }}/uploads/2010/03/Cile-terremoto1.jpg)
+![]({{ site.baseurl }}/uploads/2010/03/Cile-terremoto1.jpg)
 
 Particolarmente colpita la città di **Concepcion**, dove il Governo ha dovuto mandare più di 10.000 soldati per presidiare le strade e riportare l'ordine. Fin dalle prime ore del terremoto infatti sono incominciati saccheggi e ruberie e la polizia ha dovuto instaurare il coprifuoco e ha arrestato numerosi **saccheggiatori**.
 

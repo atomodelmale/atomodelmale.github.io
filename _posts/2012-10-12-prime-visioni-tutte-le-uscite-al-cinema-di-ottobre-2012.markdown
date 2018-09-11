@@ -27,7 +27,7 @@ Nazisti sconfitti? Neanche per idea. Grazie a un super progetto segreto un grupp
 
 **The wedding party**
 
-In ogni liceo d'America che si rispetti è presente la classica cessa cicciona che tutti prendono per il culo. Chi la fa l'aspetti ed ecco che il classico pachiderma si sposa prima di sue tre compagne di scuole, ben più attraenti. Regan, la gnocca,viene scelta come damigella d'onore di Becky, la cessa. Regan decide di svolgere comunque al meglio tutti i suoi doveri  di damigella e chiama a raccolta due delle sue amiche del liceo, Katie e Gene. Ma durante l'organizzazione dell'addio al nubilato qualcosa  non va per il verso giusto..[![]({{ site.baseurl }}/uploads/2012/10/The-Possession.jpg)]({{ site.baseurl }}/uploads/2012/10/The-Possession.jpg)
+In ogni liceo d'America che si rispetti è presente la classica cessa cicciona che tutti prendono per il culo. Chi la fa l'aspetti ed ecco che il classico pachiderma si sposa prima di sue tre compagne di scuole, ben più attraenti. Regan, la gnocca,viene scelta come damigella d'onore di Becky, la cessa. Regan decide di svolgere comunque al meglio tutti i suoi doveri  di damigella e chiama a raccolta due delle sue amiche del liceo, Katie e Gene. Ma durante l'organizzazione dell'addio al nubilato qualcosa  non va per il verso giusto..![]({{ site.baseurl }}/uploads/2012/10/The-Possession.jpg)
 
 **The possession**
 

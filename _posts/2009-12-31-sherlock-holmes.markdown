@@ -34,7 +34,7 @@ I due eroi sventano l'ultimo rituale di "Legnonero", spedendolo con un biglietto
 
 **Non c'è nulla di più innaturale dell'ovvio**
 
-[![]({{ site.baseurl }}/uploads/2009/12/SherlockWatson2.jpg)]({{ site.baseurl }}/uploads/2009/12/SherlockWatson2.jpg)
+![]({{ site.baseurl }}/uploads/2009/12/SherlockWatson2.jpg)
 
 I rimandi alla storia "classica" della letteratura ci sono tutti, **disertando** – e questo non è un male – **dall'iconografia cinematografica  classica** dello Sherlock alto ed allampanato, un po' spocchioso e condiscendete verso un Watson tordo e grassottello.
 

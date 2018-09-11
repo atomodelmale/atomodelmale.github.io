@@ -26,7 +26,7 @@ Il film **The town **(uscito l'8 ottobre) ci porta invece a Boston, luogo nel qu
 
 All'opposto nella pellicola ** Innocenti Bugie** l'agente segreto Tom Cruise trascinerà l'innocente Cameron Diaz nel pericoloso e movimentato mondo dei servizi segreti.
 
-Il prossimo fine settimana (15/10) ecco invece **Cattivissimo Me**, film d'animazione in cui il cattivissimo Gru si propone si rubare niente meno che la...luna. 3 ragazzine orfane però rischieranno di sconvolgergli i piani.[![]({{ site.baseurl }}/uploads/2010/10/cattivissimo-me.jpg)]({{ site.baseurl }}/uploads/2010/10/cattivissimo-me.jpg)
+Il prossimo fine settimana (15/10) ecco invece **Cattivissimo Me**, film d'animazione in cui il cattivissimo Gru si propone si rubare niente meno che la...luna. 3 ragazzine orfane però rischieranno di sconvolgergli i piani.![]({{ site.baseurl }}/uploads/2010/10/cattivissimo-me.jpg)
 
 Il quarto venerdì del mese (22/10) un film tornerà, forse, a terrorizzare il suo pubblico. Dopo l'enorme successo della prima pellicola ecco **Paranormal  Activity 2**. In sua compagnia **Wall Street: Il denaro non dorme mai**, **Fair Game (Caccia alla spia)** e **Figli delle stelle**.
 

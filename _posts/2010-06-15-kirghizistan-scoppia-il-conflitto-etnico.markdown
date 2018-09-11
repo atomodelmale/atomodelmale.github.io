@@ -18,7 +18,7 @@ tags:
 - Morte
 ---
 
-Il **Kirghizistan**, uno stato indipendente dell'Asia Centrale sorto nel 1991 dopo il crollo dell'unione Sovietica, è sconvolto da feroci **scontri etnici** tra la maggioranza della popolazione, di etnia Chirghisa, e la minoranza uzbeka, situata per lo più nel sud del Paese.[![]({{ site.baseurl }}/uploads/2010/06/kirghizistan.jpg)]({{ site.baseurl }}/uploads/2010/06/kirghizistan.jpg)
+Il **Kirghizistan**, uno stato indipendente dell'Asia Centrale sorto nel 1991 dopo il crollo dell'unione Sovietica, è sconvolto da feroci **scontri etnici** tra la maggioranza della popolazione, di etnia Chirghisa, e la minoranza uzbeka, situata per lo più nel sud del Paese.![]({{ site.baseurl }}/uploads/2010/06/kirghizistan.jpg)
 
 Secondo fonti della **Croce Rossa** i morti sarebbero già centinaia ma il numero delle vittime potrebbe lievitare a causa dei corpi senza vita non ancora identificati o scoperti.
 

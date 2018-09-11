@@ -26,7 +26,7 @@ Problemi "leggermente" diversi per Leighton Meester che, conclusa la serie telev
 
 Passato qualche giorno, ecco il 13 dicembre il Kolossal, targato Peter Jackson, tanto atteso:** Lo Hobbit - Un Viaggio Inaspettato**. La pellicola racconta il viaggio del protagonista Bilbo Baggins, coinvolto in un'epica ricerca per reclamare il Regno Nanico di Erebor governato dal terribile drago Smaug.
 
-[![]({{ site.baseurl }}/uploads/2012/12/hobbit-trailer.png)]({{ site.baseurl }}/uploads/2012/12/hobbit-trailer.png)
+![]({{ site.baseurl }}/uploads/2012/12/hobbit-trailer.png)
 
 Il 20 dicembre invece Fabrizio Biggio e Francesco Mandelli tornano sul grane schermo con **I 2 Soliti Idioti**, il seguito del loro primo fortunatissimo film "I Soliti Idioti".
 

@@ -21,7 +21,7 @@ tags:
 
 **Mondiale al via
 
-![![]({{ site.baseurl }}/uploads/2010/06/mondiali-2010.png)]({{ site.baseurl }}/uploads/2010/06/mondiali-2010.png)
+!![]({{ site.baseurl }}/uploads/2010/06/mondiali-2010.png)
 
 ** Dopo 4 anni di attesa torna la manifestazione calcistica più famosa al mondo : i** Mondiali di calcio **. Ad ospitare la manifestazione sarà il** Sud Africa** e per la prima volta nella loro storia i Mondiali si svolgeranno interamente nel continente africano.
 
@@ -45,7 +45,7 @@ Un luogo che, nonostante i suoi problemi (la povertà, l'Aids ecc) è, come ha d
 
 Tornando all'aspetto sportivo della manifestazione le grandi favorite per la **vittoria** finale sono la **Spagna**, l'**Inghilterra**, l'**Argentina** e il **Brasile**. La prima è reduce dalla vittoria agli europei e può vantare una squadra solida e completa in ogni reparto, la seconda, guidata da Mister Fabio Capello, punta a tornare sul tetto del mondo, appuntamento che manca dal lontano 1966.
 
-[![]({{ site.baseurl }}/uploads/2010/06/Italia-Mondiale.jpg)]({{ site.baseurl }}/uploads/2010/06/Italia-Mondiale.jpg)
+![]({{ site.baseurl }}/uploads/2010/06/Italia-Mondiale.jpg)
 
 L'Argentina è guidata da un campione del calibro di **Lionel Messi** mentre il Brasile dopo la vittoria del 2002 vuole tornare velocemente al successo. Ma i Mondiali fanno storia a sè e non si escludono, come 4 anni fà, possibili sorprese.
 

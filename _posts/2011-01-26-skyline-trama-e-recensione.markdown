@@ -20,7 +20,7 @@ Jarrod, assieme alla propria fidanzata Elaine, si reca a **Los Angeles** per fe
 
 Nel cuore della notte però una serie di strani **raggi di luce** cominciano a piovere sulla città. L'intenso bagliore emanato dai raggi sveglia Jarrod e compagni, i quali, a loro spese, compiono una terrificante scoperta : chiunque si avvicina troppo alla luce scompare poi misteriosamente nel nulla..
 
-[![]({{ site.baseurl }}/uploads/2011/01/skyline.jpg)]({{ site.baseurl }}/uploads/2011/01/skyline.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/skyline.jpg)
 
 Il mistero tuttavia è ben presto svelato : sopra Los Angeles si sono radunate ingenti forze aliene. E le loro intenzioni sono tutt'altro che pacifiche..
 
@@ -30,7 +30,7 @@ Ecco quindi la paura, il terrore, la disperazione. Un gruppo di amici abituato a
 
 Il palazzo di Terry, spazio in cui si svolge l'intera pellicola, rappresenta l'unico rifugio per Jarrod e compagnia. Ma anche contemporaneamente la loro prigione. Gli alieni infatti infatti hanno preso il controllo della città e uscire dall'edificio significa andare incontro a morte certa.
 
-[![]({{ site.baseurl }}/uploads/2011/01/skyline-2.jpg)]({{ site.baseurl }}/uploads/2011/01/skyline-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/skyline-2.jpg)
 
 Da_ Independence Day_ alla _Guerra dei mondi_ le invasioni aliene del nostro pianeta sono ormai di casa sul grande schermo. Quello che manca alla nuova pellicola è la capacità di coinvolgere lo spettatore, nonostante le massicce dosi di **effetti visivi** e di extraterrestri.
 

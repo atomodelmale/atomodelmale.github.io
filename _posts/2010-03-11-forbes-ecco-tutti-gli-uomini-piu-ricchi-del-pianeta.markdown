@@ -18,7 +18,7 @@ tags:
 - Silvio Berlusconi
 ---
 
-**_Bill Gates_** non è più il numero 1. Almeno nella speciale classifica degli uomini più ricchi della terra redatta dalla rivista statunitense **Forbes**. Per soli (si fa per dire) 500 milioni l'uomo più ricco del mondo è il miliardario messicano **Carlos Slim**, magnate nel campo delle telecomunicazioni dell'America latina.[![]({{ site.baseurl }}/uploads/2010/03/Carlos-Slim.jpg)]({{ site.baseurl }}/uploads/2010/03/Carlos-Slim.jpg)
+**_Bill Gates_** non è più il numero 1. Almeno nella speciale classifica degli uomini più ricchi della terra redatta dalla rivista statunitense **Forbes**. Per soli (si fa per dire) 500 milioni l'uomo più ricco del mondo è il miliardario messicano **Carlos Slim**, magnate nel campo delle telecomunicazioni dell'America latina.![]({{ site.baseurl }}/uploads/2010/03/Carlos-Slim.jpg)
 
 Con un patrimonio stimato di 53,5 miliardi di dollari è il messicano il Paperon de Paperoni del pianeta mentre al secondo posto si piazza l'ex presidente della Microsoft, per l'appunto _Mr. Bill Gates_. Il gradino più basso del podio è infine occupato dall'imprenditore statunitense **Warren Buffett**,
 

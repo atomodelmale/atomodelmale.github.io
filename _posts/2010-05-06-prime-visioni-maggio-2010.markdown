@@ -27,7 +27,7 @@ Il terzo fine settimana un noto personaggio del mondo dei videogiochi irrompe al
 
 Un aereo che esplode, un tir che perde il suo carico, una giostra difettosa di un luna park. E adesso? Nel quarto capitolo della saga di Final Destination, **The Final Destination 3D**, un nuovo gruppo di ragazzi sfiderà la morte dopo essere sopravvissuto ad uno spaventoso incidente intercorso durante una gara automobilistica. Mentre il duo _Elio Germano_ e _Raoul Bova_ tornerà a recitare insieme nel film** La nostra vita**.
 
-[![]({{ site.baseurl }}/uploads/2010/05/Prince-of-Persia.jpg)]({{ site.baseurl }}/uploads/2010/05/Prince-of-Persia.jpg)
+![]({{ site.baseurl }}/uploads/2010/05/Prince-of-Persia.jpg)
 
 L'ultimo week end di maggio invece ecco **La regina dei castelli di carta ** _e_** The road_**. La prima pellicola chiude la trilogia dedicata alla saga di _Millennium_ di Stieg Larsson andando a svelare l'oscuro passato di _Lisbeth Salander_ mentre la seconda offre un Viggo Mortensen nel ruolo di sopravvissuto ad un disastro nucleare.  Quest'ultimo intraprenderà, con il proprio figlio, un disperato viaggio verso la salvezza e la libertà in un mondo prossimo sconvolto e devastato.
 

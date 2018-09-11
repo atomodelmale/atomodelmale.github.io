@@ -37,7 +37,7 @@ I 2 personaggi, quello dello scarta stampata e quello del cinema, inevitabilmen
 
 Notevoli però anche le differenze, in primo luogo l'assenza di Groucho e dell'ispettore Bloch. L'ambientazione si sposta da Londra a New Orleans e mostra in un primo momento un Dylan Dog in pensione, trasandato, quasi in sovrappeso.
 
-**Dylan Dog in versione stelle e strisce.[![]({{ site.baseurl }}/uploads/2011/03/dylan-dog-il-film-2.jpg)]({{ site.baseurl }}/uploads/2011/03/dylan-dog-il-film-2.jpg)**
+**Dylan Dog in versione stelle e strisce.![]({{ site.baseurl }}/uploads/2011/03/dylan-dog-il-film-2.jpg)**
 
 Dylan Dog tuttavia viene presentato successivamente quasi come un supereroe, pronto a riempire di piombo chiunque ostacoli la sua strada. Una scelta che forse viene incontro al pubblico più giovane ma che tradisce la filosofia e lo stile seguito nell'albo a fumetti. Salvo che per l'elemento ironico, presente nelle pellicola grazie all'assistente Marcus (così come avviene sulla carta stampata grazie a Groucho).
 

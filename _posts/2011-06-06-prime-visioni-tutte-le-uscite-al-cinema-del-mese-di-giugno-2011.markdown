@@ -25,7 +25,7 @@ Nella seconda Zack e Miri, amici fin dal tempi della scuola, decideranno di gira
 
 Nella terza infine l'alieno Paul scapperà dall'Area 51 (la famosa base americana sospettata di nascondere entità e materiali di provenienza extraterrestre) per rifugiarsi nel primo camper rinvenuto nella zona. Un camper di proprietà di Graeme Willy e Clive Gollings, 2 amici appassionati di fantascienza che hanno deciso di intraprendere un viaggio on the road alla scoperta dei siti di avvistamento alieni più famosi d'America.
 
-Il mercoledì successivo ecco tornare sul grande schermo i mutanti più famosi del mondo del cinema, gli X-men. Nella nuova pellicola **_X-Men: L'Inizio** gli spettatori potranno scoprire l'origine della rivalità tra Charles ed Erik. Rispettivamente Professor X e Magneto.[![]({{ site.baseurl }}/uploads/2011/06/X-Men-lInizio.jpg)]({{ site.baseurl }}/uploads/2011/06/X-Men-lInizio.jpg)
+Il mercoledì successivo ecco tornare sul grande schermo i mutanti più famosi del mondo del cinema, gli X-men. Nella nuova pellicola **_X-Men: L'Inizio** gli spettatori potranno scoprire l'origine della rivalità tra Charles ed Erik. Rispettivamente Professor X e Magneto.![]({{ site.baseurl }}/uploads/2011/06/X-Men-lInizio.jpg)
 
 Il terzo mercoledì  del mese ecco **Priest**, storia di un prete che, contravvenendo agli ordini della chiesa, decide di dare la caccia ai vampiri; **L'ultimo dei templari**, racconto di un crociato e del suo fido compagno d'arme a cui è stato affidato il compito di scortare una misteriosa ragazza  in un isolato monastero e **Libera uscita**, commedia in cui 2 mariti ricevono dalle rispettive mogli una settimana di licenza dal loro matrimonio.
 

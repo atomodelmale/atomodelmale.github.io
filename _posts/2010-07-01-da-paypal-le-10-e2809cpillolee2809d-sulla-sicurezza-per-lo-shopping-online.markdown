@@ -37,7 +37,7 @@ Nel giro di appena 2 anni eBay rende ricco quel programmatore e diventa il **sit
 
 Inventato il mercato elettronico per antonomasia, bisognava trovare il modo per incentivare lo scambio monetario tra gli utenti in modo **semplice**, **immediato  e trasparente**: la lunga ricerca del management di eBay trovò pace quando, capendone il forte potenziale, si fece amica – fagocitò sarebbe il termine più adatto – **PayPal**, istituto di credito lussemburghese di **pagamento  online**, divenuto per molti uno standard "de facto" per i pagamenti nella rete.
 
-[![]({{ site.baseurl }}/uploads/2010/07/paypal_folder.png)]({{ site.baseurl }}/uploads/2010/07/paypal_folder.png)
+![]({{ site.baseurl }}/uploads/2010/07/paypal_folder.png)
 
 Grazie a PayPal **qualsiasi  azienda** o **privato** che dispone di un semplicissimo **indirizzo  eMail** può **ricevere** ed **inviare  pagamenti** in sicurezza e facilità. I soldi "fisici" presenti in carte di credito, prepagate o conti bancari possono così essere trasferiti tra compratori e venditori tramite un **sistema  interno  sicuro** e **senza** dover far passare – la maggior parte delle volte in chiaro – numeri di **conti  bancari** o di **carte  di  credito**, esposti  al rischio di intercettazioni malandrine.
 

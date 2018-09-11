@@ -25,7 +25,7 @@ tags:
 
 _Gen. Shepherd_
 
-**Quando il dovere chiama[![]({{ site.baseurl }}/uploads/2009/12/Call-of-Duty.jpg)]({{ site.baseurl }}/uploads/2009/12/Call-of-Duty.jpg)** Call Of Duty: Moden Warfare 2 **, titolo oltremodo lungo per la sesta incarnazione della serie di sparatutto partorita nell'ormai lontano 2003 dal prolifico team di** Infinity Ward **.**
+**Quando il dovere chiama![]({{ site.baseurl }}/uploads/2009/12/Call-of-Duty.jpg)** Call Of Duty: Moden Warfare 2 **, titolo oltremodo lungo per la sesta incarnazione della serie di sparatutto partorita nell'ormai lontano 2003 dal prolifico team di** Infinity Ward **.**
 
 ![]({{ site.baseurl }}/uploads/2009/12/CallOfDuty.jpg)
 

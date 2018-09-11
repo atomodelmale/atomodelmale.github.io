@@ -35,7 +35,7 @@ Dal canto loro i vampiri sono costretti a uscire dalle case solo di notte e a ri
 
 I vampiri infatti si sono dotati di una società e di uno stile di vita che richiama le loro vecchie abitudini da umani. La loro razza però, come quella umana, è in costante pericolo, minacciata dall'**estinzione**. E allora c'è chi non si preoccupa di sacrificare fino all'ultimo uomo per salvare questo bizzarro mondo (costituito da vampiri con crisi di coscienza e non, mostri e uomini) e chi invece cerca una strada alternativa che permetta alle 2 specie di coesistere.
 
-[![]({{ site.baseurl }}/uploads/2010/04/Daybreakers-Lultimo-vampiro-11.jpg)]({{ site.baseurl }}/uploads/2010/04/Daybreakers-Lultimo-vampiro-11.jpg)
+![]({{ site.baseurl }}/uploads/2010/04/Daybreakers-Lultimo-vampiro-11.jpg)
 
 **La società dei vampiri.**
 

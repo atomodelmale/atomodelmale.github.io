@@ -16,7 +16,6 @@ tags:
 - Nave
 ---
 
-[caption id="attachment_10050" align="alignleft" width="290" caption="la fregata bersagliere"][![]({{ site.baseurl }}/uploads/2011/08/fregata-bersagliere.jpg)]({{ site.baseurl }}/uploads/2011/08/fregata-bersagliere.jpg)[/caption]
 
 Nella mattinata di ieri un **missile** proveniente dalla Libia ha mancato di circa 2 km la **fregata Bersagliere** della Marina Militare. Dopo una prima immediata smentita l'**attacco** è stato rivendicato dal portavoce del governo libico e sarebbe stato lanciato da truppe fedeli a Mu'ammar Gheddafi.
 

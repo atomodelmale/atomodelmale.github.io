@@ -20,7 +20,7 @@ tags:
 
 **Michelle Bonev**è un imprenditrice - attrice bulgara. Alla scorsa 67ª Edizione della Biennale di Venezia il suo film, "_Goodbye Mama_", ha ricevuto il premio speciale per il concorso _Action for Women_ dal Ministro per i Beni e le Attività Culturali, con tanto di successiva proiezione del film alla presenza del cast.
 
-[![]({{ site.baseurl }}/uploads/2010/11/actionforwomen.jpg)]({{ site.baseurl }}/uploads/2010/11/actionforwomen.jpg)
+![]({{ site.baseurl }}/uploads/2010/11/actionforwomen.jpg)
 
 Fin qui nulla di strano!
 

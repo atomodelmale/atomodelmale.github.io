@@ -48,7 +48,7 @@ Bella prova comica di un **Andy  Garcia** – Vince -- tirato a lucido per l'occ
 
 Interessante il ruolo studiato per il figlio Tony -- Steven Strait, protagonista di 10.000AC – nato orfano di padre e con una madre prostituta, alcolizzata e violenta, sembra il **collante** che è sempre mancato alla famiglia, l'unico personaggio che, conscio dell'importanza di **poter contare** su persone fidate, **rinsalderà** i rapporti della – propria -- famiglia.
 
-[![]({{ site.baseurl }}/uploads/2010/06/City-Island-Vince.jpg)]({{ site.baseurl }}/uploads/2010/06/City-Island-Vince.jpg)
+![]({{ site.baseurl }}/uploads/2010/06/City-Island-Vince.jpg)
 
 Sullo sfondo, la storia appena abbozzata di **Molly**, compagna al corso di recitazione di Vince e **grillo  parlante** del pinocchiesco protagonista. Il fatto che lei dia consigli e Vince non ci pensi troppo prima di metterli in pratica ha del surreale, ma del resto è una commedia, ed in un modo o nell'altro alla fine di quei 100 minuti si devono chiudere tutte le trame aperte col "e vissero tutti felici e contenti" di rito.
 

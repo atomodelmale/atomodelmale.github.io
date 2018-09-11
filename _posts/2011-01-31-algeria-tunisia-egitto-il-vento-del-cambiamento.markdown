@@ -20,7 +20,7 @@ tags:
 
 Prima l'Algeria, poi la Tunisia, infine l'Egitto. L'intero **Nordafrica** in questi giorni sembra un'enorme polveriera, con interi popoli scesi nelle strade e nelle piazze per cacciare tiranni e tirannie al grido di "libertà e democrazia". Un pò come avvenne sul finire degli anni 80 con il crollo del muro di Berlino e del comunismo nei paesi dell'Europa dell'Est.
 
-[![]({{ site.baseurl }}/uploads/2011/01/egitto-proteste.jpg)]({{ site.baseurl }}/uploads/2011/01/egitto-proteste.jpg)
+![]({{ site.baseurl }}/uploads/2011/01/egitto-proteste.jpg)
 
 Ma non è solo la voglia di libertà e di democrazia che muove queste persone. La realtà, così come accaduto in Tunisia, è molto più complessa. Le rivolte popolari sono nate anche da un'esigenza e da un bene fondamentale : il **cibo**. Che ora costa molto di più.
 

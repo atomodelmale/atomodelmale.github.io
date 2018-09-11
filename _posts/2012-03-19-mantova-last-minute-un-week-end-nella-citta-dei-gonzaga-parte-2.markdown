@@ -18,7 +18,7 @@ Dopo la [prima parte](/2012/03/16/mantova-last-minute-un-week-end-nella-citta-de
 
 Con la Mantova Musei Card 5, acquistabile in diverse biglietterie (da quella di Palazzo Ducale  a quella di Palazzo Tè solo per citarne due) è possibile entrare in cinque musei (segnati in seguito con l'asterisco) al costo di 15 euro (anziché 25). Presentando la tessera si ha inoltre diritto a diverse agevolazioni, sconti o riduzioni sulla tariffa d'ingresso di altri monumenti e luoghi di interesse.
 
-**[![]({{ site.baseurl }}/uploads/2012/03/piazza-sordello-mantova.jpg)]({{ site.baseurl }}/uploads/2012/03/piazza-sordello-mantova.jpg)
+**![]({{ site.baseurl }}/uploads/2012/03/piazza-sordello-mantova.jpg)
 
 Sabato pomeriggio. Primo itinerario.**
 
@@ -34,7 +34,7 @@ Usciti da palazzo Ducale è possibile visitare il **Museo Archeologico Nazional
 
 **Domenica mattina. Secondo itinerario.**
 
-_Piazza Virgiliana - Museo Diocesano Francesco Gonzaga - Piazza delle erbe - Chiesa di Sant'Andrea - Teatro Scientifico Bibiena[![]({{ site.baseurl }}/uploads/2012/03/IMG_0368.jpg)]({{ site.baseurl }}/uploads/2012/03/IMG_0368.jpg)
+_Piazza Virgiliana - Museo Diocesano Francesco Gonzaga - Piazza delle erbe - Chiesa di Sant'Andrea - Teatro Scientifico Bibiena![]({{ site.baseurl }}/uploads/2012/03/IMG_0368.jpg)
 
 _
 
@@ -50,7 +50,7 @@ Ultima visita della mattinata il **Teatro Scientifico Bibiena** (*), situato in
 
 _Museo della città di Palazzo San Sebastiano - Chiesa di San Sebastiano - Casa del Mantegna - Palazzo del tè_
 
-[![]({{ site.baseurl }}/uploads/2012/03/Palazzo-Te-Mantova.jpg)]({{ site.baseurl }}/uploads/2012/03/Palazzo-Te-Mantova.jpg)
+![]({{ site.baseurl }}/uploads/2012/03/Palazzo-Te-Mantova.jpg)
 
 Il terzo e ultimo itinerario comincia percorrendo via Giovanni Acerbi, direzione Palazzo del Tè. Al termine della via sulla destra la Casa del Mantegna, a sinistra la **Chiesa di San Sebastiano**, progettata da Leon Battista Alberti e oggi luogo di sepoltura dei caduti mantovani di tutte le guerre.
 

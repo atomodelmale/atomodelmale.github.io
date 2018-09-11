@@ -18,7 +18,7 @@ tags:
 - Pubblica Amministrazione
 ---
 
-Cosa si cela dietro l'acronimo **P.E.C.**?[![]({{ site.baseurl }}/uploads/2010/04/pec.gif)]({{ site.baseurl }}/uploads/2010/04/pec.gif)
+Cosa si cela dietro l'acronimo **P.E.C.**?![]({{ site.baseurl }}/uploads/2010/04/pec.gif)
 
 Forse..Protezione Enti Caritatevoli?
 

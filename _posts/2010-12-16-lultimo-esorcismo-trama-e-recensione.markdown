@@ -22,7 +22,7 @@ Il reverendo Cotton Marcus è un fervente predicatore nonché un **esorcista*
 
 Cotton (e la propria troupe) si recano quindi a Ivanwood, in **Louisiana**, dove li attende l'agricoltore Louis Sweetzer, un padre di famiglia convinto che la figlia Nell sia posseduta dal demonio. Per il reverendo invece sembra trattarsi di un ennesimo caso di fanatica religiosa vittima di facili suggestioni.
 
-[![]({{ site.baseurl }}/uploads/2010/12/lultimo-esorcismo-2.jpg)]({{ site.baseurl }}/uploads/2010/12/lultimo-esorcismo-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/12/lultimo-esorcismo-2.jpg)
 
 **Nell "indiavolata" Sweetzer**.
 

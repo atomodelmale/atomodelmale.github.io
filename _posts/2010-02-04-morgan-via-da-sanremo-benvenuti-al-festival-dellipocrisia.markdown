@@ -19,7 +19,7 @@ tags:
 - Sanremo
 ---
 
-**E pensò..forse era meglio se tenevo la bocca chiusa![![]({{ site.baseurl }}/uploads/2010/02/Morgan.jpg)]({{ site.baseurl }}/uploads/2010/02/Morgan.jpg)** Il cantante **Morgan** avrebbe dovuto partecipare con la canzone "_La sera_"  alla prossima edizione del **Festival di Sanremo**, al cui inizio, oramai, mancano meno di 2 settimane. Ma in un'intervista rilasciata al mensile _Max_ l'artista, a quanto pare, la combina grossa : rivela di fare uso di cocaina come farmaco antidepressivo.
+**E pensò..forse era meglio se tenevo la bocca chiusa!![]({{ site.baseurl }}/uploads/2010/02/Morgan.jpg)** Il cantante **Morgan** avrebbe dovuto partecipare con la canzone "_La sera_"  alla prossima edizione del **Festival di Sanremo**, al cui inizio, oramai, mancano meno di 2 settimane. Ma in un'intervista rilasciata al mensile _Max_ l'artista, a quanto pare, la combina grossa : rivela di fare uso di cocaina come farmaco antidepressivo.
 
 **Un drogato? Via da Sanremo!!**
 

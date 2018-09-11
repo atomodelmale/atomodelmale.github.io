@@ -20,7 +20,7 @@ tags:
 - Juno
 ---
 
-Se nell'ultimo anno milioni e milioni di persone hanno perso il loro **posto di lavoro**, ci sarà stato anche chi ha avuto[![]({{ site.baseurl }}/uploads/2010/01/Tra-le-nuvole.jpg)]({{ site.baseurl }}/uploads/2010/01/Tra-le-nuvole.jpg) questo ingrato compito di non dire  brutalmente "_sei licenziato_" ma, elegantemente, "_il suo posto non è più disponibile_".
+Se nell'ultimo anno milioni e milioni di persone hanno perso il loro **posto di lavoro**, ci sarà stato anche chi ha avuto![]({{ site.baseurl }}/uploads/2010/01/Tra-le-nuvole.jpg) questo ingrato compito di non dire  brutalmente "_sei licenziato_" ma, elegantemente, "_il suo posto non è più disponibile_".
 
 Ryan Bingham, interpretato da un bravissimo **George Clooney**, è uno di questi, è un uomo affascinante, un abilissimo tagliatore di teste libero come l'aria. Nel cielo, appunto, trascorre la maggior parte del proprio tempo, in trasferte di lavoro, agognando il prestigioso club dei dieci milioni di miglia. Ryan è un uomo libero e felice, senza responsabilità, tutto ciò di cui ha bisogno sta in un trolley, la sua casa è la business class, stanze di alberghi executive e aeroporti sono il suo mondo.
 

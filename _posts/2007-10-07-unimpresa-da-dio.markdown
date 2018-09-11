@@ -29,7 +29,7 @@ Come nel primo film, finisce poi sotto i riflettori il rapporto tra la divinità
 
 Accanto a tutto questo si ritrovano altri elementi come quello del cambiamento (il nostro Noè nel suo slogan elettorale afferma di voler cambiare il mondo), dello sperpero delle risorse e della cattiva politica.
 
-[![]({{ site.baseurl }}/uploads/2007/10/un-impresa-da-dio-2.jpg)]({{ site.baseurl }}/uploads/2007/10/un-impresa-da-dio-2.jpg)
+![]({{ site.baseurl }}/uploads/2007/10/un-impresa-da-dio-2.jpg)
 
 4 i personaggi principali della pellicola : Evan e moglie, Dio e il politico corrotto. Il divino ** Morgan Freeman** fa il suo lavoro (come poter criticare Dio) mentre **Steve Carell** conserva la reputazione di promettente attore comico.
 

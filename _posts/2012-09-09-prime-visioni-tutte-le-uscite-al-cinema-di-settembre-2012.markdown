@@ -31,7 +31,7 @@ Merida è una giovane principessa scozzese il cui destino appare già scritto. L
 
 Prequel sulla saga di "Alien", il film racconta quanto accaduto circa 30 anni prima rispetto agli eventi descritti nelle precedenti pellicole. Una squadra di esploratori scopre un indizio sulle origini dell'umanità sul pianeta Terra che li porterà sulla luna LV-223. Lì dovranno combattere una terribile battaglia per salvare il futuro della razza umana. La regia è targata Ridley Scott.
 
-**L'Era Glaciale 4 – Continenti alla deriva[![]({{ site.baseurl }}/uploads/2012/09/L'Era-Glaciale-4-–-Continenti-alla-deriva.jpg)]({{ site.baseurl }}/uploads/2012/09/L'Era-Glaciale-4-–-Continenti-alla-deriva.jpg)**
+**L'Era Glaciale 4 – Continenti alla deriva![]({{ site.baseurl }}/uploads/2012/09/L'Era-Glaciale-4-–-Continenti-alla-deriva.jpg)**
 
 Manny, Ellie, Diego, Sid e Scrat continuano a imperversare sul grande schermo con le loro avventure..e disavventure. Un nuovo pericolo minaccia il loro mondo: la deriva dei continenti (causata proprio da quel maldestro di Scrat).  Manny, Sid e Diego verranno separati dal loro branco e per tornarci dovranno affrontare una banda di pericolosi pirati.
 

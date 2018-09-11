@@ -31,7 +31,7 @@ Se l'esito del referendum getta nella più totale disperazione i passeggeri dell
 
 Anche nella capitale si festeggia. Per l'occasione ecco rispuntare il video del gesto del capitano della Roma Francesco Totti. Era l'8 febbraio 2004 e la squadra giallorossa stava vincendo 4 a 0 sulla Juventus. Evidente ora invece a chi è rivolto l'invito ad andarsene. Stesso discorso per l'attore romano Alberto Sordi.
 
-[![]({{ site.baseurl }}/uploads/2011/06/Colpito-al-quorum.jpg)]({{ site.baseurl }}/uploads/2011/06/Colpito-al-quorum.jpg)
+![]({{ site.baseurl }}/uploads/2011/06/Colpito-al-quorum.jpg)
 
 **Gli slogan.**
 

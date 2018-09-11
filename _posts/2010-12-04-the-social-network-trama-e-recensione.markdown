@@ -18,7 +18,7 @@ tags:
 
 **Facemash, l'antenato di Facebook! Mark Zuckerberg** è un giovane studente dell'università di Harvard nonché un brillante programmatore. Una sera, in un pub, viene lasciato dalla propria ragazza, Erica Albright. Tornato nel proprio appartamento Mark crea "**FaceMash"**, un sito dove, di volta in volta, vengono messe casualmente a confronto due ragazze dell'Università e dove gli studenti possono votare chi è la più attraente tra le 2.
 
-[![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film.jpg)]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film.jpg)
+![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film.jpg)
 
 Il sito in poche ore riscuote un grande successo, tante da far crashare i server dell'Università di Harvard. L'episodio, mal visto dall'università, suscita invece l'interesse dei gemelli Cameron e Tyler Winklevoss e del loro socio Divya Narendra, interessati a creare un sito, intitolato "**HarvardConnection**", per connettere online gli studenti di Harvard.
 
@@ -30,7 +30,7 @@ Il resto è storia : "Thefacebook " si propaga velocemente tra gli studenti di
 
 La pellicola tuttavia non vuole celebrare il **social network** più famoso del mondo ma piuttosto parlare del suo aspetto meno conosciuto e più oscuro, come le vicende giudiziarie e i nemici che il giovane Mark Zuckerberg ha incontrato sulla strada del successo.
 
-[![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-21.jpg)]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-21.jpg)
+![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-21.jpg)
 
 Prima i fratelli Winklevoss e il loro socio Divya Narendra poi l'amico - socio in affari Eduardo Saverin. I primi accusano Mark di avergli rubato l'idea, il secondo di averlo escluso dalla compagnia, dopo che la propria quota è passata da un cospicuo 30% ad un più misero o,o3%.
 
@@ -44,7 +44,7 @@ E così mentre sullo schermo scorrono le immagini delle cause che vedono coi
 
 Facebook d'altronde, oltre a a ben rappresentare le contraddizioni e il tipo di società del nostro tempo, rappresenta la storia di una rivincita personale o, come lo si voglia chiamare, di un **riscatto**. In questo caso di un giovane che a soli 26 anni si ritrova ad essere il miliardario più giovane del mondo e il fondatore di un'azienda che vale almeno 25 miliardi di dollari. Niente male per chi, all'università, veniva ignorato dai prestigiosi circoli dell'alta società.
 
-[![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-3.jpg)]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-3.jpg)
+![]({{ site.baseurl }}/uploads/2010/12/The-Social-Network-film-3.jpg)
 
 Ma anche la storia di un'**idea**, tanto semplice quanto geniale e rivoluzionaria. Ideata da un giovane, Mark Zuckerberg, che si ritrova  ben presto tra le mani qualcosa che va al di là di ogni può rosea aspettativa ma che deve anche fare i conti con nuovi problemi e con la luce dei riflettori.
 

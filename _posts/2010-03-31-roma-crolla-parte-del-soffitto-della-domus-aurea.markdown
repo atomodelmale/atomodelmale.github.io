@@ -17,7 +17,7 @@ tags:
 - Roma
 ---
 
-Ieri, a Roma, una porzione di **soffitto** della **Domus Aurea**, la celebre residenza dell'imperatore **Nerone** costruita tra il 64 e il 68 d.C., è crollata a causa di infiltrazioni d'acqua.[![]({{ site.baseurl }}/uploads/2010/03/domus-aurea.jpg)]({{ site.baseurl }}/uploads/2010/03/domus-aurea.jpg)
+Ieri, a Roma, una porzione di **soffitto** della **Domus Aurea**, la celebre residenza dell'imperatore **Nerone** costruita tra il 64 e il 68 d.C., è crollata a causa di infiltrazioni d'acqua.![]({{ site.baseurl }}/uploads/2010/03/domus-aurea.jpg)
 
 Il crollo non ha coinvolto il corpo principale del palazzo voluto da Nerone bensì una galleria eretta successivamente dall'imperatore **Traiano**. Quest'ultimo infatti fece interrare la Domus per erigervi sopra le proprie terme.
 

@@ -19,7 +19,7 @@ Patrimonio dell'umanità dell'Unesco. Terra natale del poeta romano Virgilio. 
 
 **Come raggiungerla e dove alloggiare.**
 
-Mantova è facilmente raggiungibile con il treno, l'aereo, la macchina. Il percorso in auto è molto semplice : se partite dalla provincia di Bologna basta imboccare l'**A14** e prendere l'**A22** subito dopo l'uscita di **Modena nord**. Percorsi una settantina di chilometri eccoci arrivati a Mantova. Il percorso si svolge quasi tutto in autostrada e tempo un'ora e mezza (senza neanche spingere troppo sull'acceleratore) si giunge a destinazione.[![]({{ site.baseurl }}/uploads/2012/03/cartina-mantova-2.jpg)]({{ site.baseurl }}/uploads/2012/03/cartina-mantova-2.jpg)
+Mantova è facilmente raggiungibile con il treno, l'aereo, la macchina. Il percorso in auto è molto semplice : se partite dalla provincia di Bologna basta imboccare l'**A14** e prendere l'**A22** subito dopo l'uscita di **Modena nord**. Percorsi una settantina di chilometri eccoci arrivati a Mantova. Il percorso si svolge quasi tutto in autostrada e tempo un'ora e mezza (senza neanche spingere troppo sull'acceleratore) si giunge a destinazione.![]({{ site.baseurl }}/uploads/2012/03/cartina-mantova-2.jpg)
 
 Sono 2 le uscite utilizzabili : **Mantova** sud e **nord**. Consiglio la seconda, dopo pochi chilometri seguendo l'indicazione "Mantova centro" si arriva nella città lombarda attraverso il **Ponte di San Giorgio**. Una volta arrivati in città però cominciano i problemi.
 
@@ -31,7 +31,7 @@ Per quanto riguarda la scelta dell'alloggio Mantova offre una vasta scelta. Gli 
 
 Prima di addentraci in 3 possibili itinerari di visita che coprono un arco temporale di poco più di un giorno un pò di storia. Mantova deve molte delle sue meraviglie architettoniche a una casata, i **Gonzaga**, una delle famiglie principesche più famose d'europa.
 
-[![]({{ site.baseurl }}/uploads/2012/03/Stemma-Gonzaga.png)]({{ site.baseurl }}/uploads/2012/03/Stemma-Gonzaga.png)
+![]({{ site.baseurl }}/uploads/2012/03/Stemma-Gonzaga.png)
 
 I Gonzaga governarono la città per oltre 4 secoli (dal 1328 al 1708) ritagliandosi un ruolo di primo piano nel contesto politico italiano ed europeo del tempo. Le origini della casata risalgono al XII secolo quando Guglielmo Corradi venne investito delle terre di Gonzaga (oggi un piccolo comune della provincia lombarda) dall'abate dell'abbazia benedettina di Polirone a San Benedetto Po.
 

@@ -30,7 +30,7 @@ Quello che è successo tuttavia non è altro che l'ultimo di una serie di casi e
 
 Il superiore di Olivia, tal **Phillip Broyles**, rivela infatti all'agente Dunham che la  Sicurezza Nazionale Americana ha definito il ripetersi di questi fenomeni "Lo Schema" e la mette a capo di una speciale divisione interna all'FBI chiamata a indagare sul caso.
 
-**Divisione Fringe[![]({{ site.baseurl }}/uploads/2011/02/Divisione-Fringe.jpg)]({{ site.baseurl }}/uploads/2011/02/Divisione-Fringe.jpg)**
+**Divisione Fringe![]({{ site.baseurl }}/uploads/2011/02/Divisione-Fringe.jpg)**
 
 Della divisione, chiamata per l'appunto "Divisione Fringe", fanno parte oltre ad Oliva 3 persone: Walter e Peter Bishop e l'agente Astrid Farnsworth.
 
@@ -43,7 +43,7 @@ Della divisione, chiamata per l'appunto "Divisione Fringe", fanno parte oltre
 	
   * **Agente Astrid Farnsworth**. E' la nuova assistente di Walter e Peter nello stesso laboratorio dell'Università di Harvard in cui Bishop padre praticava i suoi primi esperimenti.
 
-**Scienza di confine[![]({{ site.baseurl }}/uploads/2011/02/fringe-2.jpg)]({{ site.baseurl }}/uploads/2011/02/fringe-2.jpg)**
+**Scienza di confine![]({{ site.baseurl }}/uploads/2011/02/fringe-2.jpg)**
 
 I casi dello Schema sono tutti riconducibili alla _Fringe Science_, una scienza che per teorie, ricerche e sperimentazioni si pone ai limiti (se non oltre) del tradizionale pensiero accademico e dei dettami scientifici convenzionalmente riconosciuti e accettati.
 

@@ -22,7 +22,7 @@ Dopo giorni di scontri nella capitale libica sembra essere tornata la calma. 
 
 Mentre nella città di **Bengasi** si attende la presentazione del governo provvisorio post Gheddafi e alcuni esponenti dell'opposizione hanno annunciato la nascita di un Consiglio Nazionale con il compito di coordinare le attività dei gruppi di rivoltosi e di governare le aree della Libia liberate dal regime, si combatte ancora a Zawia e Misurata.
 
-[![]({{ site.baseurl }}/uploads/2011/02/libira-rivolta-3.jpg)]({{ site.baseurl }}/uploads/2011/02/libira-rivolta-3.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/libira-rivolta-3.jpg)
 
 Si riferisce inoltre che nella giornata del 24 febbraio un gruppo di giornalisti italiani è stato bloccato e controllato da un gruppo di miliziani governativi sull'autostrada che va dall'aeroporto a Tripoli. Dopo un rude controllo gli stessi sono stati rilasciati e hanno potuto raggiungere un albergo della capitale.
 
@@ -32,7 +32,7 @@ L'intervento dell'Onu segue quello del presidente degli Stati Uniti **Barack Oba
 
 E' poi iniziato e prosegue tutt'ora il rimpatrio dei propri concittadini dal paese libico da parte di numerosi paesi europei e non. Per l'Italia nei giorni scorsi due aerei C-130 dell'Aeronautica militare hanno riportato a casa 1.100 connazionali mentre in Libia ne rimarrebbero altri 400. Oggi la nave San Giorgio della Marina militare ha evacuato dal paese nordafricano altre 258 persone, 121 delle quali italiane.
 
-[![]({{ site.baseurl }}/uploads/2011/02/libia-rivolta-4.jpg)]({{ site.baseurl }}/uploads/2011/02/libia-rivolta-4.jpg)
+![]({{ site.baseurl }}/uploads/2011/02/libia-rivolta-4.jpg)
 
 E mentre il capo di gabinetto della Fao Herve Leveune ha annunciato di aver designato Roma come città per l'evacuazione delle persone provenienti dalla Libia, secondo Al Jazeera 20mila persone hanno lasciato il paese attraverso il valico di Sallum con l'Egitto. Altre 5700 invece sono fuggite, secondo la Croce Rossa, verso la Tunisia.
 

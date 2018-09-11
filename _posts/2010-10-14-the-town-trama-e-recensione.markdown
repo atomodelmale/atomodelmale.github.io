@@ -25,7 +25,7 @@ A **Boston** si contano all'anno oltre 300 rapine nelle banche  della città. La
 
 Doug MacRay (Ben Affleck) è uno di questi ed è a capo di una banda specializzata  nella rapina di banche e furgoni portavalori. Tutto cambia durante  l'ultimo furto : il gruppo prende in ostaggio Claire, la giovane  direttrice della banca e in seguito la lascia libera.
 
-[![]({{ site.baseurl }}/uploads/2010/10/The-Town1.jpg)]({{ site.baseurl }}/uploads/2010/10/The-Town1.jpg)
+![]({{ site.baseurl }}/uploads/2010/10/The-Town1.jpg)
 
 Ma Claire ho visto qualcosa ed ora per i rapinatori si pone il  problema di tenerla sotto controllo e se necessario di spaventarla (o  ancor peggio di ucciderla). Doug si assume il compito di sorvegliarla  sostituendosi a Jem, altro membro della banda con il grilletto facile. I  2 si conoscono e incominciano a frequentarsi.
 
@@ -37,7 +37,7 @@ Doug, il cervello della banda, considera i membri del gruppo come persone di fam
 
 Ma Doug, a differenza di tutti gli altri, ha avuto anche la possibilità di riuscire nella vita e di non seguire le orme criminali del padre. Ma ha fallito. Da allora il desiderio di cambiare la propria esistenza  e di uscire dal mondo della criminalità non lo ha mai abbandonato e Claire rappresenta, ora, l'ultima vera possibilità di cambiamento. L'**FBI** infatti è ormai addosso a lui e alla sua banda.
 
-[![]({{ site.baseurl }}/uploads/2010/10/The-Town-2.jpg)]({{ site.baseurl }}/uploads/2010/10/The-Town-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/10/The-Town-2.jpg)
 
 Ma a cosa dare retta? Al proprio cuore o al senso di fratellanza e lealtà che lo accomuna agli altri membri della banda?
 

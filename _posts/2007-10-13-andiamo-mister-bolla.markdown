@@ -58,7 +58,7 @@ Non abbiamo il tempo di porci queste domande, saliamo le scale del faro e scopri
 
 La sfera comincia la sua infernale discesa: la nostra dantesca avventura nelle viscere di **Rapture** ha inizio.
 
-[![]({{ site.baseurl }}/uploads/2008/10/rapture.png)]({{ site.baseurl }}/uploads/2008/10/rapture.png)
+![]({{ site.baseurl }}/uploads/2008/10/rapture.png)
 
 **Un po' Orwell, un po' Shelley, molto Lang**
 

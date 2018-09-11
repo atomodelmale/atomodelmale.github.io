@@ -17,7 +17,7 @@ tags:
 - Po
 ---
 
-Metri cubi di oli combustibili fuoriusciti da cisterne della raffineria **Lombarda Petroli** hanno invaso il fiume **Lambro** e poi il Po. Le barriere destinate a contenere i mortali ed inquinanti liquidi sono riuscite a fermarne gran parte e solo tra i 125 e i 250 mila litri (su almeno 10 milioni) hanno raggiunto il primo corso d'acqua italiano.[![]({{ site.baseurl }}/uploads/2010/02/Lambro.jpg)]({{ site.baseurl }}/uploads/2010/02/Lambro.jpg)
+Metri cubi di oli combustibili fuoriusciti da cisterne della raffineria **Lombarda Petroli** hanno invaso il fiume **Lambro** e poi il Po. Le barriere destinate a contenere i mortali ed inquinanti liquidi sono riuscite a fermarne gran parte e solo tra i 125 e i 250 mila litri (su almeno 10 milioni) hanno raggiunto il primo corso d'acqua italiano.![]({{ site.baseurl }}/uploads/2010/02/Lambro.jpg)
 
 La **fuoriuscita**è avvenuta nella notte tra lunedì e martedì e molto probabilmente si è trattato di un **atto doloso**, intenzionale. La marea nera si è riversata sul fiume Lambro e con una lunghezza di almeno 50 km e con uno spessore tra i 10 e i 15 cm ha percorso silenziosamente il fume lombardo per poi giungere al Po nei pressi di Piacenza e lambire anche la provincia di Parma. Gli **sbarramenti** predisposti, da ultimo quello presso l'isola Serafini, hanno evitato il peggio.
 

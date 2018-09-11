@@ -15,7 +15,7 @@ tags:
 - Usa
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/09/Medal-of-Honor.jpg)]({{ site.baseurl }}/uploads/2011/09/Medal-of-Honor.jpg)
+_![]({{ site.baseurl }}/uploads/2011/09/Medal-of-Honor.jpg)
 
 Medal of honor_ non è solo una famosa e appezzata serie di videogiochi.
 
@@ -29,7 +29,7 @@ La Medal of honor è poi solo una delle due onorificenze militari (l'altra è la
 
 Dal 1862 (anno in cui fu creata l'onorificenza) ad oggi sono state conferite almeno 3464 medaglie a 3445 persone (19 di esse ne hanno ricevete ben 2). Il primo a riceverla fu il soldato_ Jacob Parrott_ durante la guerra civile americana, l'unica donna ad ottenenerla _Mary Edwards Walker_, una chirurga.
 
-Generalmente la medaglia viene assegnata solo a membri dell'esercito statunitensi (non importa che lo stesso sia necessariamente americano) e a militari. Tuttavia nel corso tempo si sono verificate eccezioni in entrambi i casi. Ad esempio è stata assegnata al _Milite Ignoto_ britannico e a _Charles Lindbergh_,un pilota civile all'epoca del compimento del gesto valoroso.[![]({{ site.baseurl }}/uploads/2011/09/Dakota_Meyer_2.jpg)]({{ site.baseurl }}/uploads/2011/09/Dakota_Meyer_2.jpg)
+Generalmente la medaglia viene assegnata solo a membri dell'esercito statunitensi (non importa che lo stesso sia necessariamente americano) e a militari. Tuttavia nel corso tempo si sono verificate eccezioni in entrambi i casi. Ad esempio è stata assegnata al _Milite Ignoto_ britannico e a _Charles Lindbergh_,un pilota civile all'epoca del compimento del gesto valoroso.![]({{ site.baseurl }}/uploads/2011/09/Dakota_Meyer_2.jpg)
 
 Il 15 settembre 2011 è stata conferita da Barack Obama una nuova Medal of honor al veterano del Corpo dei Marine **Dakota L. Meyer**.
 

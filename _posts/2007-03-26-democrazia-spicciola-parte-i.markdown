@@ -31,7 +31,7 @@ Già il buon **Platone** aveva previsto che ogni democrazia sarebbe stata passib
 
 La ragione intestina di questo ciclo di morte/resurrezione della democrazia è insita in coloro che sono alla base della democrazia stessa: **il popolo**. La linfa vitale della democrazia è infatti l'**impegno** di tutto il popolo nell'affrontare i problemi e le questioni che lo riguardano, promuovere degli ideali e alcune volte inseguire delle vere e proprie utopie (diritti uguali per tutti, suffragio universale, sanità migliore, etc...); al contrario il cancro che pregiudica la morte della democrazia è **l'apatia**, il fatto che solo pochi addetti ai lavori si interessino delle questioni di stato, mentre il resto della popolazione rimane in disparte, quasi non fosse affar suo.
 
-[![]({{ site.baseurl }}/uploads/2008/10/animal-farm.png)]({{ site.baseurl }}/uploads/2008/10/animal-farm.png)
+![]({{ site.baseurl }}/uploads/2008/10/animal-farm.png)
 
 Il fatto fondamentale è capire che la democrazia non va intesa come "**governo della massa**" (nel significato Orwelliano del termine), ma "**governo degli individui**".
 

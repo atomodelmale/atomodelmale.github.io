@@ -36,7 +36,7 @@ Ecco nel dettaglio le singole voci
 - **28mila e 138 euro** per sclerosante (per curare i problemi delle vene varicose);
 - **3mila 636 euro** per visite omeopatiche.
 
-[![]({{ site.baseurl }}/uploads/2011/09/012.jpg)]({{ site.baseurl }}/uploads/2011/09/012.jpg)
+![]({{ site.baseurl }}/uploads/2011/09/012.jpg)
 
 Ovviamente i deputati si sono anche fatti curare in strutture del servizio sanitario nazionale, e dunque hanno chiesto il rimborso all'assistenza integrativa del Parlamento per **153mila euro** di ticket.
 

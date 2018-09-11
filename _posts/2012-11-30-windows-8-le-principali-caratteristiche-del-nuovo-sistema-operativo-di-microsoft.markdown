@@ -24,7 +24,7 @@ Anche sul versante dell'avvio BigM ha fatto le cose a dovere e promette tempi di
 
 ## Metro (Modern) e lo Start Screen
 
-[![]({{ site.baseurl }}/uploads/2012/11/start-screen.jpg)]({{ site.baseurl }}/uploads/2012/11/start-screen.jpg)
+![]({{ site.baseurl }}/uploads/2012/11/start-screen.jpg)
 
 Windows 8 è stato pensato per girare tanto sui tablet quanto sui desktop e la nuova interfaccia Metro -- in seguito ribatezzata Modern -- ne è il perfetto esempio.
 

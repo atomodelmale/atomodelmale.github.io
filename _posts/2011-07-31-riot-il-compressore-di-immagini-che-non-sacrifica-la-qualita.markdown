@@ -46,7 +46,7 @@ RIOT riesce a gestire i formati più comuni – **JPEG**, **GIF** e **PNG**– e
 
 Considerando l'immagine **JPEG** sotto riportata di **1190x454 pixel** con **24 bit** di colore e **300 dpi** e del peso di **320,86 KB** come originale, utilizzando l'impostazione consigliata di RIOT con percentuale di **qualità al 75%** e **Chrome Subsampling: Medium (4:2:0)** si ottiene un'immagine ottimizzata di appena **106 KB** (il 33% del peso dell'originale) dalla qualità leggermente inferiore dell'originale (se si fa un ingrandimento si nota la presenza di alcuni artefatti, soprattutto nelle zone più colorate), che senz'altro farà storcere il naso ai puristi dell'immagine, ma che per un caricamento su Facebook, per l'invio come allegato e per risparmiare spazio sull'HD va benissimo.
 
-[caption id="attachment_10020" align="aligncenter" width="300" caption="Clicca sull'immagine per ingrandirla"][![]({{ site.baseurl }}/uploads/2011/07/default.jpg)]({{ site.baseurl }}/uploads/2011/07/default.jpg)[/caption]
+![]({{ site.baseurl }}/uploads/2011/07/default.jpg)
 
 Riporto un ennesimo esempio, più immediato ma anche più pratico, questa volta viene preso come originale un **"blocco" di foto di 50 scatti** di dimensione **4000x3000** pixel con **24 bit** di colore e **180dpi** del peso medio di circa 5,5 MB a immagine per **circa 271 MB totali**. Utilizzando la funzione di **batch** del programma, le immagini sono compresse a circa 680 KB l'una (intorno al 12% del peso dell'originale) per un totale di poco più di **35MB**.
 

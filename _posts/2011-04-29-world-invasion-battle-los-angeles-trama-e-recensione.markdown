@@ -38,7 +38,7 @@ Lo sparuto gruppo di Marines si trova così a fronteggiare un nemico di cui no
 
 Nantz e compagni ben presto si ritrovano così catapulti all'inferno, con alieni pronti a sparare da ogni angolo e dotati di una avanzata tecnologia e strategia militare. Persi i contatti con il resto del mondo ai militari non resta altro che fare il proprio dovere e portare a termine la propria **missione**.
 
-[![]({{ site.baseurl }}/uploads/2011/04/world-invasion-2.jpg)]({{ site.baseurl }}/uploads/2011/04/world-invasion-2.jpg)
+![]({{ site.baseurl }}/uploads/2011/04/world-invasion-2.jpg)
 
 **Azione senza limiti.**
 

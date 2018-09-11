@@ -20,7 +20,7 @@ tags:
 - Uomo
 ---
 
-**Un ululato nella brughiera..[![]({{ site.baseurl }}/uploads/2010/02/Wolfman.jpg)]({{ site.baseurl }}/uploads/2010/02/Wolfman.jpg)
+**Un ululato nella brughiera..![]({{ site.baseurl }}/uploads/2010/02/Wolfman.jpg)
 
  Inghliterra **, paese di Blackmoor, 1891.**Lawrence Talbot** (Benicio Del Toro) ritorna nella propria tenuta di famiglia dopo il brutale assassinio del fratello, il cui corpo è stato rinvenuto orribilmente mutilato. Nella vecchia casa dimora ormai soltanto il vecchio padre (Anthony Hopkins), il suo fedele servo e Gwen (Emily Blunt), la fidanzata del defunto fratello di Lawrence.
 
@@ -32,7 +32,7 @@ Dopo alcuni anni di assenza dal grande schermo l'**uomo lupo** torna a essere pr
 
 Creatura della **Universal** creata nel 1935 il lupo mannaro è una individuo condannato a trasformarsi in belva sanguinaria ogni notte di **luna piena**. E' dotato di forza sovrumana e solo l'**argento** può ucciderlo. L'uomo lupo è diventato inoltre un icona del cinema horror grazie ai successi dei primi film degli anni 30 e 40 (i cosiddetti monster movie)  del 900 e costituisce assieme a _Dracula_, al _fantasma dell'Opera_, a_ Frankenstein_ e alla relativa consorte, alla _mummia_, all'_uomo invisibile_ e al _mostro della laguna nera_ il gruppo dei mostri della casa cinematografica sopra citata.
 
-[![]({{ site.baseurl }}/uploads/2010/02/Wolfman-2.jpg)]({{ site.baseurl }}/uploads/2010/02/Wolfman-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/02/Wolfman-2.jpg)
 
 **La bella, l'uomo e la bestia.**
 
@@ -42,7 +42,7 @@ L'amore della donna amata forse potrà salvarlo ma ciò probabilmente non sarà 
 
 **Sangue a volontà.**
 
-[![]({{ site.baseurl }}/uploads/2010/02/Wolfman-3.jpg)]({{ site.baseurl }}/uploads/2010/02/Wolfman-3.jpg)
+![]({{ site.baseurl }}/uploads/2010/02/Wolfman-3.jpg)
 
 Wolfman si caratterizza quindi, oltre che per il rapporto tra la "bella" e la bestia, anche per una certa **_cruentezza _** delle scene : Lawrence nei panni del lupo mannaro smembra e uccide a destra e sinistra, senza alcuna pietà. Quel che rimane delle sue povere **vittime** giace a terra, tra un braccio, una gamba e qualche interiora.
 

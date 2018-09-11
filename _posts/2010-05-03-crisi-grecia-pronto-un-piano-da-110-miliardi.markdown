@@ -36,7 +36,7 @@ Molti si chiederanno perchè mai l **'Italia**, paese già alla prese con uno de
 
 Se probabilmente sulla questione era necessaria maggiore trasparenza lasciare affondare la Grecia era però impensabile per 2 ordini di ragioni.
 
-Prima. La Grecia essendo nella zona **euro** se fallisce trascina con se anche il resto dell'Europa (che d'altronde si è affrettata ad aiutarla).[![]({{ site.baseurl }}/uploads/2010/05/euro.jpg)]({{ site.baseurl }}/uploads/2010/05/euro.jpg)
+Prima. La Grecia essendo nella zona **euro** se fallisce trascina con se anche il resto dell'Europa (che d'altronde si è affrettata ad aiutarla).![]({{ site.baseurl }}/uploads/2010/05/euro.jpg)
 
 Seconda. La seconda ragione sta nei cosiddetti **Credit  default swap**(Cds), un derivato, cioè un prodotto finanziario il cui valore deriva dal verificarsi di un determinato evento (in questo caso l'**inadempienza** di uno Stato a pagare il proprio debito, sulla quale quindi si specula e si scommette, sperando però nello stesso tempo che non si verifichi). Questi Cds sul debito Greco sono stati acquistati da banche ed enti locali di tutta Europa ed ora questi, se la Grecia fallisse, rischierebbero grosso.
 

@@ -16,7 +16,7 @@ tags:
 
 **Il Mare a Sassoleone**
 
-[![]({{ site.baseurl }}/uploads/2011/08/mare-a-sassoleone.jpg)]({{ site.baseurl }}/uploads/2011/08/mare-a-sassoleone.jpg)
+![]({{ site.baseurl }}/uploads/2011/08/mare-a-sassoleone.jpg)
 
 Lui è **chiunque**, barbiere e falegname di una **Sassoleone fantastica**, in quella "terra di mezzo" che è l'inconscio, dove il tempo, da flusso inarrestabile, scroscia in una cascata capace di rimescolare passato e presente e di dar vita ad una dimensione tanto onirica quanto reale.
 

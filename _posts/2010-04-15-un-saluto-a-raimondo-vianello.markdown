@@ -17,7 +17,7 @@ tags:
 - Spettacolo
 ---
 
-Un saluto a **Raimondo Vianello**.[![]({{ site.baseurl }}/uploads/2010/04/Raimondo-Vianello.jpg)]({{ site.baseurl }}/uploads/2010/04/Raimondo-Vianello.jpg)
+Un saluto a **Raimondo Vianello**.![]({{ site.baseurl }}/uploads/2010/04/Raimondo-Vianello.jpg)
 
 Il popolare e storico volto della **televisione** italiana si è spento oggi all'ospedale San Raffaele di Milano all'età di 87 anni. Al suo fianco la moglie **Sandra Mondaini**.
 

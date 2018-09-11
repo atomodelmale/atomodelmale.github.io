@@ -29,7 +29,7 @@ Si conclude, dopo cinque anni, la saga di vampiri più famosa degli ultimi anni.
 
 Prima l'1, poi il 2 e il 3. Per la saga horror nata nel 2009 con Oren Peli non è ancora giunto il momento di dire basta. E chissà cosa succederà nel nuovo episodio.
 
-**Di nuovo in gioco[![]({{ site.baseurl }}/uploads/2012/11/Di-nuovo-in-gioco.png)]({{ site.baseurl }}/uploads/2012/11/Di-nuovo-in-gioco.png)**
+**Di nuovo in gioco![]({{ site.baseurl }}/uploads/2012/11/Di-nuovo-in-gioco.png)**
 
 Clint Eastwood ritorna sul grande schermo con "Di nuovo in gioco", interpretando il ruolo di Gus Lobel, uno dei migliori scout del baseball, sempre in cerca di nuovi talenti sportivi. Purtroppo però l'età avanza e per Lobel si avvicina il momento di andare in panchina. Per l'ultimo incarico lo accompagnerà la figlia Mickey, per anni lasciata in disparte a causa degli impegni di lavoro. Ora Lobel avrà l'occasione di rimediare agli errori del passato.
 

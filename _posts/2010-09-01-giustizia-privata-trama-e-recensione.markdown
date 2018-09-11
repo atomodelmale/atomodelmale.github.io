@@ -32,7 +32,7 @@ Clyde si trasforma così in uno spietato **assassino**, in lotta contro tutti e 
 
 La sua è comunque una **vendetta** programmata, fredda, inserita in un piano che intende anche far riflettere le proprie vittime. Clyde è intelligente, astuto e può disporre di molto denaro e di tecnologie sofisticate. Incastrarlo (ma sopratutto fermarlo) non sarà facile.
 
-[![]({{ site.baseurl }}/uploads/2010/09/giustizia-privata-2.jpg)]({{ site.baseurl }}/uploads/2010/09/giustizia-privata-2.jpg)
+![]({{ site.baseurl }}/uploads/2010/09/giustizia-privata-2.jpg)
 
 **Una questione anche personale.**
 

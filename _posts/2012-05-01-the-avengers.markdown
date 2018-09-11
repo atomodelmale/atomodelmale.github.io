@@ -25,7 +25,7 @@ tags:
 
 **Vendicatori Uniti!**
 
-[![]({{ site.baseurl }}/uploads/2012/05/Avengers4.jpg)]({{ site.baseurl }}/uploads/2012/05/Avengers4.jpg)
+![]({{ site.baseurl }}/uploads/2012/05/Avengers4.jpg)
 
 L'unione fa la forza e se i membri dell'unione sono dei super-eroi fa una super-forza!
 

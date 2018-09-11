@@ -16,7 +16,7 @@ tags:
 - Robert Downey Jr.
 ---
 
-_[![]({{ site.baseurl }}/uploads/2011/01/hereafter.jpg)]({{ site.baseurl }}/uploads/2011/01/hereafter.jpg)
+_![]({{ site.baseurl }}/uploads/2011/01/hereafter.jpg)
 
 Clint Eastwood_ ci ha regalato molti capolavori, sia come attore che come regista (basti pensare a _Million dollar baby_ o a _Gran Torino_). E ora forse ce ne regalerà un altro. Stiamo parlando di **Hereafter**, storia di 3 sconosciuti le cui vite saranno destinate ad intrecciarsi. E a cambiare per sempre. Uscita il 5 gennaio.
 

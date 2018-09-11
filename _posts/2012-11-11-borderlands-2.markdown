@@ -33,7 +33,7 @@ Nell'affrontare Jack sarete comunque aiutati da diversi personaggi, alcuni già 
 
 Da parte sua Pandora offrirà la consueta libertà di azione (già punto forte del primo capitolo) e tante avventure. Le varie missioni si potranno selezionare sia in alcune città chiave sia girovagando in qua e là, che siano nascoste in un registratore nascosto tra cumuli di rifiuti che provengano dalla richiesta di un abitante del pianeta.
 
-[![]({{ site.baseurl }}/uploads/2012/11/ri-borderlands2.jpg)]({{ site.baseurl }}/uploads/2012/11/ri-borderlands2.jpg)
+![]({{ site.baseurl }}/uploads/2012/11/ri-borderlands2.jpg)
 
 Diversi i nemici che dovrete affrontare durante il percorso, da pericolose creature a micidiali robot, senza dimenticare gli immancabili boss di turno. A voi al decisione se continuare il killeraggio, cosa di per se abbastanza inutile una volta raggiunto un certo livello o scansare i nemici che si ripropongono ogni volta entrati in una mappa già visitata.
 
@@ -41,7 +41,7 @@ Diversi i nemici che dovrete affrontare durante il percorso, da pericolose creat
 
 Molto importante sarà comunque raccogliere gli oggetti lasciati dai nemici uccisi, specialmente all'inizio. La raccolta di munizioni, armi, granate, ecc ecc vi consentirà di inserire nel vostro inventario micidiali armi di distruzione di massa senza borsare un soldo. Rovistare tra i cumuli di rifiuti, se disgustoso nella vita reale, su Pandora potrà i suoi frutti.
 
-Altissima la varietà di armi che potrete trovare sul pianeta, sempre più potenti  e letali man mano che salirete di livello.[![]({{ site.baseurl }}/uploads/2012/11/borderlands2-ter.jpg)]({{ site.baseurl }}/uploads/2012/11/borderlands2-ter.jpg) Su Pandora non mancheranno diversi **veicoli** guidabili, utili per schiacciare senza troppi complimenti chi vi intralcerà la strada o per sterminarlo a suon di cannonate o raffiche di mitragliatrice.
+Altissima la varietà di armi che potrete trovare sul pianeta, sempre più potenti  e letali man mano che salirete di livello.![]({{ site.baseurl }}/uploads/2012/11/borderlands2-ter.jpg) Su Pandora non mancheranno diversi **veicoli** guidabili, utili per schiacciare senza troppi complimenti chi vi intralcerà la strada o per sterminarlo a suon di cannonate o raffiche di mitragliatrice.
 
 **I cacciatori della cripta**
 

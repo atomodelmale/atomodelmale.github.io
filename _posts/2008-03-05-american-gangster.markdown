@@ -34,7 +34,7 @@ All'interno di una **New York** contraddistinta dalla povertà ed emarginazione 
 
 All'inizio il mercato è diviso in tante concorrenti che gestiscono lo spaccio in diverse zone della città poi si fa strada, tramite la violenza, l'intimidazione e le tangenti, un unico padrone : Frank Lucas, che approfittando della morte del suo mentore e datore di lavoro, importa direttamente la droga dal Vietnam e la vende a prezzi stracciati. Ecco quindi il potere e l'arrivo della famiglia, prontamente arruolata per gestire il fiorente traffico illegale.
 
-[![]({{ site.baseurl }}/uploads/2008/10/american-gangsters1.jpg)]({{ site.baseurl }}/uploads/2008/10/american-gangsters1.jpg)
+![]({{ site.baseurl }}/uploads/2008/10/american-gangsters1.jpg)
 
 _..la famiglia è sempre la famiglia.. _
 
