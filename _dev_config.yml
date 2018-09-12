@@ -36,7 +36,7 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-    #- categories
+    - categories
     - year
     - month
   layout: archive
