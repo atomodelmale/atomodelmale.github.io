@@ -41,7 +41,7 @@ jekyll-archives:
     - month
   layout: archive
   permalinks:
-    # category: '/category/:name/'
+    category: '/category/:name/'
     year: '/archive/:year/'
     month: '/archive/:year/:month/'
     

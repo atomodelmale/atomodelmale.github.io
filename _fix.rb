@@ -12,7 +12,7 @@ counter = 0
 Dir.glob( files ) { | file |
 
   content = File.read( file )
-  reg = /\[!\[\]\(\{\{ site.baseurl }}.+\)\]/
+  reg = /iframe/
   # img_file = content.scan( reg ).last.first
 
   # if !File.exist? "_#{img_file}"
@@ -22,11 +22,11 @@ Dir.glob( files ) { | file |
   if reg.match? content
   
     # puts "==="
-    # puts file
-    # puts content.scan( reg )
-    content = content.gsub( reg, "![]" )
-    File.open( "#{file}", 'w' ){ |file| file.write( content ) }
-    # puts "==="
+    puts file
+    puts content.scan( reg )
+    # content = content.gsub( reg, "![]" )
+    # File.open( "#{file}", 'w' ){ |file| file.write( content ) }
+    puts "==="
 
   end
 

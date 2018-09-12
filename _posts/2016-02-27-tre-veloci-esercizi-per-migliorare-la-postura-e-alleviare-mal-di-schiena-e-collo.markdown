@@ -20,7 +20,7 @@ Abbiamo già trattato la questione di avere una [buona postura](/2015/11/26/una-
 
 Se sentite dolore a schiena e collo e volete una soluzione veloce per "sciogliere" i dolorosi nervi, magari provati da ore passate con la testa a penzoloni davanti a monitor e smartphone --- ma la soluzione migliore è sempre la prevenzione, prendetevi le vostre pause --- l'utente di YouTube [rekrain](https://www.youtube.com/channel/UCI__rzwfWqQ_rkoDe3X6VgA) propone questi brevissimi esercizi che si possono fare in 3 minuti e che richiedono solo un muro contro il quale appoggiare la schiena.
 
-[embed]https://youtu.be/LT_dFRnmdGs[/embed]
+{% include youtube.html id="https://youtu.be/LT_dFRnmdGs" %}
 
 Gli esercizi sono molto semplici e riguardano l'attivazione della muscolatura e la distensione dei nervi delle vertebre cervicali (parte alta della schiena e del collo).
 
