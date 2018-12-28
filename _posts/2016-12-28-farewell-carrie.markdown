@@ -18,6 +18,6 @@ Carrie Fisher era una leggenda.
 Famosa per essere l'indomita principessa Leila di Guerre Stellari.
 Ma Carrie era [molto](https://youtu.be/x1ROyNyRukQ), [molto](https://en.wikipedia.org/wiki/Rosemary's_Baby_(30_Rock)), [molto](https://en.wikipedia.org/wiki/Wishful_Drinking) più di questo.
 
-{% include youtube.html id="https://youtu.be/lZ97s396kb0" %}
+{% include youtube.html id="lZ97s396kb0" %}
 
 Farewell Carrie.

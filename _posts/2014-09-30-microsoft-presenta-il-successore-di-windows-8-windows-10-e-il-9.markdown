@@ -46,4 +46,4 @@ Microsoft ha dichiarato che lancerà il nuovo sistema operativo nel quarto trime
 
 Intanto potete provare la Technical Preview e vedervi il video di introduzione.
 
-{% include youtube.html id="https://youtu.be/oWIBj8rAM78" %}
+{% include youtube.html id="oWIBj8rAM78" %}
